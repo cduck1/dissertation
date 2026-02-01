@@ -1,0 +1,5 @@
+# Probiogenomic Analysis of Lactobacillus gigeriorum DSM 23908
+
+## Methodology & Tools
+- **Genome:** GCF_001436575.1 (RefSeq)
+- **Safety:** ResFinder-4.7.2
