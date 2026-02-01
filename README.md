@@ -2,4 +2,4 @@
 
 ## Methodology & Tools
 - **Genome:** GCF_001436575.1 (RefSeq)
-- **Safety:** ResFinder-4.7.2
+- **Safety:** ResFinder 4.7.2, CARD 4.0.1
