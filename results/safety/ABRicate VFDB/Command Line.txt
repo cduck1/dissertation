@@ -1,1 +1,0 @@
-ln -sf '/jetstream2/scratch/main/jobs/74323884/inputs/dataset_f6b6fba6-528f-4c6c-a308-5ef7e7ae6978.dat' GCF_001436575.1_ASM143657v1_genomic.fna &&  abricate GCF_001436575.1_ASM143657v1_genomic.fna  --minid=80.0 --mincov=80.0 --db=vfdb > '/jetstream2/scratch/main/jobs/74323884/outputs/dataset_283294ca-7735-4fd5-9c9e-1d8f37ad6e3a.dat'
