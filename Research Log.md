@@ -6,13 +6,13 @@
 [ ] 3. Genome stability  
 [ ] 4. Probiotic potential  
 
-### **Acquire genome**
+## **Acquire genome**
 Action: Downloaded the complete genome assembly of Lactobacillus gigeriorum DSM 23908  
 Source: NCBI RefSeq (ASM143657v1)  
 Format: FASTA (.fna)  
 Justification: RefSeq was chosen over GenBank (GCA) as it provides a curated, standardized version of the assembly, which is essential for high-quality downstream annotation.  
 
-### **Safety**
+## **Safety**
 Objective: To confirm this strain is considered safe - absence of resistance genes, virulence factors, and potential to produce biogenic amines.  
 1. **Detection of acquired antibiotic resistance genes (ARGs) and chromosomal point mutations**  
    Tool: ResFinder 4.7.2 (web)  
@@ -40,4 +40,4 @@ Objective: To confirm this strain is considered safe - absence of resistance gen
    Target Enzymes Source: Biogenic Amine Production by Lactic Acid Bacteria: A Review (doi: 10.3390/foods8010017)  
    Result: Zero hits - identified from exporting the Bakta annotated genome to excel and searching for the target enzymes  
 
-### **Genomic Stability**
+## **Genomic Stability**
