@@ -1,0 +1,1932 @@
+# Annotated with Bakta
+# Software: v1.8.2
+# Database: v5.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	68	1912	-	LDJNFA_00005	bipA	50S ribosomal subunit assembly factor BipA	SO:0001217, UniRef:UniRef50_A0A3A8L7V3
+contig_1	cds	2162	2716	+	LDJNFA_00010		Peptide deformylase	SO:0001217, UniRef:UniRef50_Q88VB2
+contig_1	cds	2872	3093	+	LDJNFA_00015		DNA-directed RNA polymerase subunit epsilon	SO:0001217, UniRef:UniRef50_A0A0F4KTS0
+contig_1	cds	3098	4777	+	LDJNFA_00020		Ribonuclease J1	SO:0001217, UniRef:UniRef50_Q45493
+contig_1	cds	4827	5786	+	LDJNFA_00025		Transcriptional regulator	SO:0001217, UniRef:UniRef50_F2LYZ3
+contig_1	cds	5854	6225	-	LDJNFA_00030		DUF1828 domain-containing protein	SO:0001217, UniRef:UniRef50_D4YS04
+contig_1	cds	6355	6465	+	LDJNFA_00035		hypothetical protein	
+contig_1	cds	6507	8876	-	LDJNFA_00040		ATP-dependent RecD-like DNA helicase	SO:0001217, UniRef:UniRef50_C8PAU3
+contig_1	cds	8869	9507	-	LDJNFA_00045		Tetratricopeptide repeat protein	SO:0001217, UniRef:UniRef50_Q5FKT8
+contig_1	cds	9507	10166	-	LDJNFA_00050		Histidine phosphatase family protein	SO:0001217, UniRef:UniRef50_A0A0D5MJE2
+contig_1	cds	10192	11004	-	LDJNFA_00055		HAD family hydrolase	SO:0001217, UniRef:UniRef50_A0A1M4Z165
+contig_1	cds	11096	12223	-	LDJNFA_00060	mnmA	tRNA-specific 2-thiouridylase MnmA	SO:0001217, UniRef:UniRef50_Q812R6
+contig_1	cds	12228	12569	-	LDJNFA_00065		Cysteine desulfurase	SO:0001217, UniRef:UniRef50_F0TDW6
+contig_1	cds	12618	13733	-	LDJNFA_00070		cysteine desulfurase	SO:0001217, UniRef:UniRef50_G2SPT5
+contig_1	cds	13774	14469	-	LDJNFA_00075		adenosylhomocysteine nucleosidase	SO:0001217, UniRef:UniRef50_A0A0F4LSP7
+contig_1	cds	14488	14790	-	LDJNFA_00080		hypothetical protein	
+contig_1	cds	14793	15350	-	LDJNFA_00085		Hydrolase, NUDIX family	SO:0001217, UniRef:UniRef50_C8PD79
+contig_1	cds	15353	15574	-	LDJNFA_00090		CSD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1S320
+contig_1	cds	15574	18366	-	LDJNFA_00095		Isoleucine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q74JX6
+contig_1	cds	18595	19419	-	LDJNFA_00100		hypothetical protein	
+contig_1	cds	19392	20189	-	LDJNFA_00105		hypothetical protein	PFAM:PF17774.4
+contig_1	cds	20241	20537	-	LDJNFA_00110	yggT	YggT family protein	SO:0001217, UniRef:UniRef50_A0A0R1Y4F0
+contig_1	cds	20537	20971	-	LDJNFA_00115	sepF	Cell division protein SepF	SO:0001217, UniRef:UniRef50_Q04B68
+contig_1	cds	20987	22312	-	LDJNFA_00120	ftsZ	Cell division protein FtsZ	SO:0001217, UniRef:UniRef50_A0A0H2ZNE0
+contig_1	cds	22327	23679	-	LDJNFA_00125	ftsA	Cell division protein FtsA	SO:0001217, UniRef:UniRef50_K0NT67
+contig_1	cds	23743	24603	-	LDJNFA_00130		Cell division protein DivIB	SO:0001217, UniRef:UniRef50_Q1GAT4
+contig_1	cds	24621	25727	-	LDJNFA_00135		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	SO:0001217, UniRef:UniRef50_Q1GAT5
+contig_1	cds	25730	27109	-	LDJNFA_00140		UDP-N-acetylmuramoylalanine--D-glutamate ligase	SO:0001217, UniRef:UniRef50_Q5FKV3
+contig_1	cds	27120	28079	-	LDJNFA_00145		Phospho-N-acetylmuramoyl-pentapeptide-transferase	SO:0001217, UniRef:UniRef50_K1M0Y6
+contig_1	cds	28090	30252	-	LDJNFA_00150	ftsI	Cell division protein FtsI [Peptidoglycan synthetase]	SO:0001217, UniRef:UniRef50_A0A837BU55
+contig_1	cds	30252	30614	-	LDJNFA_00155	ftsL	Cell division protein FtsL	SO:0001217, UniRef:UniRef50_A0A0R1V9R5
+contig_1	cds	30628	31590	-	LDJNFA_00160		Ribosomal RNA small subunit methyltransferase H	SO:0001217, UniRef:UniRef50_P62471
+contig_1	cds	31580	32011	-	LDJNFA_00165	mraZ	Transcriptional regulator MraZ	SO:0001217, UniRef:UniRef50_Q88V75
+contig_1	cds	32160	32492	-	LDJNFA_00170		DUF3397 domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FKV8
+contig_1	cds	32584	32706	+	LDJNFA_00175		hypothetical protein	
+contig_1	cds	32814	33344	-	LDJNFA_00180	mreD	Rod shape-determining protein MreD	SO:0001217, UniRef:UniRef50_A0A0R1VK50
+contig_1	cds	33344	34198	-	LDJNFA_00185	mreC	Cell shape-determining protein MreC	SO:0001217, UniRef:UniRef50_A0A2Z6TSH6
+contig_1	cds	34245	35249	-	LDJNFA_00190	mreB	Cell shape-determining protein MreB	SO:0001217, UniRef:UniRef50_A0A508YKV9
+contig_1	cds	35353	35976	-	LDJNFA_00195		MPN domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1VG41
+contig_1	cds	36032	36703	-	LDJNFA_00200		HAD family phosphatase	SO:0001217, UniRef:UniRef50_D0R4U4
+contig_1	cds	36710	37966	-	LDJNFA_00205		Bifunctional folylpolyglutamate synthase/dihydrofolate synthase	SO:0001217, UniRef:UniRef50_A0A137PR03
+contig_1	cds	37968	40607	-	LDJNFA_00210		Valine--tRNA ligase	SO:0001217, UniRef:UniRef50_P36420
+contig_1	ncRNA-region	40645	40849	-			T-box leader	RFAM:RF00230, SO:0000140
+contig_1	cds	40894	41598	-	LDJNFA_00215		Pseudouridine synthase	SO:0001217, UniRef:UniRef50_D5H2J8
+contig_1	cds	41642	42862	-	LDJNFA_00220		putative tRNA sulfurtransferase	SO:0001217, UniRef:UniRef50_Q03R12
+contig_1	cds	42864	44024	-	LDJNFA_00225		NifS/IcsS -like protein	SO:0001217, UniRef:UniRef50_P31672
+contig_1	cds	44104	45819	-	LDJNFA_00230	ezrA	Septation ring formation regulator EzrA	SO:0001217, UniRef:UniRef50_F0K1I6
+contig_1	cds	46105	46716	+	LDJNFA_00235		30S ribosomal protein S4	SO:0001217, UniRef:UniRef50_Q042M7
+contig_1	cds	46800	47270	+	LDJNFA_00240		DUF1694 domain-containing protein	SO:0001217, UniRef:UniRef50_Q1GAV5
+contig_1	cds	47270	48586	+	LDJNFA_00245	yrvN	Uncharacterized AAA domain-containing protein YrvN	SO:0001217, UniRef:UniRef50_O34528
+contig_1	ncRNA	48679	48769	+	LDJNFA_00250	Lacto-usp	Lacto-usp RNA	RFAM:RF01710, SO:0000655
+contig_1	cds	48895	49176	+	LDJNFA_00255		Cell division protein	SO:0001217, UniRef:UniRef50_K0NUH8
+contig_1	cds	49225	49686	+	LDJNFA_00260		Universal stress protein	SO:0001217, UniRef:UniRef50_A0A1Z5IX50
+contig_1	cds	49759	50952	-	LDJNFA_00265	rodA	Peptidoglycan glycosyltransferase RodA	SO:0001217, UniRef:UniRef50_A0A1D7TT63
+contig_1	cds	50966	51193	-	LDJNFA_00270		DUF2969 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0L0RJE3
+contig_1	cds	51202	51507	-	LDJNFA_00275		Putative membrane protein insertion efficiency factor	SO:0001217, UniRef:UniRef50_Q1GAW1
+contig_1	cds	51507	52496	-	LDJNFA_00280		Cell shape-determining protein Mbl	SO:0001217, UniRef:UniRef50_P39751
+contig_1	cds	52580	52810	-	LDJNFA_00285		hypothetical protein	
+contig_1	cds	52869	53306	-	LDJNFA_00290		ATP synthase epsilon chain	SO:0001217, UniRef:UniRef50_Q9RGY0
+contig_1	cds	53318	54757	-	LDJNFA_00295		ATP synthase subunit beta	SO:0001217, UniRef:UniRef50_Q9JXQ2
+contig_1	cds	54779	55741	-	LDJNFA_00300		ATP synthase gamma chain	SO:0001217, UniRef:UniRef50_Q9RGY2
+contig_1	cds	55752	57263	-	LDJNFA_00305		ATP synthase subunit alpha	SO:0001217, UniRef:UniRef50_A0A0B2K094
+contig_1	cds	57278	57826	-	LDJNFA_00310		ATP synthase subunit delta	SO:0001217, UniRef:UniRef50_Q1GAW8
+contig_1	cds	57826	58332	-	LDJNFA_00315		ATP synthase subunit b	SO:0001217, UniRef:UniRef50_Q9RGY5
+contig_1	cds	58366	58593	-	LDJNFA_00320		ATP synthase subunit c	SO:0001217, UniRef:UniRef50_Q74K20
+contig_1	cds	58611	59324	-	LDJNFA_00325		ATP synthase subunit a	SO:0001217, UniRef:UniRef50_F0TEE5
+contig_1	cds	59445	60074	-	LDJNFA_00330		Uracil phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_P70881
+contig_1	cds	60162	61169	-	LDJNFA_00335		Threonylcarbamoyl-AMP synthase	SO:0001217, UniRef:UniRef50_I7IW88
+contig_1	cds	61173	62015	-	LDJNFA_00340		Release factor glutamine methyltransferase	SO:0001217, UniRef:UniRef50_A0A061C763
+contig_1	cds	62008	63096	-	LDJNFA_00345		Peptide chain release factor 1	SO:0001217, UniRef:UniRef50_R9LWK3
+contig_1	cds	63110	63709	-	LDJNFA_00350		Thymidine kinase	SO:0001217, UniRef:UniRef50_A0A3N5QF13
+contig_1	cds	63852	65204	+	LDJNFA_00355	murT	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT	SO:0001217, UniRef:UniRef50_Q1WUD8
+contig_1	tRNA	65688	65760	-	LDJNFA_00360	trnQ	tRNA-Gln(ctg)	SO:0000261
+contig_1	tRNA	65768	65839	-	LDJNFA_00365	trnE	tRNA-Glu(ctc)	SO:0000259
+contig_1	cds	65924	66946	+	LDJNFA_00370		Beta-lactamase	SO:0001217, UniRef:UniRef50_D5QA53
+contig_1	cds	67014	67208	-	LDJNFA_00375		Holin	SO:0001217, UniRef:UniRef50_I7JYU7
+contig_1	cds	67378	68769	-	LDJNFA_00380		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_Q74K30
+contig_1	ncRNA	68827	68895	-	LDJNFA_00385	emrB-Lactobacillus	emrB-Lactobacillus RNA	RFAM:RF02971, SO:0000655
+contig_1	cds	68904	70241	-	LDJNFA_00390		Glucose-6-phosphate isomerase	SO:0001217, UniRef:UniRef50_P80860
+contig_1	cds	70324	70938	-	LDJNFA_00395	vanZ	VanZ domain-containing protein	SO:0001217, UniRef:UniRef50_D0R4Y4
+contig_1	cds	71080	73248	+	LDJNFA_00400		Glycerol phosphate lipoteichoic acid synthase 1	SO:0001217, UniRef:UniRef50_I7KI50
+contig_1	cds	73293	74738	-	LDJNFA_00405		histidine kinase	SO:0001217, UniRef:UniRef50_K0NZE3
+contig_1	cds	74747	75478	-	LDJNFA_00410		hypothetical protein	PFAM:PF00072.27, PFAM:PF00486.31
+contig_1	cds	75478	75870	-	LDJNFA_00415	sdpI	SdpI family protein	SO:0001217, UniRef:UniRef50_Q74K38
+contig_1	cds	75894	76859	-	LDJNFA_00420		Mannose-6-phosphate isomerase	SO:0001217, UniRef:UniRef50_A0A0D5MJX5
+contig_1	cds	76919	78079	-	LDJNFA_00425		Bifunctional beta-cystathionase/maltose regulon repressor	SO:0001217, UniRef:UniRef50_A0A1W6NBK3
+contig_1	cds	78260	78358	-	LDJNFA_00430		hypothetical protein	
+contig_1	tmRNA	78452	78813	-	LDJNFA_00435	ssrA	transfer-messenger RNA, SsrA	SO:0000584
+contig_1	cds	78866	80053	-	LDJNFA_00440		Acetate kinase	SO:0001217, UniRef:UniRef50_P37877
+contig_1	cds	80091	81092	-	LDJNFA_00445		N6-Mtase domain-containing protein	SO:0001217, UniRef:UniRef50_I7LB00
+contig_1	cds	81281	81784	-	LDJNFA_00450		hypothetical protein	PFAM:PF15980.8
+contig_1	cds	81753	81980	-	LDJNFA_00455		hypothetical protein	
+contig_1	cds	81970	82395	-	LDJNFA_00460		hypothetical protein	
+contig_1	cds	82373	82744	-	LDJNFA_00465		Prepilin-type N-terminal cleavage/methylation domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1XZK3
+contig_1	cds	82765	83769	-	LDJNFA_00470		Type II secretion system protein F	SO:0001217, UniRef:UniRef50_N1ZR72
+contig_1	cds	83735	84712	-	LDJNFA_00475		T2SP-E domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1VFX5
+contig_1	cds	84826	85554	-	LDJNFA_00480		putative transcriptional regulatory protein lmo1535	SO:0001217, UniRef:UniRef50_Q8Y6Z5
+contig_1	cds	85831	86118	-	LDJNFA_00485		hypothetical protein	
+contig_1	cds	86189	86302	-	LDJNFA_00490		hypothetical protein	
+contig_1	cds	86486	88111	+	LDJNFA_00495		AA-permease domain-containing protein	SO:0001217, UniRef:UniRef50_S0KC09
+contig_1	cds	88185	88643	-	LDJNFA_00500		UPF0756 membrane protein LSA1031	SO:0001217, UniRef:UniRef50_Q38WU8
+contig_1	cds	88660	89646	-	LDJNFA_00505		asparaginase	SO:0001217, UniRef:UniRef50_A0A0R1TJG6
+contig_1	cds	89656	90108	-	LDJNFA_00510		protein-tyrosine-phosphatase	SO:0001217, UniRef:UniRef50_A0A0F7H4H9
+contig_1	cds	90122	90499	-	LDJNFA_00515	crcB	Putative fluoride ion transporter CrcB 2	SO:0001217, UniRef:UniRef50_Q5FKD1
+contig_1	cds	90500	90877	-	LDJNFA_00520	crcB	Putative fluoride ion transporter CrcB 1	SO:0001217, UniRef:UniRef50_Q5FKD2
+contig_1	cds	90895	91710	-	LDJNFA_00525		Cof-type HAD-IIB family hydrolase	SO:0001217, UniRef:UniRef50_A0A3Q8SUB9
+contig_1	cds	91819	92601	-	LDJNFA_00530		hypothetical protein	PFAM:PF08125.16
+contig_1	cds	92598	92771	-	LDJNFA_00535		hypothetical protein	
+contig_1	cds	92725	92931	-	LDJNFA_00540		hypothetical protein	
+contig_1	cds	92993	94804	-	LDJNFA_00545		Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	SO:0001217, UniRef:UniRef50_Q03GU9
+contig_1	cds	95022	96374	-	LDJNFA_00550		Phosphoglucosamine mutase	SO:0001217, UniRef:UniRef50_Q74K59
+contig_1	cds	96405	97376	-	LDJNFA_00555		YbbR-like protein	SO:0001217, UniRef:UniRef50_N2A566
+contig_1	cds	97373	98215	-	LDJNFA_00560		Diadenylate cyclase	SO:0001217, UniRef:UniRef50_C8NIP1
+contig_1	cds	98248	99321	-	LDJNFA_00565		Spermidine/putrescine ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_U4TY46
+contig_1	cds	99318	100130	-	LDJNFA_00570		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A224X4H8
+contig_1	cds	100127	100945	-	LDJNFA_00575		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A387BP51
+contig_1	cds	100938	102035	-	LDJNFA_00580	potA	Spermidine/putrescine import ATP-binding protein PotA	SO:0001217, UniRef:UniRef50_A0A2X1Y0F1
+contig_1	cds	102099	102992	-	LDJNFA_00585		UDP-N-acetylenolpyruvoylglucosamine reductase	SO:0001217, UniRef:UniRef50_Q5FL42
+contig_1	cds	103134	103667	+	LDJNFA_00590		DNA-directed DNA polymerase III epsilon subunit	SO:0001217, UniRef:UniRef50_U6F1S9
+contig_1	cds	103725	104201	-	LDJNFA_00595	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	SO:0001217, UniRef:UniRef50_F0TE93
+contig_1	cds	104205	105182	-	LDJNFA_00600		Phosphate acetyltransferase	SO:0001217, UniRef:UniRef50_P39646
+contig_1	cds	105201	105881	-	LDJNFA_00605		Uracil-DNA glycosylase	SO:0001217, UniRef:UniRef50_Q88YG1
+contig_1	cds	105921	106862	+	LDJNFA_00610		HAD family hydrolase	SO:0001217, UniRef:UniRef50_A0A0R1V9H8
+contig_1	cds	106843	107370	+	LDJNFA_00615		Phytase-like domain-containing protein	SO:0001217, UniRef:UniRef50_Q1GB24
+contig_1	cds	107367	107933	-	LDJNFA_00620		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZR94
+contig_1	cds	107926	108393	-	LDJNFA_00625		hypothetical protein	PFAM:PF01035.23
+contig_1	cds	108462	109217	-	LDJNFA_00630		Triosephosphate isomerase	SO:0001217, UniRef:UniRef50_B0S1G9
+contig_1	cds	109237	110448	-	LDJNFA_00635		Phosphoglycerate kinase	SO:0001217, UniRef:UniRef50_Q5FL50
+contig_1	cds	110555	111571	-	LDJNFA_00640		Glyceraldehyde-3-phosphate dehydrogenase 1	SO:0001217, UniRef:UniRef50_Q5HQV4
+contig_1	cds	111612	112658	-	LDJNFA_00645		Sugar-bind domain-containing protein	SO:0001217, UniRef:UniRef50_A0A5N1IAS6
+contig_1	tRNA	112907	112978	+	LDJNFA_00650	trnR	tRNA-Arg(ccg)	SO:0001036
+contig_1	cds	113079	114008	-	LDJNFA_00655		Glycosyltransferase, group 2 family protein	SO:0001217, UniRef:UniRef50_E0NGK2
+contig_1	cds	114005	114412	-	LDJNFA_00660	gtrA	GtrA domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZZH0
+contig_1	cds	114498	115238	-	LDJNFA_00665		hypothetical protein	
+contig_1	cds	115282	115947	-	LDJNFA_00670		hypothetical protein	PFAM:PF07523.15, PFAM:PF13457.9
+contig_1	cds	116160	117590	+	LDJNFA_00675		Amino acid permease	SO:0001217, UniRef:UniRef50_R9LUT2
+contig_1	cds	117680	118456	-	LDJNFA_00680		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A0R1S5G4
+contig_1	cds	118460	119209	-	LDJNFA_00685		ABC superfamily ATP binding cassette transporter, permease protein	SO:0001217, UniRef:UniRef50_A0A0R1S6I3
+contig_1	cds	119220	120167	-	LDJNFA_00690	natA	ATP-binding transport protein natA ABC transporter	SO:0001217, UniRef:UniRef50_A0A0R1S2V2
+contig_1	cds	120515	121126	-	LDJNFA_00695		hypothetical protein	
+contig_1	cds	121102	121332	-	LDJNFA_00700		hypothetical protein	PFAM:PF01381.25, PFAM:PF12844.10, PFAM:PF13560.9
+contig_1	cds	121511	121963	+	LDJNFA_00705		Transcriptional repressor	SO:0001217, UniRef:UniRef50_N2A433
+contig_1	cds	122002	123609	-	LDJNFA_00710		GW domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2Z3HNV3
+contig_1	cds	123781	124365	+	LDJNFA_00715		ATP-dependent Clp protease proteolytic subunit	SO:0001217, UniRef:UniRef50_Q9ZAB0
+contig_1	cds	124491	125432	-	LDJNFA_00720	whiA	putative cell division protein WhiA	SO:0001217, UniRef:UniRef50_Q9K707
+contig_1	cds	125432	126469	-	LDJNFA_00725		Putative gluconeogenesis factor	SO:0001217, UniRef:UniRef50_P0DG78
+contig_1	cds	126479	127354	-	LDJNFA_00730	yvcJ	Nucleotide-binding protein YvcJ	SO:0001217, UniRef:UniRef50_O06973
+contig_1	cds	127459	128001	-	LDJNFA_00735		Integral membrane protein	SO:0001217, UniRef:UniRef50_I7L7N7
+contig_1	cds	128035	130875	-	LDJNFA_00740		UvrABC system protein A	SO:0001217, UniRef:UniRef50_Q99Y84
+contig_1	cds	130865	132913	-	LDJNFA_00745		UvrABC system protein B	SO:0001217, UniRef:UniRef50_B3EFX1
+contig_1	cds	133024	134748	-	LDJNFA_00750		Phosphoglucosamine mutase	SO:0001217, UniRef:UniRef50_A0A837BW14
+contig_1	cds	134899	135831	-	LDJNFA_00755		Thioredoxin reductase	SO:0001217, UniRef:UniRef50_A0A1Q2T3A9
+contig_1	cds	135904	136923	-	LDJNFA_00760		Glycerol-3-phosphate dehydrogenase [NAD(P)+]	SO:0001217, UniRef:UniRef50_Q5FL70
+contig_1	cds	136960	137799	-	LDJNFA_00765		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase	SO:0001217, UniRef:UniRef50_Q88YK2
+contig_1	cds	137808	138764	-	LDJNFA_00770		HPr kinase/phosphorylase	SO:0001217, UniRef:UniRef50_Q93FD2
+contig_1	cds	138776	139042	-	LDJNFA_00775		hypothetical protein	
+contig_1	cds	139051	140049	-	LDJNFA_00780		Peptide chain release factor 2	SO:0001217, UniRef:UniRef50_Q04GC3
+contig_1	cds	140224	142623	-	LDJNFA_00785	secA	Protein translocase subunit SecA	SO:0001217, UniRef:UniRef50_Q49VV2
+contig_1	cds	142759	143304	-	LDJNFA_00790		Ribosome hibernation promoting factor	SO:0001217, UniRef:UniRef50_F5L4M7
+contig_1	cds	143385	144089	-	LDJNFA_00795	comF	ComF family protein	SO:0001217, UniRef:UniRef50_A0A249NIE6
+contig_1	cds	144086	145369	-	LDJNFA_00800	comF	ComF operon protein 1	SO:0001217, UniRef:UniRef50_A0A0D5MJN8
+contig_1	cds	145415	146077	+	LDJNFA_00805	yigZ	YigZ family protein	SO:0001217, UniRef:UniRef50_F4AG90
+contig_1	cds	146092	147273	-	LDJNFA_00810		Putative undecaprenyl-phosphate N-acetyl-glucosaminyl transferase	SO:0001217, UniRef:UniRef50_K0NDB3
+contig_1	cds	147388	149019	-	LDJNFA_00815		Ribonuclease Y 1	SO:0001217, UniRef:UniRef50_Q03R31
+contig_1	cds	149145	150239	-	LDJNFA_00820	recA	Protein RecA	SO:0001217, UniRef:UniRef50_Q59717
+contig_1	cds	150440	151003	-	LDJNFA_00825		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	SO:0001217, UniRef:UniRef50_H5T1J2
+contig_1	cds	151030	152034	-	LDJNFA_00830		hypothetical protein	PFAM:PF12844.10, PFAM:PF13413.9, PFAM:PF13464.9
+contig_1	cds	152099	152827	-	LDJNFA_00835		3-oxoacyl-ACP reductase	SO:0001217, UniRef:UniRef50_A0A1B2IT83
+contig_1	cds	152827	154071	-	LDJNFA_00840		Peptidase, M16 family	SO:0001217, UniRef:UniRef50_C2EM00
+contig_1	cds	154068	155288	-	LDJNFA_00845		Peptidase M16 inactive domain protein	SO:0001217, UniRef:UniRef50_C2ELZ9
+contig_1	cds	155272	157698	-	LDJNFA_00850	ftsK	DNA translocase FtsK	SO:0001217, UniRef:UniRef50_A0A2Z6TEA1
+contig_1	cds	157717	158109	-	LDJNFA_00855		DUF1149 domain-containing protein	SO:0001217, UniRef:UniRef50_N2A3M9
+contig_1	cds	158112	158669	-	LDJNFA_00860		Putative RNA (cytidine(34)-2'-O)-methyltransferase	SO:0001217, UniRef:UniRef50_Q042B4
+contig_1	cds	158727	159920	-	LDJNFA_00865		Permease	SO:0001217, UniRef:UniRef50_D4YVD6
+contig_1	cds	159931	160308	-	LDJNFA_00870		PTS family porter, IIA component	SO:0001217, UniRef:UniRef50_F0HXL5
+contig_1	cds	160434	161468	+	LDJNFA_00875		6-phosphogluconolactonase	SO:0001217, UniRef:UniRef50_A0A0D5MJQ1
+contig_1	cds	161564	162208	+	LDJNFA_00880		hypothetical protein	
+contig_1	cds	162270	164045	-	LDJNFA_00885		Oleate hydratase	SO:0001217, UniRef:UniRef50_B5XK69
+contig_1	cds	164140	165033	-	LDJNFA_00890		Pseudouridine synthase	SO:0001217, UniRef:UniRef50_A0A0F4LIW3
+contig_1	cds	165037	165825	-	LDJNFA_00895		NAD kinase	SO:0001217, UniRef:UniRef50_Q5FL98
+contig_1	cds	165822	166454	-	LDJNFA_00900		GTP pyrophosphokinase	SO:0001217, UniRef:UniRef50_A0A0C1M6B6
+contig_1	cds	166555	167172	+	LDJNFA_00905		Adenylate cyclase	SO:0001217, UniRef:UniRef50_D4YVE6
+contig_1	cds	167244	167882	+	LDJNFA_00910		Dithiol-disulfide isomerase	SO:0001217, UniRef:UniRef50_N1ZSU8
+contig_1	cds	167885	168745	-	LDJNFA_00915		Competence protein CoiA-like protein	SO:0001217, UniRef:UniRef50_D4YVE8
+contig_1	cds	168814	169485	-	LDJNFA_00920		hypothetical protein	
+contig_1	cds	169673	170071	-	LDJNFA_00925		Global transcriptional regulator Spx 2	SO:0001217, UniRef:UniRef50_Q8ERE2
+contig_1	cds	170292	172025	-	LDJNFA_00930		Phosphoenolpyruvate-protein phosphotransferase	SO:0001217, UniRef:UniRef50_A0A1A5VEJ0
+contig_1	cds	172025	172291	-	LDJNFA_00935		Phosphocarrier protein HPr	SO:0001217, UniRef:UniRef50_P24366
+contig_1	cds	172417	172599	-	LDJNFA_00940		hypothetical protein	
+contig_1	cds	172761	174983	+	LDJNFA_00945	clpA	ATP-dependent Clp protease ATP-binding subunit ClpA	SO:0001217, UniRef:UniRef50_A0A0D1A4U2
+contig_1	cds	175135	175416	+	LDJNFA_00950		DUF1827 domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FLA8
+contig_1	cds	175469	177040	-	LDJNFA_00955		Peptide chain release factor 3	SO:0001217, UniRef:UniRef50_Q8Y8C0
+contig_1	cds	177033	177905	-	LDJNFA_00960		HlyC/CorC family transporter	SO:0001217, UniRef:UniRef50_Q1GB79
+contig_1	cds	178010	178471	+	LDJNFA_00965		Integral membrane protein	SO:0001217, UniRef:UniRef50_Q74IG6
+contig_1	cds	178468	178947	-	LDJNFA_00970		GyrI-like domain-containing protein	SO:0001217, UniRef:UniRef50_I7LEQ2
+contig_1	cds	178956	179771	-	LDJNFA_00975	recX	Regulatory protein RecX	SO:0001217, UniRef:UniRef50_Q1GB82
+contig_1	cds	179889	181268	+	LDJNFA_00980		Uncharacterized RNA methyltransferase LJ_1606	SO:0001217, UniRef:UniRef50_Q74IG2
+contig_1	cds	181636	182589	-	LDJNFA_00985		Peptidase-S9 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1R7S4
+contig_1	cds	182654	182938	+	LDJNFA_00990		hypothetical protein	
+contig_1	cds	182939	184102	-	LDJNFA_00995		Hydroxymethylglutaryl-CoA synthase	SO:0001217, UniRef:UniRef50_A0A3S8SBD2
+contig_1	cds	184086	185306	-	LDJNFA_01000		3-hydroxy-3-methylglutaryl coenzyme A reductase	SO:0001217, UniRef:UniRef50_F0HYE3
+contig_1	cds	185309	186469	-	LDJNFA_01005		Acetyl-CoA C-acetyltransferase	SO:0001217, UniRef:UniRef50_C2ELW5
+contig_1	cds	186594	187508	-	LDJNFA_01010	brkB	YihY/virulence factor BrkB family protein	SO:0001217, UniRef:UniRef50_A0A0D6A5A0
+contig_1	cds	187520	188347	-	LDJNFA_01015		Methionine aminopeptidase	SO:0001217, UniRef:UniRef50_Q38VG1
+contig_1	cds	188500	188949	+	LDJNFA_01020		Flavodoxin	SO:0001217, UniRef:UniRef50_A0A0R1S4I5
+contig_1	cds	188942	189457	+	LDJNFA_01025	gtrA	GtrA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1SFC8
+contig_1	cds	189938	190282	+	LDJNFA_01030		Lipoprotein	SO:0001217, UniRef:UniRef50_U4TX51
+contig_1	tRNA	190411	190484	-	LDJNFA_01035	trnR	tRNA-Arg(cct)	SO:0001036
+contig_1	cds	190532	191860	-	LDJNFA_01040		Permease IIC component	SO:0001217, UniRef:UniRef50_Q5FLC7
+contig_1	cds	191857	193110	-	LDJNFA_01045		DEAD/DEAH box helicase	SO:0001217, UniRef:UniRef50_A0A0R2D4Y9
+contig_1	cds	193110	193817	-	LDJNFA_01050		Lysozyme	SO:0001217, UniRef:UniRef50_A8YU65
+contig_1	cds	193925	195232	+	LDJNFA_01055		Amino acid permease	SO:0001217, UniRef:UniRef50_A0A0R1YFG9
+contig_1	cds	195261	195737	-	LDJNFA_01060		Transcriptional regulator	SO:0001217, UniRef:UniRef50_I7LDI3
+contig_1	cds	195827	196186	+	LDJNFA_01065		hypothetical protein	
+contig_1	cds	196460	197986	-	LDJNFA_01070		hypothetical protein	
+contig_1	cds	198080	199000	-	LDJNFA_01075	eamA	EamA family transporter	SO:0001217, UniRef:UniRef50_A0A4R5N0E1
+contig_1	cds	199025	199627	-	LDJNFA_01080	yihX	Alpha-D-glucose 1-phosphate phosphatase YihX	SO:0001217, UniRef:UniRef50_A0A1B3PSJ5
+contig_1	cds	199738	200880	-	LDJNFA_01085		UDP-N-Acetylglucosamine 2-epimerase	SO:0001217, UniRef:UniRef50_A0A805Z7M9
+contig_1	cds	200967	201158	+	LDJNFA_01090		Histidine kinase	SO:0001217, UniRef:UniRef50_A0A0D6A5A5
+contig_1	cds	201175	201333	-	LDJNFA_01095		hypothetical protein	
+contig_1	cds	201453	202292	+	LDJNFA_01100		Small-conductance mechanosensitive channel	SO:0001217, UniRef:UniRef50_A0A0R1VHD4
+contig_1	cds	202362	205478	-	LDJNFA_01105		Type I restriction enzyme endonuclease subunit	SO:0001217, UniRef:UniRef50_C2EVG4
+contig_2	cds	55	1209	-	LDJNFA_01110	dnaJ	Chaperone protein DnaJ	SO:0001217, UniRef:UniRef50_Q5XAD7
+contig_2	cds	1292	3130	-	LDJNFA_01115	dnaK	Chaperone protein DnaK	SO:0001217, UniRef:UniRef50_A9KKU0
+contig_2	cds	3147	3746	-	LDJNFA_01120		hypothetical protein	
+contig_2	cds	3762	4811	-	LDJNFA_01125	hrcA	Heat-inducible transcription repressor HrcA	SO:0001217, UniRef:UniRef50_Q84BU6
+contig_2	cds	4900	6426	-	LDJNFA_01130	abc-f	ABC-F type ribosomal protection protein	NCBIFam:NF000355.3, SO:0001217, UniRef:UniRef50_D0R3J4
+contig_2	cds	6637	7584	-	LDJNFA_01135		Riboflavin biosynthesis protein	SO:0001217, UniRef:UniRef50_A0A437SXC1
+contig_2	cds	7604	8497	-	LDJNFA_01140		tRNA pseudouridine synthase B	SO:0001217, UniRef:UniRef50_Q5FJN8
+contig_2	cds	8540	8902	-	LDJNFA_01145		Ribosome-binding factor A	SO:0001217, UniRef:UniRef50_Q5FJN7
+contig_2	cds	8922	11579	-	LDJNFA_01150		hypothetical protein	PFAM:PF00009.30, PFAM:PF00025.24, PFAM:PF00071.25, PFAM:PF04760.18, PFAM:PF11987.11
+contig_2	gap	10397	10397	.				
+contig_2	cds	11580	11906	-	LDJNFA_01155		Ribosomal-L7Ae domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1UI34
+contig_2	cds	11896	12192	-	LDJNFA_01160	ylxR	YlxR domain-containing protein	SO:0001217, UniRef:UniRef50_F2I504
+contig_2	cds	12207	13403	-	LDJNFA_01165	nusA	Transcription termination/antitermination protein NusA	SO:0001217, UniRef:UniRef50_G2SNX2
+contig_2	cds	13422	13901	-	LDJNFA_01170	rimP	Ribosome maturation factor RimP	SO:0001217, UniRef:UniRef50_A0A0F4LBY9
+contig_2	cds	14012	18325	-	LDJNFA_01175		DNA polymerase III PolC-type	SO:0001217, UniRef:UniRef50_Q88VK2
+contig_2	cds	18331	20028	-	LDJNFA_01180		Proline--tRNA ligase	SO:0001217, UniRef:UniRef50_Q5FJN0
+contig_2	cds	20050	21303	-	LDJNFA_01185		Zinc metalloprotease	SO:0001217, UniRef:UniRef50_A0A0D5MID9
+contig_2	cds	21312	22109	-	LDJNFA_01190		Phosphatidate cytidylyltransferase	SO:0001217, UniRef:UniRef50_A0A0D1LPA2
+contig_2	cds	22122	22856	-	LDJNFA_01195		Isoprenyl transferase	SO:0001217, UniRef:UniRef50_Q9KA67
+contig_2	cds	22856	23416	-	LDJNFA_01200		Ribosome-recycling factor	SO:0001217, UniRef:UniRef50_Q38W67
+contig_2	cds	23409	24143	-	LDJNFA_01205		Uridylate kinase	SO:0001217, UniRef:UniRef50_Q831V1
+contig_2	cds	24272	25147	-	LDJNFA_01210		Elongation factor Ts	SO:0001217, UniRef:UniRef50_P80700
+contig_2	cds	25177	25956	-	LDJNFA_01215		30S ribosomal protein S2	SO:0001217, UniRef:UniRef50_Q8RIH7
+contig_2	cds	26098	27132	-	LDJNFA_01220		GIY-YIG domain-containing protein	SO:0001217, UniRef:UniRef50_Q1G9N5
+contig_2	cds	27193	27807	+	LDJNFA_01225	plsC	PlsC	SO:0001217, UniRef:UniRef50_U4TSM2
+contig_2	cds	27847	29790	-	LDJNFA_01230		Neutral endopeptidase	SO:0001217, UniRef:UniRef50_O52071
+contig_2	cds	29802	31598	-	LDJNFA_01235		ABC transporter, ATP-binding protein	SO:0001217, UniRef:UniRef50_E6LFB2
+contig_2	cds	31598	33352	-	LDJNFA_01240		ABC transporter, ATP-binding and permease protein	SO:0001217, UniRef:UniRef50_A0A1J3C1S8
+contig_2	cds	33438	33659	-	LDJNFA_01245		UPF0154 protein SAMN05877842_10454	SO:0001217, UniRef:UniRef50_A0A285UD20
+contig_2	cds	33729	33977	-	LDJNFA_01250		UPF0291 protein LBA1279	SO:0001217, UniRef:UniRef50_Q5FJL5
+contig_2	cds	34062	34847	-	LDJNFA_01255		SGNH-hydro domain-containing protein	SO:0001217, UniRef:UniRef50_N2A7G6
+contig_2	cds	34852	35715	-	LDJNFA_01260		2-hydroxy-3-oxopropionate reductase	SO:0001217, UniRef:UniRef50_A0A0P8YYL2
+contig_2	cds	35855	36202	-	LDJNFA_01265		50S ribosomal protein L19	SO:0001217, UniRef:UniRef50_Q88WJ1
+contig_2	cds	36305	37714	-	LDJNFA_01270		hypothetical protein	PFAM:PF03703.17, PFAM:PF06713.14
+contig_2	cds	37707	38210	-	LDJNFA_01275		hypothetical protein	PFAM:PF03703.17
+contig_2	cds	38188	38916	-	LDJNFA_01280		tRNA (guanine-N(1)-)-methyltransferase	SO:0001217, UniRef:UniRef50_Q9CFB7
+contig_2	cds	38906	39421	-	LDJNFA_01285	rimM	Ribosome maturation factor RimM	SO:0001217, UniRef:UniRef50_Q5FJK6
+contig_2	cds	39494	39766	-	LDJNFA_01290		30S ribosomal protein S16	SO:0001217, UniRef:UniRef50_A2RJS1
+contig_2	cds	39854	41284	-	LDJNFA_01295		Signal recognition particle protein	SO:0001217, UniRef:UniRef50_A0A7L5ZZ53
+contig_2	cds	41286	41627	-	LDJNFA_01300		UPF0122 protein FC94_GL000021	SO:0001217, UniRef:UniRef50_A0A0R1PHD8
+contig_2	cds	41756	43168	+	LDJNFA_01305	bcaP	Branched-chain amino acid permease BcaP	SO:0001217, UniRef:UniRef50_A2RHI9
+contig_2	cds	43229	44653	-	LDJNFA_01310		putative dipeptidase	SO:0001217, UniRef:UniRef50_Q48841
+contig_2	cds	44689	45960	-	LDJNFA_01315		hypothetical protein	PFAM:PF00448.25, PFAM:PF02881.22, PFAM:PF06414.15, PFAM:PF13604.9
+contig_2	cds	45961	49524	-	LDJNFA_01320		Chromosome partition protein Smc	SO:0001217, UniRef:UniRef50_K0NRX4
+contig_2	cds	49537	50220	-	LDJNFA_01325		Ribonuclease 3	SO:0001217, UniRef:UniRef50_Q5FJJ7
+contig_2	cds	50314	51597	-	LDJNFA_01330		Oligopeptide ABC superfamily ATP binding cassette transporter, binding protein	SO:0001217, UniRef:UniRef50_A0A0R2KDZ3
+contig_13	cds	45	581	+	LDJNFA_01335		hypothetical protein	
+contig_13	cds	599	970	+	LDJNFA_01340		Phage gp6-like head-tail connector protein	SO:0001217, UniRef:UniRef50_A0A0R1UFK6
+contig_13	cds	967	1329	+	LDJNFA_01345		Head-tail joining protein	SO:0001217, UniRef:UniRef50_X2CXE4
+contig_13	cds	1326	1727	+	LDJNFA_01350		hypothetical protein	
+contig_13	cds	1724	2008	+	LDJNFA_01355		hypothetical protein	
+contig_13	cds	2113	2301	+	LDJNFA_01360		Phage protein	SO:0001217, UniRef:UniRef50_U6FBT8
+contig_13	cds	2305	3765	+	LDJNFA_01365		Phage tail protein	SO:0001217, UniRef:UniRef50_N2A2H7
+contig_13	cds	3777	4247	+	LDJNFA_01370		Phage tail protein	SO:0001217, UniRef:UniRef50_N2AAR6
+contig_13	cds	4258	4683	+	LDJNFA_01375		Phage portal protein	SO:0001217, UniRef:UniRef50_I7JV03
+contig_13	cds	4948	8091	+	LDJNFA_01380		hypothetical protein	
+contig_13	cds	8104	8796	+	LDJNFA_01385		G5 domain-containing protein	SO:0001217, UniRef:UniRef50_N2AGM9
+contig_13	cds	8793	9860	+	LDJNFA_01390		hypothetical protein	
+contig_13	cds	9833	10234	+	LDJNFA_01395		DUF2577 domain-containing protein	SO:0001217, UniRef:UniRef50_X2CXE6
+contig_13	cds	10176	10673	+	LDJNFA_01400		hypothetical protein	
+contig_13	cds	10663	11808	+	LDJNFA_01405		Baseplate-J domain-containing protein	SO:0001217, UniRef:UniRef50_N2AA87
+contig_13	cds	11801	12451	+	LDJNFA_01410		DUF2313 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1U941
+contig_13	cds	12459	13907	+	LDJNFA_01415		hypothetical protein	
+contig_13	cds	13925	14041	+	LDJNFA_01420		hypothetical protein	
+contig_13	cds	13995	14267	+	LDJNFA_01425		hypothetical protein	
+contig_13	cds	14332	14565	+	LDJNFA_01430		hypothetical protein	
+contig_13	cds	14670	15035	+	LDJNFA_01435		hypothetical protein	
+contig_13	cds	15035	15184	+	LDJNFA_01440		hypothetical protein	
+contig_13	cds	15185	15520	+	LDJNFA_01445		hypothetical protein	
+contig_13	cds	15523	15903	+	LDJNFA_01450		hypothetical protein	
+contig_13	cds	15863	17002	+	LDJNFA_01455		lysozyme	SO:0001217, UniRef:UniRef50_A9UJV4
+contig_13	tRNA	17136	17219	-	LDJNFA_01460	trnL	tRNA-Leu(cag)	SO:0000264
+contig_13	cds	17304	18593	+	LDJNFA_01465		serine-type D-Ala-D-Ala carboxypeptidase	SO:0001217, UniRef:UniRef50_Q1G976
+contig_13	cds	18593	19435	+	LDJNFA_01470		ADP-dependent (S)-NAD(P)H-hydrate dehydratase	SO:0001217, UniRef:UniRef50_F0TGI7
+contig_13	cds	19444	20103	+	LDJNFA_01475	ykuD	YkuD domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZM95
+contig_13	cds	20360	22042	+	LDJNFA_01480		Arginine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q54869
+contig_13	cds	22147	23064	+	LDJNFA_01485		Fructose-bisphosphate aldolase	SO:0001217, UniRef:UniRef50_Q5XA12
+contig_13	cds	23109	23981	-	LDJNFA_01490		Pseudouridine synthase	SO:0001217, UniRef:UniRef50_A0A4Y9IDV2
+contig_13	cds	24077	26140	+	LDJNFA_01495		Penicillin-binding protein 2A	SO:0001217, UniRef:UniRef50_F0HUA6
+contig_13	cds	26158	26508	+	LDJNFA_01500		UPF0342 protein LBA1592	SO:0001217, UniRef:UniRef50_Q5FIR6
+contig_13	cds	26514	27749	+	LDJNFA_01505		DNA repair exonuclease	SO:0001217, UniRef:UniRef50_F0HUA4
+contig_13	cds	27730	30189	+	LDJNFA_01510		hypothetical protein	PFAM:PF13476.9, PFAM:PF13514.9, PFAM:PF13555.9
+contig_13	cds	30182	31135	+	LDJNFA_01515		CMP-binding-factor 1	SO:0001217, UniRef:UniRef50_F0HUA2
+contig_13	cds	31204	32106	-	LDJNFA_01520	prsA	Foldase protein PrsA 1	SO:0001217, UniRef:UniRef50_P60750
+contig_13	cds	32217	32546	-	LDJNFA_01525		hypothetical protein	
+contig_13	cds	32556	32987	-	LDJNFA_01530		Diadenosine tetraphosphate (Ap4a) hydrolase related hit family hydrolase	SO:0001217, UniRef:UniRef50_F0HU94
+contig_13	cds	33147	33896	+	LDJNFA_01535		ABC multidrug transporter ATPase	SO:0001217, UniRef:UniRef50_F0HU93
+contig_13	cds	33889	35061	+	LDJNFA_01540		ABC transporter permease	SO:0001217, UniRef:UniRef50_N1ZSF2
+contig_13	cds	35077	35742	+	LDJNFA_01545		tRNA (guanine-N(7)-)-methyltransferase	SO:0001217, UniRef:UniRef50_Q88WZ9
+contig_13	cds	35803	36123	+	LDJNFA_01550		Thioredoxin domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1U7U9
+contig_13	cds	36143	36790	+	LDJNFA_01555		tRNA binding domain protein	SO:0001217, UniRef:UniRef50_D4YSJ9
+contig_13	cds	36881	38188	+	LDJNFA_01560		UDP-N-acetylmuramate--L-alanine ligase	SO:0001217, UniRef:UniRef50_P40778
+contig_13	cds	38298	40955	+	LDJNFA_01565		DNA polymerase I	SO:0001217, UniRef:UniRef50_Q04957
+contig_13	cds	40964	41788	+	LDJNFA_01570		Formamidopyrimidine-DNA glycosylase	SO:0001217, UniRef:UniRef50_Q1WUN7
+contig_13	cds	41791	42393	+	LDJNFA_01575		Dephospho-CoA kinase	SO:0001217, UniRef:UniRef50_Q5FIV9
+contig_13	cds	42397	42867	+	LDJNFA_01580	nrdR	Transcriptional repressor NrdR	SO:0001217, UniRef:UniRef50_A0A2N6UD58
+contig_13	cds	42867	44207	+	LDJNFA_01585		DnaB-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7V8KTP6
+contig_13	cds	44218	45120	+	LDJNFA_01590	dnaI	Primosomal protein DnaI	SO:0001217, UniRef:UniRef50_A0A0D5MKH6
+contig_15	cds	108	296	-	LDJNFA_01595		hypothetical protein	
+contig_20	cds	13	231	+	LDJNFA_01600		DDE-Tnp-IS66-C domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1I6L5
+contig_21	cds	91	585	-	LDJNFA_01605		LAGLIDADG-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YIM3
+contig_21	cds	685	1446	-	LDJNFA_01610	fetB	Iron export ABC transporter permease subunit FetB	SO:0001217, UniRef:UniRef50_A0A0P0EHT3
+contig_21	cds	1443	2081	-	LDJNFA_01615	fetA	Putative iron export ATP-binding protein FetA	SO:0001217, UniRef:UniRef50_A0A345VMN0
+contig_21	cds	2167	3075	-	LDJNFA_01620		Beta-glucoside kinase	SO:0001217, UniRef:UniRef50_A0A3S8SDW0
+contig_21	cds	3209	3508	-	LDJNFA_01625		hypothetical protein	
+contig_21	cds	3524	3712	-	LDJNFA_01630		hypothetical protein	
+contig_21	cds	3817	4308	-	LDJNFA_01635		hypothetical protein	
+contig_21	cds	4410	7316	-	LDJNFA_01640		Nucleolar RNA helicase 2-A	SO:0001217, UniRef:UniRef50_A0A1Y0VKV0
+contig_21	cds	7478	8812	-	LDJNFA_01645		Permease IIC component	SO:0001217, UniRef:UniRef50_W6TA46
+contig_21	cds	9000	9728	+	LDJNFA_01650		MurR/RpiR family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A0R1H8D7
+contig_21	cds	9860	11296	+	LDJNFA_01655		6-phospho-beta-glucosidase	SO:0001217, UniRef:UniRef50_A0A0G9F6R4
+contig_21	cds	11352	11804	-	LDJNFA_01660		ASCH domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FJH1
+contig_21	cds	11992	12792	-	LDJNFA_01665		hypothetical protein	
+contig_21	cds	13012	13260	-	LDJNFA_01670		hypothetical protein	
+contig_21	cds	13344	14381	-	LDJNFA_01675		Alcohol dehydrogenase	SO:0001217, UniRef:UniRef50_A0A380L164
+contig_21	cds	14474	15139	-	LDJNFA_01680		DNA alkylation repair protein	SO:0001217, UniRef:UniRef50_Q74J40
+contig_21	cds	15140	16363	-	LDJNFA_01685		Aminotransferase	SO:0001217, UniRef:UniRef50_Q1GAN3
+contig_21	cds	16475	17374	+	LDJNFA_01690	lysR	LysR substrate binding domain protein	SO:0001217, UniRef:UniRef50_I7LAK3
+contig_21	cds	17371	19149	-	LDJNFA_01695		DNA helicase	SO:0001217, UniRef:UniRef50_Q5FKC4
+contig_21	cds	19392	20492	-	LDJNFA_01700		UDP-galactopyranose mutase	SO:0001217, UniRef:UniRef50_A0A0G9G9U3
+contig_21	cds	20759	21715	-	LDJNFA_01705		hypothetical protein	
+contig_21	cds	21842	22798	+	LDJNFA_01710		2-hydroxyacid dehydrogenase SH0752	SO:0001217, UniRef:UniRef50_K6SDL3
+contig_21	cds	22870	28059	-	LDJNFA_01715		PIII-type proteinase	SO:0001217, UniRef:UniRef50_A0A3S8SEC4
+contig_21	cds	28492	28848	-	LDJNFA_01720		hypothetical protein	
+contig_21	cds	28938	29393	-	LDJNFA_01725		hypothetical protein	PFAM:PF12784.10
+contig_21	cds	29566	31662	-	LDJNFA_01730		hypothetical protein	
+contig_21	cds	31795	32652	-	LDJNFA_01735		hypothetical protein	
+contig_21	cds	32851	34695	+	LDJNFA_01740		Urocanate reductase	SO:0001217, UniRef:UniRef50_B2GCE0
+contig_21	cds	34716	35186	+	LDJNFA_01745		ECF transporter S component	SO:0001217, UniRef:UniRef50_K0NUM0
+contig_21	cds	35550	35663	-	LDJNFA_01750		hypothetical protein	
+contig_21	cds	35782	37257	-	LDJNFA_01755	yjeM	Glutamate/gamma-aminobutyrate family transporter YjeM	SO:0001217, UniRef:UniRef50_A0A7L8CEV3
+contig_21	cds	37376	38785	-	LDJNFA_01760		ATP-binding protein	SO:0001217, UniRef:UniRef50_C2ELJ5
+contig_21	cds	38916	39692	-	LDJNFA_01765		hypothetical protein	
+contig_21	cds	39779	39883	-	LDJNFA_01770		hypothetical protein	
+contig_21	cds	39885	40757	-	LDJNFA_01775		Beta-glucoside kinase	SO:0001217, UniRef:UniRef50_A0A2K7QYP7
+contig_21	cds	40757	41860	-	LDJNFA_01780	malK	Maltose/maltodextrin transport ATP-binding protein MalK Multiple sugar ABC transporter,ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A239YLU2
+contig_21	cds	41974	42813	-	LDJNFA_01785		hypothetical protein	PFAM:PF02954.22, PFAM:PF13556.9
+contig_22	cds	432	1685	+	LDJNFA_01790		Conserved protein	SO:0001217, UniRef:UniRef50_A0A386RGU4
+contig_22	cds	1717	2286	-	LDJNFA_01795		hypothetical protein	PFAM:PF13643.9
+contig_22	cds	2409	3155	+	LDJNFA_01800		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A0F4LL63
+contig_22	cds	3174	4967	+	LDJNFA_01805	ftsX	FtsX domain-containing protein	SO:0001217, UniRef:UniRef50_Q74HS4
+contig_22	cds	5015	5665	-	LDJNFA_01810		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	SO:0001217, UniRef:UniRef50_A0A0D5ML48
+contig_22	cds	5738	6412	-	LDJNFA_01815		ZnMc domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YEA9
+contig_22	cds	6532	8856	+	LDJNFA_01820		DNA helicase	SO:0001217, UniRef:UniRef50_A0A0R1IXH2
+contig_22	ncRNA-region	8896	9125	+			T-box leader	RFAM:RF00230, SO:0000140
+contig_22	cds	9280	9921	+	LDJNFA_01825		Amino acid (Glutamine) ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A116L3W0
+contig_22	cds	9928	10557	+	LDJNFA_01830		ATP-binding cassette domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D5MJM1
+contig_22	cds	10544	11350	+	LDJNFA_01835		Amino acid ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A0D5ML43
+contig_22	cds	11353	11793	+	LDJNFA_01840		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_N2AA94
+contig_22	cds	11788	12351	-	LDJNFA_01845		hypothetical protein	PFAM:PF13472.9
+contig_22	cds	12407	13321	+	LDJNFA_01850		Pantothenate kinase	SO:0001217, UniRef:UniRef50_A0A0D6A5R7
+contig_22	cds	13442	14008	+	LDJNFA_01855		Elongation factor P	SO:0001217, UniRef:UniRef50_Q9CHN6
+contig_22	cds	14061	14969	-	LDJNFA_01860		Proline iminopeptidase	SO:0001217, UniRef:UniRef50_Q8KWL9
+contig_22	cds	15204	15962	+	LDJNFA_01865		Oxidoreductase	SO:0001217, UniRef:UniRef50_Q5FIK6
+contig_22	cds	16071	17303	+	LDJNFA_01870		Serine hydroxymethyltransferase	SO:0001217, UniRef:UniRef50_Q88UT5
+contig_22	cds	17388	18656	+	LDJNFA_01875		Peptidase T	SO:0001217, UniRef:UniRef50_R2QPG7
+contig_22	cds	18658	19107	+	LDJNFA_01880		DUF3290 domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FIL1
+contig_22	cds	19104	19772	+	LDJNFA_01885		DUF421 domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FIL2
+contig_22	cds	19759	20562	+	LDJNFA_01890		hypothetical protein	
+contig_22	cds	20559	21509	+	LDJNFA_01895		DNA polymerase III PolC-type	SO:0001217, UniRef:UniRef50_A0A3S8SC28
+contig_22	cds	21524	22378	+	LDJNFA_01900		hypothetical protein	PFAM:PF01223.26, PFAM:PF13930.9
+contig_22	cds	22628	23713	+	LDJNFA_01905		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A0D5MJJ9
+contig_22	cds	23713	24579	+	LDJNFA_01910		ABC transporter permease	SO:0001217, UniRef:UniRef50_V5XQX2
+contig_22	cds	24581	25405	+	LDJNFA_01915		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_V9HFL9
+contig_22	cds	25389	26699	+	LDJNFA_01920		Lactamase-B domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FIM0
+contig_22	cds	26748	28055	+	LDJNFA_01925		ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_S0KJF8
+contig_22	cds	28173	29090	+	LDJNFA_01930	corA	Magnesium transporter CorA family protein	SO:0001217, UniRef:UniRef50_V6DJ99
+contig_22	cds	29106	30032	+	LDJNFA_01935		hypothetical protein	PFAM:PF13354.9
+contig_22	cds	30146	30700	+	LDJNFA_01940		Transcriptional regulator	SO:0001217, UniRef:UniRef50_D5GZA3
+contig_22	cds	30725	34234	+	LDJNFA_01945		MMPL family transporter	SO:0001217, UniRef:UniRef50_A0A8H9L0R1
+contig_22	cds	34352	35404	+	LDJNFA_01950		hypothetical protein	
+contig_22	cds	35465	36847	-	LDJNFA_01955		NAD-dependent succinate-semialdehyde dehydrogenase	SO:0001217, UniRef:UniRef50_A0A2V4ET25
+contig_22	cds	36983	37483	+	LDJNFA_01960		Nucleoside 2-deoxyribosyltransferase	SO:0001217, UniRef:UniRef50_Q8RLY5
+contig_22	cds	37523	38317	-	LDJNFA_01965	nlhH	Carboxylesterase NlhH	SO:0001217, UniRef:UniRef50_A0A7U9RMS8
+contig_22	cds	38482	39087	+	LDJNFA_01970		TVP38/TMEM64 family membrane protein	SO:0001217, UniRef:UniRef50_Q03B19
+contig_22	cds	39060	39635	+	LDJNFA_01975		N-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A0F4LXE9
+contig_22	cds	39856	41163	+	LDJNFA_01980		Serine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q74HZ5
+contig_23	cds	71	580	-	LDJNFA_01985		hypothetical protein	
+contig_23	cds	590	700	+	LDJNFA_01990		hypothetical protein	
+contig_23	cds	763	987	+	LDJNFA_01995		hypothetical protein	
+contig_23	cds	980	1882	+	LDJNFA_02000		hypothetical protein	PFAM:PF09524.13, PFAM:PF13730.9
+contig_23	cds	1899	2156	+	LDJNFA_02005		hypothetical protein	
+contig_23	cds	2146	2541	+	LDJNFA_02010		hypothetical protein	
+contig_23	cds	2563	3030	+	LDJNFA_02015		hypothetical protein	
+contig_23	cds	3032	3469	+	LDJNFA_02020		hypothetical protein	
+contig_23	cds	3496	3723	+	LDJNFA_02025		hypothetical protein	
+contig_23	cds	4500	4778	+	LDJNFA_02030		AbrB/MazE/SpoVT family DNA-binding domain-containing protein	SO:0001217, UniRef:UniRef50_E1NQ84
+contig_23	cds	4812	5135	+	LDJNFA_02035		mRNA interferase	SO:0001217, UniRef:UniRef50_A0A7H9EJL1
+contig_23	cds	5346	5543	+	LDJNFA_02040		ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A137PLY4
+contig_23	cds	5527	6087	+	LDJNFA_02045		DUF2335 domain-containing protein	SO:0001217, UniRef:UniRef50_I7LD29
+contig_23	cds	6122	6292	+	LDJNFA_02050		hypothetical protein	
+contig_23	cds	6365	6862	+	LDJNFA_02055		hypothetical protein	
+contig_23	cds	7021	7479	+	LDJNFA_02060		Phage terminase small subunit P27 family	SO:0001217, UniRef:UniRef50_Q9T1G0
+contig_23	cds	7466	9385	+	LDJNFA_02065		Terminase	SO:0001217, UniRef:UniRef50_A0A1E3KRW1
+contig_23	cds	9378	9563	+	LDJNFA_02070		hypothetical protein	
+contig_23	cds	9567	10697	+	LDJNFA_02075		Portal protein	SO:0001217, UniRef:UniRef50_A0A0N9YUS0
+contig_23	cds	10684	11391	+	LDJNFA_02080		hypothetical protein	PFAM:PF00574.26
+contig_23	cds	11411	12601	+	LDJNFA_02085		hypothetical protein	
+contig_23	cds	12723	13079	+	LDJNFA_02090		hypothetical protein	
+contig_23	cds	13036	13374	+	LDJNFA_02095		hypothetical protein	
+contig_23	cds	13376	13780	+	LDJNFA_02100		hypothetical protein	
+contig_23	cds	13777	14148	+	LDJNFA_02105		hypothetical protein	
+contig_23	cds	14149	14829	+	LDJNFA_02110		hypothetical protein	
+contig_23	cds	14895	15302	+	LDJNFA_02115		hypothetical protein	
+contig_23	cds	15533	16912	+	LDJNFA_02120		hypothetical protein	
+contig_23	cds	16999	17181	+	LDJNFA_02125		hypothetical protein	
+contig_23	cds	17459	22216	+	LDJNFA_02130		hypothetical protein	
+contig_23	cds	22231	23034	+	LDJNFA_02135		hypothetical protein	
+contig_23	cds	23031	26498	+	LDJNFA_02140		hypothetical protein	PFAM:PF08239.14
+contig_23	cds	26476	26715	+	LDJNFA_02145		hypothetical protein	
+contig_23	cds	26681	28174	+	LDJNFA_02150		hypothetical protein	PFAM:PF10651.12
+contig_23	cds	28206	28709	+	LDJNFA_02155		hypothetical protein	
+contig_23	cds	28726	30936	+	LDJNFA_02160		hypothetical protein	PFAM:PF10651.12
+contig_23	cds	30951	31223	+	LDJNFA_02165		hypothetical protein	
+contig_23	cds	31276	31779	+	LDJNFA_02170		hypothetical protein	
+contig_23	cds	31770	32099	+	LDJNFA_02175		hypothetical protein	
+contig_23	cds	32096	32443	+	LDJNFA_02180		hypothetical protein	
+contig_23	gap	32499	32499	.				
+contig_23	ncRNA	32595	32782	-	LDJNFA_02185	RefB11	Enterococcus sRNA B11	RFAM:RF02848, SO:0000655
+contig_23	cds	32880	33449	+	LDJNFA_02190		hypothetical protein	
+contig_23	cds	33449	33610	+	LDJNFA_02195		hypothetical protein	
+contig_23	cds	33651	33977	+	LDJNFA_02200		hypothetical protein	
+contig_23	cds	33990	34181	+	LDJNFA_02205		hypothetical protein	
+contig_23	cds	34171	34605	+	LDJNFA_02210		hypothetical protein	
+contig_23	cds	34598	35470	+	LDJNFA_02215		lysozyme	SO:0001217, UniRef:UniRef50_Q38359
+contig_23	ncRNA	35569	35687	+	LDJNFA_02220	DUF3800-I	DUF3800-I RNA	RFAM:RF02969, SO:0000655
+contig_23	cds	35703	36398	+	LDJNFA_02225		DUF3800 domain-containing protein	SO:0001217, UniRef:UniRef50_K0NXC1
+contig_23	cds	36699	37043	-	LDJNFA_02230		hypothetical protein	
+contig_23	cds	37190	37837	-	LDJNFA_02235		hypothetical protein	PFAM:PF13102.9
+contig_23	cds	38205	38525	-	LDJNFA_02240		hypothetical protein	
+contig_24	cds	121	2037	+	LDJNFA_02245		Dipeptidyl aminopeptidase/acylaminoacyl-peptidase	SO:0001217, UniRef:UniRef50_I7LF57
+contig_24	cds	2310	2756	+	LDJNFA_02250	slpA	SlpA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1NUG0
+contig_24	cds	2790	3161	-	LDJNFA_02255		Putative uroporphyrin-III c-methyltransferase	SO:0001217, UniRef:UniRef50_A0A837BTF5
+contig_24	cds	3270	4160	+	LDJNFA_02260		hypothetical protein	PFAM:PF14243.9, PFAM:PF18299.4
+contig_24	cds	4252	5787	-	LDJNFA_02265		HATPase-c-4 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A5M9Z5T7
+contig_24	cds	6365	6616	-	LDJNFA_02270		hypothetical protein	
+contig_24	cds	6846	7751	+	LDJNFA_02275		Triacylglycerol lipase	SO:0001217, UniRef:UniRef50_I7JXV0
+contig_24	cds	8349	8726	-	LDJNFA_02280		hypothetical protein	PFAM:PF02782.19
+contig_24	cds	8824	10248	-	LDJNFA_02285		ATP-binding protein	SO:0001217, UniRef:UniRef50_C2ELJ5
+contig_24	cds	10403	11014	+	LDJNFA_02290		hypothetical protein	
+contig_24	cds	11102	11902	-	LDJNFA_02295		hypothetical protein	
+contig_24	cds	11921	13843	-	LDJNFA_02300		hypothetical protein	PFAM:PF16889.8
+contig_24	cds	13902	14723	-	LDJNFA_02305		PTS N-acetylgalactosamine transporter subunit IID	SO:0001217, UniRef:UniRef50_A0A0K2E689
+contig_24	cds	14710	15510	-	LDJNFA_02310		Putative N-acetylgalactosamine-specific phosphotransferase system (PTS), IIC component	SO:0001217, UniRef:UniRef50_I7IYI6
+contig_24	cds	15523	16014	-	LDJNFA_02315		N-acetylgalactosamine-specific phosphotransferase EIIB	SO:0001217, UniRef:UniRef50_A0A098Z6D4
+contig_24	cds	16027	17220	-	LDJNFA_02320		hypothetical protein	PFAM:PF07470.16
+contig_24	cds	17542	18303	+	LDJNFA_02325	yiaJ	HTH-type transcriptional regulator yiaJ	SO:0001217, UniRef:UniRef50_A0A1S2ACV2
+contig_24	cds	18413	19258	+	LDJNFA_02330		4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1	SO:0001217, UniRef:UniRef50_Q838L9
+contig_24	cds	19280	20104	+	LDJNFA_02335		glucose 1-dehydrogenase [NAD(P)(+)]	SO:0001217, UniRef:UniRef50_A0A329EJM2
+contig_24	cds	20117	21076	+	LDJNFA_02340		hypothetical protein	PFAM:PF00294.27
+contig_24	cds	21076	21720	+	LDJNFA_02345		4-hydroxy-2-oxoglutarate aldolase 2-dehydro-3-deoxyphosphogluconate aldolase	SO:0001217, UniRef:UniRef50_A0A0C1MAV2
+contig_24	cds	21736	22134	+	LDJNFA_02350		PTS system, galactosamine-specific IIA component	SO:0001217, UniRef:UniRef50_A0A837BSX0
+contig_24	cds	22337	24190	+	LDJNFA_02355		hypothetical protein	PFAM:PF00874.23, PFAM:PF05043.16, PFAM:PF08279.15
+contig_24	cds	24205	24546	+	LDJNFA_02360		hypothetical protein	PFAM:PF00874.23
+contig_24	cds	24562	24921	+	LDJNFA_02365		hypothetical protein	
+contig_24	cds	24926	25222	+	LDJNFA_02370		hypothetical protein	
+contig_24	cds	25250	26023	+	LDJNFA_02375		DUF4311 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A101W6E2
+contig_24	cds	26043	26726	+	LDJNFA_02380		DUF4310 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6G3SA26
+contig_24	cds	26750	27859	+	LDJNFA_02385		hypothetical protein	PFAM:PF01979.23, PFAM:PF07969.14
+contig_24	cds	27872	28969	+	LDJNFA_02390	dgaE	DgaE family pyridoxal phosphate-dependent ammonia lyase	SO:0001217, UniRef:UniRef50_A0A377PPL6
+contig_24	cds	28971	29708	+	LDJNFA_02395		2-dehydro-3-deoxyphosphooctonate aldolase	SO:0001217, UniRef:UniRef50_A0A1B1SS72
+contig_24	cds	30611	30919	+	LDJNFA_02400		hypothetical protein	PFAM:PF02302.20
+contig_24	cds	30958	32388	+	LDJNFA_02405		Permease IIC component	SO:0001217, UniRef:UniRef50_X0PSI0
+contig_24	cds	32375	32686	+	LDJNFA_02410		hypothetical protein	PFAM:PF02255.19
+contig_24	cds	32819	34057	+	LDJNFA_02415		Alpha-L-fucosidase	SO:0001217, UniRef:UniRef50_K6RLY1
+contig_25	ncRNA	248	305	-	LDJNFA_02420	Transposase-1	Transposase-1 RNA	RFAM:RF03014, SO:0000655
+contig_25	cds	340	1500	-	LDJNFA_02425		Transposase	SO:0001217, UniRef:UniRef50_A0A6N4HRK0
+contig_25	cds	1463	2095	-	LDJNFA_02430		Dna-binding protein	SO:0001217, UniRef:UniRef50_A0A243GWT8
+contig_25	cds	2176	2940	-	LDJNFA_02435		hypothetical protein	
+contig_25	cds	2965	3378	-	LDJNFA_02440		hypothetical protein	PFAM:PF08861.13
+contig_25	cds	3886	4902	-	LDJNFA_02445		Glycosyltransferase	SO:0001217, UniRef:UniRef50_F0HUJ8
+contig_25	cds	5014	6432	-	LDJNFA_02450		Anion permease	SO:0001217, UniRef:UniRef50_A0A837BTW3
+contig_25	cds	6467	8275	-	LDJNFA_02455		Fumarate reductase flavoprotein subunit	SO:0001217, UniRef:UniRef50_A0A508YWI8
+contig_25	cds	8531	9406	+	LDJNFA_02460	lysR	LysR substrate binding domain protein	SO:0001217, UniRef:UniRef50_I7JUX5
+contig_25	cds	9403	11181	-	LDJNFA_02465		Succinate dehydrogenase/fumarate reductase	SO:0001217, UniRef:UniRef50_A0A0F4LIM6
+contig_25	cds	11379	12260	+	LDJNFA_02470		HTH lysR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A249NK49
+contig_25	cds	12307	13314	-	LDJNFA_02475		Beta-lactamase	SO:0001217, UniRef:UniRef50_I7LAP9
+contig_25	cds	13317	14171	-	LDJNFA_02480		hypothetical protein	PFAM:PF01380.25, PFAM:PF01418.20, PFAM:PF13580.9
+contig_25	cds	14176	15075	-	LDJNFA_02485		N-acetylmuramic acid 6-phosphate etherase	SO:0001217, UniRef:UniRef50_A0Q804
+contig_25	cds	15301	16338	+	LDJNFA_02490		Acyl-transf-3 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1KF27
+contig_25	cds	16526	16954	-	LDJNFA_02495		hypothetical protein	PFAM:PF00248.24
+contig_25	cds	16893	17390	-	LDJNFA_02500		hypothetical protein	PFAM:PF00248.24
+contig_25	cds	17815	18378	-	LDJNFA_02505		Nudix hydrolase domain-containing protein	SO:0001217, UniRef:UniRef50_S1RHT5
+contig_25	cds	18421	19602	-	LDJNFA_02510		Diaminopropionate ammonia-lyase family	SO:0001217, UniRef:UniRef50_C2ESJ5
+contig_25	cds	19831	20829	-	LDJNFA_02515		FMN-dependent alpha-hydroxy acid dehydrogenase	SO:0001217, UniRef:UniRef50_I7IZ16
+contig_25	cds	20846	22612	-	LDJNFA_02520		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_G6F7T1
+contig_25	cds	22612	24339	-	LDJNFA_02525		ATP-binding cassette domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3S8SC05
+contig_25	cds	24336	24779	-	LDJNFA_02530		hypothetical protein	PFAM:PF01047.25, PFAM:PF13463.9
+contig_25	cds	24972	25910	+	LDJNFA_02535		PBPb domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YHB4
+contig_25	cds	26117	26824	+	LDJNFA_02540		Glycerol uptake facilitator protein 2	SO:0001217, UniRef:UniRef50_F9USY3
+contig_25	cds	27534	27860	+	LDJNFA_02545		hypothetical protein	
+contig_25	cds	28033	28554	+	LDJNFA_02550		hypothetical protein	
+contig_25	cds	28640	31627	-	LDJNFA_02555		Type I restriction enzyme endonuclease subunit	SO:0001217, UniRef:UniRef50_A0A0R1PHV7
+contig_26	cds	178	2703	-	LDJNFA_02560		Aminopeptidase N	SO:0001217, UniRef:UniRef50_P37896
+contig_26	cds	2832	3254	+	LDJNFA_02565		Aggregation promoting factor surface protein	SO:0001217, UniRef:UniRef50_D4YSP5
+contig_26	cds	3319	4275	-	LDJNFA_02570		Cytochrome C5	SO:0001217, UniRef:UniRef50_G6F8U8
+contig_26	cds	4419	5651	+	LDJNFA_02575		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YJ00
+contig_26	cds	5929	6219	-	LDJNFA_02580		Damage-inducible protein J	SO:0001217, UniRef:UniRef50_A0A0R1GKV5
+contig_26	cds	6266	6397	-	LDJNFA_02585		hypothetical protein	
+contig_26	cds	6397	6651	-	LDJNFA_02590	abrB	AbrB family transcriptional regulator	SO:0001217, UniRef:UniRef50_I7KQ28
+contig_26	cds	6779	7327	-	LDJNFA_02595		hypothetical protein	
+contig_26	cds	7333	7458	-	LDJNFA_02600		hypothetical protein	
+contig_26	cds	7510	8280	-	LDJNFA_02605		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A061BUL6
+contig_26	cds	8277	9032	-	LDJNFA_02610		hypothetical protein	
+contig_26	cds	9019	9942	-	LDJNFA_02615		ABC superfamily ATP binding cassette transporter, ABC protein	SO:0001217, UniRef:UniRef50_I7KQ30
+contig_26	cds	10251	10598	-	LDJNFA_02620		hypothetical protein	
+contig_26	cds	11267	11992	-	LDJNFA_02625		hypothetical protein	PFAM:PF13349.9
+contig_26	cds	12041	12688	-	LDJNFA_02630		Endonuclease III	SO:0001217, UniRef:UniRef50_A0A3S8S9Q4
+contig_26	cds	12810	13667	-	LDJNFA_02635		Maltose ABC transporter, permease protein	SO:0001217, UniRef:UniRef50_D2BKX5
+contig_26	cds	13671	15029	-	LDJNFA_02640		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A224XC56
+contig_26	cds	15100	16320	-	LDJNFA_02645		Maltose maltodextrin ABC transporter, maltose maltodextrin-binding protein	SO:0001217, UniRef:UniRef50_A0A0R1UFE9
+contig_26	cds	16410	17516	-	LDJNFA_02650	malK	Maltose/maltodextrin transport ATP-binding protein MalK Multiple sugar ABC transporter,ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A239YLU2
+contig_26	cds	17534	18196	-	LDJNFA_02655		Beta-phosphoglucomutase	SO:0001217, UniRef:UniRef50_A0A6M9CGY8
+contig_26	cds	18189	20456	-	LDJNFA_02660		Maltose phosphorylase	SO:0001217, UniRef:UniRef50_E6ENP7
+contig_26	cds	20594	22309	-	LDJNFA_02665		Maltogenic amylase or neopullulanase	SO:0001217, UniRef:UniRef50_A0A2X0PAD3
+contig_26	cds	22329	23987	-	LDJNFA_02670		Oligo-1,6-glucosidase	SO:0001217, UniRef:UniRef50_A0A2X0P9X8
+contig_26	cds	24188	25030	+	LDJNFA_02675		hypothetical protein	PFAM:PF01381.25
+contig_26	cds	25172	25660	+	LDJNFA_02680		hypothetical protein	
+contig_26	cds	25720	26670	-	LDJNFA_02685	lacI	LacI family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A0M9FHK6
+contig_26	cds	26679	27452	-	LDJNFA_02690		Phosphatase	SO:0001217, UniRef:UniRef50_A0A137PQC3
+contig_26	cds	27531	29033	-	LDJNFA_02695		Glycerol kinase	SO:0001217, UniRef:UniRef50_O34153
+contig_26	cds	29215	30018	+	LDJNFA_02700		hypothetical protein	PFAM:PF00294.27
+contig_26	cds	30064	31380	-	LDJNFA_02705		Aminopeptidase E	SO:0001217, UniRef:UniRef50_P94870
+contig_27	cds	231	377	-	LDJNFA_02710		hypothetical protein	
+contig_27	cds	555	1307	-	LDJNFA_02715		hypothetical protein	PFAM:PF13349.9
+contig_27	cds	1331	2413	-	LDJNFA_02720		M42 family peptidase	SO:0001217, UniRef:UniRef50_Q74KM5
+contig_27	cds	2560	3762	+	LDJNFA_02725		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5N2T7
+contig_27	cds	3957	5282	+	LDJNFA_02730		Uracil transporter	SO:0001217, UniRef:UniRef50_A0A512PQY0
+contig_27	cds	5678	6148	-	LDJNFA_02735		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_D0R1Z6
+contig_27	cds	6285	7742	-	LDJNFA_02740		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R2KPN9
+contig_27	cds	7858	8661	-	LDJNFA_02745		DUF4931 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D5MK59
+contig_27	cds	8804	10117	+	LDJNFA_02750		ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_S0KJF8
+contig_27	cds	10155	11090	-	LDJNFA_02755		DUF2974 domain-containing protein	SO:0001217, UniRef:UniRef50_F2M399
+contig_27	cds	11097	11747	-	LDJNFA_02760		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R2IQ45
+contig_27	cds	11757	12389	-	LDJNFA_02765		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R2JDJ6
+contig_27	cds	12389	13228	-	LDJNFA_02770		Glutamine ABC transporter	SO:0001217, UniRef:UniRef50_Q5FLH1
+contig_27	cds	13241	13978	-	LDJNFA_02775	glnQ	Glutamine transport ATP-binding protein glnQ	SO:0001217, UniRef:UniRef50_G2KW23
+contig_27	cds	14157	14801	+	LDJNFA_02780		Uridine kinase	SO:0001217, UniRef:UniRef50_Q8DTG1
+contig_27	cds	14841	15419	-	LDJNFA_02785		ABC transporter permease	SO:0001217, UniRef:UniRef50_N1ZPT6
+contig_27	ncRNA-region	15482	15570	-			TPP riboswitch (THI element)	RFAM:RF00059, SO:0000035
+contig_27	cds	15632	16201	-	LDJNFA_02790		Hypoxanthine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_A0A0D5MJT3
+contig_27	cds	16305	17657	-	LDJNFA_02795		HlyC/CorC family transporter	SO:0001217, UniRef:UniRef50_U4TLD6
+contig_27	cds	17721	18377	-	LDJNFA_02800		Nitroreductase domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZIF4
+contig_27	cds	18479	18727	-	LDJNFA_02805		hypothetical protein	
+contig_27	cds	18846	21245	-	LDJNFA_02810		putative phosphoketolase	SO:0001217, UniRef:UniRef50_Q9CFH4
+contig_27	cds	21540	22307	+	LDJNFA_02815		HTH deoR-type domain-containing protein	SO:0001217, UniRef:UniRef50_N2A3U3
+contig_27	cds	22310	22660	+	LDJNFA_02820		Bacteriocin immunity protein	SO:0001217, UniRef:UniRef50_C2ELU2
+contig_27	cds	22753	23571	+	LDJNFA_02825		HAD family hydrolase	SO:0001217, UniRef:UniRef50_Q5FLF0
+contig_27	cds	23610	24335	-	LDJNFA_02830		HTH gntR-type domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZSZ2
+contig_27	cds	24335	25258	-	LDJNFA_02835		IU-nuc-hydro domain-containing protein	SO:0001217, UniRef:UniRef50_Q74KF2
+contig_27	cds	25282	25974	-	LDJNFA_02840		Ribose-5-phosphate isomerase A	SO:0001217, UniRef:UniRef50_Q5FLF6
+contig_27	cds	25980	26897	-	LDJNFA_02845		Ribokinase	SO:0001217, UniRef:UniRef50_U4TK11
+contig_27	cds	26995	27462	-	LDJNFA_02850		DNA-binding ferritin-like protein	SO:0001217, UniRef:UniRef50_A0A091BWQ5
+contig_27	cds	27581	28195	-	LDJNFA_02855		dITP/XTP pyrophosphatase	SO:0001217, UniRef:UniRef50_Q5FLV7
+contig_27	cds	28196	28990	-	LDJNFA_02860		Glutamate racemase	SO:0001217, UniRef:UniRef50_Q5FLV8
+contig_27	cds	29080	29490	+	LDJNFA_02865		DUF2507 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0F4LWZ5
+contig_27	cds	29509	29880	+	LDJNFA_02870		Large-conductance mechanosensitive channel	SO:0001217, UniRef:UniRef50_A0A0F4KTK0
+contig_28	cds	69	2918	-	LDJNFA_02875		hypothetical protein	PFAM:PF00004.32, PFAM:PF00158.29, PFAM:PF01078.24, PFAM:PF05496.15, PFAM:PF07724.17, PFAM:PF07728.17, PFAM:PF13191.9, PFAM:PF13401.9, PFAM:PF13604.9, PFAM:PF17866.4
+contig_28	cds	3048	4265	-	LDJNFA_02880		hypothetical protein	PFAM:PF01814.26, PFAM:PF08448.13, PFAM:PF13596.9
+contig_28	cds	4258	4833	-	LDJNFA_02885		DUF59 domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FML1
+contig_28	cds	4906	5619	-	LDJNFA_02890		Anaerobic ribonucleoside-triphosphate reductase-activating protein	SO:0001217, UniRef:UniRef50_A0A139Q679
+contig_28	cds	5619	7826	-	LDJNFA_02895		Anaerobic ribonucleoside-triphosphate reductase	SO:0001217, UniRef:UniRef50_A0A4Q1KXP3
+contig_28	cds	8260	10380	+	LDJNFA_02900		hypothetical protein	PFAM:PF00746.24, PFAM:PF04650.20
+contig_28	cds	10524	11885	-	LDJNFA_02905		hypothetical protein	PFAM:PF00072.27, PFAM:PF00165.26, PFAM:PF12833.10
+contig_28	cds	11919	13589	-	LDJNFA_02910		hypothetical protein	
+contig_28	cds	13586	14191	-	LDJNFA_02915		hypothetical protein	
+contig_28	cds	14295	15761	-	LDJNFA_02920		DUF3502 domain-containing protein	SO:0001217, UniRef:UniRef50_U4TN02
+contig_28	cds	15790	16710	-	LDJNFA_02925		ABC transporter, permease protein	SO:0001217, UniRef:UniRef50_E0PF93
+contig_28	cds	16724	17674	-	LDJNFA_02930		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_U4TLW6
+contig_28	cds	17839	19446	-	LDJNFA_02935		hypothetical protein	PFAM:PF00128.27
+contig_28	cds	19532	21298	-	LDJNFA_02940		Benzene 1,2-dioxygenase	SO:0001217, UniRef:UniRef50_A0A1Y4UGE2
+contig_28	cds	21298	23967	-	LDJNFA_02945		hypothetical protein	PFAM:PF01074.25, PFAM:PF07748.16, PFAM:PF09261.14, PFAM:PF17677.4, PFAM:PF18438.4
+contig_28	cds	23982	25265	-	LDJNFA_02950		Metal-independent alpha-mannosidase	SO:0001217, UniRef:UniRef50_A9QST9
+contig_28	cds	25384	26409	+	LDJNFA_02955		hypothetical protein	PFAM:PF00392.24, PFAM:PF00532.24, PFAM:PF13377.9
+contig_28	cds	26420	28477	+	LDJNFA_02960		Alpha-1,2-mannosidase	SO:0001217, UniRef:UniRef50_U4TMZ1
+contig_28	cds	28875	29834	+	LDJNFA_02965		hypothetical protein	
+contig_29	tRNA	67	155	-	LDJNFA_02970	trnS	tRNA-Ser(cga)	SO:0000269
+contig_29	cds	334	1719	+	LDJNFA_02975		AA-permease domain-containing protein	SO:0001217, UniRef:UniRef50_F4ACZ4
+contig_29	cds	1742	2617	-	LDJNFA_02980	hflK	Modulator of FtsH protease HflK	SO:0001217, UniRef:UniRef50_A0A2S2JKL2
+contig_29	cds	2768	3724	+	LDJNFA_02985		Thymidylate synthase 2	SO:0001217, UniRef:UniRef50_P11044
+contig_29	cds	3738	4247	+	LDJNFA_02990		Dihydrofolate reductase	SO:0001217, UniRef:UniRef50_D4YUF7
+contig_29	ncRNA-region	4291	4530	+			T-box leader	RFAM:RF00230, SO:0000140
+contig_29	cds	4578	5429	+	LDJNFA_02995		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A0R2BYD2
+contig_29	cds	5444	6502	+	LDJNFA_03000		ABC transporter, ATP-binding protein	SO:0001217, UniRef:UniRef50_D4YUG2
+contig_29	cds	6495	7196	+	LDJNFA_03005		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A098CR57
+contig_29	cds	7589	8287	+	LDJNFA_03010		Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase	SO:0001217, UniRef:UniRef50_F2NBC2
+contig_29	cds	8303	9772	+	LDJNFA_03015		2-oxoglutarate translocator	SO:0001217, UniRef:UniRef50_A0A0F4LPA8
+contig_29	cds	9832	10617	+	LDJNFA_03020		Hydrolase, alpha/beta domain protein	SO:0001217, UniRef:UniRef50_D4YUH0
+contig_29	cds	10741	11877	+	LDJNFA_03025		Malate dehydrogenase	SO:0001217, UniRef:UniRef50_F7V8L0
+contig_29	cds	12053	13474	+	LDJNFA_03030		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5NPD4
+contig_29	cds	13648	14703	+	LDJNFA_03035		[Citrate [pro-3S]-lyase] ligase	SO:0001217, UniRef:UniRef50_A0A135Z980
+contig_29	cds	14693	14986	+	LDJNFA_03040		hypothetical protein	
+contig_29	cds	14989	15903	+	LDJNFA_03045		Citrate lyase subunit beta	SO:0001217, UniRef:UniRef50_A0A120DHR5
+contig_29	cds	15893	17434	+	LDJNFA_03050		Citrate lyase alpha chain	SO:0001217, UniRef:UniRef50_Q5FKK0
+contig_29	cds	17541	18080	+	LDJNFA_03055		citrate lyase holo-[acyl-carrier protein] synthase	SO:0001217, UniRef:UniRef50_A0A0R1XQD2
+contig_29	cds	18451	18585	+	LDJNFA_03060		hypothetical protein	
+contig_29	cds	18630	18800	+	LDJNFA_03065		hypothetical protein	
+contig_29	cds	18797	19033	+	LDJNFA_03070		hypothetical protein	
+contig_29	cds	19080	19352	+	LDJNFA_03075		hypothetical protein	
+contig_29	cds	19397	19945	+	LDJNFA_03080		hypothetical protein	PFAM:PF00188.29
+contig_29	cds	20000	20278	-	LDJNFA_03085		hypothetical protein	
+contig_29	cds	20408	20998	-	LDJNFA_03090		hypothetical protein	PFAM:PF13508.10, PFAM:PF13673.10
+contig_29	cds	20952	21896	-	LDJNFA_03095		Sugar-bind domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YBQ5
+contig_29	cds	22069	23430	+	LDJNFA_03100		Threonine/serine exporter family protein	SO:0001217, UniRef:UniRef50_A0A1B3PRY9
+contig_29	cds	23577	26807	+	LDJNFA_03105		hypothetical protein	PFAM:PF01476.23, PFAM:PF07554.16
+contig_29	cds	27007	27513	-	LDJNFA_03110		Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase	SO:0001217, UniRef:UniRef50_A0A0B2XK64
+contig_29	cds	27580	28524	+	LDJNFA_03115		Ribosomal protein L11 methyltransferase	SO:0001217, UniRef:UniRef50_Q04AV7
+contig_29	cds	28572	28931	+	LDJNFA_03120		Conserved domain protein	SO:0001217, UniRef:UniRef50_N2ADZ9
+contig_29	cds	28946	31183	+	LDJNFA_03125		GTP diphosphokinase	SO:0001217, UniRef:UniRef50_I7IVZ1
+contig_29	cds	31183	31623	+	LDJNFA_03130		D-aminoacyl-tRNA deacylase	SO:0001217, UniRef:UniRef50_A0A7C6J1P5
+contig_29	cds	31895	33181	+	LDJNFA_03135		Histidine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q5FKI5
+contig_29	cds	33185	35038	+	LDJNFA_03140		Aspartate--tRNA ligase	SO:0001217, UniRef:UniRef50_Q74IX4
+contig_29	cds	35216	36370	+	LDJNFA_03145		Lysozyme	SO:0001217, UniRef:UniRef50_F0HVZ3
+contig_29	cds	36520	36942	+	LDJNFA_03150	msrB	Peptide methionine sulfoxide reductase MsrB	SO:0001217, UniRef:UniRef50_A0A0R1NV22
+contig_29	cds	37060	38277	+	LDJNFA_03155		Lysozyme	SO:0001217, UniRef:UniRef50_F0HVZ3
+contig_29	cds	38386	38928	-	LDJNFA_03160	msrA	Peptide methionine sulfoxide reductase MsrA	SO:0001217, UniRef:UniRef50_A0A2R5HG22
+contig_29	cds	39205	40083	+	LDJNFA_03165		DUF2179 domain-containing protein	SO:0001217, UniRef:UniRef50_K0NWU2
+contig_29	cds	40144	40983	-	LDJNFA_03170		Putative pyruvate, phosphate dikinase regulatory protein 2	SO:0001217, UniRef:UniRef50_Q831T1
+contig_29	cds	41185	41361	+	LDJNFA_03175		30S ribosomal protein S21	SO:0001217, UniRef:UniRef50_A0A1N7KZK0
+contig_29	cds	41484	41927	+	LDJNFA_03180	yqeY	Uncharacterized protein YqeY	SO:0001217, UniRef:UniRef50_P54464
+contig_29	cds	41948	42907	+	LDJNFA_03185		PhoH-like protein	SO:0001217, UniRef:UniRef50_P46343
+contig_29	cds	42909	43433	+	LDJNFA_03190	ybeY	Endoribonuclease YbeY	SO:0001217, UniRef:UniRef50_Q5FJT6
+contig_29	cds	43433	44341	+	LDJNFA_03195		GTPase Era	SO:0001217, UniRef:UniRef50_P42182
+contig_29	cds	44341	45093	+	LDJNFA_03200	recO	DNA repair protein RecO	SO:0001217, UniRef:UniRef50_Q5FJT8
+contig_29	cds	45343	46260	+	LDJNFA_03205		Glycine--tRNA ligase alpha subunit	SO:0001217, UniRef:UniRef50_Q8EKS5
+contig_29	cds	46253	48319	+	LDJNFA_03210		Glycine--tRNA ligase beta subunit	SO:0001217, UniRef:UniRef50_Q5FJU0
+contig_29	cds	48341	50149	+	LDJNFA_03215		DNA primase	SO:0001217, UniRef:UniRef50_F0TFA3
+contig_29	cds	50149	51264	+	LDJNFA_03220	sigA	RNA polymerase sigma factor SigA	SO:0001217, UniRef:UniRef50_A0A847N6K1
+contig_29	cds	51294	51935	-	LDJNFA_03225		Peptidase-M23 domain-containing protein	SO:0001217, UniRef:UniRef50_N2A145
+contig_29	cds	51938	52378	-	LDJNFA_03230		Nudix hydrolase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1TR51
+contig_29	cds	52486	53169	+	LDJNFA_03235		SAM-dependent methyltransferase	SO:0001217, UniRef:UniRef50_N2AF51
+contig_29	cds	53166	53963	+	LDJNFA_03240		GTP cyclohydrolase 1 type 2-like protein	SO:0001217, UniRef:UniRef50_A0A0D5MIT0
+contig_29	cds	53979	55220	+	LDJNFA_03245		Peptidase T	SO:0001217, UniRef:UniRef50_Q9L4G1
+contig_29	cds	55639	56016	+	LDJNFA_03250		HTH gntR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A249NK59
+contig_29	cds	56000	56707	+	LDJNFA_03255		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A137PPL8
+contig_29	cds	56707	57552	+	LDJNFA_03260		hypothetical protein	
+contig_29	cds	57572	58408	+	LDJNFA_03265		hypothetical protein	
+contig_29	cds	58520	58705	-	LDJNFA_03270		hypothetical protein	
+contig_29	cds	58768	59331	-	LDJNFA_03275		Signal peptidase I	SO:0001217, UniRef:UniRef50_A0A061BZZ5
+contig_29	cds	59449	60195	+	LDJNFA_03280		SAM-dependent methyltransferase	SO:0001217, UniRef:UniRef50_A0A0D6A475
+contig_29	cds	60192	61157	+	LDJNFA_03285		hypothetical protein	
+contig_29	cds	61150	62547	+	LDJNFA_03290		SAM-MT-RSMB-NOP domain-containing protein	SO:0001217, UniRef:UniRef50_Q74J22
+contig_29	cds	62555	63355	+	LDJNFA_03295		Cof-like hydrolase	SO:0001217, UniRef:UniRef50_C2E4H5
+contig_29	cds	63410	64426	-	LDJNFA_03300		Isopentenyl-diphosphate delta-isomerase	SO:0001217, UniRef:UniRef50_D5GXW6
+contig_29	cds	64438	65520	-	LDJNFA_03305		phosphomevalonate kinase	SO:0001217, UniRef:UniRef50_F9UP88
+contig_29	cds	65558	66517	-	LDJNFA_03310		diphosphomevalonate decarboxylase	SO:0001217, UniRef:UniRef50_A0A1B3PS97
+contig_29	cds	66670	67578	-	LDJNFA_03315		Galactokinase	SO:0001217, UniRef:UniRef50_A0A1B3PS86
+contig_29	cds	67657	71139	+	LDJNFA_03320		ATP-dependent helicase/deoxyribonuclease subunit B	SO:0001217, UniRef:UniRef50_Q74JA5
+contig_29	cds	71139	74747	+	LDJNFA_03325		ATP-dependent helicase/nuclease subunit A	SO:0001217, UniRef:UniRef50_C8PAK4
+contig_29	cds	74769	77558	+	LDJNFA_03330	dinG	3'-5' exonuclease DinG	SO:0001217, UniRef:UniRef50_I7KI20
+contig_29	cds	77548	78045	+	LDJNFA_03335		DUF5590 domain-containing protein	SO:0001217, UniRef:UniRef50_F0TF76
+contig_29	cds	78096	79394	+	LDJNFA_03340		Asparagine--tRNA ligase	SO:0001217, UniRef:UniRef50_W8YSE8
+contig_29	cds	79476	80120	+	LDJNFA_03345		DnaB-2 domain-containing protein	SO:0001217, UniRef:UniRef50_K0NZK0
+contig_29	cds	80120	80749	+	LDJNFA_03350		Endonuclease III	SO:0001217, UniRef:UniRef50_A0A6G7KCC9
+contig_29	cds	80829	83120	-	LDJNFA_03355		Penicillin-insensitive transglycosylase	SO:0001217, UniRef:UniRef50_A0A4R5NFH8
+contig_29	cds	83110	83742	-	LDJNFA_03360	recU	Holliday junction resolvase RecU	SO:0001217, UniRef:UniRef50_Q5KXY4
+contig_29	cds	83811	84380	+	LDJNFA_03365		UPF0398 protein Ldb1014	SO:0001217, UniRef:UniRef50_Q1GA98
+contig_29	cds	84468	84878	+	LDJNFA_03370		DivIVA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0F4LS76
+contig_29	ncRNA	84944	85305	+	LDJNFA_03375	RNaseP_bact_b	Bacterial RNase P class B	RFAM:RF00011, SO:0000386
+contig_29	cds	85251	86501	+	LDJNFA_03380		THUMP domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FJY0
+contig_29	cds	86498	87730	+	LDJNFA_03385		Putative 3',5'-cyclic-nucleotide phosphodiesterase	SO:0001217, UniRef:UniRef50_Q5FJY1
+contig_29	cds	87742	88104	+	LDJNFA_03390		hypothetical protein	PFAM:PF17255.5
+contig_29	cds	88218	89126	-	LDJNFA_03395	degV	DegV family protein	SO:0001217, UniRef:UniRef50_Q5FN02
+contig_29	cds	89251	89715	+	LDJNFA_03400		Lipoprotein signal peptidase	SO:0001217, UniRef:UniRef50_Q74JC2
+contig_29	cds	89717	90625	+	LDJNFA_03405		Pseudouridine synthase	SO:0001217, UniRef:UniRef50_A0A0M4CPM5
+contig_29	cds	90636	91691	+	LDJNFA_03410		Putative carbamoyl-phosphate synthase, small subunit	SO:0001217, UniRef:UniRef50_C8PAL9
+contig_29	cds	91696	94890	+	LDJNFA_03415		Carbamoyl-phosphate synthase pyrimidine-specific large chain	SO:0001217, UniRef:UniRef50_Q1GA90
+contig_29	cds	94945	96636	-	LDJNFA_03420	rqcH	Rqc2-like protein RqcH	SO:0001217, UniRef:UniRef50_Q1GA87
+contig_29	cds	96871	97284	+	LDJNFA_03425	marR	MarR family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A437SXW2
+contig_29	cds	97345	98220	+	LDJNFA_03430	degV	DegV family protein	SO:0001217, UniRef:UniRef50_A0A805YQ99
+contig_29	cds	98428	99492	-	LDJNFA_03435	xerS	Tyrosine recombinase XerS	SO:0001217, UniRef:UniRef50_N2A8H4
+contig_29	cds	100410	100649	+	LDJNFA_03440		hypothetical protein	
+contig_29	cds	100679	100963	+	LDJNFA_03445		hypothetical protein	
+contig_29	cds	101438	101794	+	LDJNFA_03450		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_N2AEB2
+contig_29	cds	101838	102419	-	LDJNFA_03455		Peptidyl-prolyl cis-trans isomerase	SO:0001217, UniRef:UniRef50_A0A401IT27
+contig_29	cds	102496	103431	-	LDJNFA_03460		putative manganese-dependent inorganic pyrophosphatase	SO:0001217, UniRef:UniRef50_P95765
+contig_29	cds	103456	104412	-	LDJNFA_03465		HTH lysR-type domain-containing protein	SO:0001217, UniRef:UniRef50_N2A096
+contig_29	cds	104733	107207	-	LDJNFA_03470		DNA topoisomerase 4 subunit A	SO:0001217, UniRef:UniRef50_Q5HPI5
+contig_29	cds	107224	109167	-	LDJNFA_03475		DNA topoisomerase 4 subunit B	SO:0001217, UniRef:UniRef50_A0A8J3EY86
+contig_29	cds	109254	109883	+	LDJNFA_03480		Glycerol-3-phosphate acyltransferase 2	SO:0001217, UniRef:UniRef50_Q5FK09
+contig_29	cds	110459	111349	-	LDJNFA_03485		Aldose epimerase	SO:0001217, UniRef:UniRef50_Q74JJ4
+contig_29	cds	111439	111990	-	LDJNFA_03490		hypothetical protein	PFAM:PF13302.10, PFAM:PF13420.10
+contig_29	cds	112005	113399	-	LDJNFA_03495	hslU	ATP-dependent protease ATPase subunit HslU	SO:0001217, UniRef:UniRef50_Q92C73
+contig_29	cds	113421	113945	-	LDJNFA_03500	hslV	ATP-dependent protease subunit HslV	SO:0001217, UniRef:UniRef50_Q48734
+contig_29	cds	113942	114859	-	LDJNFA_03505	xerC	Tyrosine recombinase XerC	SO:0001217, UniRef:UniRef50_A0A0D5MJ89
+contig_29	cds	114859	116175	-	LDJNFA_03510		Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO	SO:0001217, UniRef:UniRef50_Q8REM9
+contig_29	cds	116351	118453	-	LDJNFA_03515		DNA topoisomerase 1	SO:0001217, UniRef:UniRef50_Q2FHI8
+contig_29	cds	118491	119378	-	LDJNFA_03520	dprA	DNA processing protein DprA	SO:0001217, UniRef:UniRef50_A0A0D5MIT2
+contig_29	cds	119443	120207	-	LDJNFA_03525		Ribonuclease HII	SO:0001217, UniRef:UniRef50_A0A0R2MX92
+contig_29	cds	120204	121043	-	LDJNFA_03530		Ribosome biogenesis GTPase A	SO:0001217, UniRef:UniRef50_A0A0D5MJ94
+contig_29	cds	121132	121359	-	LDJNFA_03535		hypothetical protein	
+contig_29	cds	121369	122220	-	LDJNFA_03540	degV	DegV family protein	SO:0001217, UniRef:UniRef50_A0A0D6A4D3
+contig_29	cds	122341	123006	+	LDJNFA_03545		Hemolysin III	SO:0001217, UniRef:UniRef50_G6F7N0
+contig_29	cds	123050	124249	-	LDJNFA_03550		CCA-adding enzyme	SO:0001217, UniRef:UniRef50_Q5FKF0
+contig_29	cds	124331	125221	+	LDJNFA_03555		DUF2179 domain-containing protein	SO:0001217, UniRef:UniRef50_C8PAP2
+contig_29	cds	125222	126478	-	LDJNFA_03560		Peptide-binding protein	SO:0001217, UniRef:UniRef50_N2ADA9
+contig_29	cds	126559	126834	-	LDJNFA_03565		DNA-binding protein HU	SO:0001217, UniRef:UniRef50_Q9CI64
+contig_29	cds	126976	128283	-	LDJNFA_03570		GTPase Der	SO:0001217, UniRef:UniRef50_Q8DS90
+contig_29	cds	128346	129548	-	LDJNFA_03575		30S ribosomal protein S1	SO:0001217, UniRef:UniRef50_A0A137PP52
+contig_29	cds	129620	130285	-	LDJNFA_03580		Cytidylate kinase	SO:0001217, UniRef:UniRef50_Q74JL8
+contig_29	cds	130326	130814	-	LDJNFA_03585		hypothetical protein	PFAM:PF01476.23
+contig_29	cds	130928	131620	-	LDJNFA_03590		Riboflavin transporter	SO:0001217, UniRef:UniRef50_A0A2X0PDQ1
+contig_29	ncRNA-region	131708	131822	-			FMN riboswitch (RFN element)	RFAM:RF00050, SO:0000035
+contig_29	cds	131849	132568	-	LDJNFA_03595		Pseudouridine synthase	SO:0001217, UniRef:UniRef50_A0A0R1UN55
+contig_29	cds	132586	133161	-	LDJNFA_03600		Segregation and condensation protein B	SO:0001217, UniRef:UniRef50_Q1GAK5
+contig_29	cds	133154	133891	-	LDJNFA_03605		Segregation and condensation protein A	SO:0001217, UniRef:UniRef50_Q74JM3
+contig_29	cds	133897	134241	-	LDJNFA_03610	ribT	Protein RibT	SO:0001217, UniRef:UniRef50_D4YV36
+contig_29	cds	134251	135150	-	LDJNFA_03615	xerC	Tyrosine recombinase XerC	SO:0001217, UniRef:UniRef50_C8PAQ5
+contig_29	cds	135143	136027	-	LDJNFA_03620		S1 motif domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FKG4
+contig_29	cds	136144	137913	-	LDJNFA_03625		Pyruvate kinase	SO:0001217, UniRef:UniRef50_P34038
+contig_29	cds	137942	138907	-	LDJNFA_03630		ATP-dependent 6-phosphofructokinase	SO:0001217, UniRef:UniRef50_P00512
+contig_29	cds	139072	142197	-	LDJNFA_03635		DNA-directed DNA polymerase	SO:0001217, UniRef:UniRef50_D5H368
+contig_29	cds	142306	142512	+	LDJNFA_03640		DUF2929 domain-containing protein	SO:0001217, UniRef:UniRef50_F2LZA6
+contig_29	cds	142573	144129	-	LDJNFA_03645		Bifunctional metallophosphatase/5'-nucleotidase	SO:0001217, UniRef:UniRef50_Q74JN1
+contig_29	cds	144187	144378	-	LDJNFA_03650		50S ribosomal protein L32	SO:0001217, UniRef:UniRef50_Q74JN2
+contig_29	cds	144489	144707	-	LDJNFA_03655		LapA-dom domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D6A4F8
+contig_29	cds	144710	145504	-	LDJNFA_03660		Oxidoreductase, short chain dehydrogenase/reductase family protein	SO:0001217, UniRef:UniRef50_C8PAR2
+contig_29	cds	145501	146439	-	LDJNFA_03665		Ribonuclease Z	SO:0001217, UniRef:UniRef50_P60199
+contig_29	cds	146453	148387	-	LDJNFA_03670		Acyl-transf-3 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5N031
+contig_29	cds	148411	149712	-	LDJNFA_03675		GTPase Obg	SO:0001217, UniRef:UniRef50_Q49Y82
+contig_29	cds	149781	151583	-	LDJNFA_03680		UvrABC system protein C	SO:0001217, UniRef:UniRef50_Q88VE9
+contig_29	cds	152332	153708	+	LDJNFA_03685		Amino acid permease	SO:0001217, UniRef:UniRef50_Q74HI2
+contig_29	cds	153764	154579	-	LDJNFA_03690		HAD family phosphatase	SO:0001217, UniRef:UniRef50_Q74J25
+contig_29	cds	154560	155762	-	LDJNFA_03695		Coenzyme A biosynthesis bifunctional protein CoaBC	SO:0001217, UniRef:UniRef50_A0A7D9N745
+contig_29	cds	155877	157301	+	LDJNFA_03700		Permease IIC component	SO:0001217, UniRef:UniRef50_A0A508WHA1
+contig_29	cds	157439	158161	+	LDJNFA_03705		HTH gntR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1VDU5
+contig_29	cds	158229	158939	-	LDJNFA_03710		hypothetical protein	PFAM:PF00392.24, PFAM:PF07702.16
+contig_29	cds	159021	160364	-	LDJNFA_03715		Permease IIC component	SO:0001217, UniRef:UniRef50_A0A4Y3JWW8
+contig_29	cds	160401	160898	-	LDJNFA_03720		PTS cellobiose transporter subunit IIA	SO:0001217, UniRef:UniRef50_I7KGK5
+contig_29	cds	161030	161398	-	LDJNFA_03725		PTS system lactose-specific EIIA component	SO:0001217, UniRef:UniRef50_A0A380HJU5
+contig_29	cds	161416	161751	-	LDJNFA_03730		Lichenan-specific phosphotransferase enzyme iib component (Pts system lichenan-specific eiib component) (Eiib-lic)	SO:0001217, UniRef:UniRef50_A0A0B7L2B6
+contig_29	cds	161954	162685	+	LDJNFA_03735		hypothetical protein	PFAM:PF00392.24, PFAM:PF07702.16
+contig_29	cds	162756	164204	+	LDJNFA_03740		6-phospho-beta-glucosidase	SO:0001217, UniRef:UniRef50_A0A0G9F6R4
+contig_29	cds	164395	165321	+	LDJNFA_03745		Inosine-uridine preferring nucleoside hydrolase	SO:0001217, UniRef:UniRef50_D4YRJ9
+contig_29	cds	165348	165872	+	LDJNFA_03750		Nudix hydrolase DR_0079	SO:0001217, UniRef:UniRef50_A0A380WSB1
+contig_29	cds	165869	166384	-	LDJNFA_03755		CPBP family intramembrane metalloprotease	SO:0001217, UniRef:UniRef50_N2AB58
+contig_29	cds	166503	166643	+	LDJNFA_03760		hypothetical protein	
+contig_29	cds	166669	167895	-	LDJNFA_03765		hypothetical protein	
+contig_29	cds	167888	168787	-	LDJNFA_03770		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A064C3G9
+contig_30	cds	101	787	+	LDJNFA_03775		HTH gntR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5NHH5
+contig_30	cds	832	1218	-	LDJNFA_03780		Glycerol-3-phosphate cytidylyltransferase	SO:0001217, UniRef:UniRef50_P27623
+contig_30	cds	1338	2072	+	LDJNFA_03785		N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase	SO:0001217, UniRef:UniRef50_D4YVR2
+contig_30	cds	2073	3173	+	LDJNFA_03790		Glycosyltransferase family 4 protein	SO:0001217, UniRef:UniRef50_N2AB48
+contig_30	cds	3218	4696	+	LDJNFA_03795		Nicotinate phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_O32090
+contig_30	cds	4693	5523	+	LDJNFA_03800		NH(3)-dependent NAD(+) synthetase	SO:0001217, UniRef:UniRef50_A0A0R2DRL7
+contig_30	cds	5705	8371	+	LDJNFA_03805		Cation transporter E1-E2 family ATPase	SO:0001217, UniRef:UniRef50_A0A380KWP0
+contig_30	cds	8451	9620	+	LDJNFA_03810		CDP-glycerol--glycerophosphate glycerophosphotransferase	SO:0001217, UniRef:UniRef50_A0A0F4LS10
+contig_30	cds	9617	11044	+	LDJNFA_03815		Polysacc-synt-C domain-containing protein	SO:0001217, UniRef:UniRef50_Q74I42
+contig_30	cds	11049	11750	+	LDJNFA_03820		Glycosyl transferase	SO:0001217, UniRef:UniRef50_Q74I44
+contig_30	cds	11731	12210	+	LDJNFA_03825		Protein SprT-like	SO:0001217, UniRef:UniRef50_A0A0R2I443
+contig_30	tRNA	12263	12347	+	LDJNFA_03830	trnL	tRNA-Leu(aag)	SO:0000264
+contig_30	cds	12403	13047	+	LDJNFA_03835		N-acetylmuramidase	SO:0001217, UniRef:UniRef50_S4WZW1
+contig_30	cds	13260	13478	+	LDJNFA_03840		hypothetical protein	
+contig_30	cds	13798	14166	+	LDJNFA_03845		hypothetical protein	
+contig_30	cds	14350	16593	+	LDJNFA_03850		ATP-dependent DNA helicase	SO:0001217, UniRef:UniRef50_A0A3T0TRD7
+contig_30	cds	16637	18646	+	LDJNFA_03855		DNA ligase	SO:0001217, UniRef:UniRef50_Q837V6
+contig_30	cds	18648	19787	+	LDJNFA_03860		Sex pheromone biosynthesis protein	SO:0001217, UniRef:UniRef50_A0A0R1PDX3
+contig_30	cds	19799	20101	+	LDJNFA_03865		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	SO:0001217, UniRef:UniRef50_Q5FLL2
+contig_30	cds	20101	21543	+	LDJNFA_03870		Glutamyl-tRNA(Gln) amidotransferase subunit A	SO:0001217, UniRef:UniRef50_O06491
+contig_30	cds	21548	22978	+	LDJNFA_03875		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	SO:0001217, UniRef:UniRef50_Q1GBF3
+contig_30	cds	23003	23923	+	LDJNFA_03880		hypothetical protein	PFAM:PF19279.2
+contig_30	cds	23995	24705	-	LDJNFA_03885		Bax inhibitor-1/YccA family protein	SO:0001217, UniRef:UniRef50_C2EW07
+contig_30	cds	24799	26181	-	LDJNFA_03890		Na-H-antiporter domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5NS74
+contig_30	cds	26600	27949	+	LDJNFA_03895		Uncharacterized RNA methyltransferase LJ_1698	SO:0001217, UniRef:UniRef50_Q74I68
+contig_30	cds	28191	28367	-	LDJNFA_03900		hypothetical protein	
+contig_31	cds	279	452	-	LDJNFA_03905		hypothetical protein	
+contig_31	cds	695	1555	+	LDJNFA_03910		6-phospho-beta-glucosidase	SO:0001217, UniRef:UniRef50_A0A2X3F0B0
+contig_31	cds	1758	3185	+	LDJNFA_03915		hypothetical protein	
+contig_31	cds	3363	3935	+	LDJNFA_03920		hypothetical protein	
+contig_31	cds	4013	4507	+	LDJNFA_03925		Tnp-DDE-dom domain-containing protein	SO:0001217, UniRef:UniRef50_K1NEK6
+contig_31	cds	4491	4871	+	LDJNFA_03930		DDE-Tnp-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A8H9F6X6
+contig_31	cds	5044	5136	+	LDJNFA_03935		hypothetical protein	
+contig_31	cds	5230	5718	+	LDJNFA_03940		hypothetical protein	
+contig_31	cds	5739	6299	+	LDJNFA_03945		DNA-3-methyladenine glycosylase 1	SO:0001217, UniRef:UniRef50_A0A0D5MGQ4
+contig_31	cds	6426	6857	+	LDJNFA_03950		hypothetical protein	PFAM:PF00881.27
+contig_31	cds	6988	7683	+	LDJNFA_03955		hypothetical protein	PFAM:PF13349.9
+contig_31	cds	7731	9059	-	LDJNFA_03960		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_N2ARC6
+contig_31	cds	9219	10979	-	LDJNFA_03965		DNA-binding protein	SO:0001217, UniRef:UniRef50_I7KKZ2
+contig_31	cds	11033	11128	+	LDJNFA_03970		hypothetical protein	
+contig_31	cds	11107	11541	-	LDJNFA_03975		hypothetical protein	PFAM:PF03992.19
+contig_31	ncRNA	11538	11598	-	LDJNFA_03980	Transposase-1	Transposase-1 RNA	RFAM:RF03014, SO:0000655
+contig_31	cds	11639	12793	-	LDJNFA_03985		Transposase	SO:0001217, UniRef:UniRef50_A0A6N4HRK0
+contig_31	cds	12735	13403	-	LDJNFA_03990		IS607 family transposase	SO:0001217, UniRef:UniRef50_A0A512PL96
+contig_31	cds	13678	15129	+	LDJNFA_03995		Fumarate reductase, flavoprotein subunit, N-terminally truncated	SO:0001217, UniRef:UniRef50_D0R4G0
+contig_31	cds	15186	16142	-	LDJNFA_04000	nupQ	Guanosine ABC transporter permease protein NupQ	SO:0001217, UniRef:UniRef50_O05255
+contig_31	cds	16139	17257	-	LDJNFA_04005		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A0R2KII2
+contig_31	cds	17250	18794	-	LDJNFA_04010		Simple sugar transport system ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A380KNS4
+contig_31	cds	18889	19980	-	LDJNFA_04015		Bmp domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D6A5G6
+contig_31	cds	20134	21228	-	LDJNFA_04020		Bmp domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D6A5G6
+contig_31	cds	21523	22911	+	LDJNFA_04025		hypothetical protein	PFAM:PF00370.24, PFAM:PF02782.19
+contig_31	cds	23088	23612	-	LDJNFA_04030	pepI	Uncharacterized N-acetyltransferase in pepI 3'region	SO:0001217, UniRef:UniRef50_P46543
+contig_31	cds	24494	26221	+	LDJNFA_04035		hypothetical protein	PFAM:PF04650.20
+contig_32	cds	791	1687	+	LDJNFA_04040		hypothetical protein	
+contig_32	cds	1664	1975	-	LDJNFA_04045		Tnp-DDE-dom domain-containing protein	SO:0001217, UniRef:UniRef50_U6FJP4
+contig_32	cds	2044	2370	-	LDJNFA_04050		hypothetical protein	
+contig_32	cds	2364	2663	-	LDJNFA_04055		hypothetical protein	PFAM:PF01609.24
+contig_32	cds	3011	3352	-	LDJNFA_04060		Transcriptional modulator of maze toxin, mazf	SO:0001217, UniRef:UniRef50_A0A0R2H8S4
+contig_32	cds	3346	3594	-	LDJNFA_04065		SpoVT-AbrB domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0U5K166
+contig_32	cds	4284	5240	-	LDJNFA_04070		Bacteriocin helveticin-J	SO:0001217, UniRef:UniRef50_P22294
+contig_32	cds	5275	5949	-	LDJNFA_04075		MmcQ/YjbR family DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A2S0M5R8
+contig_32	cds	6081	6734	+	LDJNFA_04080		hypothetical protein	
+contig_32	cds	6789	7130	-	LDJNFA_04085	mazG	MazG domain-containing protein	SO:0001217, UniRef:UniRef50_R9KQG5
+contig_32	cds	7195	9327	-	LDJNFA_04090		hypothetical protein	PFAM:PF04205.17
+contig_32	cds	9329	11146	-	LDJNFA_04095		Fumarate reductase	SO:0001217, UniRef:UniRef50_A0A137PWA3
+contig_32	cds	11252	11554	-	LDJNFA_04100		hypothetical protein	
+contig_32	cds	11591	12127	-	LDJNFA_04105		hypothetical protein	PFAM:PF00126.30
+contig_32	cds	12333	12896	-	LDJNFA_04110		hypothetical protein	
+contig_32	cds	13107	14444	-	LDJNFA_04115		hypothetical protein	
+contig_32	cds	14519	17602	-	LDJNFA_04120		DEAD/DEAH box helicase family protein	SO:0001217, UniRef:UniRef50_A0A7X8U796
+contig_32	cds	17604	18599	-	LDJNFA_04125		hypothetical protein	
+contig_32	cds	18556	19515	-	LDJNFA_04130		hypothetical protein	
+contig_32	cds	19517	20149	-	LDJNFA_04135		DUF4391 domain-containing protein	SO:0001217, UniRef:UniRef50_F0HTH6
+contig_32	cds	20150	23431	-	LDJNFA_04140		ATP-dependent helicase	SO:0001217, UniRef:UniRef50_A0A1Z5HBL7
+contig_32	cds	23779	24234	-	LDJNFA_04145		hypothetical protein	
+contig_33	cds	298	408	+	LDJNFA_04150		hypothetical protein	
+contig_33	cds	429	911	+	LDJNFA_04155		hypothetical protein	
+contig_33	cds	990	1313	+	LDJNFA_04160		Branched-chain amino acid transport protein	SO:0001217, UniRef:UniRef50_G2KUT2
+contig_33	cds	1352	2746	-	LDJNFA_04165	yfcC	YfcC family protein	SO:0001217, UniRef:UniRef50_S0RUG1
+contig_33	cds	2721	2882	-	LDJNFA_04170		hypothetical protein	
+contig_33	cds	3029	5104	+	LDJNFA_04175		hypothetical protein	
+contig_33	cds	5227	6141	-	LDJNFA_04180	eamA	EamA family transporter	SO:0001217, UniRef:UniRef50_G2KUK4
+contig_33	cds	6233	6964	-	LDJNFA_04185		Abhydrolase-5 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1UUG8
+contig_33	cds	7327	8019	+	LDJNFA_04190		FMN reductase (NADPH)	SO:0001217, UniRef:UniRef50_A0A385XLN0
+contig_33	cds	8026	8817	+	LDJNFA_04195		hypothetical protein	PFAM:PF00702.29, PFAM:PF08282.15
+contig_33	cds	8945	10216	+	LDJNFA_04200		ATP-binding protein	SO:0001217, UniRef:UniRef50_F2M3D0
+contig_33	cds	10757	11530	-	LDJNFA_04205		hypothetical protein	PFAM:PF13529.9
+contig_33	cds	11718	12086	+	LDJNFA_04210		DUF2255 domain-containing protein	SO:0001217, UniRef:UniRef50_F2LZP6
+contig_33	cds	12130	13215	-	LDJNFA_04215		DUF871 domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FJQ2
+contig_33	cds	13442	14782	+	LDJNFA_04220		MATE family efflux transporter	SO:0001217, UniRef:UniRef50_S0NWV9
+contig_33	cds	14872	16230	+	LDJNFA_04225	norM	MOP/MATE family multidrug-resistance efflux pump NorM	SO:0001217, UniRef:UniRef50_I7IYR8
+contig_33	cds	16345	17250	+	LDJNFA_04230		Beta-glucoside kinase	SO:0001217, UniRef:UniRef50_A0A6S4N505
+contig_33	cds	17250	18119	+	LDJNFA_04235		HTH araC/xylS-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A249NJS4
+contig_33	cds	18236	19129	+	LDJNFA_04240		Hydrolase, alpha/beta domain protein	SO:0001217, UniRef:UniRef50_E7FSS6
+contig_33	cds	19158	20456	+	LDJNFA_04245		Permease IIC component	SO:0001217, UniRef:UniRef50_A0A174I1S2
+contig_33	cds	20644	22125	+	LDJNFA_04250		6-phospho-beta-glucosidase	SO:0001217, UniRef:UniRef50_A0A376GUY3
+contig_33	cds	22278	22862	+	LDJNFA_04255		hypothetical protein	PFAM:PF00132.27, PFAM:PF14602.9
+contig_33	cds	23138	23503	+	LDJNFA_04260		hypothetical protein	PFAM:PF00881.27
+contig_34	cds	3	1166	-	LDJNFA_04265		DNA polymerase IV	SO:0001217, UniRef:UniRef50_A0A3R9J566
+contig_34	cds	1187	1885	-	LDJNFA_04270		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_G5JRD5
+contig_34	cds	2021	2941	+	LDJNFA_04275		Aldo-ket-red domain-containing protein	SO:0001217, UniRef:UniRef50_U4TSE7
+contig_34	cds	3418	4512	-	LDJNFA_04280	xerS	Tyrosine recombinase XerS	SO:0001217, UniRef:UniRef50_N1Z9Q0
+contig_34	cds	4710	5771	+	LDJNFA_04285		hypothetical protein	
+contig_34	cds	5839	6657	-	LDJNFA_04290		hypothetical protein	PFAM:PF00702.29, PFAM:PF08282.15
+contig_34	cds	6825	7352	+	LDJNFA_04295		hypothetical protein	
+contig_34	cds	7417	7728	+	LDJNFA_04300		hypothetical protein	
+contig_34	cds	7743	8024	-	LDJNFA_04305		hypothetical protein	
+contig_34	cds	8394	8984	-	LDJNFA_04310		hypothetical protein	PFAM:PF00746.24
+contig_34	cds	9073	9621	+	LDJNFA_04315		hypothetical protein	
+contig_34	cds	9671	10144	+	LDJNFA_04320		hypothetical protein	
+contig_34	cds	10276	10551	+	LDJNFA_04325		hypothetical protein	PFAM:PF02604.22
+contig_34	cds	10544	10816	+	LDJNFA_04330	yoeB	Putative mRNA interferase YoeB	SO:0001217, UniRef:UniRef50_A0A369QJ03
+contig_34	cds	10869	11387	+	LDJNFA_04335		hypothetical protein	
+contig_34	cds	11380	11547	+	LDJNFA_04340		hypothetical protein	
+contig_34	cds	11522	11920	+	LDJNFA_04345		hypothetical protein	
+contig_34	cds	11935	12147	+	LDJNFA_04350		hypothetical protein	
+contig_34	cds	12137	12589	+	LDJNFA_04355		Phage holin	SO:0001217, UniRef:UniRef50_F0TFC1
+contig_34	cds	12558	13463	+	LDJNFA_04360		lysozyme	SO:0001217, UniRef:UniRef50_Q38359
+contig_34	cds	14260	14604	-	LDJNFA_04365		hypothetical protein	
+contig_34	cds	14643	16226	-	LDJNFA_04370		hypothetical protein	PFAM:PF00155.24
+contig_34	cds	16352	17755	-	LDJNFA_04375		Beta-Ala-Xaa dipeptidase	SO:0001217, UniRef:UniRef50_P45494
+contig_34	cds	18173	18805	+	LDJNFA_04380		Tyr recombinase domain-containing protein	SO:0001217, UniRef:UniRef50_G0WJT8
+contig_34	cds	18873	19670	-	LDJNFA_04385		Lipoprotein	SO:0001217, UniRef:UniRef50_D4YRI8
+contig_34	cds	19904	21217	+	LDJNFA_04390		Aminopeptidase E	SO:0001217, UniRef:UniRef50_P94870
+contig_34	cds	21323	21754	-	LDJNFA_04395		hypothetical protein	
+contig_35	cds	230	994	+	LDJNFA_04400		Nitroreductase domain-containing protein	SO:0001217, UniRef:UniRef50_S1QWY1
+contig_35	cds	987	1751	-	LDJNFA_04405		hypothetical protein	
+contig_35	cds	1861	2157	+	LDJNFA_04410		hypothetical protein	PFAM:PF01022.23, PFAM:PF12840.10, PFAM:PF13412.9
+contig_35	cds	2220	2777	+	LDJNFA_04415		hypothetical protein	PFAM:PF00724.23
+contig_35	cds	3009	3425	+	LDJNFA_04420		hypothetical protein	PFAM:PF00724.23
+contig_35	cds	3431	4114	+	LDJNFA_04425		Molecular chaperone Hsp31 and glyoxalase 3	SO:0001217, UniRef:UniRef50_A0A2I1M9K0
+contig_35	tRNA	4179	4251	+	LDJNFA_04430	trnT	tRNA-Thr(cgt)	SO:0000270
+contig_35	cds	4660	5379	-	LDJNFA_04435		Purine nucleoside phosphorylase DeoD-type	SO:0001217, UniRef:UniRef50_Q03Q52
+contig_35	cds	5395	6594	-	LDJNFA_04440		Phosphopentomutase	SO:0001217, UniRef:UniRef50_Q03Q51
+contig_35	cds	6596	7267	-	LDJNFA_04445		Deoxyribose-phosphate aldolase	SO:0001217, UniRef:UniRef50_Q88Z64
+contig_35	cds	7389	7805	-	LDJNFA_04450	psiE	Protein PsiE	SO:0001217, UniRef:UniRef50_C2ELH2
+contig_35	cds	7879	8397	+	LDJNFA_04455		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_Q74I20
+contig_35	cds	8445	8558	-	LDJNFA_04460	copG	CopG family transcriptional regulator	SO:0001217, UniRef:UniRef50_A5VLW4
+contig_35	cds	8797	9477	+	LDJNFA_04465		hypothetical protein	
+contig_35	cds	9558	10409	+	LDJNFA_04470		SEC10/PgrA surface exclusion domain-containing protein	SO:0001217, UniRef:UniRef50_D4YVS2
+contig_35	cds	10428	11006	+	LDJNFA_04475		Histidine phosphatase family protein	SO:0001217, UniRef:UniRef50_A0A0R2KNC6
+contig_35	cds	11186	12085	+	LDJNFA_04480		PTS system mannose-specific EIIAB component	SO:0001217, UniRef:UniRef50_A0A6P1YB31
+contig_35	cds	12096	12896	+	LDJNFA_04485		Phosphoenolpyruvate-dependent sugar phosphotransferase system EIIC	SO:0001217, UniRef:UniRef50_A0A0R1ZK75
+contig_35	cds	12886	13689	+	LDJNFA_04490		PTS fructose transporter subunit IID	SO:0001217, UniRef:UniRef50_A0A242LRN9
+contig_35	cds	13717	14523	-	LDJNFA_04495		HAD family phosphatase	SO:0001217, UniRef:UniRef50_Q74KP4
+contig_35	cds	14653	16128	+	LDJNFA_04500	ascB	6-phospho-beta-glucosidase AscB	SO:0001217, UniRef:UniRef50_M1ME05
+contig_35	cds	16200	17945	-	LDJNFA_04505		1-deoxy-D-xylulose-5-phosphate synthase	SO:0001217, UniRef:UniRef50_A0A556U9Y8
+contig_35	cds	18100	18696	-	LDJNFA_04510		DUF4811 domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FJ53
+contig_35	cds	18693	20162	-	LDJNFA_04515		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R2IDL0
+contig_35	cds	20331	20780	+	LDJNFA_04520		hypothetical protein	
+contig_36	cds	102	1940	+	LDJNFA_04525		Elongation factor 4 2	SO:0001217, UniRef:UniRef50_Q7UE01
+contig_36	cds	2059	2784	+	LDJNFA_04530		Sortase	SO:0001217, UniRef:UniRef50_Q74IT8
+contig_36	cds	2784	5048	+	LDJNFA_04535	recJ	Single-stranded-DNA-specific exonuclease RecJ	SO:0001217, UniRef:UniRef50_Q1G9R6
+contig_36	cds	5155	5682	+	LDJNFA_04540		Adenine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_P0A2X6
+contig_36	cds	5851	7341	+	LDJNFA_04545	yjeM	Glutamate/gamma-aminobutyrate family transporter YjeM	SO:0001217, UniRef:UniRef50_C7XVJ2
+contig_36	cds	7348	8172	+	LDJNFA_04550		putative 2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase	SO:0001217, UniRef:UniRef50_A0A3M0PIZ0
+contig_36	cds	8215	10362	-	LDJNFA_04555		Cation-transporting ATPase	SO:0001217, UniRef:UniRef50_Q5FJQ7
+contig_36	cds	10390	10488	-	LDJNFA_04560		hypothetical protein	PFAM:PF00690.29
+contig_36	cds	10605	11450	+	LDJNFA_04565		HTH lysR-type domain-containing protein	SO:0001217, UniRef:UniRef50_Q74IU8
+contig_36	cds	11503	12789	-	LDJNFA_04570		Enolase	SO:0001217, UniRef:UniRef50_A0A087QB07
+contig_36	cds	13016	13849	+	LDJNFA_04575	degV	DegV family protein	SO:0001217, UniRef:UniRef50_Q5FKM5
+contig_36	cds	13903	14466	-	LDJNFA_04580		acidPPc domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FKM4
+contig_36	cds	14562	15542	-	LDJNFA_04585		Choloylglycine hydrolase	SO:0001217, UniRef:UniRef50_D4N0V8
+contig_36	cds	15713	16261	+	LDJNFA_04590		Metal-dependent hydrolase	SO:0001217, UniRef:UniRef50_Q5FK20
+contig_36	cds	16385	16777	+	LDJNFA_04595		hypothetical protein	
+contig_36	cds	16851	17033	+	LDJNFA_04600		hypothetical protein	
+contig_36	cds	17522	18331	-	LDJNFA_04605		hypothetical protein	
+contig_36	ncRNA	18650	18834	-	LDJNFA_04610	RefB11	Enterococcus sRNA B11	RFAM:RF02848, SO:0000655
+contig_36	cds	18990	19226	+	LDJNFA_04615		hypothetical protein	
+contig_36	cds	19317	19484	-	LDJNFA_04620		hypothetical protein	
+contig_37	cds	157	1149	+	LDJNFA_04625	galR	HTH-type transcriptional repressor GalR	SO:0001217, UniRef:UniRef50_D0R547
+contig_37	cds	1247	2413	+	LDJNFA_04630		Galactokinase	SO:0001217, UniRef:UniRef50_A8UZB4
+contig_37	cds	2420	3892	+	LDJNFA_04635		Galactose-1-phosphate uridylyltransferase	SO:0001217, UniRef:UniRef50_Q00054
+contig_37	cds	3895	4887	+	LDJNFA_04640		Aldose 1-epimerase	SO:0001217, UniRef:UniRef50_Q00053
+contig_37	cds	5073	5687	+	LDJNFA_04645		hypothetical protein	PFAM:PF00239.24
+contig_37	cds	5718	7010	+	LDJNFA_04650	tnpB	IS200/IS605 family element transposase accessory protein TnpB	SO:0001217, UniRef:UniRef50_A0A6P1TXW1
+contig_37	ncRNA	7046	7104	+	LDJNFA_04655	Transposase-1	Transposase-1 RNA	RFAM:RF03014, SO:0000655
+contig_37	cds	7535	8236	+	LDJNFA_04660		Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase	SO:0001217, UniRef:UniRef50_F2NBC2
+contig_37	cds	8379	9404	+	LDJNFA_04665		DUF871 domain-containing protein	SO:0001217, UniRef:UniRef50_E7FV58
+contig_37	cds	9515	10120	+	LDJNFA_04670		hypothetical protein	
+contig_37	cds	10566	11171	+	LDJNFA_04675		hypothetical protein	PFAM:PF06458.15
+contig_37	cds	11602	12228	-	LDJNFA_04680		DUF47 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1S431
+contig_37	cds	12240	13289	-	LDJNFA_04685		Phosphate transporter	SO:0001217, UniRef:UniRef50_A0A5K1JK98
+contig_37	cds	13427	14785	-	LDJNFA_04690		6-phospho-beta-glucosidase	SO:0001217, UniRef:UniRef50_A0A0R1JSE3
+contig_37	cds	14909	15622	+	LDJNFA_04695	gmuR	HTH-type transcriptional regulator GmuR	SO:0001217, UniRef:UniRef50_A0A2X0PWD7
+contig_37	cds	15718	15957	+	LDJNFA_04700		hypothetical protein	PFAM:PF00413.27
+contig_37	cds	16154	17389	+	LDJNFA_04705		hypothetical protein	PFAM:PF00149.31, PFAM:PF12850.10
+contig_37	cds	17632	17877	+	LDJNFA_04710		hypothetical protein	PFAM:PF20038.2
+contig_37	cds	18063	18407	+	LDJNFA_04715		hypothetical protein	
+contig_37	cds	18503	19276	-	LDJNFA_04720	nirC	Nitrite transporter NirC	SO:0001217, UniRef:UniRef50_A0A4R5N380
+contig_38	cds	9	329	+	LDJNFA_04725		hypothetical protein	PFAM:PF01979.23
+contig_38	cds	473	1846	+	LDJNFA_04730		hypothetical protein	PFAM:PF00933.24
+contig_38	cds	2102	2587	+	LDJNFA_04735		putative N(Pi)-phosphohistidine--sugar phosphotransferase	SO:0001217, UniRef:UniRef50_I7KKJ3
+contig_38	cds	2602	3492	+	LDJNFA_04740		PTS system mannose/fructose/sorbose-specific IIC component	SO:0001217, UniRef:UniRef50_A0A2A7SPS1
+contig_38	cds	3479	4297	+	LDJNFA_04745		PTS system IID component	SO:0001217, UniRef:UniRef50_A0A239YBD2
+contig_38	cds	4483	4881	+	LDJNFA_04750		PTS system, galactosamine-specific IIA component	SO:0001217, UniRef:UniRef50_A0A837BSX0
+contig_38	cds	4946	6973	+	LDJNFA_04755		Transposase	SO:0001217, UniRef:UniRef50_I7LD36
+contig_38	cds	7175	7624	+	LDJNFA_04760	yafP	Putative N-acetyltransferase YafP	SO:0001217, UniRef:UniRef50_A0A128F247
+contig_38	cds	7726	9930	+	LDJNFA_04765		hypothetical protein	
+contig_38	cds	9991	11196	-	LDJNFA_04770		ATPase	SO:0001217, UniRef:UniRef50_C2ENZ0
+contig_38	cds	11519	12349	+	LDJNFA_04775		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_U4TLA9
+contig_38	cds	12342	13130	+	LDJNFA_04780		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_U4TSX0
+contig_38	cds	13141	14184	+	LDJNFA_04785	potA	Spermidine/putrescine import ATP-binding protein PotA	SO:0001217, UniRef:UniRef50_A0A3D0CJS9
+contig_38	cds	14212	15270	+	LDJNFA_04790		ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A0R2K5E1
+contig_38	cds	15246	17033	+	LDJNFA_04795		Adenine deaminase	SO:0001217, UniRef:UniRef50_Q1G825
+contig_38	cds	17102	17869	+	LDJNFA_04800		PNP-UDP-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5N4R5
+contig_38	cds	17929	19191	-	LDJNFA_04805		Aluminum resistance protein	SO:0001217, UniRef:UniRef50_Q74HA4
+contig_39	cds	203	670	+	LDJNFA_04810		hypothetical protein	
+contig_39	cds	670	1470	+	LDJNFA_04815		DNA-entry nuclease	SO:0001217, UniRef:UniRef50_A0A0B2XJN1
+contig_39	cds	1555	2472	-	LDJNFA_04820		hypothetical protein	
+contig_39	cds	2489	3217	-	LDJNFA_04825		hypothetical protein	PFAM:PF00486.31
+contig_39	cds	3346	4230	+	LDJNFA_04830		Phosphate-binding protein	SO:0001217, UniRef:UniRef50_E1NQU8
+contig_39	cds	4232	5149	+	LDJNFA_04835		Phosphate transport system permease protein	SO:0001217, UniRef:UniRef50_C2EUH4
+contig_39	cds	5150	6037	+	LDJNFA_04840	pstA	Phosphate transport system permease protein PstA	SO:0001217, UniRef:UniRef50_A0A6G7B790
+contig_39	cds	6050	6829	+	LDJNFA_04845	pstB	Phosphate import ATP-binding protein PstB 1	SO:0001217, UniRef:UniRef50_Q88YK8
+contig_39	cds	6843	7598	+	LDJNFA_04850	pstB	Phosphate import ATP-binding protein PstB 2	SO:0001217, UniRef:UniRef50_Q8E9I8
+contig_39	cds	7614	8378	+	LDJNFA_04855	phoU	Phosphate-specific transport system accessory protein PhoU	SO:0001217, UniRef:UniRef50_A0A0R2K6X8
+contig_39	cds	8687	9751	+	LDJNFA_04860		PTS-EIIC domain-containing protein	SO:0001217, UniRef:UniRef50_M2PZC0
+contig_39	cds	9766	10689	+	LDJNFA_04865		2-dehydropantoate 2-reductase	SO:0001217, UniRef:UniRef50_A0A0E1EIH9
+contig_39	cds	10826	11656	+	LDJNFA_04870		DUF2179 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1VPD3
+contig_39	cds	12349	12546	+	LDJNFA_04875		hypothetical protein	PFAM:PF18938.3
+contig_39	cds	12617	14086	+	LDJNFA_04880		hypothetical protein	PFAM:PF00746.24, PFAM:PF01468.20, PFAM:PF07554.16, PFAM:PF18938.3
+contig_39	cds	14213	14953	-	LDJNFA_04885		hypothetical protein	PFAM:PF14748.9
+contig_39	cds	15007	15651	-	LDJNFA_04890		Crp/Fnr family transcriptional regulator	SO:0001217, UniRef:UniRef50_N2AC90
+contig_39	cds	15730	16089	+	LDJNFA_04895		hypothetical protein	PFAM:PF06993.15
+contig_39	cds	16403	17941	+	LDJNFA_04900		L-lactate permease	SO:0001217, UniRef:UniRef50_O33654
+contig_39	cds	18133	18474	+	LDJNFA_04905		hypothetical protein	PFAM:PF04650.20
+contig_39	cds	18513	18806	+	LDJNFA_04910		hypothetical protein	PFAM:PF17966.4
+contig_39	cds	18773	18943	-	LDJNFA_04915		hypothetical protein	
+contig_40	cds	277	1101	+	LDJNFA_04920		hypothetical protein	PFAM:PF00070.30, PFAM:PF07992.17
+contig_40	cds	1110	1760	+	LDJNFA_04925	dedA	DedA family protein	SO:0001217, UniRef:UniRef50_A0A0D6A234
+contig_40	cds	1791	2396	-	LDJNFA_04930		TIGR01906 family membrane protein	SO:0001217, UniRef:UniRef50_U6FME7
+contig_40	cds	2393	3169	-	LDJNFA_04935		Acid sugar phosphatase	SO:0001217, UniRef:UniRef50_A0A137PNX2
+contig_40	cds	3174	3725	-	LDJNFA_04940	yutD	YutD family protein	SO:0001217, UniRef:UniRef50_Q5FLU8
+contig_40	cds	3715	5109	-	LDJNFA_04945		Bifunctional metallophosphatase/5'-nucleotidase	SO:0001217, UniRef:UniRef50_Q74KT1
+contig_40	cds	5121	5459	-	LDJNFA_04950		Phage protein	SO:0001217, UniRef:UniRef50_Q5FLV0
+contig_40	cds	5552	6937	+	LDJNFA_04955		Glycerophosphoryl diester phosphodiesterase	SO:0001217, UniRef:UniRef50_A0A837BTY8
+contig_40	cds	6909	7592	-	LDJNFA_04960		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase 1	SO:0001217, UniRef:UniRef50_Q88YY8
+contig_40	cds	7610	7795	-	LDJNFA_04965		DUF1294 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0F4LRD0
+contig_40	cds	7812	8750	-	LDJNFA_04970		ZT-dimer domain-containing protein	SO:0001217, UniRef:UniRef50_Q74L48
+contig_40	cds	8767	9447	-	LDJNFA_04975		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	SO:0001217, UniRef:UniRef50_A0A0D5MH09
+contig_40	cds	9504	10208	-	LDJNFA_04980		hypothetical protein	
+contig_40	cds	10386	10970	+	LDJNFA_04985		4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis protein	SO:0001217, UniRef:UniRef50_A0A1D7TQL7
+contig_40	cds	11089	11484	-	LDJNFA_04990		30S ribosomal protein S9	SO:0001217, UniRef:UniRef50_P80374
+contig_40	cds	11496	11939	-	LDJNFA_04995		50S ribosomal protein L13	SO:0001217, UniRef:UniRef50_A0A7W1DPY5
+contig_40	ncRNA-region	11958	12009	-			Ribosomal protein L13 leader	RFAM:RF00555, SO:0000140
+contig_40	cds	12044	12832	-	LDJNFA_05000		tRNA pseudouridine synthase A	SO:0001217, UniRef:UniRef50_E1NP81
+contig_40	cds	12832	13629	-	LDJNFA_05005	ecfT	Energy-coupling factor transporter transmembrane protein EcfT	SO:0001217, UniRef:UniRef50_A0A061BSU4
+contig_40	cds	13634	14479	-	LDJNFA_05010	ecfA2	Energy-coupling factor transporter ATP-binding protein EcfA2	SO:0001217, UniRef:UniRef50_Q1GBI9
+contig_40	cds	14455	15300	-	LDJNFA_05015	ecfA1	Energy-coupling factor transporter ATP-binding protein EcfA1	SO:0001217, UniRef:UniRef50_Q035B2
+contig_40	cds	15479	15862	-	LDJNFA_05020		50S ribosomal protein L17	SO:0001217, UniRef:UniRef50_Q03PY4
+contig_40	cds	15891	16829	-	LDJNFA_05025		DNA-directed RNA polymerase subunit alpha	SO:0001217, UniRef:UniRef50_B0TC85
+contig_40	cds	16875	17258	-	LDJNFA_05030		30S ribosomal protein S11	SO:0001217, UniRef:UniRef50_P44379
+contig_40	cds	17280	17630	-	LDJNFA_05035		30S ribosomal protein S13	SO:0001217, UniRef:UniRef50_P59753
+contig_40	cds	17654	17770	-	LDJNFA_05040		hypothetical protein	PFAM:PF00444.21
+contig_40	cds	17785	18006	-	LDJNFA_05045		Translation initiation factor IF-1	SO:0001217, UniRef:UniRef50_A0A0N0A8P6
+contig_40	cds	18079	18735	-	LDJNFA_05050		Adenylate kinase	SO:0001217, UniRef:UniRef50_Q5FM70
+contig_40	cds	18745	20040	-	LDJNFA_05055	secY	Protein translocase subunit SecY 1	SO:0001217, UniRef:UniRef50_F6CD01
+contig_40	cds	20040	20480	-	LDJNFA_05060		50S ribosomal protein L15	SO:0001217, UniRef:UniRef50_P19946
+contig_40	cds	20503	20688	-	LDJNFA_05065		50S ribosomal protein L30	SO:0001217, UniRef:UniRef50_Q03PX5
+contig_40	cds	20700	21209	-	LDJNFA_05070		30S ribosomal protein S5	SO:0001217, UniRef:UniRef50_C7XVS9
+contig_40	cds	21227	21586	-	LDJNFA_05075		50S ribosomal protein L18	SO:0001217, UniRef:UniRef50_Q8DS29
+contig_40	cds	21612	22142	-	LDJNFA_05080		50S ribosomal protein L6	SO:0001217, UniRef:UniRef50_Q2YEI7
+contig_40	cds	22167	22565	-	LDJNFA_05085		30S ribosomal protein S8	SO:0001217, UniRef:UniRef50_P12879
+contig_40	cds	22589	22774	-	LDJNFA_05090		30S ribosomal protein S14 type Z	SO:0001217, UniRef:UniRef50_Q1GBK5
+contig_40	cds	22787	23329	-	LDJNFA_05095		50S ribosomal protein L5	SO:0001217, UniRef:UniRef50_Q8KAI4
+contig_40	cds	23344	23577	-	LDJNFA_05100		50S ribosomal protein L24	SO:0001217, UniRef:UniRef50_Q1GBK7
+contig_40	cds	23597	23965	-	LDJNFA_05105		50S ribosomal protein L14	SO:0001217, UniRef:UniRef50_Q5SHP8
+contig_40	cds	23999	24265	-	LDJNFA_05110		30S ribosomal protein S17	SO:0001217, UniRef:UniRef50_P23828
+contig_40	cds	24284	24481	-	LDJNFA_05115		50S ribosomal protein L29	SO:0001217, UniRef:UniRef50_Q49ZG0
+contig_40	cds	24471	24911	-	LDJNFA_05120		50S ribosomal protein L16	SO:0001217, UniRef:UniRef50_Q9RXJ5
+contig_40	cds	24911	25582	-	LDJNFA_05125		30S ribosomal protein S3	SO:0001217, UniRef:UniRef50_P21465
+contig_40	cds	25596	25949	-	LDJNFA_05130		50S ribosomal protein L22	SO:0001217, UniRef:UniRef50_Q18CG1
+contig_40	cds	25971	26249	-	LDJNFA_05135		30S ribosomal protein S19	SO:0001217, UniRef:UniRef50_A0A061NAJ4
+contig_40	cds	26268	27104	-	LDJNFA_05140		50S ribosomal protein L2	SO:0001217, UniRef:UniRef50_Q9AMK8
+contig_40	cds	27120	27428	-	LDJNFA_05145		50S ribosomal protein L23	SO:0001217, UniRef:UniRef50_Q88XY4
+contig_40	cds	27428	28045	-	LDJNFA_05150		50S ribosomal protein L4	SO:0001217, UniRef:UniRef50_P42921
+contig_40	cds	28060	28698	-	LDJNFA_05155		50S ribosomal protein L3	SO:0001217, UniRef:UniRef50_Q04G85
+contig_40	cds	28724	29032	-	LDJNFA_05160		30S ribosomal protein S10	SO:0001217, UniRef:UniRef50_Q9CDW1
+contig_40	cds	29384	31477	-	LDJNFA_05165		Elongation factor G	SO:0001217, UniRef:UniRef50_Q5SHN5
+contig_40	cds	31516	31986	-	LDJNFA_05170		30S ribosomal protein S7	SO:0001217, UniRef:UniRef50_A9KRZ2
+contig_40	cds	32001	32408	-	LDJNFA_05175		30S ribosomal protein S12	SO:0001217, UniRef:UniRef50_A1TYJ2
+contig_40	cds	32596	33291	+	LDJNFA_05180		hypothetical protein	PFAM:PF06750.16
+contig_40	cds	33358	37011	-	LDJNFA_05185		DNA-directed RNA polymerase subunit beta'	SO:0001217, UniRef:UniRef50_Q890N5
+contig_40	cds	37027	40656	-	LDJNFA_05190		DNA-directed RNA polymerase subunit beta	SO:0001217, UniRef:UniRef50_Q9Z9M2
+contig_40	cds	40870	43353	-	LDJNFA_05195	clpX	Clp protease ClpX	SO:0001217, UniRef:UniRef50_A0A0H4R031
+contig_40	cds	43369	43833	-	LDJNFA_05200		GAF domain-containing protein	SO:0001217, UniRef:UniRef50_E0S099
+contig_40	tRNA	43957	44030	-	LDJNFA_05205	trnP	tRNA-Pro(cgg)	SO:0000268
+contig_40	tRNA	44071	44142	-	LDJNFA_05210	trnG	tRNA-Gly(gcc)	SO:0000260
+contig_40	tRNA	44220	44291	-	LDJNFA_05215	trnG	tRNA-Gly(gcc)	SO:0000260
+contig_40	tRNA	44303	44375	-	LDJNFA_05220	trnT	tRNA-Thr(tgt)	SO:0000270
+contig_40	tRNA	44401	44482	-	LDJNFA_05225	trnL	tRNA-Leu(tag)	SO:0000264
+contig_40	tRNA	44495	44567	-	LDJNFA_05230	trnK	tRNA-Lys(ttt)	SO:0000265
+contig_40	gap	44593	44593	.				
+contig_40	cds	44657	44983	-	LDJNFA_05235		hypothetical protein	
+contig_40	cds	45079	45585	-	LDJNFA_05240		hypothetical protein	
+contig_40	cds	45644	47146	-	LDJNFA_05245		Lysine--tRNA ligase	SO:0001217, UniRef:UniRef50_P37477
+contig_40	cds	47162	48184	-	LDJNFA_05250		putative tRNA-dihydrouridine synthase 1	SO:0001217, UniRef:UniRef50_P37567
+contig_40	cds	48252	49139	-	LDJNFA_05255		33 kDa chaperonin	SO:0001217, UniRef:UniRef50_Q5FMA2
+contig_40	cds	49185	51293	-	LDJNFA_05260	ftsH	ATP-dependent zinc metalloprotease FtsH	SO:0001217, UniRef:UniRef50_P46469
+contig_40	cds	51368	52627	-	LDJNFA_05265		hypothetical protein	
+contig_40	cds	52686	53048	-	LDJNFA_05270		S1 motif domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1S095
+contig_40	cds	53048	53434	-	LDJNFA_05275		putative septum formation initiator protein	SO:0001217, UniRef:UniRef50_I7KNB1
+contig_40	cds	53494	53736	-	LDJNFA_05280		S4 domain-containing protein	SO:0001217, UniRef:UniRef50_R5KBE7
+contig_40	cds	53744	57235	-	LDJNFA_05285		Transcription-repair-coupling factor	SO:0001217, UniRef:UniRef50_A0A0F4LBW3
+contig_40	cds	57237	57794	-	LDJNFA_05290		Peptidyl-tRNA hydrolase	SO:0001217, UniRef:UniRef50_Q5FMA9
+contig_40	cds	57996	58709	+	LDJNFA_05295		CBS domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FMB1
+contig_40	cds	58761	59891	-	LDJNFA_05300		Alanine racemase	SO:0001217, UniRef:UniRef50_Q5FMB2
+contig_40	cds	59888	60247	-	LDJNFA_05305		Holo-[acyl-carrier-protein] synthase	SO:0001217, UniRef:UniRef50_Q1GBP7
+contig_40	cds	60335	61816	-	LDJNFA_05310	cshA	DEAD-box ATP-dependent RNA helicase CshA	SO:0001217, UniRef:UniRef50_A0A1Z5IKJ0
+contig_40	cds	61829	63196	-	LDJNFA_05315		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	SO:0001217, UniRef:UniRef50_C0XFU2
+contig_40	cds	63320	63565	-	LDJNFA_05320		50S ribosomal protein L31 type B	SO:0001217, UniRef:UniRef50_Q03DY3
+contig_40	cds	63667	65283	-	LDJNFA_05325		Alpha amylase, catalytic domain protein	SO:0001217, UniRef:UniRef50_C2E3D8
+contig_40	cds	65558	66457	+	LDJNFA_05330		hypothetical protein	PFAM:PF01381.25, PFAM:PF12844.10
+contig_40	cds	66666	67265	+	LDJNFA_05335		hypothetical protein	
+contig_40	cds	67645	69228	-	LDJNFA_05340		Amino acid/polyamine/organocation transporter, APC superfamily	SO:0001217, UniRef:UniRef50_Q03FB3
+contig_40	cds	69351	69536	+	LDJNFA_05345		hypothetical protein	
+contig_40	cds	69600	71150	-	LDJNFA_05350		GMP synthase [glutamine-hydrolyzing]	SO:0001217, UniRef:UniRef50_K0IVS3
+contig_40	ncRNA-region	71289	71386	+			Purine riboswitch	RFAM:RF00167, SO:0000035
+contig_40	cds	71461	72039	+	LDJNFA_05355		Xanthine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_Q04GD7
+contig_40	cds	72039	73316	+	LDJNFA_05360		Xanthine uracil permease	SO:0001217, UniRef:UniRef50_A0A0R1RVJ8
+contig_40	cds	73367	74809	-	LDJNFA_05365		Sucrose phosphorylase	SO:0001217, UniRef:UniRef50_P10249
+contig_40	cds	74828	77029	-	LDJNFA_05370		Alpha-galactosidase	SO:0001217, UniRef:UniRef50_U4TJ60
+contig_40	cds	77384	78331	+	LDJNFA_05375		Peripla-BP-3 domain-containing protein	SO:0001217, UniRef:UniRef50_K1M806
+contig_40	cds	78397	79818	+	LDJNFA_05380		Dipeptidase A	SO:0001217, UniRef:UniRef50_Q48558
+contig_40	cds	79879	81174	-	LDJNFA_05385		UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2	SO:0001217, UniRef:UniRef50_P19670
+contig_40	cds	81301	82920	-	LDJNFA_05390		CTP synthase	SO:0001217, UniRef:UniRef50_O87761
+contig_40	cds	83041	83589	-	LDJNFA_05395		hypothetical protein	
+contig_40	cds	83636	84037	-	LDJNFA_05400		DUF1934 domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZVK8
+contig_40	cds	84129	85496	+	LDJNFA_05405		HD domain-containing protein	SO:0001217, UniRef:UniRef50_H5SYR4
+contig_40	cds	85534	86505	-	LDJNFA_05410		Ribose-phosphate pyrophosphokinase 2	SO:0001217, UniRef:UniRef50_Q82ZA5
+contig_40	cds	86558	87565	-	LDJNFA_05415		hypothetical protein	PFAM:PF05913.14, PFAM:PF19200.3
+contig_40	cds	87670	89211	-	LDJNFA_05420		hypothetical protein	PFAM:PF03217.17, PFAM:PF07554.16
+contig_40	cds	89362	90078	-	LDJNFA_05425		hypothetical protein	
+contig_40	cds	90168	90764	-	LDJNFA_05430		hypothetical protein	PFAM:PF03217.17
+contig_40	cds	90860	92245	-	LDJNFA_05435	glmU	Bifunctional protein GlmU	SO:0001217, UniRef:UniRef50_Q88Z86
+contig_40	cds	92293	93123	-	LDJNFA_05440		Pur operon repressor	SO:0001217, UniRef:UniRef50_Q1GBQ9
+contig_40	cds	93222	93479	-	LDJNFA_05445		Veg protein	SO:0001217, UniRef:UniRef50_D6XV41
+contig_40	cds	93551	94432	-	LDJNFA_05450		Ribosomal RNA small subunit methyltransferase A	SO:0001217, UniRef:UniRef50_Q5FMG3
+contig_40	cds	94410	94985	-	LDJNFA_05455		Ribonuclease M5	SO:0001217, UniRef:UniRef50_W5XDW9
+contig_40	cds	94972	95739	-	LDJNFA_05460		D-aminoacyl-tRNA deacylase	SO:0001217, UniRef:UniRef50_A0A137PYL7
+contig_40	cds	95740	97719	-	LDJNFA_05465		Methionine--tRNA ligase	SO:0001217, UniRef:UniRef50_P23920
+contig_40	cds	97853	100543	-	LDJNFA_05470		Magnesium-transporting ATPase, P-type 1	SO:0001217, UniRef:UniRef50_W5IGE8
+contig_40	ncRNA-region	100640	100803	-			M-box riboswitch (ykoK leader)	RFAM:RF00380, SO:0000140
+contig_40	cds	100864	101505	-	LDJNFA_05475		TPM-phosphatase domain-containing protein	SO:0001217, UniRef:UniRef50_D4YTH3
+contig_40	cds	101453	101941	-	LDJNFA_05480		CMP/dCMP-type deaminase domain-containing protein	SO:0001217, UniRef:UniRef50_H3NLW7
+contig_40	cds	101959	102978	-	LDJNFA_05485		Tryptophan--tRNA ligase	SO:0001217, UniRef:UniRef50_Q99XH4
+contig_40	cds	103093	103692	+	LDJNFA_05490		hypothetical protein	
+contig_40	tRNA	103757	103827	+	LDJNFA_05495	trnG	tRNA-Gly(ccc)	SO:0000260
+contig_40	cds	103878	104540	-	LDJNFA_05500		CPBP family intramembrane metalloprotease	SO:0001217, UniRef:UniRef50_N2A0G5
+contig_40	cds	104630	105091	-	LDJNFA_05505	greA	Transcription elongation factor GreA	SO:0001217, UniRef:UniRef50_A0A0F4LPL1
+contig_40	cds	105366	106679	-	LDJNFA_05510		Aminopeptidase	SO:0001217, UniRef:UniRef50_D4YTP9
+contig_40	cds	106691	107632	-	LDJNFA_05515		ABC-type dipeptide/oligopeptide/nickel transporter	SO:0001217, UniRef:UniRef50_A0A0F4LKF9
+contig_40	cds	107634	108683	-	LDJNFA_05520		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A1V0QAA5
+contig_40	cds	108698	109729	-	LDJNFA_05525		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1VF65
+contig_40	cds	109730	110659	-	LDJNFA_05530		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A192F3I5
+contig_40	cds	110792	112414	-	LDJNFA_05535		SBP-bac-5 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R2ILY1
+contig_40	cds	112630	113772	-	LDJNFA_05540		Inosine-5-monophosphate dehydrogenase	SO:0001217, UniRef:UniRef50_I7KL25
+contig_40	cds	113897	114550	-	LDJNFA_05545		HD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7U9RMA0
+contig_40	cds	114689	115372	+	LDJNFA_05550		hypothetical protein	
+contig_40	cds	115566	116510	+	LDJNFA_05555		Transposase	SO:0001217, UniRef:UniRef50_U6FCK6
+contig_40	cds	116555	118765	-	LDJNFA_05560		hypothetical protein	PFAM:PF00746.24, PFAM:PF04650.20
+contig_40	tRNA	119533	119605	-	LDJNFA_05565	trnT	tRNA-Thr(ggt)	SO:0000270
+contig_40	cds	119678	120940	-	LDJNFA_05570		Tyrosine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q88TV5
+contig_40	cds	121201	124176	-	LDJNFA_05575		Sulfatase domain-containing protein	SO:0001217, UniRef:UniRef50_N2ANN2
+contig_40	cds	124216	124833	-	LDJNFA_05580		Glycerol-3-phosphate acyltransferase 1	SO:0001217, UniRef:UniRef50_Q5FMI9
+contig_40	cds	124833	125936	-	LDJNFA_05585		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A0F4L7I7
+contig_40	cds	126214	126498	-	LDJNFA_05590		HicB-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D6A243
+contig_40	cds	126723	127400	+	LDJNFA_05595		hypothetical protein	PFAM:PF03217.17
+contig_40	cds	127407	127736	+	LDJNFA_05600		hypothetical protein	
+contig_40	cds	127797	128489	-	LDJNFA_05605		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase 2	SO:0001217, UniRef:UniRef50_Q88T35
+contig_40	cds	128639	129061	+	LDJNFA_05610		PAS domain-containing protein	SO:0001217, UniRef:UniRef50_N2AI40
+contig_40	cds	129073	129816	+	LDJNFA_05615		hypothetical protein	
+contig_40	cds	129827	130618	+	LDJNFA_05620		DNA polymerase	SO:0001217, UniRef:UniRef50_A0A3R6BUU5
+contig_40	cds	130638	131594	+	LDJNFA_05625		1,5-anhydro-D-fructose reductase	SO:0001217, UniRef:UniRef50_A0A137PRD0
+contig_40	cds	131638	133470	-	LDJNFA_05630		Potassium transporter	SO:0001217, UniRef:UniRef50_Q74LM4
+contig_40	cds	133544	134791	-	LDJNFA_05635		Amidase	SO:0001217, UniRef:UniRef50_A0A3M0LPN8
+contig_40	cds	134810	136150	-	LDJNFA_05640		N-acetylmuramidase	SO:0001217, UniRef:UniRef50_Q5FMJ9
+contig_40	cds	136609	136980	+	LDJNFA_05645		hypothetical protein	PFAM:PF03217.17
+contig_40	cds	137087	137389	-	LDJNFA_05650		hypothetical protein	
+contig_40	cds	137666	138091	+	LDJNFA_05655		hypothetical protein	
+contig_40	cds	138098	138457	+	LDJNFA_05660		hypothetical protein	
+contig_40	cds	138927	140441	-	LDJNFA_05665		Transcriptional regulator	SO:0001217, UniRef:UniRef50_I7JZY7
+contig_40	cds	140745	141017	+	LDJNFA_05670		hypothetical protein	
+contig_40	cds	141152	141472	+	LDJNFA_05675		hypothetical protein	
+contig_40	cds	141513	142058	+	LDJNFA_05680		hypothetical protein	
+contig_40	cds	142073	142306	+	LDJNFA_05685		hypothetical protein	
+contig_40	cds	142381	143988	-	LDJNFA_05690		hypothetical protein	PFAM:PF03217.17
+contig_40	cds	144770	145624	+	LDJNFA_05695		hypothetical protein	
+contig_40	cds	145737	146180	+	LDJNFA_05700		hypothetical protein	
+contig_41	cds	76	1698	-	LDJNFA_05705	ykpA	Uncharacterized ABC transporter ATP-binding protein YkpA	SO:0001217, UniRef:UniRef50_O31716
+contig_41	cds	1942	2538	-	LDJNFA_05710	engB	putative GTP-binding protein EngB	SO:0001217, UniRef:UniRef50_Q5FKR5
+contig_41	cds	2528	3793	-	LDJNFA_05715	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	SO:0001217, UniRef:UniRef50_Q8DUI0
+contig_41	cds	3923	5248	-	LDJNFA_05720		Trigger factor	SO:0001217, UniRef:UniRef50_B2GBC3
+contig_41	cds	5395	6585	-	LDJNFA_05725		Elongation factor Tu	SO:0001217, UniRef:UniRef50_A0A151B5M1
+contig_41	gap	6528	6528	.				
+contig_41	cds	6560	6670	-	LDJNFA_05730		hypothetical protein	
+contig_41	cds	6767	7597	-	LDJNFA_05735		hypothetical protein	
+contig_41	cds	7600	9444	-	LDJNFA_05740		Ribonuclease J	SO:0001217, UniRef:UniRef50_A0A137PKW7
+contig_41	cds	9590	9859	-	LDJNFA_05745		30S ribosomal protein S15	SO:0001217, UniRef:UniRef50_Q82ZJ1
+contig_41	cds	10062	10313	+	LDJNFA_05750		30S ribosomal protein S20	SO:0001217, UniRef:UniRef50_Q5FKS2
+contig_41	cds	10368	11354	-	LDJNFA_05755		DNA-pol3-delta domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7U9WX37
+contig_41	cds	11358	13628	-	LDJNFA_05760		Lactamase-B domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1Y956
+contig_41	cds	13597	14268	-	LDJNFA_05765		hypothetical protein	PFAM:PF00633.26, PFAM:PF10531.12, PFAM:PF12836.10, PFAM:PF14520.9
+contig_41	cds	14349	15377	-	LDJNFA_05770		endopeptidase La	SO:0001217, UniRef:UniRef50_A0A3Q8STN5
+contig_41	cds	15381	15866	-	LDJNFA_05775		Phosphopantetheine adenylyltransferase	SO:0001217, UniRef:UniRef50_Q5FKS7
+contig_41	cds	15863	16420	-	LDJNFA_05780	rsmD	RNA methyltransferase, RsmD family	SO:0001217, UniRef:UniRef50_C2EMJ2
+contig_41	cds	16417	16758	-	LDJNFA_05785		DUF2129 domain-containing protein	SO:0001217, UniRef:UniRef50_C2EMJ1
+contig_41	cds	16761	17936	-	LDJNFA_05790		Cell cycle protein, FtsW/RodA/SpoVE family	SO:0001217, UniRef:UniRef50_C8PAT8
+contig_42	cds	24	311	+	LDJNFA_05795		DNA polymerase IV	SO:0001217, UniRef:UniRef50_A0A6I3UAH9
+contig_42	cds	308	652	+	LDJNFA_05800		hypothetical protein	
+contig_42	cds	657	830	+	LDJNFA_05805		hypothetical protein	
+contig_42	cds	1813	2376	-	LDJNFA_05810		hypothetical protein	
+contig_42	cds	2862	4424	-	LDJNFA_05815	tnpB	IS200/IS605 family element transposase accessory protein TnpB	SO:0001217, UniRef:UniRef50_A0A845PQR5
+contig_42	cds	4378	4731	-	LDJNFA_05820		hypothetical protein	PFAM:PF00239.24
+contig_42	cds	4787	5023	-	LDJNFA_05825		hypothetical protein	PFAM:PF12728.10
+contig_42	cds	5138	5725	-	LDJNFA_05830		Uncharacterized protein HI_0220-2	SO:0001217, UniRef:UniRef50_O86222
+contig_42	cds	5807	6442	-	LDJNFA_05835		Crp/Fnr family transcriptional regulator	SO:0001217, UniRef:UniRef50_Q74I73
+contig_42	cds	6462	7007	-	LDJNFA_05840		Dna-binding ferritin-like protein (Oxidative damage protectant)	SO:0001217, UniRef:UniRef50_A0A0R1VUI8
+contig_42	cds	7007	7225	-	LDJNFA_05845		hypothetical protein	PFAM:PF00403.29, PFAM:PF01206.20
+contig_42	cds	7264	9165	-	LDJNFA_05850		Putative cadmium-transporting ATPase	SO:0001217, UniRef:UniRef50_A0A380KPG2
+contig_42	gap	9276	9276	.				
+contig_42	cds	9298	9630	+	LDJNFA_05855		hypothetical protein	PFAM:PF13546.9
+contig_42	gap	9708	9708	.				
+contig_42	gap	9919	9919	.				
+contig_42	cds	9933	10712	-	LDJNFA_05860		hypothetical protein	
+contig_42	cds	11062	11589	+	LDJNFA_05865		DUF2313 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R2AP78
+contig_42	cds	11755	13080	+	LDJNFA_05870	mepA	Multidrug export protein MepA	SO:0001217, UniRef:UniRef50_K0NL14
+contig_42	cds	13277	13432	+	LDJNFA_05875		hypothetical protein	
+contig_42	cds	13931	14470	+	LDJNFA_05880		Mutator family transposase	SO:0001217, UniRef:UniRef50_A0A0D6A195
+contig_42	cds	14916	15470	-	LDJNFA_05885		hypothetical protein	
+contig_42	cds	15617	16285	+	LDJNFA_05890		Crp/Fnr family transcriptional regulator	SO:0001217, UniRef:UniRef50_N2AC90
+contig_42	cds	16321	16515	-	LDJNFA_05895		hypothetical protein	
+contig_43	cds	233	1570	-	LDJNFA_05900		hypothetical protein	PFAM:PF13240.9
+contig_43	cds	1580	2434	-	LDJNFA_05905		hypothetical protein	PFAM:PF13240.9, PFAM:PF13248.9
+contig_43	cds	2597	4192	-	LDJNFA_05910		hypothetical protein	PFAM:PF00005.30
+contig_43	cds	4485	7667	-	LDJNFA_05915		Carbamoyl-phosphate synthase pyrimidine-specific large chain	SO:0001217, UniRef:UniRef50_P77886
+contig_43	cds	7660	8742	-	LDJNFA_05920		Carbamoyl-phosphate synthase pyrimidine-specific small chain	SO:0001217, UniRef:UniRef50_P77885
+contig_43	cds	8756	10015	-	LDJNFA_05925		Dihydroorotase	SO:0001217, UniRef:UniRef50_F2I557
+contig_43	cds	10015	10971	-	LDJNFA_05930		Aspartate carbamoyltransferase	SO:0001217, UniRef:UniRef50_Q8Y662
+contig_43	cds	11101	11637	-	LDJNFA_05935	pyrR	Bifunctional protein PyrR	SO:0001217, UniRef:UniRef50_Q8CXH9
+contig_43	cds	11824	12741	-	LDJNFA_05940		Dihydroorotate dehydrogenase A (fumarate)	SO:0001217, UniRef:UniRef50_Q5FJB5
+contig_43	cds	12977	13684	+	LDJNFA_05945		Orotidine 5'-phosphate decarboxylase	SO:0001217, UniRef:UniRef50_Q5FJB3
+contig_43	cds	13686	14309	+	LDJNFA_05950		Orotate phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_Q03NE4
+contig_43	cds	14642	14893	-	LDJNFA_05955		hypothetical protein	
+contig_43	cds	14957	15814	-	LDJNFA_05960		Transposase	SO:0001217, UniRef:UniRef50_A0A0R1NIF1
+contig_44	cds	98	967	-	LDJNFA_05965		hypothetical protein	PFAM:PF03217.17
+contig_44	cds	1193	1696	+	LDJNFA_05970		hypothetical protein	
+contig_44	cds	1665	2465	+	LDJNFA_05975		hypothetical protein	PFAM:PF05031.15
+contig_44	cds	2429	3280	+	LDJNFA_05980		Iron Transport-associated domain protein	SO:0001217, UniRef:UniRef50_I7LDG4
+contig_44	cds	3267	4148	+	LDJNFA_05985	isdE	High-affinity heme uptake system protein IsdE	SO:0001217, UniRef:UniRef50_A0A0R2EA71
+contig_44	cds	4151	5083	+	LDJNFA_05990		Iron ABC transporter permease protein	SO:0001217, UniRef:UniRef50_A0A6F9XM40
+contig_44	cds	5076	5831	+	LDJNFA_05995		Iron ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A6F9XM88
+contig_44	cds	6036	6404	+	LDJNFA_06000		hypothetical protein	
+contig_44	cds	6689	7414	+	LDJNFA_06005		hypothetical protein	
+contig_44	cds	7560	8261	+	LDJNFA_06010		ABC transporter	SO:0001217, UniRef:UniRef50_A0A173ZH93
+contig_44	cds	8271	10868	+	LDJNFA_06015		hypothetical protein	
+contig_44	cds	10946	11173	-	LDJNFA_06020		hypothetical protein	PFAM:PF00173.31
+contig_44	cds	11347	13095	-	LDJNFA_06025		hypothetical protein	PFAM:PF05935.14, PFAM:PF14269.9, PFAM:PF17425.5
+contig_44	cds	13243	14931	-	LDJNFA_06030		hypothetical protein	PFAM:PF05935.14, PFAM:PF14269.9, PFAM:PF17425.5
+contig_44	cds	15164	15655	-	LDJNFA_06035		Thioredoxin peroxidase	SO:0001217, UniRef:UniRef50_D2BN61
+contig_45	cds	78	335	+	LDJNFA_06040		hypothetical protein	
+contig_45	cds	322	585	+	LDJNFA_06045		hypothetical protein	
+contig_45	cds	587	1300	+	LDJNFA_06050		DNA-binding protein	SO:0001217, UniRef:UniRef50_K0NYD3
+contig_45	cds	1293	2636	+	LDJNFA_06055		Helicase	SO:0001217, UniRef:UniRef50_A0A137PPK6
+contig_45	cds	2648	3163	+	LDJNFA_06060		DUF669 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0P0EKM7
+contig_45	cds	3144	5480	+	LDJNFA_06065		SF3 helicase domain-containing protein	SO:0001217, UniRef:UniRef50_K0NV27
+contig_45	cds	5765	5953	+	LDJNFA_06070		hypothetical protein	
+contig_45	gap	5884	5884	.				
+contig_45	cds	5978	6208	+	LDJNFA_06075		hypothetical protein	
+contig_45	cds	6201	6473	+	LDJNFA_06080		hypothetical protein	PFAM:PF07659.14
+contig_45	cds	6454	6753	+	LDJNFA_06085		hypothetical protein	
+contig_45	cds	6713	7078	+	LDJNFA_06090		VRR-NUC domain-containing protein	SO:0001217, UniRef:UniRef50_D0R3N3
+contig_45	cds	7068	7580	+	LDJNFA_06095		hypothetical protein	
+contig_45	cds	7585	8031	+	LDJNFA_06100		hypothetical protein	
+contig_45	tRNA	8551	8633	+	LDJNFA_06105	trnY	tRNA-Tyr(gta)	SO:0000272
+contig_45	cds	8761	9342	+	LDJNFA_06110		hypothetical protein	
+contig_45	cds	9411	9896	+	LDJNFA_06115		HTH-Tnp-1-2 domain-containing protein	SO:0001217, UniRef:UniRef50_N2A371
+contig_45	cds	9898	11121	+	LDJNFA_06120		PBSX family phage terminase, large subunit	SO:0001217, UniRef:UniRef50_N2ABH5
+contig_45	cds	11112	12578	+	LDJNFA_06125		Phage portal protein	SO:0001217, UniRef:UniRef50_A0A0F4LCU3
+contig_45	cds	12581	14086	+	LDJNFA_06130		hypothetical protein	
+contig_45	cds	14074	14334	+	LDJNFA_06135		Phage protein	SO:0001217, UniRef:UniRef50_I7LCQ1
+contig_45	cds	14338	14679	+	LDJNFA_06140		hypothetical protein	PFAM:PF09639.13
+contig_45	cds	14810	15349	+	LDJNFA_06145		hypothetical protein	
+contig_46	cds	307	1476	-	LDJNFA_06150		Tagatose-6-phosphate aldose/ketose isomerase	SO:0001217, UniRef:UniRef50_A0A448DN03
+contig_46	cds	1493	2209	-	LDJNFA_06155	yvoA	HTH-type transcriptional repressor YvoA	SO:0001217, UniRef:UniRef50_A0A386RGY6
+contig_46	cds	2348	2959	-	LDJNFA_06160		hypothetical protein	
+contig_46	cds	3093	3710	+	LDJNFA_06165		hypothetical protein	PFAM:PF00300.25
+contig_46	cds	3744	5117	-	LDJNFA_06170		Branched-chain amino acid transport system carrier protein	SO:0001217, UniRef:UniRef50_J0DE41
+contig_46	ncRNA-region	5177	5423	-			T-box leader	RFAM:RF00230, SO:0000140
+contig_46	cds	5555	6544	-	LDJNFA_06175		Tagatose 1,6-diphosphate aldolase	SO:0001217, UniRef:UniRef50_Q8DPP2
+contig_46	cds	6776	7570	-	LDJNFA_06180		hypothetical protein	
+contig_46	gap	7795	7795	.				
+contig_46	cds	7980	8861	+	LDJNFA_06185		Prolyl oligopeptidase family serine peptidase	SO:0001217, UniRef:UniRef50_U4TNM9
+contig_46	cds	8874	10307	+	LDJNFA_06190		PTS system, sucrose-specific IIB component protein	SO:0001217, UniRef:UniRef50_T1ZB94
+contig_46	cds	10369	12141	-	LDJNFA_06195		Fumarate reductase, flavoprotein subunit	SO:0001217, UniRef:UniRef50_F2M3R5
+contig_46	cds	12419	13282	+	LDJNFA_06200	lysR	LysR family transcriptional regulator	SO:0001217, UniRef:UniRef50_F2M3R4
+contig_46	cds	13329	14102	-	LDJNFA_06205		PTS sugar transporter	SO:0001217, UniRef:UniRef50_R9LT27
+contig_46	cds	14154	14909	-	LDJNFA_06210		hypothetical protein	PFAM:PF05913.14, PFAM:PF19200.3
+contig_47	cds	11	1246	-	LDJNFA_06215		Transposase	SO:0001217, UniRef:UniRef50_F0NTI2
+contig_47	cds	1947	3050	+	LDJNFA_06220		Pyruvate dehydrogenase E1 component subunit alpha	SO:0001217, UniRef:UniRef50_A0A4V6L060
+contig_47	cds	3052	4029	+	LDJNFA_06225		Pyruvate dehydrogenase E1 component subunit beta	SO:0001217, UniRef:UniRef50_A0A239VGS9
+contig_47	cds	4040	5353	+	LDJNFA_06230		Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex	SO:0001217, UniRef:UniRef50_A0A239VII9
+contig_47	cds	5360	6772	+	LDJNFA_06235		Dihydrolipoyl dehydrogenase	SO:0001217, UniRef:UniRef50_A0A098CWP2
+contig_47	cds	6786	7835	+	LDJNFA_06240		PTS-EIIC domain-containing protein	SO:0001217, UniRef:UniRef50_U2QAF7
+contig_47	cds	7911	8828	+	LDJNFA_06245		Phosphate acetyltransferase	SO:0001217, UniRef:UniRef50_A0A1W6BLQ8
+contig_47	cds	8838	9905	+	LDJNFA_06250		hypothetical protein	
+contig_47	cds	9902	10786	-	LDJNFA_06255	lysR	LysR family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A4U9ZL96
+contig_47	cds	10838	11878	+	LDJNFA_06260		FmtA-like protein	SO:0001217, UniRef:UniRef50_A0A4U9Z3P9
+contig_47	cds	11987	12979	+	LDJNFA_06265		4-phosphoerythronate dehydrogenase	SO:0001217, UniRef:UniRef50_E4KMN9
+contig_47	cds	13005	13991	+	LDJNFA_06270		lipoate--protein ligase	SO:0001217, UniRef:UniRef50_A0A076Z318
+contig_47	cds	14166	14642	+	LDJNFA_06275		hypothetical protein	PFAM:PF12784.10
+contig_48	cds	113	778	-	LDJNFA_06280		hypothetical protein	
+contig_48	cds	831	1415	-	LDJNFA_06285		DNA-3-methyladenine glycosylase 1	SO:0001217, UniRef:UniRef50_A0A0D5MGQ4
+contig_48	cds	1595	2080	+	LDJNFA_06290		Phage protein	SO:0001217, UniRef:UniRef50_Q5FML7
+contig_48	cds	2133	3527	+	LDJNFA_06295		Metallophos domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FML6
+contig_48	cds	3633	5582	+	LDJNFA_06300		Asparagine synthetase, glutamine-hydrolysing	SO:0001217, UniRef:UniRef50_Q38XY9
+contig_48	cds	5605	6900	+	LDJNFA_06305		ATP-grasp domain-containing protein	SO:0001217, UniRef:UniRef50_C8P9V2
+contig_48	cds	6998	8215	+	LDJNFA_06310		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_N2AN60
+contig_48	cds	8308	10257	+	LDJNFA_06315		Neutral endopeptidase	SO:0001217, UniRef:UniRef50_O52071
+contig_48	cds	10461	12470	-	LDJNFA_06320		putative potassium transport system protein kup	SO:0001217, UniRef:UniRef50_A0A4P6YRF4
+contig_48	cds	12596	14602	-	LDJNFA_06325		putative potassium transport system protein kup	SO:0001217, UniRef:UniRef50_A0A4P6YRF4
+contig_49	cds	981	1703	+	LDJNFA_06330		HTH gntR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A249NI74
+contig_49	cds	1713	3029	+	LDJNFA_06335		Dipeptidase	SO:0001217, UniRef:UniRef50_A0A242ARG9
+contig_49	cds	3045	3998	+	LDJNFA_06340		Isoaspartyl aminopeptidase	SO:0001217, UniRef:UniRef50_A0A0E2BMF8
+contig_49	cds	4014	4538	+	LDJNFA_06345		Glycine/betaine/sarcosine/D-proline reductase family selenoprotein B	SO:0001217, UniRef:UniRef50_Q38UY6
+contig_49	cds	4575	5888	+	LDJNFA_06350		Permease IIC component	SO:0001217, UniRef:UniRef50_E0NG84
+contig_49	cds	5891	6535	+	LDJNFA_06355	cutC	PF03932 family protein CutC	SO:0001217, UniRef:UniRef50_A0A0F4LVD2
+contig_49	cds	6688	8199	+	LDJNFA_06360		Peptidase-M1 domain-containing protein	SO:0001217, UniRef:UniRef50_V5EKP1
+contig_49	cds	8316	9167	+	LDJNFA_06365		GGDEF domain-containing protein	SO:0001217, UniRef:UniRef50_I7KPX2
+contig_49	cds	9172	9315	+	LDJNFA_06370		hypothetical protein	
+contig_49	cds	9308	10615	+	LDJNFA_06375		N-acetylglucosaminyltransferase	SO:0001217, UniRef:UniRef50_A9QSM4
+contig_49	cds	10615	11712	+	LDJNFA_06380		Glucanase	SO:0001217, UniRef:UniRef50_D5H2Y5
+contig_49	cds	11816	12214	+	LDJNFA_06385		hypothetical protein	
+contig_49	cds	12231	13019	+	LDJNFA_06390		hypothetical protein	PFAM:PF13749.9
+contig_49	cds	13136	13333	+	LDJNFA_06395		hypothetical protein	
+contig_49	cds	13546	13995	-	LDJNFA_06400		hypothetical protein	PFAM:PF00746.24
+contig_50	tRNA	46	136	+	LDJNFA_06405	trnS	tRNA-Ser(gga)	SO:0000269
+contig_50	tRNA	161	233	+	LDJNFA_06410	trnV	tRNA-Val(tac)	SO:0000273
+contig_50	tRNA	333	404	+	LDJNFA_06415	trnE	tRNA-Glu(ttc)	SO:0000259
+contig_50	tRNA	409	481	+	LDJNFA_06420	trnV	tRNA-Val(tac)	SO:0000273
+contig_50	ncRNA-region	552	639	+			SMK box translational riboswitch (SAM-III)	RFAM:RF01767, SO:0000035
+contig_50	cds	637	1836	+	LDJNFA_06425		S-adenosylmethionine synthase	SO:0001217, UniRef:UniRef50_A9NF20
+contig_50	cds	1853	3310	+	LDJNFA_06430		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1H255
+contig_50	cds	3360	4010	-	LDJNFA_06435		acidPPc domain-containing protein	SO:0001217, UniRef:UniRef50_A8YWU5
+contig_50	cds	4292	6706	+	LDJNFA_06440		Leucine--tRNA ligase	SO:0001217, UniRef:UniRef50_A8FGG0
+contig_50	cds	6800	8443	+	LDJNFA_06445		Polysacc-synt-C domain-containing protein	SO:0001217, UniRef:UniRef50_E1NT55
+contig_50	cds	8640	9005	+	LDJNFA_06450		Putative-PNPOx domain-containing protein	SO:0001217, UniRef:UniRef50_Q1GBW8
+contig_50	cds	9360	9773	+	LDJNFA_06455		Cupin-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A401IR67
+contig_50	cds	10023	10832	+	LDJNFA_06460		hypothetical protein	
+contig_50	cds	11029	12186	-	LDJNFA_06465		hypothetical protein	PFAM:PF13102.9, PFAM:PF14657.9, PFAM:PF14659.9
+contig_50	cds	12492	12671	+	LDJNFA_06470		hypothetical protein	
+contig_50	cds	12655	13479	-	LDJNFA_06475		hypothetical protein	
+contig_51	cds	6	533	+	LDJNFA_06480		hypothetical protein	
+contig_51	cds	696	1229	-	LDJNFA_06485		hypothetical protein	
+contig_51	cds	1352	1927	-	LDJNFA_06490		hypothetical protein	
+contig_51	cds	2119	4989	+	LDJNFA_06495		Linear gramicidin synthase subunit D	SO:0001217, UniRef:UniRef50_A0A2V4EH96
+contig_51	cds	5153	6646	+	LDJNFA_06500		Amino acid/peptide transporter	SO:0001217, UniRef:UniRef50_G5KBT6
+contig_51	cds	6685	7896	-	LDJNFA_06505		L,D-transpeptidase family protein	SO:0001217, UniRef:UniRef50_A0A2A7RHJ7
+contig_51	cds	8071	8862	+	LDJNFA_06510		DUF4931 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D5MK59
+contig_51	cds	8882	9529	-	LDJNFA_06515		hypothetical protein	
+contig_51	cds	9589	10350	+	LDJNFA_06520		UPF0246 protein LBA1843	SO:0001217, UniRef:UniRef50_Q5FI29
+contig_51	cds	10384	11127	-	LDJNFA_06525		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxy late synthase	SO:0001217, UniRef:UniRef50_A0A2X0RBE4
+contig_51	cds	11290	11892	+	LDJNFA_06530		Histidine phosphatase family protein	SO:0001217, UniRef:UniRef50_A0A3G2JY25
+contig_51	cds	11984	12508	+	LDJNFA_06535		HTH tetR-type domain-containing protein	SO:0001217, UniRef:UniRef50_N2ACZ2
+contig_51	cds	12511	13572	+	LDJNFA_06540		Efflux ABC transporter, permease protein	SO:0001217, UniRef:UniRef50_C8PCG4
+contig_51	cds	13574	14248	+	LDJNFA_06545		ABC transporter, ATP-binding protein	SO:0001217, UniRef:UniRef50_C8PCG5
+contig_51	cds	14311	14622	-	LDJNFA_06550		DUF3784 domain-containing protein	SO:0001217, UniRef:UniRef50_E1NM72
+contig_51	cds	14866	15555	+	LDJNFA_06555		hypothetical protein	
+contig_51	cds	15624	17030	-	LDJNFA_06560		Dipeptidase	SO:0001217, UniRef:UniRef50_A0A244CH42
+contig_51	cds	17169	17369	+	LDJNFA_06565		hypothetical protein	
+contig_51	cds	17503	18099	+	LDJNFA_06570		HTH tetR-type domain-containing protein	SO:0001217, UniRef:UniRef50_N2ACZ6
+contig_51	cds	18178	18717	+	LDJNFA_06575		NADH-dependent flavin reductase subunit 1	SO:0001217, UniRef:UniRef50_Q74HL7
+contig_51	cds	18728	18844	+	LDJNFA_06580		hypothetical protein	
+contig_51	cds	18825	19277	+	LDJNFA_06585		NADH-dependent flavin reductase subunit 2	SO:0001217, UniRef:UniRef50_Q74HL8
+contig_51	cds	19369	20163	+	LDJNFA_06590		Protein-tyrosine-phosphatase	SO:0001217, UniRef:UniRef50_A0A0D5MLA8
+contig_51	cds	20166	21113	+	LDJNFA_06595		FAD:protein FMN transferase	SO:0001217, UniRef:UniRef50_Q5FI41
+contig_51	cds	21180	21716	-	LDJNFA_06600	cvpA	CvpA family protein	SO:0001217, UniRef:UniRef50_Q5FI42
+contig_51	cds	21875	22597	+	LDJNFA_06605		Ribosomal RNA small subunit methyltransferase G	SO:0001217, UniRef:UniRef50_Q5FI43
+contig_51	cds	22613	23452	+	LDJNFA_06610		Nucleoid occlusion protein	SO:0001217, UniRef:UniRef50_A0A556UE31
+contig_51	cds	23465	24244	+	LDJNFA_06615		Sporulation initiation inhibitor protein Soj	SO:0001217, UniRef:UniRef50_A0A2H6AMK0
+contig_51	cds	24222	25106	+	LDJNFA_06620		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_G6F8Y8
+contig_51	cds	25099	25386	+	LDJNFA_06625		DUF951 domain-containing protein	SO:0001217, UniRef:UniRef50_N2A950
+contig_51	cds	25388	26488	+	LDJNFA_06630	ychF	Ribosome-binding ATPase YchF	SO:0001217, UniRef:UniRef50_P75088
+contig_51	cds	26497	27279	+	LDJNFA_06635		hypothetical protein	
+contig_51	cds	27387	29120	+	LDJNFA_06640		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_U4TN78
+contig_51	cds	29113	30984	+	LDJNFA_06645		Putative ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A2X0PEH3
+contig_51	cds	31168	31854	+	LDJNFA_06650	phoB	Phosphate regulon transcriptional regulatory protein PhoB	SO:0001217, UniRef:UniRef50_A0A1D7ZX63
+contig_51	cds	31856	33007	+	LDJNFA_06655		histidine kinase	SO:0001217, UniRef:UniRef50_F0HWI5
+contig_51	cds	33060	34631	+	LDJNFA_06660		UDP-N-acetylmuramyl-tripeptide synthetase	SO:0001217, UniRef:UniRef50_Q5FI54
+contig_51	cds	34645	35394	+	LDJNFA_06665		Amino acid racemase	SO:0001217, UniRef:UniRef50_A0A1A5VMX6
+contig_51	cds	35762	35974	+	LDJNFA_06670		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A192F6Q3
+contig_51	cds	35961	36482	+	LDJNFA_06675		hypothetical protein	
+contig_51	cds	36674	36868	+	LDJNFA_06680		hypothetical protein	
+contig_51	cds	36905	37201	+	LDJNFA_06685		hypothetical protein	
+contig_51	cds	37254	38237	-	LDJNFA_06690		HTH lacI-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5MYY9
+contig_51	cds	38248	39678	-	LDJNFA_06695		Sucrose-6-phosphate hydrolase	SO:0001217, UniRef:UniRef50_D5H1G1
+contig_51	cds	39911	41896	+	LDJNFA_06700		PTS system sucrose-specific EIIBCA component	SO:0001217, UniRef:UniRef50_P12655
+contig_51	cds	42034	42792	+	LDJNFA_06705		HTH deoR-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5N2K8
+contig_51	cds	42789	43703	+	LDJNFA_06710		Tagatose-6-phosphate kinase	SO:0001217, UniRef:UniRef50_A0A137PLJ6
+contig_51	cds	43716	45680	+	LDJNFA_06715		Fructose PTS, EIIABC	SO:0001217, UniRef:UniRef50_A0A0G9FE82
+contig_51	cds	45843	46718	+	LDJNFA_06720		Metal ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A8YXB3
+contig_51	cds	46741	47388	+	LDJNFA_06725		ABC superfamily ATP binding cassette transporter, ABC protein	SO:0001217, UniRef:UniRef50_C2E4H8
+contig_51	cds	47389	48186	+	LDJNFA_06730	znuB	High-affinity zinc uptake system membrane protein ZnuB	SO:0001217, UniRef:UniRef50_A0A0D5ML87
+contig_51	cds	48422	49654	+	LDJNFA_06735		L-lactate oxidase	SO:0001217, UniRef:UniRef50_A0A5N1I561
+contig_51	cds	49792	51591	-	LDJNFA_06740		Oligoendopeptidase F	SO:0001217, UniRef:UniRef50_Q1G8C4
+contig_51	cds	51755	52957	+	LDJNFA_06745		Transcriptional regulator	SO:0001217, UniRef:UniRef50_Q5FIA1
+contig_51	cds	53020	53694	+	LDJNFA_06750		DUF554 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A158SNN9
+contig_51	cds	53877	55310	+	LDJNFA_06755		Cytochrome bd ubiquinol oxidase subunit 1	SO:0001217, UniRef:UniRef50_A0A1V9R4P4
+contig_51	cds	55312	56328	+	LDJNFA_06760		Cytochrome bd-I ubiquinol oxidase subunit 2	SO:0001217, UniRef:UniRef50_A0A089RVS6
+contig_51	cds	56328	58061	+	LDJNFA_06765	msbA	Lipid A export ATP-binding/permease protein msbA	SO:0001217, UniRef:UniRef50_A0A380KLR2
+contig_51	cds	58039	59784	+	LDJNFA_06770	cydC	ABC transporter, CydDC cysteine exporter (CydDC-E) family, permease/ATP-binding protein CydC	SO:0001217, UniRef:UniRef50_K8E2T8
+contig_51	cds	59798	60787	-	LDJNFA_06775		Farnesyl pyrophosphate synthetase / Geranyltranstransferase / Farnesyltransferase / Heptaprenyl diphosphate synthase component II	SO:0001217, UniRef:UniRef50_Q1WTF7
+contig_51	cds	60838	61737	+	LDJNFA_06780		1,4-dihydroxy-2-naphthoate octaprenyltransferase	SO:0001217, UniRef:UniRef50_A0A2I8AID0
+contig_51	cds	61760	62980	+	LDJNFA_06785		FAD-dependent pyridine nucleotide-disulfide oxidoreductase	SO:0001217, UniRef:UniRef50_A0A0R1SB16
+contig_51	cds	63095	63463	+	LDJNFA_06790		hypothetical protein	
+contig_51	cds	63481	65019	+	LDJNFA_06795		ATPase component of an ABC superfamily transporter	SO:0001217, UniRef:UniRef50_A0A091C8R1
+contig_51	cds	65037	65810	+	LDJNFA_06800	thrE	ThrE domain-containing protein	SO:0001217, UniRef:UniRef50_G6F8I5
+contig_51	cds	65813	66289	+	LDJNFA_06805		ThrE-2 domain-containing protein	SO:0001217, UniRef:UniRef50_I7LCU6
+contig_51	ncRNA	66291	66412	+	LDJNFA_06810	COG3610-DE	COG3610-DE RNA	RFAM:RF03066, SO:0000655
+contig_51	cds	66487	68097	-	LDJNFA_06815		Multicopper oxidase	SO:0001217, UniRef:UniRef50_A0A4R5N2V8
+contig_51	cds	68430	68921	+	LDJNFA_06820		DUF1694 domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FIB2
+contig_51	cds	68972	69625	+	LDJNFA_06825		S-2TMBeta domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0F4L7Z6
+contig_51	cds	69665	71176	-	LDJNFA_06830		O-antigen ligase family protein	SO:0001217, UniRef:UniRef50_Q5FIB6
+contig_51	cds	71257	71550	-	LDJNFA_06835		hypothetical protein	
+contig_51	cds	71642	72181	+	LDJNFA_06840		Guanylate kinase	SO:0001217, UniRef:UniRef50_Q1G8D5
+contig_51	cds	72291	72836	+	LDJNFA_06845		NlpC/P60 domain-containing protein	SO:0001217, UniRef:UniRef50_G6F8H6
+contig_51	cds	73083	73802	+	LDJNFA_06850		Cell wall-associated hydrolase	SO:0001217, UniRef:UniRef50_A0A0R1UBY1
+contig_51	cds	74016	74912	+	LDJNFA_06855		NlpC/P60 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0F4LPS1
+contig_52	cds	72	686	+	LDJNFA_06860		Bacterial transferase hexapeptide repeat protein	SO:0001217, UniRef:UniRef50_C8P9N9
+contig_52	cds	779	1093	+	LDJNFA_06865		Integral membrane protein	SO:0001217, UniRef:UniRef50_I7JU58
+contig_52	cds	1181	2167	-	LDJNFA_06870		Heptaprenyl diphosphate synthase component 2	SO:0001217, UniRef:UniRef50_A0A7U9RLG7
+contig_52	cds	2167	2721	-	LDJNFA_06875		Trans-hexaprenyltranstransferase subunit I	SO:0001217, UniRef:UniRef50_I7LDG0
+contig_52	cds	2718	3134	-	LDJNFA_06880		NusG-II domain-containing protein	SO:0001217, UniRef:UniRef50_I7IVC0
+contig_52	cds	3204	5102	-	LDJNFA_06885		NADH dehydrogenase	SO:0001217, UniRef:UniRef50_A0A483AXZ3
+contig_52	cds	5396	6322	+	LDJNFA_06890		FMN-binding protein	SO:0001217, UniRef:UniRef50_A0A0R2B7P2
+contig_52	cds	6403	7485	+	LDJNFA_06895		FAD:protein FMN transferase	SO:0001217, UniRef:UniRef50_K0N734
+contig_52	cds	7578	7799	+	LDJNFA_06900		hypothetical protein	
+contig_52	cds	8094	8357	+	LDJNFA_06905		LapA-dom domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YD39
+contig_52	cds	8548	10419	+	LDJNFA_06910	mutS	MutS family ATPase	SO:0001217, UniRef:UniRef50_A0A0R1S6Q3
+contig_52	cds	10409	10846	+	LDJNFA_06915		hypothetical protein	PFAM:PF13508.10, PFAM:PF13673.10
+contig_52	cds	10966	13020	+	LDJNFA_06920		hypothetical protein	
+contig_52	cds	13116	13235	+	LDJNFA_06925		hypothetical protein	
+contig_53	cds	324	1310	+	LDJNFA_06930		ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_A0A0R2HN24
+contig_53	cds	1307	2203	+	LDJNFA_06935		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A4R5N9G7
+contig_53	cds	2200	2955	+	LDJNFA_06940		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A0R2L4B3
+contig_53	cds	3013	3198	+	LDJNFA_06945		Small hydrophobic protein	SO:0001217, UniRef:UniRef50_D5H0E8
+contig_53	cds	3250	4266	-	LDJNFA_06950		AI-2E family transporter	SO:0001217, UniRef:UniRef50_C2ETZ8
+contig_53	cds	4348	5160	-	LDJNFA_06955		Aminoglycoside N(3)-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A0R1VQC0
+contig_53	cds	5414	6649	-	LDJNFA_06960		Putative integrase	SO:0001217, UniRef:UniRef50_Q5FMY9
+contig_53	cds	6712	6909	-	LDJNFA_06965		hypothetical protein	
+contig_53	cds	6869	7891	-	LDJNFA_06970		hypothetical protein	PFAM:PF00910.25
+contig_53	cds	8050	8562	-	LDJNFA_06975		hypothetical protein	
+contig_53	cds	8573	9652	-	LDJNFA_06980		hypothetical protein	
+contig_53	cds	9639	10016	-	LDJNFA_06985		hypothetical protein	
+contig_53	cds	10214	11026	+	LDJNFA_06990		hypothetical protein	
+contig_53	cds	11258	11611	-	LDJNFA_06995		Cadmium resistance regulatory protein	SO:0001217, UniRef:UniRef50_Q5FMZ6
+contig_53	cds	11628	12245	-	LDJNFA_07000		Cadmium resistance protein	SO:0001217, UniRef:UniRef50_Q5FMZ7
+contig_54	cds	178	591	-	LDJNFA_07005		Peptide deformylase	SO:0001217, UniRef:UniRef50_A0A7X4HQP3
+contig_54	cds	702	1826	+	LDJNFA_07010		Beta-lactamase	SO:0001217, UniRef:UniRef50_D4YRN6
+contig_54	cds	1867	4689	-	LDJNFA_07015	radD	Putative DNA repair helicase RadD	SO:0001217, UniRef:UniRef50_A0A829ZKF6
+contig_54	cds	4747	5574	-	LDJNFA_07020		Exodeoxyribonuclease III	SO:0001217, UniRef:UniRef50_A0A380JFK6
+contig_54	cds	5759	6772	+	LDJNFA_07025		D-lactate dehydrogenase	SO:0001217, UniRef:UniRef50_P26297
+contig_54	cds	6856	7449	-	LDJNFA_07030		Phosphoglycerate mutase family protein	SO:0001217, UniRef:UniRef50_D4YRM9
+contig_54	cds	7462	9390	-	LDJNFA_07035		Tr-type G domain-containing protein	SO:0001217, UniRef:UniRef50_U4TWP7
+contig_54	cds	9452	10297	-	LDJNFA_07040		Aldo/keto reductase	SO:0001217, UniRef:UniRef50_A0A1Y0VQ98
+contig_54	cds	10375	11484	-	LDJNFA_07045		Endo/exonuclease/phosphatase domain-containing protein	SO:0001217, UniRef:UniRef50_I7JXI0
+contig_54	cds	11509	12210	-	LDJNFA_07050	yfnB	HAD-hydrolase YfnB	SO:0001217, UniRef:UniRef50_A0A137PYZ2
+contig_55	cds	695	2590	+	LDJNFA_07055		hypothetical protein	PFAM:PF03217.17
+contig_55	cds	2666	4543	-	LDJNFA_07060	yhcR	Endonuclease YhcR	SO:0001217, UniRef:UniRef50_A0A508YW13
+contig_55	cds	4759	5823	-	LDJNFA_07065		Luciferase	SO:0001217, UniRef:UniRef50_A0A0U4FSR5
+contig_55	cds	6110	7522	+	LDJNFA_07070		FAD-binding PCMH-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5N1Y9
+contig_55	cds	7805	8122	+	LDJNFA_07075		hypothetical protein	
+contig_55	cds	8281	9900	+	LDJNFA_07080		SBP-bac-5 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1FYK6
+contig_55	cds	10195	11820	+	LDJNFA_07085		site-specific DNA-methyltransferase (adenine-specific)	SO:0001217, UniRef:UniRef50_A0A6N7VVF0
+contig_56	cds	26	625	-	LDJNFA_07090		hypothetical protein	
+contig_56	cds	771	1262	-	LDJNFA_07095		hypothetical protein	PFAM:PF01161.23
+contig_56	cds	1437	2111	+	LDJNFA_07100	gatD	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD	SO:0001217, UniRef:UniRef50_Q1G871
+contig_56	cds	2141	3049	-	LDJNFA_07105	eamA	EamA family transporter	SO:0001217, UniRef:UniRef50_N2AP79
+contig_56	cds	3262	4860	-	LDJNFA_07110		hypothetical protein	PFAM:PF00005.30
+contig_56	cds	5096	5935	-	LDJNFA_07115		hypothetical protein	PFAM:PF01381.25
+contig_56	cds	6192	6554	-	LDJNFA_07120		Lipoprotein	SO:0001217, UniRef:UniRef50_Q5FHY6
+contig_56	cds	7176	8471	-	LDJNFA_07125		Adenylosuccinate lyase	SO:0001217, UniRef:UniRef50_O66856
+contig_56	cds	8473	9762	-	LDJNFA_07130		Adenylosuccinate synthetase	SO:0001217, UniRef:UniRef50_A4ITU9
+contig_56	cds	9962	10954	+	LDJNFA_07135		GMP reductase	SO:0001217, UniRef:UniRef50_O05269
+contig_57	ncRNA-region	72	316	+			T-box leader	RFAM:RF00230, SO:0000140
+contig_57	cds	380	2014	+	LDJNFA_07140		Peptide/nickel transport system substrate-binding protein	SO:0001217, UniRef:UniRef50_N2AGD1
+contig_57	cds	2159	3022	+	LDJNFA_07145	slpA	SlpA domain-containing protein	SO:0001217, UniRef:UniRef50_I7LDG6
+contig_57	cds	3196	4791	-	LDJNFA_07150		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A0D5MFM7
+contig_57	cds	5096	6460	+	LDJNFA_07155		FAD-dependent oxidoreductase	SO:0001217, UniRef:UniRef50_A0A558LZN4
+contig_57	cds	6786	9179	+	LDJNFA_07160		Phosphoenolpyruvate synthase	SO:0001217, UniRef:UniRef50_A0A6B8XT07
+contig_57	cds	9302	10030	-	LDJNFA_07165		hypothetical protein	PFAM:PF00188.29, PFAM:PF03217.17
+contig_58	cds	287	1507	+	LDJNFA_07170		hypothetical protein	
+contig_58	cds	1780	2484	+	LDJNFA_07175		hypothetical protein	
+contig_58	cds	2625	4238	+	LDJNFA_07180		Oligosaccharide flippase family protein	SO:0001217, UniRef:UniRef50_A0A3Q8SQC2
+contig_58	cds	4315	4590	+	LDJNFA_07185		hypothetical protein	
+contig_58	cds	5167	6003	+	LDJNFA_07190		hypothetical protein	
+contig_58	cds	6096	7061	+	LDJNFA_07195		YSIRK-signal domain-containing protein	SO:0001217, UniRef:UniRef50_I7LDM1
+contig_58	cds	7051	9348	+	LDJNFA_07200		hypothetical protein	PFAM:PF00746.24, PFAM:PF17966.4
+contig_59	cds	630	755	+	LDJNFA_07205		hypothetical protein	
+contig_59	cds	736	1038	-	LDJNFA_07210		hypothetical protein	
+contig_59	cds	1664	2794	+	LDJNFA_07215		Lipoprotein	SO:0001217, UniRef:UniRef50_Q1G847
+contig_59	cds	2925	3077	+	LDJNFA_07220	dltX	Teichoic acid D-Ala incorporation-associated protein DltX	SO:0001217, UniRef:UniRef50_N2AGF0
+contig_59	cds	3094	4605	+	LDJNFA_07225		D-alanine--D-alanyl carrier protein ligase	SO:0001217, UniRef:UniRef50_C8PAW7
+contig_59	cds	4605	5849	+	LDJNFA_07230		Teichoic acid D-alanyltransferase	SO:0001217, UniRef:UniRef50_P35855
+contig_59	cds	5883	6122	+	LDJNFA_07235		D-alanyl carrier protein	SO:0001217, UniRef:UniRef50_J9W2I4
+contig_59	cds	6115	7404	+	LDJNFA_07240	dltD	Protein DltD	SO:0001217, UniRef:UniRef50_G2SS06
+contig_59	cds	7404	8348	+	LDJNFA_07245		Beta-lactamase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0F4LR79
+contig_59	cds	8409	9245	-	LDJNFA_07250		hypothetical protein	
+contig_60	tRNA	82	155	+	LDJNFA_07255	trnR	tRNA-Arg(acg)	SO:0001036
+contig_60	tRNA	158	231	+	LDJNFA_07260	trnP	tRNA-Pro(tgg)	SO:0000268
+contig_60	ncRNA-region	322	559	+			T-box leader	RFAM:RF00230, SO:0000140
+contig_60	cds	620	1630	+	LDJNFA_07265		Aspartate--ammonia ligase	SO:0001217, UniRef:UniRef50_Q03PZ8
+contig_60	cds	1695	2423	-	LDJNFA_07270		Class I glutamine amidotransferase	SO:0001217, UniRef:UniRef50_F0HWA8
+contig_60	cds	2492	3865	-	LDJNFA_07275		AA-permease domain-containing protein	SO:0001217, UniRef:UniRef50_F4ACZ4
+contig_60	cds	4007	6052	-	LDJNFA_07280	clpE	ATP-dependent Clp protease ATP-binding subunit ClpE	SO:0001217, UniRef:UniRef50_A0A6S4NGU7
+contig_60	cds	6326	7243	-	LDJNFA_07285		Alpha/beta hydrolase	SO:0001217, UniRef:UniRef50_C2ERI2
+contig_60	cds	7218	8528	-	LDJNFA_07290		PTS system, lactose/cellobiose family IIC component	SO:0001217, UniRef:UniRef50_D4YU33
+contig_60	cds	8600	8836	+	LDJNFA_07295		hypothetical protein	
+contig_61	cds	74	787	-	LDJNFA_07300		Putative carboxymuconolactone decarboxylase	SO:0001217, UniRef:UniRef50_Q5FLS3
+contig_61	cds	924	3542	-	LDJNFA_07305		Aldehyde-alcohol dehydrogenase	SO:0001217, UniRef:UniRef50_A0A098QZH2
+contig_61	cds	3857	5239	+	LDJNFA_07310		AA-permease domain-containing protein	SO:0001217, UniRef:UniRef50_K0NYI1
+contig_61	cds	5274	5783	-	LDJNFA_07315		Maltose O-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A240BSI6
+contig_61	cds	5899	6783	+	LDJNFA_07320		HTH lysR-type domain-containing protein	SO:0001217, UniRef:UniRef50_N2AKC5
+contig_61	cds	6835	7197	-	LDJNFA_07325		DUF956 domain-containing protein	SO:0001217, UniRef:UniRef50_Q1WVK7
+contig_61	cds	7204	8124	-	LDJNFA_07330		PTS mannose transporter subunit IID	SO:0001217, UniRef:UniRef50_A0A4R5NAS7
+contig_61	cds	8152	8415	-	LDJNFA_07335		hypothetical protein	
+contig_62	cds	3	290	-	LDJNFA_07340		hypothetical protein	
+contig_62	cds	513	2282	-	LDJNFA_07345		SBP-bac-5 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5N2Y0
+contig_62	cds	2535	3455	-	LDJNFA_07350		Peptide ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A1V0JCM4
+contig_62	cds	3471	4430	-	LDJNFA_07355		ABC-type dipeptide oligopeptide nickel transport system, permease component	SO:0001217, UniRef:UniRef50_A0A0R2L452
+contig_62	cds	4433	5413	-	LDJNFA_07360	oppF	Oligopeptide transport ATP-binding protein OppF	SO:0001217, UniRef:UniRef50_P0A2V4
+contig_62	cds	5417	6433	-	LDJNFA_07365	oppD	Oligopeptide transport ATP-binding protein OppD	SO:0001217, UniRef:UniRef50_Q07733
+contig_62	cds	6557	6799	-	LDJNFA_07370		Acyl carrier protein	SO:0001217, UniRef:UniRef50_Q5FJI8
+contig_62	cds	6819	7817	-	LDJNFA_07375		Phosphate acyltransferase	SO:0001217, UniRef:UniRef50_N1ZQB7
+contig_62	cds	7835	9874	-	LDJNFA_07380	recG	ATP-dependent DNA helicase RecG	SO:0001217, UniRef:UniRef50_A0A1I1S2D2
+contig_62	cds	9880	11544	-	LDJNFA_07385		hypothetical protein	PFAM:PF13684.9
+contig_62	cds	11565	11927	-	LDJNFA_07390		Alkaline-shock protein	SO:0001217, UniRef:UniRef50_A0A2U3MPS8
+contig_62	cds	12094	12279	+	LDJNFA_07395		50S ribosomal protein L28	SO:0001217, UniRef:UniRef50_P37807
+contig_62	cds	12415	13113	-	LDJNFA_07400		hypothetical protein	PFAM:PF04263.19, PFAM:PF04265.17
+contig_62	cds	13110	13769	-	LDJNFA_07405		Ribulose-phosphate 3-epimerase	SO:0001217, UniRef:UniRef50_A0A556UCU8
+contig_62	cds	13783	14679	-	LDJNFA_07410	rsgA	Small ribosomal subunit biogenesis GTPase RsgA	SO:0001217, UniRef:UniRef50_Q044G6
+contig_62	cds	14679	16658	-	LDJNFA_07415		non-specific serine/threonine protein kinase	SO:0001217, UniRef:UniRef50_A0A0D5MIF6
+contig_62	cds	16659	17405	-	LDJNFA_07420		Serine/threonine protein phosphatase	SO:0001217, UniRef:UniRef50_Q1G9I3
+contig_62	cds	17406	18737	-	LDJNFA_07425		16S rRNA (cytosine(967)-C(5))-methyltransferase	SO:0001217, UniRef:UniRef50_Q5FJH6
+contig_62	cds	18727	19668	-	LDJNFA_07430		Methionyl-tRNA formyltransferase	SO:0001217, UniRef:UniRef50_C8PDH9
+contig_62	cds	19679	22069	-	LDJNFA_07435		Primosomal protein N'	SO:0001217, UniRef:UniRef50_C8PDI0
+contig_62	cds	22153	22353	-	LDJNFA_07440		hypothetical protein	
+contig_62	cds	22357	22971	-	LDJNFA_07445		Guanylate kinase	SO:0001217, UniRef:UniRef50_A0A1G6L8Y8
+contig_62	cds	23062	24738	-	LDJNFA_07450	recN	DNA repair protein RecN	SO:0001217, UniRef:UniRef50_A0A7D9N5U3
+contig_62	cds	24747	25559	-	LDJNFA_07455	tlyA	16S/23S rRNA (Cytidine-2'-O)-methyltransferase TlyA	SO:0001217, UniRef:UniRef50_A0A137PM40
+contig_62	cds	25559	26428	-	LDJNFA_07460		Polyprenyl synthetase	SO:0001217, UniRef:UniRef50_E1NPS1
+contig_62	cds	26430	26672	-	LDJNFA_07465		Exodeoxyribonuclease 7 small subunit	SO:0001217, UniRef:UniRef50_A0A1I1S3M4
+contig_62	cds	26674	28020	-	LDJNFA_07470		Exodeoxyribonuclease 7 large subunit	SO:0001217, UniRef:UniRef50_Q5FJG6
+contig_62	cds	28007	28861	-	LDJNFA_07475	folD	Bifunctional protein FolD	SO:0001217, UniRef:UniRef50_Q8RDM4
+contig_62	cds	28917	29321	-	LDJNFA_07480	nusB	Transcription antitermination protein NusB	SO:0001217, UniRef:UniRef50_I7KHA0
+contig_62	cds	29318	29749	-	LDJNFA_07485		Alkaline shock protein	SO:0001217, UniRef:UniRef50_C2EMC2
+contig_62	cds	29770	30339	-	LDJNFA_07490		Elongation factor P 2	SO:0001217, UniRef:UniRef50_Q5FJG2
+contig_62	cds	30393	31502	-	LDJNFA_07495		Creatinase	SO:0001217, UniRef:UniRef50_D4YSA2
+contig_62	cds	31619	31909	-	LDJNFA_07500		50S ribosomal protein L27	SO:0001217, UniRef:UniRef50_Q39QR5
+contig_62	cds	31928	32239	-	LDJNFA_07505		50S ribosomal protein L21	SO:0001217, UniRef:UniRef50_A0Q1T8
+contig_62	ncRNA-region	32255	32334	-			Ribosomal protein L21 leader	RFAM:RF00559, SO:0000140
+contig_62	cds	32409	33728	-	LDJNFA_07510		DUF2325 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YGC1
+contig_62	cds	33756	34448	-	LDJNFA_07515		ECF transporter S component	SO:0001217, UniRef:UniRef50_N1ZP68
+contig_62	tRNA	34474	34547	-	LDJNFA_07520	trnR	tRNA-Arg(tct)	SO:0001036
+contig_62	cds	34747	35103	+	LDJNFA_07525		Transcriptional regulator, Spx/MgsR family	SO:0001217, UniRef:UniRef50_D4YSB2
+contig_62	cds	35116	37497	+	LDJNFA_07530		Xaa-Pro dipeptidyl-peptidase	SO:0001217, UniRef:UniRef50_Q59485
+contig_62	cds	37543	37941	-	LDJNFA_07535	osmC	OsmC family peroxiredoxin	SO:0001217, UniRef:UniRef50_Q5FJ71
+contig_62	cds	37951	39219	-	LDJNFA_07540		hypothetical protein	PFAM:PF00512.28, PFAM:PF02518.29, PFAM:PF14501.9
+contig_62	cds	39234	39899	-	LDJNFA_07545		Stage 0 sporulation A-like protein	SO:0001217, UniRef:UniRef50_A0A3C0QT18
+contig_62	cds	39901	40512	-	LDJNFA_07550	ywaC	GTP pyrophosphokinase ywaC	SO:0001217, UniRef:UniRef50_A0A239TWQ6
+contig_62	cds	40602	41774	-	LDJNFA_07555		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZNT2
+contig_62	cds	41886	42347	-	LDJNFA_07560		DUF5610 domain-containing protein	SO:0001217, UniRef:UniRef50_F2LZV0
+contig_62	cds	42469	43806	-	LDJNFA_07565		Glutamine synthetase	SO:0001217, UniRef:UniRef50_P45627
+contig_62	cds	43963	45210	-	LDJNFA_07570		Cystathionine gamma-lyase	SO:0001217, UniRef:UniRef50_A0A1Y0WK58
+contig_62	cds	45203	46123	-	LDJNFA_07575		tRNA dimethylallyltransferase	SO:0001217, UniRef:UniRef50_Q5FJ02
+contig_62	cds	46193	46594	-	LDJNFA_07580		Rhodanese-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A137PK96
+contig_62	cds	46651	46866	-	LDJNFA_07585		DUF910 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1JZH0
+contig_62	cds	46866	47558	-	LDJNFA_07590		Rhomboid domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZTK9
+contig_62	cds	47573	48136	-	LDJNFA_07595		hypothetical protein	
+contig_62	cds	48190	48339	-	LDJNFA_07600		50S ribosomal protein L33 1	SO:0001217, UniRef:UniRef50_Q490D8
+contig_62	cds	48411	50480	-	LDJNFA_07605		Penicillin-binding protein 2B	SO:0001217, UniRef:UniRef50_F0HU57
+contig_62	cds	50550	53144	+	LDJNFA_07610		hypothetical protein	
+contig_62	cds	53209	54132	+	LDJNFA_07615		N-acetylglucosamine kinase	SO:0001217, UniRef:UniRef50_A0A1B3PTQ3
+contig_62	cds	54206	54682	-	LDJNFA_07620	greA	Transcription elongation factor GreA	SO:0001217, UniRef:UniRef50_P80240
+contig_62	cds	54758	57172	-	LDJNFA_07625		Phenylalanine--tRNA ligase beta subunit	SO:0001217, UniRef:UniRef50_Q5FIY7
+contig_62	cds	57172	58221	-	LDJNFA_07630		Phenylalanine--tRNA ligase alpha subunit	SO:0001217, UniRef:UniRef50_Q9A0I1
+contig_62	ncRNA-region	58258	58463	-			T-box leader	RFAM:RF00230, SO:0000140
+contig_62	cds	58506	58856	-	LDJNFA_07635		HTH hxlR-type domain-containing protein	SO:0001217, UniRef:UniRef50_Q74IE0
+contig_62	cds	58933	59700	-	LDJNFA_07640		rRNA methylase	SO:0001217, UniRef:UniRef50_A0A0F4LTE5
+contig_62	cds	59793	60119	+	LDJNFA_07645		acylphosphatase	SO:0001217, UniRef:UniRef50_Q5FIY3
+contig_62	cds	60150	61115	+	LDJNFA_07650		Membrane protein insertase MisCB	SO:0001217, UniRef:UniRef50_A0A3Q8SVJ6
+contig_62	cds	61163	62728	-	LDJNFA_07655	arlS	Signal transduction histidine-protein kinase ArlS	SO:0001217, UniRef:UniRef50_A0A1X9TT15
+contig_62	cds	62715	63431	-	LDJNFA_07660		Stage 0 sporulation A-like protein	SO:0001217, UniRef:UniRef50_A0A1C6JBW2
+contig_62	cds	63560	64123	-	LDJNFA_07665		DUF177 domain-containing protein	SO:0001217, UniRef:UniRef50_F4AGN1
+contig_62	cds	64126	65277	-	LDJNFA_07670		tRNA(Met) cytidine acetate ligase	SO:0001217, UniRef:UniRef50_Q5FIX8
+contig_62	cds	65283	65630	-	LDJNFA_07675	rsfS	Ribosomal silencing factor RsfS	SO:0001217, UniRef:UniRef50_Q5FIX7
+contig_62	cds	65643	66236	-	LDJNFA_07680		bis(5'-nucleosyl)-tetraphosphatase (symmetrical)	SO:0001217, UniRef:UniRef50_A0A1V3Y299
+contig_62	cds	66229	66867	-	LDJNFA_07685		putative nicotinate-nucleotide adenylyltransferase	SO:0001217, UniRef:UniRef50_A0A0R1PHN6
+contig_62	cds	66881	67990	-	LDJNFA_07690	rsgA	Ribosome biogenesis GTPase RsgA	SO:0001217, UniRef:UniRef50_A0A3Q8SRX3
+contig_62	cds	67983	68507	-	LDJNFA_07695		HAD phosphatase, family IIIA	SO:0001217, UniRef:UniRef50_C2EL01
+contig_62	cds	69077	69589	+	LDJNFA_07700		hypothetical protein	PFAM:PF00962.25
+contig_62	cds	69706	70062	-	LDJNFA_07705		50S ribosomal protein L20	SO:0001217, UniRef:UniRef50_P55873
+contig_62	cds	70098	70298	-	LDJNFA_07710		hypothetical protein	
+contig_62	cds	70318	70839	-	LDJNFA_07715		Translation initiation factor IF-3	SO:0001217, UniRef:UniRef50_I7LR68
+contig_62	ncRNA-region	70877	70990	-			Ribosomal protein L20 leader	RFAM:RF00558, SO:0000140
+contig_62	cds	71049	71360	-	LDJNFA_07720		UPF0145 protein	SO:0001217, UniRef:UniRef50_Q47776
+contig_62	cds	71514	73445	-	LDJNFA_07725		Threonine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q97PI4
+contig_63	cds	307	2055	+	LDJNFA_07730		hypothetical protein	PFAM:PF03217.17
+contig_63	cds	2380	2637	+	LDJNFA_07735		hypothetical protein	
+contig_63	cds	2781	3758	+	LDJNFA_07740		Dehydrogenase-like protein	SO:0001217, UniRef:UniRef50_A0A0E2UDS0
+contig_63	cds	3768	4223	+	LDJNFA_07745		VOC domain-containing protein	SO:0001217, UniRef:UniRef50_F2LZP4
+contig_63	cds	4215	5000	-	LDJNFA_07750	rpiR	RpiR family regulatory protein	SO:0001217, UniRef:UniRef50_F2LZP5
+contig_63	cds	5098	6177	-	LDJNFA_07755		Oxidoreductase, NAD-binding domain protein	SO:0001217, UniRef:UniRef50_E7FSI5
+contig_63	cds	6293	7462	+	LDJNFA_07760		Aminotransferase	SO:0001217, UniRef:UniRef50_D5H1R6
+contig_63	cds	7472	7630	-	LDJNFA_07765		hypothetical protein	
+contig_63	cds	7630	7980	-	LDJNFA_07770		Protein-disulfide isomerase	SO:0001217, UniRef:UniRef50_W5XP25
+contig_63	cds	7937	8236	-	LDJNFA_07775		hypothetical protein	PFAM:PF01323.23
+contig_64	cds	262	6855	+	LDJNFA_07780		hypothetical protein	PFAM:PF17965.4, PFAM:PF17966.4
+contig_64	cds	7045	7896	+	LDJNFA_07785		Beta-glucoside kinase	SO:0001217, UniRef:UniRef50_A0A3S8SDW0
+contig_65	cds	214	681	+	LDJNFA_07790		hypothetical protein	PFAM:PF03217.17
+contig_65	cds	806	1666	+	LDJNFA_07795		Phosphoesterase	SO:0001217, UniRef:UniRef50_D5H1P8
+contig_65	cds	1710	2486	+	LDJNFA_07800		hypothetical protein	PFAM:PF00294.27
+contig_65	cds	2483	3037	+	LDJNFA_07805		ECF transporter S component	SO:0001217, UniRef:UniRef50_G8PAV7
+contig_65	cds	3060	3626	+	LDJNFA_07810		ATP-binding protein	SO:0001217, UniRef:UniRef50_D5GXQ9
+contig_65	cds	3670	4878	-	LDJNFA_07815		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2I8AMK0
+contig_65	cds	5090	5509	+	LDJNFA_07820		hypothetical protein	
+contig_65	cds	5527	5763	+	LDJNFA_07825		hypothetical protein	
+contig_65	cds	5765	6679	+	LDJNFA_07830		DUF979 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A7Z2SJE5
+contig_65	cds	6695	7342	+	LDJNFA_07835		Pyrrolidone-carboxylate peptidase	SO:0001217, UniRef:UniRef50_F0K2M4
+contig_66	cds	49	225	-	LDJNFA_07840		hypothetical protein	
+contig_66	cds	444	860	+	LDJNFA_07845		hypothetical protein	
+contig_66	cds	954	2387	-	LDJNFA_07850		6-phosphogluconate dehydrogenase, decarboxylating	SO:0001217, UniRef:UniRef50_P00350
+contig_66	cds	2534	3130	+	LDJNFA_07855		hypothetical protein	PFAM:PF13460.9
+contig_66	cds	3261	3686	+	LDJNFA_07860		hypothetical protein	
+contig_66	cds	3700	4053	+	LDJNFA_07865		hypothetical protein	
+contig_66	cds	4110	5216	-	LDJNFA_07870		Xaa-Pro dipeptidase	SO:0001217, UniRef:UniRef50_Q9S6S1
+contig_66	cds	5370	6368	+	LDJNFA_07875	pepR1	HTH-type transcriptional regulator pepR1	SO:0001217, UniRef:UniRef50_Q48544
+contig_66	cds	6427	7323	+	LDJNFA_07880		UTP--glucose-1-phosphate uridylyltransferase 1	SO:0001217, UniRef:UniRef50_Q5XE04
+contig_67	cds	72	626	+	LDJNFA_07885		hypothetical protein	
+contig_67	cds	695	3466	-	LDJNFA_07890		hypothetical protein	PFAM:PF03217.17, PFAM:PF03382.17, PFAM:PF04650.20, PFAM:PF17966.4
+contig_67	cds	3575	4378	-	LDJNFA_07895		DUF4931 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D5MK59
+contig_67	cds	4393	5358	+	LDJNFA_07900		hypothetical protein	
+contig_67	cds	5439	5687	+	LDJNFA_07905		hypothetical protein	
+contig_67	cds	6037	6483	+	LDJNFA_07910		hypothetical protein	
+contig_68	cds	9	323	+	LDJNFA_07915		hypothetical protein	PFAM:PF01979.23
+contig_68	cds	355	831	-	LDJNFA_07920		Nucleoside deoxyribosyltransferase	SO:0001217, UniRef:UniRef50_Q9R5V5
+contig_68	cds	926	1726	-	LDJNFA_07925		Protein-tyrosine-phosphatase	SO:0001217, UniRef:UniRef50_A0A0D5MGJ8
+contig_68	cds	1871	2353	+	LDJNFA_07930		Universal stress protein	SO:0001217, UniRef:UniRef50_C8P5H5
+contig_68	cds	2699	3634	+	LDJNFA_07935		PBPb domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YHB4
+contig_68	cds	3659	4441	+	LDJNFA_07940		Phosphonate ABC transporter, ATP-binding protein	SO:0001217, UniRef:UniRef50_E6LI48
+contig_68	cds	4434	5234	+	LDJNFA_07945		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4V3A2X6
+contig_68	cds	5234	6046	+	LDJNFA_07950		Phosphonate ABC transporter, permease protein	SO:0001217, UniRef:UniRef50_Q1GC06
+contig_69	cds	717	1403	+	LDJNFA_07955		hypothetical protein	PFAM:PF04650.20
+contig_70	cds	31	408	+	LDJNFA_07960		hypothetical protein	PFAM:PF03217.17
+contig_70	cds	799	2016	-	LDJNFA_07965		Transposase	SO:0001217, UniRef:UniRef50_C0XIQ6
+contig_70	gap	2359	2359	.				
+contig_70	cds	2380	2847	-	LDJNFA_07970		GCN5-related N-acetyltransferase	SO:0001217, UniRef:UniRef50_B3XP50
+contig_70	cds	2844	3020	-	LDJNFA_07975		hypothetical protein	
+contig_70	cds	3312	3713	-	LDJNFA_07980		Arsenate reductase (Thioredoxin)	SO:0001217, UniRef:UniRef50_C5R9U2
+contig_70	cds	3816	4724	-	LDJNFA_07985		Protease HtpX-like protein	SO:0001217, UniRef:UniRef50_Q1GA04
+contig_70	cds	4810	4959	-	LDJNFA_07990		hypothetical protein	
+contig_71	cds	336	542	+	LDJNFA_07995		Holin	SO:0001217, UniRef:UniRef50_I7JYU7
+contig_71	cds	991	2037	+	LDJNFA_08000		hypothetical protein	
+contig_71	cds	2177	3541	+	LDJNFA_08005		FAD-dependent oxidoreductase	SO:0001217, UniRef:UniRef50_A0A558LZN4
+contig_71	cds	3564	4031	+	LDJNFA_08010		DNA-binding ferritin-like protein	SO:0001217, UniRef:UniRef50_A0A091BWQ5
+contig_71	cds	4308	5060	-	LDJNFA_08015		hypothetical protein	
+contig_72	cds	33	311	-	LDJNFA_08020		hypothetical protein	
+contig_72	cds	330	749	+	LDJNFA_08025		DDE endonuclease	SO:0001217, UniRef:UniRef50_C2EL78
+contig_72	cds	1243	2109	+	LDJNFA_08030		hypothetical protein	PFAM:PF03217.17
+contig_72	cds	2272	2463	+	LDJNFA_08035		hypothetical protein	
+contig_72	cds	2510	3091	-	LDJNFA_08040		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A0R2M2W0
+contig_72	cds	3157	3363	-	LDJNFA_08045		hypothetical protein	
+contig_72	cds	3433	4017	-	LDJNFA_08050		hypothetical protein	
+contig_73	tRNA	229	301	-	LDJNFA_08055	trnT	tRNA-Thr(agt)	SO:0000270
+contig_73	cds	493	1188	+	LDJNFA_08060		Methyltransferase	SO:0001217, UniRef:UniRef50_A0A0F4LYP6
+contig_73	cds	1287	2477	+	LDJNFA_08065		DUF2974 domain-containing protein	SO:0001217, UniRef:UniRef50_C2ENU7
+contig_73	cds	2526	2942	-	LDJNFA_08070		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A0R1W125
+contig_73	cds	2992	3846	-	LDJNFA_08075		NAD(P)H dehydrogenase (Quinone)	SO:0001217, UniRef:UniRef50_A0A1Y0VWB5
+contig_73	cds	3969	4847	-	LDJNFA_08080		Fructokinase	SO:0001217, UniRef:UniRef50_A0A1B3PUH0
+contig_73	cds	5051	6130	+	LDJNFA_08085		hypothetical protein	PFAM:PF00383.26
+contig_73	cds	6224	7609	-	LDJNFA_08090		Replicative DNA helicase	SO:0001217, UniRef:UniRef50_A0A0G9GJB4
+contig_73	cds	7623	8078	-	LDJNFA_08095		50S ribosomal protein L9	SO:0001217, UniRef:UniRef50_P37437
+contig_73	cds	8091	10112	-	LDJNFA_08100		Cyclic-di-AMP phosphodiesterase	SO:0001217, UniRef:UniRef50_Q74M24
+contig_73	cds	10249	10488	-	LDJNFA_08105		30S ribosomal protein S18	SO:0001217, UniRef:UniRef50_B5ZC59
+contig_73	cds	10519	11019	-	LDJNFA_08110		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A0R2GYZ3
+contig_73	cds	11058	11354	-	LDJNFA_08115		30S ribosomal protein S6	SO:0001217, UniRef:UniRef50_Q5FN09
+contig_73	cds	11566	14031	-	LDJNFA_08120		DNA gyrase subunit A	SO:0001217, UniRef:UniRef50_P47719
+contig_73	cds	14044	16008	-	LDJNFA_08125		DNA gyrase subunit B	SO:0001217, UniRef:UniRef50_W1Q4G2
+contig_73	cds	16009	17136	-	LDJNFA_08130	recF	DNA replication and repair protein RecF	SO:0001217, UniRef:UniRef50_A8YW44
+contig_73	cds	17136	17357	-	LDJNFA_08135		RNA-binding protein	SO:0001217, UniRef:UniRef50_A0A2U3D6A4
+contig_73	cds	17594	18724	-	LDJNFA_08140		Beta sliding clamp	SO:0001217, UniRef:UniRef50_Q1GC42
+contig_73	cds	18886	20250	-	LDJNFA_08145	dnaA	Chromosomal replication initiator protein DnaA	SO:0001217, UniRef:UniRef50_Q890K8
+contig_73	cds	20721	20861	+	LDJNFA_08150		50S ribosomal protein L34	SO:0001217, UniRef:UniRef50_C3MF51
+contig_73	cds	20914	21303	+	LDJNFA_08155		Ribonuclease P protein component	SO:0001217, UniRef:UniRef50_I7K0E0
+contig_73	cds	21284	22153	+	LDJNFA_08160	yidC	Membrane protein insertase YidC	SO:0001217, UniRef:UniRef50_Q03D58
+contig_73	cds	22266	23651	+	LDJNFA_08165	mnmE	tRNA modification GTPase MnmE	SO:0001217, UniRef:UniRef50_Q49UI4
+contig_73	cds	23678	25567	+	LDJNFA_08170	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	SO:0001217, UniRef:UniRef50_Q040F4
+contig_73	cds	25893	27707	+	LDJNFA_08175		Acetolactate synthase	SO:0001217, UniRef:UniRef50_A1BNC9
+contig_73	cds	27820	29205	+	LDJNFA_08180		6-phosphogluconate dehydrogenase, decarboxylating	SO:0001217, UniRef:UniRef50_A0A137PMI7
+contig_73	cds	29302	30861	+	LDJNFA_08185		RCK C-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_Q74H98
+contig_73	cds	31068	31457	+	LDJNFA_08190		hypothetical protein	
+contig_73	cds	31806	32186	+	LDJNFA_08195		hypothetical protein	
+contig_73	cds	32244	32882	-	LDJNFA_08200		hypothetical protein	
+contig_73	cds	32938	34173	+	LDJNFA_08205		Transporter, major facilitator family protein	SO:0001217, UniRef:UniRef50_I7JXL5
+contig_73	cds	34242	36161	-	LDJNFA_08210		Lead, cadmium, zinc and mercury transporting ATPase	SO:0001217, UniRef:UniRef50_A0A0C1PTN6
+contig_73	cds	36148	36432	-	LDJNFA_08215		hypothetical protein	PFAM:PF13473.9
+contig_73	cds	36432	36809	-	LDJNFA_08220		hypothetical protein	PFAM:PF13473.9
+contig_73	cds	36811	37248	-	LDJNFA_08225		hypothetical protein	
+contig_73	cds	37497	38306	-	LDJNFA_08230		hypothetical protein	PFAM:PF01381.25
+contig_73	cds	38501	39706	+	LDJNFA_08235		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A829ZKH8
+contig_73	cds	39808	41112	-	LDJNFA_08240	pbuG	Guanine/hypoxanthine permease PbuG	SO:0001217, UniRef:UniRef50_O34987
+contig_73	cds	41293	42603	-	LDJNFA_08245	pbuG	Guanine/hypoxanthine permease PbuG	SO:0001217, UniRef:UniRef50_O34987
+contig_73	cds	42779	44086	-	LDJNFA_08250	pbuG	Guanine/hypoxanthine permease PbuG	SO:0001217, UniRef:UniRef50_O34987
+contig_73	cds	44302	45165	+	LDJNFA_08255		Sugar transporter	SO:0001217, UniRef:UniRef50_N2ARE3
+contig_73	cds	45349	45684	+	LDJNFA_08260		hypothetical protein	
+contig_73	cds	45681	46286	+	LDJNFA_08265		hypothetical protein	
+contig_73	cds	46392	47567	-	LDJNFA_08270		hypothetical protein	
+contig_73	cds	47665	48111	-	LDJNFA_08275		hypothetical protein	
+contig_73	cds	48203	48889	-	LDJNFA_08280		Deoxyadenosine kinase / Deoxyguanosine kinase	SO:0001217, UniRef:UniRef50_I9L2Y3
+contig_73	cds	48910	49557	-	LDJNFA_08285		Deoxyadenosine kinase	SO:0001217, UniRef:UniRef50_Q74HC3
+contig_73	cds	49717	50424	-	LDJNFA_08290		Glucosamine-6-phosphate deaminase	SO:0001217, UniRef:UniRef50_Q03H91
+contig_73	cds	50527	52863	-	LDJNFA_08295		ATPase component of an ABC superfamily antimicrobial peptide transporter	SO:0001217, UniRef:UniRef50_K6S9P1
+contig_73	cds	52969	54054	-	LDJNFA_08300		DUF218 domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FHU0
+contig_73	cds	54111	54791	+	LDJNFA_08305		CPBP family intramembrane metalloprotease	SO:0001217, UniRef:UniRef50_F2M3H9
+contig_73	cds	54994	56745	+	LDJNFA_08310		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A829DJA9
+contig_73	cds	56796	57974	-	LDJNFA_08315		Cation:proton antiporter	SO:0001217, UniRef:UniRef50_A0A089QJT1
+contig_73	ncRNA-region	58015	58064	-			Na+ riboswitch (DUF1646 RNA)	RFAM:RF03071, SO:0000035
+contig_73	cds	58385	58597	-	LDJNFA_08320		hypothetical protein	
+contig_73	cds	58845	59252	+	LDJNFA_08325		hypothetical protein	
+contig_73	cds	59570	61387	-	LDJNFA_08330		Cadmium-translocating P-type ATPase	SO:0001217, UniRef:UniRef50_A0A3Q8SUX1
+contig_73	cds	61492	61962	-	LDJNFA_08335		CBS domain-containing protein	SO:0001217, UniRef:UniRef50_Q1G843
+contig_73	cds	62659	62943	+	LDJNFA_08340		hypothetical protein	
+contig_74	cds	740	1018	-	LDJNFA_08345		hypothetical protein	
+contig_74	cds	1003	1857	-	LDJNFA_08350		hypothetical protein	
+contig_74	cds	2066	2890	+	LDJNFA_08355		hypothetical protein	
+contig_74	cds	3171	3518	+	LDJNFA_08360		hypothetical protein	
+contig_74	cds	3582	4310	+	LDJNFA_08365		hypothetical protein	
+contig_75	cds	314	775	-	LDJNFA_08370		6,7-dimethyl-8-ribityllumazine synthase	SO:0001217, UniRef:UniRef50_A5VJX0
+contig_75	cds	799	1977	-	LDJNFA_08375		Multifunctional fusion protein	SO:0001217, UniRef:UniRef50_T0UB70
+contig_75	cds	1980	2579	-	LDJNFA_08380		Riboflavin synthase, alpha subunit	SO:0001217, UniRef:UniRef50_C8P567
+contig_75	cds	2572	3624	-	LDJNFA_08385	ribD	Riboflavin biosynthesis protein RibD	SO:0001217, UniRef:UniRef50_C2EN90
+contig_75	ncRNA-region	3717	3832	-			FMN riboswitch (RFN element)	RFAM:RF00050, SO:0000035
+contig_76	rRNA	1	2828	-	LDJNFA_08390	rrl	(3' truncated) 23S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01980, RFAM:RF02541, SO:0001001
+contig_76	tRNA	2948	3020	-	LDJNFA_08395	trnA	tRNA-Ala(tgc)	SO:0000254
+contig_76	tRNA	3079	3152	-	LDJNFA_08400	trnI	tRNA-Ile(gat)	SO:0000263
+contig_77	cds	68	1504	-	LDJNFA_08405		hypothetical protein	PFAM:PF00251.23, PFAM:PF08244.15
+contig_77	cds	1504	3105	-	LDJNFA_08410	fusA	Fructooligosaccharide ABC transporter substrate-binding protein FusA	SO:0001217, UniRef:UniRef50_A0A0H2URD6
+contig_78	cds	446	2827	-	LDJNFA_08415		hypothetical protein	
+contig_79	cds	162	323	-	LDJNFA_08420		hypothetical protein	
+contig_79	cds	572	1891	+	LDJNFA_08425		hypothetical protein	PFAM:PF03382.17, PFAM:PF12799.10
+contig_79	cds	1976	2884	+	LDJNFA_08430		hypothetical protein	PFAM:PF00746.24, PFAM:PF17966.4
+contig_80	cds	140	403	+	LDJNFA_08435		hypothetical protein	
+contig_80	cds	441	1445	-	LDJNFA_08440		SCP domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0D6A4R0
+contig_80	cds	1460	2746	-	LDJNFA_08445	hflX	GTPase HflX	SO:0001217, UniRef:UniRef50_A4UAE4
+contig_81	cds	121	609	+	LDJNFA_08450		hypothetical protein	PFAM:PF12784.10
+contig_81	cds	789	1019	+	LDJNFA_08455		hypothetical protein	
+contig_81	cds	1136	1744	-	LDJNFA_08460	pilT	PilT family ATPase	SO:0001217, UniRef:UniRef50_I7LAK1
+contig_81	cds	1971	2516	+	LDJNFA_08465		hypothetical protein	
+contig_82	cds	174	1208	+	LDJNFA_08470		Integrase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_K1NDI3
+contig_82	cds	1653	2087	-	LDJNFA_08475		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_B0S2X9
+contig_83	cds	745	1758	+	LDJNFA_08480		hypothetical protein	
+contig_84	cds	51	728	+	LDJNFA_08485		hypothetical protein	
+contig_84	cds	937	1203	+	LDJNFA_08490		hypothetical protein	
+contig_84	cds	1840	2151	-	LDJNFA_08495		Thioredoxin	SO:0001217, UniRef:UniRef50_A0A0B2XKA6
+contig_84	cds	2229	4592	-	LDJNFA_08500	mutS2	Endonuclease MutS2	SO:0001217, UniRef:UniRef50_Q045P1
+contig_84	cds	4708	5019	-	LDJNFA_08505		UPF0473 protein BN55_06045	SO:0001217, UniRef:UniRef50_I7JU95
+contig_84	cds	5021	5449	-	LDJNFA_08510		Putative pre-16S rRNA nuclease	SO:0001217, UniRef:UniRef50_Q5FLW4
+contig_84	cds	5449	5706	-	LDJNFA_08515		UPF0297 protein SA1445	SO:0001217, UniRef:UniRef50_P60359
+contig_84	cds	5759	8398	-	LDJNFA_08520		Alanine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q1G947
+contig_84	cds	8632	10002	-	LDJNFA_08525		ATP-dependent helicase	SO:0001217, UniRef:UniRef50_A0A137PQD9
+contig_84	cds	9986	10948	-	LDJNFA_08530	nrnA	Bifunctional oligoribonuclease/PAP phosphatase NrnA	SO:0001217, UniRef:UniRef50_A0A137PN04
+contig_84	cds	11008	12135	-	LDJNFA_08535		DNA polymerase IV	SO:0001217, UniRef:UniRef50_A0A0R1YJ18
+contig_84	cds	12128	13579	-	LDJNFA_08540		Glucose-6-phosphate 1-dehydrogenase	SO:0001217, UniRef:UniRef50_D5H1H2
+contig_84	cds	13664	14050	-	LDJNFA_08545		hypothetical protein	
+contig_84	cds	14114	15127	-	LDJNFA_08550	ruvB	Holliday junction ATP-dependent DNA helicase RuvB	SO:0001217, UniRef:UniRef50_P61531
+contig_84	cds	15154	15744	-	LDJNFA_08555	ruvA	Holliday junction ATP-dependent DNA helicase RuvA	SO:0001217, UniRef:UniRef50_Q5FLX3
+contig_84	cds	15737	17629	-	LDJNFA_08560	mutL	DNA mismatch repair protein MutL	SO:0001217, UniRef:UniRef50_Q1G939
+contig_84	cds	17629	20211	-	LDJNFA_08565	mutS	DNA mismatch repair protein MutS	SO:0001217, UniRef:UniRef50_B2GB17
+contig_84	cds	20374	21996	-	LDJNFA_08570		Chaperonin GroEL	SO:0001217, UniRef:UniRef50_Q9KKF0
+contig_84	cds	22026	22310	-	LDJNFA_08575		Co-chaperonin GroES	SO:0001217, UniRef:UniRef50_Q88YM6
+contig_84	cds	22481	23761	-	LDJNFA_08580		hypothetical protein	
+contig_84	cds	23788	24522	-	LDJNFA_08585		hypothetical protein	
+contig_84	cds	24519	24977	-	LDJNFA_08590		HTH LytTR-type domain-containing protein	SO:0001217, UniRef:UniRef50_N2A2U1
+contig_84	cds	25134	25781	-	LDJNFA_08595		Redox-sensing transcriptional repressor Rex	SO:0001217, UniRef:UniRef50_B1HT11
+contig_84	cds	25959	27890	+	LDJNFA_08600		ABC transporter	SO:0001217, UniRef:UniRef50_A0A1B2IR13
+contig_84	cds	27971	29458	-	LDJNFA_08605	bglH	Aryl-phospho-beta-D-glucosidase BglH	SO:0001217, UniRef:UniRef50_A0A1C5T9J6
+contig_84	cds	29569	30612	-	LDJNFA_08610		tRNA N6-adenosine threonylcarbamoyltransferase	SO:0001217, UniRef:UniRef50_O05518
+contig_84	cds	30614	31204	-	LDJNFA_08615		[Ribosomal protein S18]-alanine N-acetyltransferase	SO:0001217, UniRef:UniRef50_A0A0R1UCV1
+contig_84	cds	31170	31907	-	LDJNFA_08620	tsaD	TsaD domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1S1K1
+contig_84	cds	31916	32659	-	LDJNFA_08625	fabZ	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ	SO:0001217, UniRef:UniRef50_A0A386RCQ3
+contig_84	cds	32663	33517	-	LDJNFA_08630		Ribosomal RNA small subunit methyltransferase I	SO:0001217, UniRef:UniRef50_Q5FLZ8
+contig_84	cds	33519	33860	-	LDJNFA_08635	yabA	DNA replication initiation control protein YabA	SO:0001217, UniRef:UniRef50_A0A0R1SCT8
+contig_84	cds	33872	34732	-	LDJNFA_08640		DNA polymerase III subunit delta	SO:0001217, UniRef:UniRef50_A0A3Q8SVI9
+contig_84	cds	34732	35052	-	LDJNFA_08645		hypothetical protein	PFAM:PF06153.14
+contig_84	cds	35067	35705	-	LDJNFA_08650		Thymidylate kinase	SO:0001217, UniRef:UniRef50_Q5FM02
+contig_84	cds	35809	36042	-	LDJNFA_08655		DUF2508 domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZWM3
+contig_84	cds	36053	36652	-	LDJNFA_08660	recR	Recombination protein RecR	SO:0001217, UniRef:UniRef50_P24277
+contig_84	cds	36653	36982	-	LDJNFA_08665		Nucleoid-associated protein LBA0378	SO:0001217, UniRef:UniRef50_Q5FM05
+contig_84	cds	37008	38729	-	LDJNFA_08670		DNA polymerase III subunit gamma/tau	SO:0001217, UniRef:UniRef50_C8PCQ5
+contig_84	ncRNA	38785	38880	-	LDJNFA_08675	Bacteria_small_SRP	Bacterial small signal recognition particle RNA	RFAM:RF00169, SO:0000655
+contig_84	cds	38893	39405	-	LDJNFA_08680		tRNA-specific adenosine deaminase	SO:0001217, UniRef:UniRef50_A0A0S3QUF8
+contig_84	cds	39406	40032	-	LDJNFA_08685		Methyltransferase domain protein	SO:0001217, UniRef:UniRef50_U6FK46
+contig_84	cds	40108	40470	-	LDJNFA_08690		50S ribosomal protein L7/L12	SO:0001217, UniRef:UniRef50_J9W2G2
+contig_84	cds	40520	41029	-	LDJNFA_08695		50S ribosomal protein L10	SO:0001217, UniRef:UniRef50_Q5FM13
+contig_84	ncRNA-region	41066	41188	-			Ribosomal protein L10 leader	RFAM:RF00557, SO:0000140
+contig_84	cds	41259	41951	-	LDJNFA_08700		50S ribosomal protein L1	SO:0001217, UniRef:UniRef50_Q5SLP7
+contig_84	cds	42030	42455	-	LDJNFA_08705		50S ribosomal protein L11	SO:0001217, UniRef:UniRef50_P62441
+contig_84	cds	42577	43131	-	LDJNFA_08710	nusG	Transcription termination/antitermination protein NusG	SO:0001217, UniRef:UniRef50_S0KGJ2
+contig_84	cds	43240	43410	-	LDJNFA_08715	secE	Protein translocase subunit SecE	SO:0001217, UniRef:UniRef50_A0A0D5MHJ6
+contig_84	cds	43703	43921	-	LDJNFA_08720		hypothetical protein	
+contig_84	cds	43978	44544	-	LDJNFA_08725		hypothetical protein	PFAM:PF04542.17
+contig_84	cds	44700	45455	-	LDJNFA_08730	rlmB	23S rRNA (Guanosine(2251)-2'-O)-methyltransferase RlmB	SO:0001217, UniRef:UniRef50_A0A7H1MLL3
+contig_84	cds	45436	45870	-	LDJNFA_08735		Mini-ribonuclease 3	SO:0001217, UniRef:UniRef50_G2SRQ1
+contig_84	cds	45872	47296	-	LDJNFA_08740		Cysteine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q5FM34
+contig_84	cds	47387	48874	-	LDJNFA_08745		Glutamate--tRNA ligase	SO:0001217, UniRef:UniRef50_Q81J61
+contig_84	cds	48948	50324	-	LDJNFA_08750	radA	DNA repair protein RadA	SO:0001217, UniRef:UniRef50_P37572
+contig_84	cds	50324	50875	-	LDJNFA_08755		dUTP diphosphatase	SO:0001217, UniRef:UniRef50_A0A0D5MI39
+contig_84	cds	50971	51279	+	LDJNFA_08760		hypothetical protein	
+contig_84	cds	51343	52692	+	LDJNFA_08765	pepC	aminopeptidase C	BlastRules:WP_003731859, BlastRules:WP_010906180, BlastRules:WP_014607929, BlastRules:WP_035165147, SO:0001217, UniRef:UniRef50_Q04723
+contig_84	cds	52763	53698	-	LDJNFA_08770		UDP-N-acetylglucosamine kinase	SO:0001217, UniRef:UniRef50_A0A2Z6T6B2
+contig_84	cds	53840	54298	-	LDJNFA_08775		SsrA-binding protein	SO:0001217, UniRef:UniRef50_A9NF97
+contig_84	cds	54310	56637	-	LDJNFA_08780		Ribonuclease R	SO:0001217, UniRef:UniRef50_A0A2Z6T9U5
+contig_84	cds	56717	56950	-	LDJNFA_08785	secG	Protein-export membrane protein SecG	SO:0001217, UniRef:UniRef50_A0A1A5VI70
+contig_84	cds	57019	59082	-	LDJNFA_08790		Sulfatase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R2D4X5
+contig_84	cds	59153	60178	-	LDJNFA_08795		Phosphatidylglycerol lysyltransferase	SO:0001217, UniRef:UniRef50_Q5FLT8
+contig_84	cds	60183	61226	-	LDJNFA_08800		Glycosyltransferase	SO:0001217, UniRef:UniRef50_Q1WUY4
+contig_84	cds	61219	62391	-	LDJNFA_08805		Group 1 glycosyl transferase	SO:0001217, UniRef:UniRef50_A0A0F4LDS9
+contig_84	tRNA	62513	62597	-	LDJNFA_08810	trnL	tRNA-Leu(caa)	SO:0000264
+contig_84	tRNA	62640	62710	-	LDJNFA_08815	trnC	tRNA-Cys(gca)	SO:0000258
+contig_84	tRNA	62731	62802	-	LDJNFA_08820	trnQ	tRNA-Gln(ttg)	SO:0000261
+contig_84	tRNA	62810	62882	-	LDJNFA_08825	trnH	tRNA-His(gtg)	SO:0000262
+contig_84	tRNA	62896	62966	-	LDJNFA_08830	trnW	tRNA-Trp(cca)	SO:0000271
+contig_85	cds	111	575	+	LDJNFA_08835		hypothetical protein	PFAM:PF01420.22
+contig_85	cds	641	1576	+	LDJNFA_08840		Tyr recombinase domain-containing protein	SO:0001217, UniRef:UniRef50_Q24VE8
+contig_85	cds	1647	2114	-	LDJNFA_08845		hypothetical protein	PFAM:PF01420.22
+contig_86	cds	198	1730	+	LDJNFA_08850		site-specific DNA-methyltransferase (adenine-specific)	SO:0001217, UniRef:UniRef50_A0A8T3U658
+contig_87	cds	84	260	+	LDJNFA_08855		Transposase	SO:0001217, UniRef:UniRef50_A0A2A7REW4
+contig_87	cds	257	604	+	LDJNFA_08860		Transposase	SO:0001217, UniRef:UniRef50_S1RN86
+contig_87	cds	669	899	+	LDJNFA_08865		LZ-Tnp-IS66 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YFM5
+contig_88	cds	65	826	+	LDJNFA_08870		Bro-N domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R2CZ28
+contig_88	cds	837	1007	+	LDJNFA_08875		hypothetical protein	
+contig_88	cds	1032	1349	-	LDJNFA_08880		hypothetical protein	
+contig_88	cds	1430	1636	+	LDJNFA_08885		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1TTK7
+contig_89	cds	60	839	+	LDJNFA_08890		Bro-N domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1Q8FGY7
+contig_89	cds	852	998	+	LDJNFA_08895		hypothetical protein	
+contig_89	cds	970	1323	-	LDJNFA_08900		hypothetical protein	
+contig_90	cds	78	1046	+	LDJNFA_08905		Integrase	SO:0001217, UniRef:UniRef50_V8C5L7
+contig_90	cds	1046	1576	+	LDJNFA_08910		hypothetical protein	PFAM:PF01420.22
+contig_91	cds	226	1152	-	LDJNFA_08915		HTH lysR-type domain-containing protein	SO:0001217, UniRef:UniRef50_F4ADE1
+contig_92	cds	38	1153	-	LDJNFA_08920		Beta-helix domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0F4LIH6
+contig_94	tRNA	1150	1239	-	LDJNFA_08925	trnS	tRNA-Ser(gct)	SO:0000269
+contig_95	cds	675	1940	-	LDJNFA_08930	repB	Initiator RepB protein	SO:0001217, UniRef:UniRef50_A0A0R1YKR0
+contig_95	cds	3244	3546	-	LDJNFA_08935		hypothetical protein	
+contig_95	cds	3833	4630	-	LDJNFA_08940		Sporulation initiation inhibitor protein Soj	SO:0001217, UniRef:UniRef50_A0A428EVI0
+contig_95	cds	4965	6134	+	LDJNFA_08945		hypothetical protein	PFAM:PF13527.10, PFAM:PF13530.9, PFAM:PF17668.4
+contig_95	cds	6680	8440	+	LDJNFA_08950		SBP-bac-5 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5N2Y0
+contig_95	cds	8724	9404	+	LDJNFA_08955		hypothetical protein	
+contig_95	cds	9401	10075	+	LDJNFA_08960		hypothetical protein	
+contig_95	cds	10151	10513	-	LDJNFA_08965		hypothetical protein	
+contig_95	cds	10510	11319	-	LDJNFA_08970		hypothetical protein	
+contig_95	cds	11476	12795	+	LDJNFA_08975		Aminopeptidase E	SO:0001217, UniRef:UniRef50_P94870
+contig_95	cds	12972	13790	+	LDJNFA_08980		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_Q74KX4
+contig_95	cds	13871	15853	+	LDJNFA_08985		hypothetical protein	
+contig_95	cds	15864	16532	+	LDJNFA_08990		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_N1ZRZ8
+contig_95	cds	16529	16858	+	LDJNFA_08995		hypothetical protein	
+contig_95	cds	16924	17868	-	LDJNFA_09000		hypothetical protein	PFAM:PF02826.22, PFAM:PF03446.18
+contig_95	cds	17873	18697	-	LDJNFA_09005		Integrase-recombinase	SO:0001217, UniRef:UniRef50_I7J1U0
+contig_95	cds	18824	19108	-	LDJNFA_09010		DNA-binding protein HU	SO:0001217, UniRef:UniRef50_A0A0R1YL05
+contig_95	cds	19251	19592	-	LDJNFA_09015		hypothetical protein	
+contig_95	cds	20065	22476	+	LDJNFA_09020		Cation-transporting ATPase, E1-E2 family	SO:0001217, UniRef:UniRef50_B1MZ87
+contig_95	cds	22525	23154	+	LDJNFA_09025		hypothetical protein	PFAM:PF00392.24, PFAM:PF07729.15
+contig_95	cds	23247	24320	+	LDJNFA_09030		AEC family transporter	SO:0001217, UniRef:UniRef50_A0A1H9CKM5
+contig_95	cds	24348	25352	+	LDJNFA_09035		4-phosphoerythronate dehydrogenase	SO:0001217, UniRef:UniRef50_C7XUB4
+contig_95	cds	25532	27265	+	LDJNFA_09040		hypothetical protein	PFAM:PF00005.30
+contig_95	cds	27457	28788	+	LDJNFA_09045		Pyridine nucleotide-disulfide oxidoreductase	SO:0001217, UniRef:UniRef50_R3JFE0
+contig_95	cds	28855	29781	-	LDJNFA_09050		Aldo-ket-red domain-containing protein	SO:0001217, UniRef:UniRef50_G9WLQ8
+contig_95	cds	29951	30478	-	LDJNFA_09055		Folate family ECF transporter S component	SO:0001217, UniRef:UniRef50_Q74KZ1
+contig_95	cds	30497	32173	-	LDJNFA_09060		Formate--tetrahydrofolate ligase	SO:0001217, UniRef:UniRef50_Q1GA94
+contig_95	cds	32358	33314	-	LDJNFA_09065		Sugar-bind domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1YBQ5
+contig_95	cds	33517	34920	+	LDJNFA_09070		Fumarate hydratase class II	SO:0001217, UniRef:UniRef50_A0A0R1P6D1
+contig_95	cds	34931	36328	+	LDJNFA_09075		Fumarate reductase flavoprotein subunit	SO:0001217, UniRef:UniRef50_A0A1D7ZVZ7
+contig_95	cds	36408	37859	+	LDJNFA_09080		Anion permease	SO:0001217, UniRef:UniRef50_A0A4R5N4N1
+contig_95	cds	37946	38035	+	LDJNFA_09085		hypothetical protein	
+contig_95	gap	38438	38438	.				
+contig_95	cds	38563	39507	+	LDJNFA_09090		Transposase, IS116/IS110/IS902 family	SO:0001217, UniRef:UniRef50_F0NRV5
+contig_95	cds	40041	40208	+	LDJNFA_09095		hypothetical protein	
+contig_95	cds	40411	41223	+	LDJNFA_09100		hypothetical protein	PFAM:PF00702.29, PFAM:PF08282.15
+contig_95	cds	41325	42191	-	LDJNFA_09105		Rpn family recombination-promoting nuclease/putative transposase	SO:0001217, UniRef:UniRef50_I7LD43
+contig_95	cds	42349	43500	-	LDJNFA_09110		hypothetical protein	
+contig_95	cds	43700	44149	+	LDJNFA_09115		Pyridoxamine 5'-phosphate oxidase family protein	SO:0001217, UniRef:UniRef50_C2ENG2
+contig_95	cds	44307	44744	+	LDJNFA_09120		hypothetical protein	
+contig_95	cds	44546	44965	-	LDJNFA_09125		hypothetical protein	
+contig_95	cds	45014	46654	+	LDJNFA_09130		SBP-bac-5 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R2IBE7
+contig_95	cds	46728	47369	-	LDJNFA_09135		NAD(P)H-binding protein	SO:0001217, UniRef:UniRef50_A0A089QGB9
+contig_95	cds	47566	48576	+	LDJNFA_09140		UPF0324 membrane protein FN0533	SO:0001217, UniRef:UniRef50_Q8RFZ3
+contig_95	cds	48640	49539	-	LDJNFA_09145		NtA domain-containing protein	SO:0001217, UniRef:UniRef50_Q033N8
+contig_95	cds	49639	50013	-	LDJNFA_09150		hypothetical protein	
+contig_95	cds	50186	51898	+	LDJNFA_09155		FMN-bind domain-containing protein	SO:0001217, UniRef:UniRef50_K1NN31
+contig_95	cds	51977	52897	-	LDJNFA_09160		HTH lysR-type domain-containing protein	SO:0001217, UniRef:UniRef50_G6F7J6
+contig_95	cds	53050	53598	+	LDJNFA_09165		hypothetical protein	PFAM:PF08501.14
+contig_95	cds	53585	53965	+	LDJNFA_09170		hypothetical protein	PFAM:PF18317.4
+contig_95	cds	54000	55196	+	LDJNFA_09175		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4R5NK88
+contig_95	cds	55207	55965	+	LDJNFA_09180		3-dehydroquinate dehydratase	SO:0001217, UniRef:UniRef50_A0A0F4LKP2
+contig_96	cds	5	865	-	LDJNFA_09185		hypothetical protein	
+contig_97	cds	26	1078	-	LDJNFA_09190		Fido domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FI87
+contig_98	rRNA	1	1110	-	LDJNFA_09195	rrs	(partial) 16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_101	cds	230	886	+	LDJNFA_09200		Reverse transcriptase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A109DEN2
+contig_103	cds	115	897	+	LDJNFA_09205		hypothetical protein	PFAM:PF16363.8
+contig_104	cds	49	777	-	LDJNFA_09210		hypothetical protein	PFAM:PF03217.17
+contig_106	cds	473	3484	+	LDJNFA_09215		Alpha-glucosidase	SO:0001217, UniRef:UniRef50_A0A0D5MGP4
+contig_106	cds	3528	4307	-	LDJNFA_09220		Acetylxylan esterase	SO:0001217, UniRef:UniRef50_A0A0D5MFZ5
+contig_106	cds	4304	5065	-	LDJNFA_09225		YibE/F family protein	SO:0001217, UniRef:UniRef50_N2AHQ1
+contig_106	cds	5062	6171	-	LDJNFA_09230		YibE/F family protein	SO:0001217, UniRef:UniRef50_F2M0Q6
+contig_106	cds	6258	7022	-	LDJNFA_09235		hypothetical protein	
+contig_106	cds	7048	8130	-	LDJNFA_09240		D-alanine--D-alanine ligase	SO:0001217, UniRef:UniRef50_Q046V3
+contig_106	cds	8272	9498	+	LDJNFA_09245		SCP domain-containing protein	SO:0001217, UniRef:UniRef50_I7J280
+contig_106	cds	9544	10497	-	LDJNFA_09250		1,4-dihydroxy-2-naphthoate octaprenyltransferase	SO:0001217, UniRef:UniRef50_I7J138
+contig_106	cds	10519	11259	-	LDJNFA_09255		ABC-type polar amino acid transport system, ATPase component	SO:0001217, UniRef:UniRef50_A0A0G9F8B1
+contig_106	cds	11252	12736	-	LDJNFA_09260		ABC transmembrane type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1HE34
+contig_106	cds	12837	13670	-	LDJNFA_09265		Conserved protein	SO:0001217, UniRef:UniRef50_A0A0D5MGN4
+contig_106	cds	13683	14366	-	LDJNFA_09270		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A0F4LKK3
+contig_106	cds	14512	15498	-	LDJNFA_09275		ribose-phosphate diphosphokinase	SO:0001217, UniRef:UniRef50_A0A0R1YM52
+contig_106	cds	15641	16297	-	LDJNFA_09280		AB hydrolase-1 domain-containing protein	SO:0001217, UniRef:UniRef50_Q1G7R1
+contig_106	cds	16281	17132	-	LDJNFA_09285		Glyco-trans-2-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0R1S127
+contig_106	cds	17298	18236	+	LDJNFA_09290		Extracellular protein	SO:0001217, UniRef:UniRef50_Q1G7R3
+contig_106	cds	18291	18779	-	LDJNFA_09295		hypothetical protein	PFAM:PF00075.27
+contig_106	cds	18879	19814	+	LDJNFA_09300		Alpha/beta hydrolase	SO:0001217, UniRef:UniRef50_F0HVK7
+contig_106	cds	19828	21288	+	LDJNFA_09305		Cardiolipin synthase	SO:0001217, UniRef:UniRef50_A0A2Z6PPC9
+contig_106	cds	21313	21789	-	LDJNFA_09310		hypothetical protein	
+contig_106	cds	21884	22588	+	LDJNFA_09315		Transcriptional regulator, Sir2 family	SO:0001217, UniRef:UniRef50_D4YUZ1
+contig_106	cds	22651	23424	+	LDJNFA_09320	terC	TerC family membrane protein	SO:0001217, UniRef:UniRef50_A0A1V0JBJ6
+contig_106	cds	23428	24066	+	LDJNFA_09325		Putative 3-methyladenine DNA glycosylase	SO:0001217, UniRef:UniRef50_Q5FMR0
+contig_106	ncRNA-region	24103	24278	+			Lysine riboswitch	RFAM:RF00168, SO:0000035
+contig_106	cds	24388	26007	+	LDJNFA_09330		His/Glu/Gln/Arg/opine family amino ABC transporter, permease, 3-TM region	SO:0001217, UniRef:UniRef50_N2AHS3
+contig_106	cds	26007	26762	+	LDJNFA_09335	artM	Arginine transport ATP-binding protein ArtM	SO:0001217, UniRef:UniRef50_P54537
+contig_106	cds	27376	27753	+	LDJNFA_09340		hypothetical protein	
+contig_106	cds	27793	28671	-	LDJNFA_09345		HNHc domain-containing protein	SO:0001217, UniRef:UniRef50_Q5FMR4
+contig_106	cds	28706	29347	-	LDJNFA_09350	yfbR	5'-deoxynucleotidase YfbR	SO:0001217, UniRef:UniRef50_A0A165CGL8
+contig_106	cds	29428	29682	-	LDJNFA_09355		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A0L0RIB9
+contig_106	cds	29689	30888	-	LDJNFA_09360		Major facilitator superfamily transporter permease	SO:0001217, UniRef:UniRef50_A0A0R1SB06
+contig_106	cds	30901	32235	-	LDJNFA_09365		Peptidase dimerization domain protein	SO:0001217, UniRef:UniRef50_E7FQV6
+contig_106	cds	32598	33284	-	LDJNFA_09370		hypothetical protein	
+contig_106	cds	33281	33685	-	LDJNFA_09375		hypothetical protein	PFAM:PF01270.20
+contig_106	cds	33890	34621	-	LDJNFA_09380		hypothetical protein	
+contig_106	cds	34804	34944	-	LDJNFA_09385		hypothetical protein	
+contig_106	cds	35042	35437	-	LDJNFA_09390		Fe-S-biosyn domain-containing protein	SO:0001217, UniRef:UniRef50_N2ASS2
+contig_106	cds	35634	36734	+	LDJNFA_09395		CitMHS domain-containing protein	SO:0001217, UniRef:UniRef50_Q74LV5
+contig_106	cds	36857	38461	-	LDJNFA_09400	msbA	Lipid A export ATP-binding/permease protein MsbA	SO:0001217, UniRef:UniRef50_A0A6S4N615
+contig_106	cds	38803	39357	+	LDJNFA_09405	lemA	Protein LemA	SO:0001217, UniRef:UniRef50_A8AVK0
+contig_106	cds	39422	40264	+	LDJNFA_09410		Protease HtpX-like protein	SO:0001217, UniRef:UniRef50_Q88Z48
+contig_106	cds	40305	41894	-	LDJNFA_09415		ATP-binding cassette domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3S8SFL2
+contig_106	cds	42059	43000	-	LDJNFA_09420		hypothetical protein	PFAM:PF00165.26, PFAM:PF12833.10
+contig_106	ncRNA-region	43110	43202	+			TPP riboswitch (THI element)	RFAM:RF00059, SO:0000035
+contig_106	cds	43250	44614	+	LDJNFA_09425	ykoD	HMP/thiamine import ATP-binding protein YkoD	SO:0001217, UniRef:UniRef50_A0A2X0R9B7
+contig_106	cds	44619	45272	+	LDJNFA_09430	ecfT	Energy-coupling factor transporter transmembrane protein EcfT	SO:0001217, UniRef:UniRef50_W5IGJ7
+contig_106	cds	45304	45783	-	LDJNFA_09435		Ribosomal RNA large subunit methyltransferase H	SO:0001217, UniRef:UniRef50_Q9CDS7
+contig_106	cds	46260	47501	-	LDJNFA_09440		hypothetical protein	PFAM:PF00089.29, PFAM:PF00595.27, PFAM:PF13180.9, PFAM:PF13365.9, PFAM:PF17820.4
+contig_106	cds	47584	48381	-	LDJNFA_09445		MBL fold metallo-hydrolase	SO:0001217, UniRef:UniRef50_A0A137PK20
+contig_106	cds	48401	49228	-	LDJNFA_09450	yycI	YycI domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0F4LU15
+contig_106	cds	49230	50582	-	LDJNFA_09455	yycH	YycH domain-containing protein	SO:0001217, UniRef:UniRef50_A0A8H9G5J8
+contig_106	cds	50572	52431	-	LDJNFA_09460		histidine kinase	SO:0001217, UniRef:UniRef50_E6LHB7
+contig_106	cds	52476	53192	-	LDJNFA_09465		Stage 0 sporulation A-like protein	SO:0001217, UniRef:UniRef50_E3PVW9
+contig_112	cds	296	493	-	LDJNFA_09470		hypothetical protein	
+contig_113	cds	20	484	-	LDJNFA_09475		hypothetical protein	PFAM:PF01420.22
