@@ -3,7 +3,7 @@
 ## Plan:
 [X] 1. Acquire genome  
 [X] 2. Safety  
-[ ] 3. Genome stability  
+[X] 3. Genome stability  
 [ ] 4. Probiotic potential  
 
 ## **Acquire genome**
@@ -41,3 +41,37 @@ Objective: To confirm this strain is considered safe - absence of resistance gen
    Result: Zero hits - identified from exporting the Bakta annotated genome to excel and searching for the target enzymes  
 
 ## **Genomic Stability**
+Objective: To determine the stability of this strain from elements that can confer beneficial and dangerous genes.  
+1. **Detection of IS (Insertion Sequence) elements, transposons, and plasmids**  
+   Tool: MobileElementFinder 1.0.3  
+   Database: MGEdb 1.0.2  
+   Parameters: Minimum alignment coverage 95%, minimum sequence identity 90%, maximum truncation 30nt  
+   Result: 1 of 23 mobile genetic elements found (ISL2)
+
+2. **Detection of plasmids**  
+   Tool: PlasmidFinder  
+   Database: plasmidfinder_81c11f4_2023_12_04  
+   Parameters: Minimal coverage: 0.6, minimal identity: 0.95  
+   Result: Zero hits
+
+3. **Detection of prophages**  
+   Tool: PHASTER  
+   Database: Bacteria DB last update: 22 Dec 2020, Prophage/Virus DB: 22 Dec 2020, DNA fragment DB of regions: 29 Mar 2018  
+   Result: 4 prophage regions identified: 0 regions are intact, 1 region is incomplete, and 3 regions are questionable.  
+
+4. **Detection of prophages**  
+   Platform: Proksee  
+   Tool: PHASTEST  
+   Database: PHAST-BSD Bacterial Database – last updated in 22 Dec 2020  
+   Result: 3 prophage regions identified: 2 regions are intact and 1 is questionable.
+
+5. **Detection of genomic islands**  
+   Tool: IslandViewer 4  
+   Database: IslandPick, IslandPath-DIMOB, SIGI-HMM, and Islander
+   Reference genome: Lactobacillus plantarum WCFS1  
+   Result: 9 islands found
+
+6. **Detection of CRISPR Cas sequences**  
+   Tool: CRISPRCasFinder  
+   Database: CRISPRCasdb  
+   Result: 0 CRISPR sequences, 1 Cas cluster  
