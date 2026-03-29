@@ -1,0 +1,32 @@
+Galaxy Tool:
+toolshed.g2.bx.psu.edu/repos/iuc/plasmidfinder/plasmidfinder/2.1.6+galaxy1 
+
+PlasmidFinder database:
+plasmidfinder_81c11f4_2023_12_04
+
+Variables:
+Minimal coverage: 0.6
+Minimal identity: 0.95
+
+Command Line:
+mkdir output_dir && mkdir temp_dir && plasmidfinder.py -i '/corral4/main/objects/f/6/b/dataset_f6b6fba6-528f-4c6c-a308-5ef7e7ae6978.dat' -p '/cvmfs/data.galaxyproject.org/byhand/plasmidfinder-db/81c11f4_2023_12_04' -l '0.6' -t '0.95' -mp blastn -x -o output_dir -tmp temp_dir | tee 'XXXX'
+
+Tool Standard Output:
+{'plasmidfinder': {'results': {'Enterobacteriales': {'enterobacteriales': 'No '
+                                                                          'hit '
+                                                                          'found'},
+                               'Gram Positive': {'Inc18': 'No hit found',
+                                                 'NT_Rep': 'No hit found',
+                                                 'Rep1': 'No hit found',
+                                                 'Rep2': 'No hit found',
+                                                 'Rep3': 'No hit found',
+                                                 'RepA_N': 'No hit found',
+                                                 'RepL': 'No hit found',
+                                                 'Rep_trans': 'No hit found'}},
+                   'run_info': {'date': '04.02.2026', 'time': '10:58:35'},
+                   'user_input': {'file_format': 'fasta',
+                                  'filename(s)': ['/corral4/main/objects/f/6/b/dataset_f6b6fba6-528f-4c6c-a308-5ef7e7ae6978.dat'],
+                                  'method': 'blast'}}}
+Tool Standard Error:
+/usr/local/bin/plasmidfinder.py:351: DeprecationWarning: Use shutil.which instead of find_executable
+  if find_executable(method_path) is None:
