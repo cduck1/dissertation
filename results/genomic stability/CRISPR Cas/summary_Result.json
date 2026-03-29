@@ -1,0 +1,33 @@
+{
+"Date":"5/2/2026_16:2:49",
+"Version":"1.0.0",
+"Command":"perl /usr/local/CRISPRCasMeta/MetaFinder/MetaFinder.pl -cf /usr/local/CRISPRCasMeta/MetaFinder/CasFinder-2.0.2 -def General -cas -i /store/webapp/ccpp/jobs/639059041658704350/639059041658704350/Summary.fasta -cpuM 1 -meta -keep -mr 23 -xr 55  -pm 0.6 -px 2.5 -s 60 -md 20 -PMT 33  -fl 100 -so /usr/local/CRISPRCasMeta/MetaFinder/sel392v2.so",
+"Sequences":
+[{
+"Id":"NZ_AYZO01000003.1",
+"Description":"Lactobacillus gigeriorum DSM 23908 _ CRBIP 24.85 strain DSM 23908 Scaffold3, whole genome shotgun sequence",
+"AT":61.0012815968151,
+"Length":146692,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[],
+"Cas":[{
+"Type": "General-Class1",
+"Start": 53744,
+"End": 61816,
+"Genes": [
+{
+"Sub_type": "Cas3_0_I",
+"Start": 53744,
+"End": 57235,
+"Orientation": "-"
+},
+{
+"Sub_type": "Cas3_0_I",
+"Start": 60335,
+"End": 61816,
+"Orientation": "-"
+}]}]
+
+}
+]
+}
