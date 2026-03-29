@@ -4,7 +4,8 @@
 [X] 1. Acquire genome  
 [X] 2. Safety  
 [X] 3. Genome stability  
-[ ] 4. Probiotic potential  
+[X] 4. Probiotic potential  
+[ ] 5. Machine learning  
 
 ## **Acquire genome**
 Action: Downloaded the complete genome assembly of Lactobacillus gigeriorum DSM 23908  
@@ -75,3 +76,15 @@ Objective: To determine the stability of this strain from elements that can conf
    Tool: CRISPRCasFinder  
    Database: CRISPRCasdb  
    Result: 0 CRISPR sequences, 1 Cas cluster  
+
+## **Probiotic Potential**
+Objective: To determine this strain's probiotic potential.  
+1. **Detection of genes associated with probiotic benefit**  
+   Tool: NCBI tBLASTn
+   Probiotic genes database: Supplementary Table S1 of Sabino, Y. N. V., Paiva, A. D., Fonseca, B. R., Medeiros, J. D., & Machado, A. B. F. (2025). Deciphering probiotic potential: a comprehensive guide to probiogenomic analyses. Future Microbiology, 20(7–9), 611–622. https://doi.org/10.1080/17460913.2025.2492472.  
+   Parameters: >=40% percent identity, >=70% query coverage  
+   Result: 71 matching records: Acid stress 6, Adhesion 5, Bile tolerance 9, Biosynthesis of vitamins 1, Cold stress 1, Exopolysaccharide biosynthesis 7, Gut persistence 1, Heat stress 1, Organic solvent stress 1, Osmotic stress 2, Oxidative stress 9, Starvation 2, Stress resistance 26  
+
+2. **Detection of bacteriocins**  
+   Tool: BAGEL4  
+   Result: 2 bacteriocins identified  
