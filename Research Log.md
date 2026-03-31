@@ -6,7 +6,7 @@
 [X] 3. Safety  
 [X] 4. Genome stability  
 [X] 5. Probiotic potential  
-[ ] 6. Machine learning  
+[X] 6. Machine learning  
 
 ## **Acquire genome**
 Action: Downloaded the complete genome assembly of Lactobacillus gigeriorum DSM 23908  
@@ -64,19 +64,19 @@ Objective: To determine the stability of this strain from elements that can conf
 3. **Detection of prophages**  
    Tool: PHASTER  
    Database: Bacteria DB last update: 22 Dec 2020, Prophage/Virus DB: 22 Dec 2020, DNA fragment DB of regions: 29 Mar 2018  
-   Result: 4 prophage regions identified: 0 regions are intact, 1 region is incomplete, and 3 regions are questionable.  
+   Result: 4 prophage regions identified: 0 regions are intact, 1 region is incomplete, and 3 regions are questionable  
 
 4. **Detection of prophages**  
    Platform: Proksee  
    Tool: PHASTEST  
    Database: PHAST-BSD Bacterial Database – last updated in 22 Dec 2020  
-   Result: 3 prophage regions identified: 2 regions are intact and 1 is questionable.
+   Result: 3 prophage regions identified: 2 regions are intact and 1 is questionable
 
 5. **Detection of genomic islands**  
    Tool: IslandViewer 4  
    Database: IslandPick, IslandPath-DIMOB, SIGI-HMM, and Islander
    Reference genome: Lactobacillus plantarum WCFS1  
-   Result: 9 islands found
+   Result: 9 islands found  
 
 6. **Detection of CRISPR Cas sequences**  
    Tool: CRISPRCasFinder  
@@ -94,3 +94,7 @@ Objective: To determine this strain's probiotic potential.
 2. **Detection of bacteriocins**  
    Tool: BAGEL4, BLASTp  
    Result: 2 bacteriocins identified  
+
+## **Probiotic Potential**  
+Objective: To compare machine learning probiotic predictions to the manual approach.  
+Tools: iProbiotics, ProBioMinServer2, ProbML
