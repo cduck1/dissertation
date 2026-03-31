@@ -92,5 +92,5 @@ Objective: To determine this strain's probiotic potential.
    Result: 71 matching records: Acid stress 6, Adhesion 5, Bile tolerance 9, Biosynthesis of vitamins 1, Cold stress 1, Exopolysaccharide biosynthesis 7, Gut persistence 1, Heat stress 1, Organic solvent stress 1, Osmotic stress 2, Oxidative stress 9, Starvation 2, Stress resistance 26  
 
 2. **Detection of bacteriocins**  
-   Tool: BAGEL4  
+   Tool: BAGEL4, BLASTp  
    Result: 2 bacteriocins identified  
