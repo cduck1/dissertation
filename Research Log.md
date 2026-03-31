@@ -86,7 +86,7 @@ Objective: To determine the stability of this strain from elements that can conf
 ## **Probiotic Potential**
 Objective: To determine this strain's probiotic potential.  
 1. **Detection of genes associated with probiotic benefit**  
-   Tool: NCBI tBLASTn
+   Tool: NCBI tBLASTn  
    Probiotic genes database: Supplementary Table S1 of Sabino, Y. N. V., Paiva, A. D., Fonseca, B. R., Medeiros, J. D., & Machado, A. B. F. (2025). Deciphering probiotic potential: a comprehensive guide to probiogenomic analyses. Future Microbiology, 20(7–9), 611–622. https://doi.org/10.1080/17460913.2025.2492472.  
    Parameters: >=40% percent identity, >=70% query coverage  
    Result: 71 matching records: Acid stress 6, Adhesion 5, Bile tolerance 9, Biosynthesis of vitamins 1, Cold stress 1, Exopolysaccharide biosynthesis 7, Gut persistence 1, Heat stress 1, Organic solvent stress 1, Osmotic stress 2, Oxidative stress 9, Starvation 2, Stress resistance 26  
