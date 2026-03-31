@@ -1,0 +1,2019 @@
+RID: T6HYE7C7014	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: lcl|Query_10404077 Length: 99
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E   Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value Ident  Len        Accession        
+transposase, IS4 family [Lactobacillus gigeriorum DSM 23908 =...  1          1          Lactobacillu... firmicutes      1423751    209    209   100%  5e-68 100.00 99         KRN11452.1       
+transposase, partial [Lactobacillus crispatus]                    1          1          Lactobacillu... firmicutes      47770      182    182   92%   2e-56 92.31  192        WP_208583824.1   
+transposase [Lactobacillus pasteurii DSM 23907 = CRBIP 24.76]     1          1          Lactobacillu... firmicutes      1423790    185    185   92%   2e-56 95.60  280        KRK08287.1       
+transposase, partial [Klebsiella sp. KG9]                         1          1          Klebsiella s... enterobacteria  2044270    181    181   92%   8e-56 92.31  182        WP_141528303.1   
+transposase, partial [Lactobacillus sp. UMNPBX8]                  1          1          Lactobacillu... firmicutes      2042039    180    180   92%   8e-56 90.11  160        WP_144070406.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       178    178   92%   4e-55 91.21  156        WP_201726023.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       177    177   92%   5e-55 91.21  131        WP_172999427.1   
+transposase, partial [Lactobacillus helveticus]                   2          1          Lactobacillu... firmicutes      1587       178    178   92%   1e-54 91.21  184        WP_260274469.1   
+transposase, partial [Bacillus thuringiensis]                     1          1          Bacillus thu... firmicutes      1428       179    179   92%   1e-54 92.31  230        WP_309431990.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       176    176   92%   1e-54 91.21  134        WP_260307221.1   
+transposase [Lactobacillus kitasatonis DSM 16761 = JCM 1039]      1          1          Lactobacillu... firmicutes      1423767    182    182   92%   1e-54 93.41  339        KRM07346.1       
+transposase, partial [Lactobacillus helveticus]                   4          1          Lactobacillu... firmicutes      1587       175    175   92%   2e-54 91.21  122        WP_260281205.1   
+transposase, partial [Lactobacillus helveticus]                   2          1          Lactobacillu... firmicutes      1587       176    176   92%   2e-54 91.21  152        WP_201726816.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       175    175   92%   2e-54 91.21  133        WP_201725900.1   
+transposase, partial [Lactobacillus helveticus]                   2          1          Lactobacillu... firmicutes      1587       177    177   92%   3e-54 91.21  196        WP_173005354.1   
+transposase [Lactobacillus crispatus]                             1          1          Lactobacillu... firmicutes      47770      181    181   92%   3e-54 91.21  325        MCT7862597.1     
+IS1182 family transposase [Lactobacillus sp. PV037]               1          1          Lactobacillu... firmicutes      2594496    187    187   92%   3e-54 94.51  552        WP_416209733.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       178    178   92%   4e-54 91.21  240        WP_201727241.1   
+transposase, partial [Lactobacillus helveticus]                   2          2          Lactobacillus   firmicutes      1578       178    178   92%   6e-54 91.21  245        WP_201736247.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       176    176   92%   7e-54 91.21  205        WP_218983566.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       176    176   92%   1e-53 91.21  209        WP_394869167.1   
+transposase, partial [Lactobacillus helveticus]                   3          1          Lactobacillu... firmicutes      1587       178    178   92%   1e-53 91.21  282        WP_260282237.1   
+MULTISPECIES: transposase, partial [unclassified Lactobacillus]   1          1          unclassified... firmicutes      2620435    180    180   92%   1e-53 90.11  352        WP_143468461.1   
+transposase, partial [Lactobacillus gallinarum]                   11         6          Lactobacillus   firmicutes      1578       182    182   92%   2e-53 92.31  442        WP_289570930.1   
+IS1182-like element ISLac1 family transposase, partial...         3          1          Lactobacillu... firmicutes      1579       181    181   92%   2e-53 92.31  373        WP_211754741.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       177    177   92%   2e-53 90.11  277        WP_173005076.1   
+transposase, partial [Lactobacillus helveticus]                   2          1          Lactobacillu... firmicutes      1587       178    178   92%   3e-53 91.21  312        WP_260307087.1   
+transposase, partial [Lactobacillus helveticus]                   9          4          Lactobacillus   firmicutes      1578       179    179   92%   3e-53 91.21  324        WP_280604607.1   
+transposase, partial [Lactobacillus helveticus]                   7          1          Lactobacillu... firmicutes      1587       177    177   92%   6e-53 91.21  290        WP_155719262.1   
+IS1182-like element ISLac1 family transposase, partial...         2          2          Lactobacillus   firmicutes      1578       181    181   92%   6e-53 92.31  434        WP_260202701.1   
+IS1182 family transposase, partial [Lactobacillus kimbladii]      1          1          Lactobacillu... firmicutes      1218506    182    182   92%   7e-53 92.31  492        WP_379859242.1   
+transposase, partial [Lactobacillus helveticus]                   2          1          Lactobacillu... firmicutes      1587       177    177   92%   1e-52 91.21  342        WP_259685327.1   
+transposase, partial [Lactobacillus helveticus]                   12         2          Lactobacillus   firmicutes      1578       178    178   92%   1e-52 91.21  364        WP_035513573.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       177    177   92%   1e-52 91.21  351        WP_244061574.1   
+IS1182 family transposase [Lactobacillus kullabergensis]          7          4          Lactobacillus   firmicutes      1578       182    182   92%   2e-52 93.41  552        WP_109586027.1   
+transposase, partial [Lactobacillus helveticus]                   13         6          Lactobacillales firmicutes      186826     177    177   92%   2e-52 91.21  357        WP_260316282.1   
+IS1182 family transposase [Lactobacillus crispatus]               5          1          Lactobacillu... firmicutes      47770      182    182   92%   2e-52 92.31  574        WP_333507736.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       178    178   92%   3e-52 91.21  384        WP_260277884.1   
+MULTISPECIES: transposase, partial [Lactobacillus]                1          1          Lactobacillus   firmicutes      1578       171    171   91%   4e-52 85.56  179        WP_269257104.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       177    177   92%   4e-52 91.21  387        WP_444881887.1   
+transposase, partial [Lactobacillus crispatus]                    1          1          Lactobacillu... firmicutes      47770      173    173   92%   4e-52 85.71  231        WP_133465804.1   
+IS1182 family transposase, partial [Lactobacillus gallinarum]     1          1          Lactobacillu... firmicutes      52242      179    179   92%   6e-52 90.11  475        WP_283598534.1   
+IS1182 family transposase [Lactobacillus gallinarum]              4          4          Lactobacillus   firmicutes      1578       181    181   92%   6e-52 91.21  548        WP_281681296.1   
+hypothetical protein GCM10027259_61720 [Micromonospora palomenae] 1          1          Micromonospo... high G+C Gra... 1461247    171    171   91%   2e-51 85.56  217        GAB3190318.1     
+transposase, partial [Lactobacillus amylovorus]                   1          1          Lactobacillu... firmicutes      1604       167    167   91%   2e-51 86.02  113        WP_156405846.1   
+IS1182 family transposase [Lactobacillus johnsonii]               58         10         Lactobacillales firmicutes      186826     181    181   92%   2e-51 90.11  616        WP_323702250.1   
+IS1182 family transposase, partial [Lactobacillus hamsteri]       127        21         Lactobacilla... firmicutes      33958      179    179   92%   2e-51 91.21  540        WP_344727406.1   
+IS1182 family transposase, partial [Lactobacillus helveticus]     8          3          Lactobacillus   firmicutes      1578       178    178   92%   3e-51 91.21  504        WP_172984435.1   
+transposase, partial [Lactobacillus helveticus]                   3          2          Lactobacillus   firmicutes      1578       174    174   90%   3e-51 91.01  337        WP_173000258.1   
+IS1182 family transposase, partial [Lactobacillus sp. HT06-2]     1          1          Lactobacillu... firmicutes      2080222    178    178   92%   5e-51 90.11  543        WP_103662715.1   
+IS1182 family transposase [Lactobacillus crispatus]               2          1          Lactobacillu... firmicutes      47770      182    182   92%   5e-51 92.31  917        WP_423241893.1   
+IS1182 family transposase [Lactobacillus helveticus]              1          1          Lactobacillu... firmicutes      1587       178    178   92%   6e-51 91.21  537        WP_205841055.1   
+transposase, partial [Lactobacillus amylovorus]                   2          1          Lactobacillu... firmicutes      1604       167    167   91%   8e-51 86.02  167        WP_441777310.1   
+transposase, partial [Lactobacillus acidophilus]                  1          1          Lactobacillu... firmicutes      1579       168    168   91%   9e-51 86.02  181        WP_436633773.1   
+IS1182 family transposase [Lactobacillus crispatus]               1          1          Lactobacillu... firmicutes      47770      181    181   92%   9e-51 90.11  790        WP_158182088.1   
+transposase, partial [Lactobacillus amylovorus]                   1          1          Lactobacillu... firmicutes      1604       168    168   91%   1e-50 86.02  209        WP_353536106.1   
+transposase [Lactobacillus crispatus]                             1          1          Lactobacillu... firmicutes      47770      172    172   92%   1e-50 84.62  319        MBI1700137.1     
+transposase, partial [Lactobacillus crispatus]                    2          1          Lactobacillu... firmicutes      47770      171    171   92%   2e-50 85.71  318        WP_340816063.1   
+transposase, partial [Lactobacillus amylovorus]                   1          1          Lactobacillu... firmicutes      1604       171    171   91%   2e-50 86.02  315        WP_271873157.1   
+IS1182 family transposase [Lactobacillus helveticus]              140        6          Lactobacillus   firmicutes      1578       177    177   92%   3e-50 91.21  622        WP_337587582.1   
+transposase [Lactobacillus helveticus]                            1          1          Lactobacillu... firmicutes      1587       178    178   92%   4e-50 91.21  729        AYE61644.1       
+IS1182 family transposase [Lactobacillus helveticus]              1          1          Lactobacillu... firmicutes      1587       176    176   92%   5e-50 90.11  566        WP_110535578.1   
+transposase, partial [Lactobacillus crispatus]                    4          2          Lactobacillu... firmicutes      47770      171    171   91%   5e-50 85.56  334        WP_269259764.1   
+transposase [Lactobacillus amylovorus subsp. animalium DSM 16698] 1          1          Lactobacillu... firmicutes      695563     170    170   92%   5e-50 85.71  318        KRN89510.1       
+transposase, partial [Lactobacillus crispatus]                    4          1          Lactobacillu... firmicutes      47770      172    172   92%   5e-50 85.71  405        WP_285034711.1   
+transposase, partial [Lactobacillus amylovorus]                   1          1          Lactobacillu... firmicutes      1604       166    166   91%   5e-50 84.95  197        WP_441769607.1   
+transposase, partial [Lactobacillus amylovorus]                   1          1          Lactobacillu... firmicutes      1604       164    164   91%   6e-50 84.95  141        WP_342095139.1   
+transposase, partial [Lactobacillus crispatus]                    1          1          Lactobacillu... firmicutes      47770      173    173   92%   6e-50 85.71  431        WP_133484501.1   
+IS1182 family transposase, partial [Lactobacillus crispatus]      6          1          Lactobacillu... firmicutes      47770      172    172   92%   6e-50 85.71  403        WP_269259247.1   
+transposase, partial [Lactobacillus amylovorus]                   2          2          Lactobacillus   firmicutes      1578       166    166   91%   1e-49 84.95  206        WP_342095115.1   
+transposase, partial [Lactobacillus helveticus]                   1          1          Lactobacillu... firmicutes      1587       164    164   92%   1e-49 87.91  161        WP_201727102.1   
+IS1182 family transposase, partial [Lactobacillus crispatus]      1          1          Lactobacillu... firmicutes      47770      172    172   92%   2e-49 85.71  466        WP_135306663.1   
+IS1182 family transposase [Lactobacillus amylovorus]              4          1          Lactobacillu... firmicutes      1604       174    174   92%   2e-49 86.81  567        WP_260186685.1   
+IS1182 family transposase, partial [Lactobacillus amylovorus]     6          2          Lactobacillus   firmicutes      1578       169    169   91%   5e-49 86.02  388        WP_271327335.1   
+transposase, partial [Lactobacillus helveticus]                   2          1          Lactobacillu... firmicutes      1587       162    162   85%   6e-49 90.48  144        WP_201725939.1   
+IS1182 family transposase, partial [Lactobacillus crispatus]      15         2          Lactobacillus   firmicutes      1578       172    172   92%   7e-49 85.71  538        WP_133467563.1   
+transposase [Lactobacillus crispatus]                             1          1          Lactobacillu... firmicutes      47770      165    165   91%   1e-48 83.87  263        MBI1720936.1     
+IS1182 family transposase [Lactobacillus crispatus]               88         4          Bacteria        bacteria        2          173    173   92%   1e-48 85.71  612        WP_411904378.1   
+transposase, partial [Lactobacillus johnsonii]                    5          4          Lactobacillus   firmicutes      1578       169    169   91%   2e-48 84.95  417        WP_285025416.1   
+transposase, partial [Lactobacillus amylovorus]                   3          2          Lactobacillus   firmicutes      1578       167    167   91%   2e-48 84.95  358        WP_353535810.1   
+IS1182 family transposase [Lactobacillus amylovorus]              2          1          Lactobacillu... firmicutes      1604       170    170   92%   2e-48 85.71  492        MDB6230986.1     
+hypothetical protein LANSK_19610 [Lactobacillus amylovorus...     2          2          Lactobacillu... firmicutes      1604       164    164   91%   5e-48 83.87  290        GAA0039479.1     
+IS1182 family transposase [Lactobacillus crispatus]               1          1          Lactobacillu... firmicutes      47770      174    174   92%   6e-48 85.71  903        MBG0737003.1     
+IS1182 family transposase [Lactobacillus crispatus]               1          1          Lactobacillu... firmicutes      47770      173    173   92%   6e-48 85.71  802        WP_423241894.1   
+IS1182 family transposase, partial [Lactobacillus amylolyticus]   1          1          Lactobacillu... firmicutes      83683      169    169   91%   6e-48 84.95  485        WP_056956271.1   
+IS1182 family transposase, partial [Lactobacillus amylovorus]     103        11         Lactobacillales firmicutes      186826     169    169   91%   7e-48 86.02  517        WP_271902247.1   
+transposase, partial [Lactobacillus kitasatonis]                  2          2          Lactobacillus   firmicutes      1578       169    169   91%   8e-48 86.02  486        WP_025015581.1   
+Transposase [Lactobacillus amylovorus GRL 1112]                   1          1          Lactobacillu... firmicutes      695560     169    169   91%   1e-47 86.02  542        ADQ58171.1       
+IS1182 family transposase [Lactobacillus amylovorus]              12         3          Bacilli         firmicutes      91061      169    169   91%   3e-47 86.02  620        WP_422877482.1   
+IS1182 family transposase, partial [Lactobacillus amylovorus]     1          1          Lactobacillu... firmicutes      1604       166    166   91%   4e-47 84.95  464        WP_427810017.1   
+transposase [Lactobacillus johnsonii DPC 6026]                    2          2          Lactobacillu... firmicutes      33959      165    165   91%   1e-46 82.80  453        AEB93052.1       
+IS1182 family transposase [Lactobacillus acetotolerans]           1          1          Lactobacillu... firmicutes      1600       167    167   91%   1e-46 83.33  557        HBG91202.1       
+IS1182 family transposase [Lactobacillus crispatus]               4          2          Lactobacillus   firmicutes      1578       165    165   91%   6e-46 82.22  578        WP_269257047.1   
+transposase [Lactobacillus acetotolerans]                         2          1          Lactobacillu... firmicutes      1600       163    163   91%   9e-46 82.22  494        BAQ57437.1       
+hypothetical protein HMPREF0528_1828, partial [Lactobacillus...   2          1          Lactobacillu... firmicutes      525330     154    154   82%   2e-45 84.52  167        EEJ59040.1       
+IS5/IS1182 family transposase [Lactobacillus johnsonii]           1          1          Lactobacillu... firmicutes      33959      149    149   82%   8e-45 83.33  89         MGE9917493.1     
+IS1182 family transposase [Lactobacillus sp. ESL0681]             8          2          unclassified... firmicutes      2620435    162    162   91%   8e-45 81.11  554        WP_277126579.1   
+IS1182 family transposase [Lactobacillus sp. ESL0791]             1          1          Lactobacillu... firmicutes      2983234    162    162   91%   1e-44 81.11  575        MDF7637847.1     
+transposase, partial [uncultured Lactobacillus sp.]               2          2          Lactobacillus   firmicutes      1578       156    156   77%   2e-44 92.11  323        WP_297949918.1   
+IS1182 family transposase [Lactobacillus johnsonii]               7          2          Lactobacillus   firmicutes      1578       160    160   91%   3e-44 80.65  557        WP_216513182.1   
+
+
+Alignments:
+
+>transposase, IS4 family [Lactobacillus gigeriorum DSM 23908 = CRBIP 24.85]
+Sequence ID: KRN11452.1 Length: 99
+Range 1: 1 to 99
+
+Score:209 bits(531), Expect:5e-68, 
+Method:Compositional matrix adjust., 
+Identities:99/99(100%), Positives:99/99(100%), Gaps:0/99(0%)
+
+Query  1   MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+           MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY
+Sbjct  1   MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+
+Query  61  PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGYVANITTQC  99
+           PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGYVANITTQC
+Sbjct  61  PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGYVANITTQC  99
+
+
+
+
+>transposase, partial [Lactobacillus crispatus]
+Sequence ID: WP_208583824.1 Length: 192
+Range 1: 70 to 160
+
+Score:182 bits(463), Expect:2e-56, 
+Method:Compositional matrix adjust., 
+Identities:84/91(92%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VDFALY
+Sbjct  70   MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDFALY  129
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDF+T EPFL+QM TLDKFDKIVA AGY
+Sbjct  130  PNPTDFRTFEPFLKQMTTLDKFDKIVADAGY  160
+
+
+
+
+>transposase [Lactobacillus pasteurii DSM 23907 = CRBIP 24.76]
+Sequence ID: KRK08287.1 Length: 280
+Range 1: 1 to 91
+
+Score:185 bits(470), Expect:2e-56, 
+Method:Compositional matrix adjust., 
+Identities:87/91(96%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1   MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+           MKKYEEAKEIFAGRNSYSKTDHDATFMHMKED MKNGQLKPGYNIQAATTNQY+VDFALY
+Sbjct  1   MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDRMKNGQLKPGYNIQAATTNQYVVDFALY  60
+
+Query  61  PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+           PNPTDFKTLEPFLEQM TLDKFDKIVA AGY
+Sbjct  61  PNPTDFKTLEPFLEQMTTLDKFDKIVADAGY  91
+
+
+
+
+>transposase, partial [Klebsiella sp. KG9]
+Sequence ID: WP_141528303.1 Length: 182
+Range 1: 85 to 175
+
+Score:181 bits(458), Expect:8e-56, 
+Method:Compositional matrix adjust., 
+Identities:84/91(92%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQY+VDFALY
+Sbjct  85   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYVVDFALY  144
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+             NPTDF+TLEPFL+QM TLDKFDKIVA AGY
+Sbjct  145  HNPTDFRTLEPFLKQMSTLDKFDKIVADAGY  175
+
+
+
+
+>transposase, partial [Lactobacillus sp. UMNPBX8]
+Sequence ID: WP_144070406.1 Length: 160
+Range 1: 51 to 141
+
+Score:180 bits(456), Expect:8e-56, 
+Method:Compositional matrix adjust., 
+Identities:82/91(90%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+E+FAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQ ATT+QY+VDFALY
+Sbjct  51   MKKYEEAEEVFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQVATTDQYVVDFALY  110
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM T+DKFDKIVA AGY
+Sbjct  111  PNPTDFKTLEPFLKQMTTMDKFDKIVADAGY  141
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_201726023.1 Length: 156
+Range 1: 65 to 155
+
+Score:178 bits(451), Expect:4e-55, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  65   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  124
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  125  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  155
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_172999427.1 Length: 131
+Range 1: 38 to 128
+
+Score:177 bits(448), Expect:5e-55, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA++IFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPG NIQAATTNQY+VDFALY
+Sbjct  38   MKKYEEAEKIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGSNIQAATTNQYVVDFALY  97
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM TL+KFDKIVA AGY
+Sbjct  98   PNPTDFKTLEPFLKQMPTLNKFDKIVADAGY  128
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_260274469.1 Length: 184
+Range 1: 76 to 166
+
+Score:178 bits(451), Expect:1e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  76   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  135
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  136  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  166
+
+
+
+
+>transposase, partial [Bacillus thuringiensis]
+Sequence ID: WP_309431990.1 Length: 230
+Range 1: 60 to 150
+
+Score:179 bits(455), Expect:1e-54, 
+Method:Compositional matrix adjust., 
+Identities:84/91(92%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQY+VDFALY
+Sbjct  60   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYVVDFALY  119
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+             NPTDF+TLEPFL+QM TLDKFDKIVA AGY
+Sbjct  120  HNPTDFRTLEPFLKQMSTLDKFDKIVADAGY  150
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_260307221.1 Length: 134
+Range 1: 27 to 117
+
+Score:176 bits(446), Expect:1e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  27   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  86
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  87   PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  117
+
+
+
+
+>transposase [Lactobacillus kitasatonis DSM 16761 = JCM 1039]
+Sequence ID: KRM07346.1 Length: 339
+Range 1: 126 to 216
+
+Score:182 bits(463), Expect:1e-54, 
+Method:Compositional matrix adjust., 
+Identities:85/91(93%), Positives:89/91(97%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VDFALY
+Sbjct  126  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDFALY  185
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM TLDKFDKIVA AGY
+Sbjct  186  PNPTDFKTLEPFLKQMPTLDKFDKIVADAGY  216
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_260281205.1 Length: 122
+Range 1: 13 to 103
+
+Score:175 bits(444), Expect:2e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  13   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  72
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  73   PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  103
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_201726816.1 Length: 152
+Range 1: 27 to 117
+
+Score:176 bits(446), Expect:2e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  27   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  86
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  87   PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  117
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_201725900.1 Length: 133
+Range 1: 7 to 97
+
+Score:175 bits(444), Expect:2e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1   MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+           MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  7   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  66
+
+Query  61  PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+           PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  67  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  97
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_173005354.1 Length: 196
+Range 1: 64 to 154
+
+Score:177 bits(449), Expect:3e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  64   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  123
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  124  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  154
+
+
+
+
+>transposase [Lactobacillus crispatus]
+Sequence ID: MCT7862597.1 Length: 325
+Range 1: 103 to 193
+
+Score:181 bits(460), Expect:3e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNG+LKPGYNIQAATT+QY+VDFALY
+Sbjct  103  MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGKLKPGYNIQAATTDQYVVDFALY  162
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDF+T EPFL+QM TLDKFDKIVA AGY
+Sbjct  163  PNPTDFRTFEPFLKQMTTLDKFDKIVADAGY  193
+
+
+
+
+>IS1182 family transposase [Lactobacillus sp. PV037]
+Sequence ID: WP_416209733.1 Length: 552
+Range 1: 221 to 311
+
+Score:187 bits(475), Expect:3e-54, 
+Method:Compositional matrix adjust., 
+Identities:86/91(95%), Positives:89/91(97%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQY++DFALY
+Sbjct  221  MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYVIDFALY  280
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM TLDKFDKIVA AGY
+Sbjct  281  PNPTDFKTLEPFLKQMTTLDKFDKIVADAGY  311
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_201727241.1 Length: 240
+Range 1: 149 to 239
+
+Score:178 bits(452), Expect:4e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  149  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  208
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  209  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  239
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_201736247.1 Length: 245
+Range 1: 121 to 211
+
+Score:178 bits(451), Expect:6e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  121  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  180
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  181  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  211
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_218983566.1 Length: 205
+Range 1: 8 to 98
+
+Score:176 bits(447), Expect:7e-54, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1   MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+           MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  8   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  67
+
+Query  61  PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+           PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  68  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  98
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_394869167.1 Length: 209
+Range 1: 54 to 144
+
+Score:176 bits(446), Expect:1e-53, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  54   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  113
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  114  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  144
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_260282237.1 Length: 282
+Range 1: 176 to 266
+
+Score:178 bits(452), Expect:1e-53, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  176  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  235
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  236  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  266
+
+
+
+
+>MULTISPECIES: transposase, partial [unclassified Lactobacillus]
+Sequence ID: WP_143468461.1 Length: 352
+Range 1: 46 to 136
+
+Score:180 bits(457), Expect:1e-53, 
+Method:Compositional matrix adjust., 
+Identities:82/91(90%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+E+FAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQ ATT+QY+VDFALY
+Sbjct  46   MKKYEEAEEVFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQVATTDQYVVDFALY  105
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM T+DKFDKIVA AGY
+Sbjct  106  PNPTDFKTLEPFLKQMTTMDKFDKIVADAGY  136
+
+
+
+
+>transposase, partial [Lactobacillus gallinarum]
+Sequence ID: WP_289570930.1 Length: 442
+Range 1: 248 to 338
+
+Score:182 bits(463), Expect:2e-53, 
+Method:Compositional matrix adjust., 
+Identities:84/91(92%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VDFALY
+Sbjct  248  MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDF+T EPFL+QM TLDKFDKIVA AGY
+Sbjct  308  PNPTDFRTFEPFLKQMTTLDKFDKIVADAGY  338
+
+
+
+
+>IS1182-like element ISLac1 family transposase, partial [Lactobacillus acidophilus]
+Sequence ID: WP_211754741.1 Length: 373
+Range 1: 60 to 150
+
+Score:181 bits(458), Expect:2e-53, 
+Method:Compositional matrix adjust., 
+Identities:84/91(92%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQY+VDFALY
+Sbjct  60   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYVVDFALY  119
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+             NPTDF+TLEPFL+QM TLDKFDKIVA AGY
+Sbjct  120  HNPTDFRTLEPFLKQMSTLDKFDKIVADAGY  150
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_173005076.1 Length: 277
+Range 1: 184 to 274
+
+Score:177 bits(450), Expect:2e-53, 
+Method:Compositional matrix adjust., 
+Identities:82/91(90%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA++IFAGRNSYSKTDHDATF+HMKEDHMKNGQLKPG NIQAATTNQY+VDFALY
+Sbjct  184  MKKYEEAEKIFAGRNSYSKTDHDATFIHMKEDHMKNGQLKPGSNIQAATTNQYVVDFALY  243
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM TL+KFDKIVA AGY
+Sbjct  244  PNPTDFKTLEPFLKQMPTLNKFDKIVADAGY  274
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_260307087.1 Length: 312
+Range 1: 203 to 293
+
+Score:178 bits(452), Expect:3e-53, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  203  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  262
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  263  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  293
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_280604607.1 Length: 324
+Range 1: 2 to 92
+
+Score:179 bits(453), Expect:3e-53, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1   MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+           MKKYEEA++IFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VDFALY
+Sbjct  2   MKKYEEAEKIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDFALY  61
+
+Query  61  PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+           PNPTDFKTL PFL+QM TLDKFDKIVA AGY
+Sbjct  62  PNPTDFKTLAPFLKQMTTLDKFDKIVADAGY  92
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_155719262.1 Length: 290
+Range 1: 27 to 117
+
+Score:177 bits(448), Expect:6e-53, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  27   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  86
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  87   PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  117
+
+
+
+
+>IS1182-like element ISLac1 family transposase, partial [Lactobacillus acidophilus]
+Sequence ID: WP_260202701.1 Length: 434
+Range 1: 121 to 211
+
+Score:181 bits(459), Expect:6e-53, 
+Method:Compositional matrix adjust., 
+Identities:84/91(92%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQY+VDFALY
+Sbjct  121  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYVVDFALY  180
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+             NPTDF+TLEPFL+QM TLDKFDKIVA AGY
+Sbjct  181  HNPTDFRTLEPFLKQMSTLDKFDKIVADAGY  211
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus kimbladii]
+Sequence ID: WP_379859242.1 Length: 492
+Range 1: 173 to 263
+
+Score:182 bits(461), Expect:7e-53, 
+Method:Compositional matrix adjust., 
+Identities:84/91(92%), Positives:89/91(97%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA++IFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQY+VDFALY
+Sbjct  173  MKKYEEAEKIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYVVDFALY  232
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM TLDKFD+IVA AGY
+Sbjct  233  PNPTDFKTLEPFLKQMTTLDKFDQIVADAGY  263
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_259685327.1 Length: 342
+Range 1: 152 to 242
+
+Score:177 bits(450), Expect:1e-52, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  152  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  211
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  212  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  242
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_035513573.1 Length: 364
+Range 1: 59 to 149
+
+Score:178 bits(451), Expect:1e-52, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  59   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  118
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  119  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  149
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_244061574.1 Length: 351
+Range 1: 192 to 282
+
+Score:177 bits(450), Expect:1e-52, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  192  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  251
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  252  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  282
+
+
+
+
+>IS1182 family transposase [Lactobacillus kullabergensis]
+Sequence ID: WP_109586027.1 Length: 552
+Range 1: 219 to 309
+
+Score:182 bits(462), Expect:2e-52, 
+Method:Compositional matrix adjust., 
+Identities:85/91(93%), Positives:89/91(97%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA++IFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQY+VDFALY
+Sbjct  219  MKKYEEAEKIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYVVDFALY  278
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM TLDKFDKIVA AGY
+Sbjct  279  PNPTDFKTLEPFLKQMTTLDKFDKIVADAGY  309
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_260316282.1 Length: 357
+Range 1: 248 to 338
+
+Score:177 bits(450), Expect:2e-52, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  248  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  338
+
+
+
+
+>IS1182 family transposase [Lactobacillus crispatus]
+Sequence ID: WP_333507736.1 Length: 574
+Range 1: 248 to 338
+
+Score:182 bits(463), Expect:2e-52, 
+Method:Compositional matrix adjust., 
+Identities:84/91(92%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VDFALY
+Sbjct  248  MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDF+T EPFL+QM TLDKFDKIVA AGY
+Sbjct  308  PNPTDFRTFEPFLKQMTTLDKFDKIVADAGY  338
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_260277884.1 Length: 384
+Range 1: 131 to 221
+
+Score:178 bits(451), Expect:3e-52, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  131  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  190
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  191  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  221
+
+
+
+
+>MULTISPECIES: transposase, partial [Lactobacillus]
+Sequence ID: WP_269257104.1 Length: 179
+Range 1: 90 to 179
+
+Score:171 bits(434), Expect:4e-52, 
+Method:Compositional matrix adjust., 
+Identities:77/90(86%), Positives:85/90(94%), Gaps:0/90(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  90   MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  149
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAG  90
+            PNPTDFKTLEP L+QM  LDKFDKIVA AG
+Sbjct  150  PNPTDFKTLEPVLDQMTVLDKFDKIVADAG  179
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_444881887.1 Length: 387
+Range 1: 24 to 114
+
+Score:177 bits(450), Expect:4e-52, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  24   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  83
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  84   PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  114
+
+
+
+
+>transposase, partial [Lactobacillus crispatus]
+Sequence ID: WP_133465804.1 Length: 231
+Range 1: 101 to 191
+
+Score:173 bits(438), Expect:4e-52, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  101  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  160
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  161  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  191
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus gallinarum]
+Sequence ID: WP_283598534.1 Length: 475
+Range 1: 248 to 338
+
+Score:179 bits(454), Expect:6e-52, 
+Method:Compositional matrix adjust., 
+Identities:82/91(90%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYE+ KEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VD+ALY
+Sbjct  248  MKKYEDDKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDYALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDF+TLEPFL+QM TLDKFDKIVA AGY
+Sbjct  308  PNPTDFRTLEPFLKQMTTLDKFDKIVADAGY  338
+
+
+
+
+>IS1182 family transposase [Lactobacillus gallinarum]
+Sequence ID: WP_281681296.1 Length: 548
+Range 1: 248 to 338
+
+Score:181 bits(458), Expect:6e-52, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEE KEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VD+ALY
+Sbjct  248  MKKYEEDKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDYALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDF+TLEPFL+QM TLDKFDKIVA AGY
+Sbjct  308  PNPTDFRTLEPFLKQMTTLDKFDKIVADAGY  338
+
+
+
+
+>hypothetical protein GCM10027259_61720 [Micromonospora palomenae]
+Sequence ID: GAB3190318.1 Length: 217
+Range 1: 113 to 202
+
+Score:171 bits(433), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:77/90(86%), Positives:85/90(94%), Gaps:0/90(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  113  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  172
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAG  90
+            PNPTDFKTLEP L+QM  LDKFDKIVA AG
+Sbjct  173  PNPTDFKTLEPVLDQMTVLDKFDKIVADAG  202
+
+
+
+
+>transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_156405846.1 Length: 113
+Range 1: 20 to 112
+
+Score:167 bits(423), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  20   KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  79
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  80   NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  112
+
+
+
+
+>IS1182 family transposase [Lactobacillus johnsonii]
+Sequence ID: WP_323702250.1 Length: 616
+Range 1: 248 to 338
+
+Score:181 bits(458), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:82/91(90%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+E+FAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQ ATT+QY+VDFALY
+Sbjct  248  MKKYEEAEEVFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQVATTDQYVVDFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM T+DKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPFLKQMTTMDKFDKIVADAGY  338
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus hamsteri]
+Sequence ID: WP_344727406.1 Length: 540
+Range 1: 248 to 338
+
+Score:179 bits(454), Expect:2e-51, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VDF+LY
+Sbjct  248  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDFSLY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+             NPTDFKTLEPFL+QM TLDKFDKIVA AGY
+Sbjct  308  SNPTDFKTLEPFLKQMTTLDKFDKIVADAGY  338
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_172984435.1 Length: 504
+Range 1: 180 to 270
+
+Score:178 bits(452), Expect:3e-51, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  180  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  239
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  240  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  270
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_173000258.1 Length: 337
+Range 1: 249 to 337
+
+Score:174 bits(441), Expect:3e-51, 
+Method:Compositional matrix adjust., 
+Identities:81/89(91%), Positives:86/89(96%), Gaps:0/89(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA++IFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VDFALY
+Sbjct  249  MKKYEEAEKIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDFALY  308
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAA  89
+            PNPTDFKTL PFL+QM TLDKFDKIVA A
+Sbjct  309  PNPTDFKTLAPFLKQMTTLDKFDKIVADA  337
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus sp. HT06-2]
+Sequence ID: WP_103662715.1 Length: 543
+Range 1: 248 to 338
+
+Score:178 bits(452), Expect:5e-51, 
+Method:Compositional matrix adjust., 
+Identities:82/91(90%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+ IFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VDFALY
+Sbjct  248  MEKYEEAERIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNP DFKTLEPFL+QM TLDKFDKIVA AGY
+Sbjct  308  PNPNDFKTLEPFLKQMKTLDKFDKIVADAGY  338
+
+
+
+
+>IS1182 family transposase [Lactobacillus crispatus]
+Sequence ID: WP_423241893.1 Length: 917
+Range 1: 248 to 338
+
+Score:182 bits(462), Expect:5e-51, 
+Method:Compositional matrix adjust., 
+Identities:84/91(92%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VDFALY
+Sbjct  248  MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDF+T EPFL+QM TLDKFDKIVA AGY
+Sbjct  308  PNPTDFRTFEPFLKQMTTLDKFDKIVADAGY  338
+
+
+
+
+>IS1182 family transposase [Lactobacillus helveticus]
+Sequence ID: WP_205841055.1 Length: 537
+Range 1: 248 to 338
+
+Score:178 bits(451), Expect:6e-51, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  248  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  338
+
+
+
+
+>transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_441777310.1 Length: 167
+Range 1: 29 to 121
+
+Score:167 bits(424), Expect:8e-51, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  29   KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  88
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  89   NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  121
+
+
+
+
+>transposase, partial [Lactobacillus acidophilus]
+Sequence ID: WP_436633773.1 Length: 181
+Range 1: 15 to 107
+
+Score:168 bits(425), Expect:9e-51, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  15   KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  74
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  75   NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  107
+
+
+
+
+>IS1182 family transposase [Lactobacillus crispatus]
+Sequence ID: WP_158182088.1 Length: 790
+Range 1: 248 to 338
+
+Score:181 bits(458), Expect:9e-51, 
+Method:Compositional matrix adjust., 
+Identities:82/91(90%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+E+FAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQ ATT+QY+VDFALY
+Sbjct  248  MKKYEEAEEVFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQVATTDQYVVDFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM T+DKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPFLKQMTTMDKFDKIVADAGY  338
+
+
+
+
+>transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_353536106.1 Length: 209
+Range 1: 23 to 115
+
+Score:168 bits(426), Expect:1e-50, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  23   KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  82
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  83   NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  115
+
+
+
+
+>transposase [Lactobacillus crispatus]
+Sequence ID: MBI1700137.1 Length: 319
+Range 1: 65 to 155
+
+Score:172 bits(435), Expect:1e-50, 
+Method:Compositional matrix adjust., 
+Identities:77/91(85%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYN+QA TT+QY+VD+A++
+Sbjct  65   MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNVQAVTTDQYVVDYAIF  124
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  125  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  155
+
+
+
+
+>transposase, partial [Lactobacillus crispatus]
+Sequence ID: WP_340816063.1 Length: 318
+Range 1: 1 to 91
+
+Score:171 bits(434), Expect:2e-50, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1   MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+           M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  1   MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  60
+
+Query  61  PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+           PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  61  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  91
+
+
+
+
+>transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_271873157.1 Length: 315
+Range 1: 129 to 221
+
+Score:171 bits(433), Expect:2e-50, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:86/93(92%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHM+NGQLKPGYNIQAATTNQY+VDFAL+P
+Sbjct  129  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMRNGQLKPGYNIQAATTNQYVVDFALFP  188
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+TLEPFLEQM +   LDKF  IVA AGY
+Sbjct  189  NPTDFRTLEPFLEQMESRGILDKFQNIVADAGY  221
+
+
+
+
+>IS1182 family transposase [Lactobacillus helveticus]
+Sequence ID: WP_337587582.1 Length: 622
+Range 1: 248 to 338
+
+Score:177 bits(450), Expect:3e-50, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  248  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  338
+
+
+
+
+>transposase [Lactobacillus helveticus]
+Sequence ID: AYE61644.1 Length: 729
+Range 1: 248 to 338
+
+Score:178 bits(452), Expect:4e-50, 
+Method:Compositional matrix adjust., 
+Identities:83/91(91%), Positives:87/91(95%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALY
+Sbjct  248  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  338
+
+
+
+
+>IS1182 family transposase [Lactobacillus helveticus]
+Sequence ID: WP_110535578.1 Length: 566
+Range 1: 248 to 338
+
+Score:176 bits(446), Expect:5e-50, 
+Method:Compositional matrix adjust., 
+Identities:82/91(90%), Positives:88/91(96%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKED+MKNGQLKPGYNIQAATT+QY+VDFALY
+Sbjct  248  MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDNMKNGQLKPGYNIQAATTDQYVVDFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFK LEPFL+QM TL+KFDKIVA AGY
+Sbjct  308  PNPTDFKKLEPFLKQMPTLNKFDKIVADAGY  338
+
+
+
+
+>transposase, partial [Lactobacillus crispatus]
+Sequence ID: WP_269259764.1 Length: 334
+Range 1: 245 to 334
+
+Score:171 bits(432), Expect:5e-50, 
+Method:Compositional matrix adjust., 
+Identities:77/90(86%), Positives:85/90(94%), Gaps:0/90(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  245  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  304
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAG  90
+            PNPTDFKTLEP L+QM  LDKFDKIVA AG
+Sbjct  305  PNPTDFKTLEPVLDQMTVLDKFDKIVADAG  334
+
+
+
+
+>transposase [Lactobacillus amylovorus subsp. animalium DSM 16698]
+Sequence ID: KRN89510.1 Length: 318
+Range 1: 74 to 164
+
+Score:170 bits(431), Expect:5e-50, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:85/91(93%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            +KKYE+A+ +FAGRNSYSKTDHDATFMHMKEDHMKNGQLKP YNIQ ATTNQY+VDFALY
+Sbjct  74   IKKYEQAQALFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPDYNIQTATTNQYVVDFALY  133
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+Q+ TLD FDKIVA AGY
+Sbjct  134  PNPTDFKTLEPFLKQLPTLDNFDKIVADAGY  164
+
+
+
+
+>transposase, partial [Lactobacillus crispatus]
+Sequence ID: WP_285034711.1 Length: 405
+Range 1: 90 to 180
+
+Score:172 bits(437), Expect:5e-50, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  90   MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  149
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  150  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  180
+
+
+
+
+>transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_441769607.1 Length: 197
+Range 1: 104 to 196
+
+Score:166 bits(421), Expect:5e-50, 
+Method:Compositional matrix adjust., 
+Identities:79/93(85%), Positives:84/93(90%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFA +P
+Sbjct  104  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAPFP  163
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  164  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  196
+
+
+
+
+>transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_342095139.1 Length: 141
+Range 1: 8 to 100
+
+Score:164 bits(416), Expect:6e-50, 
+Method:Compositional matrix adjust., 
+Identities:79/93(85%), Positives:84/93(90%), Gaps:3/93(3%)
+
+Query  2   KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+           KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFA +P
+Sbjct  8   KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAPFP  67
+
+Query  62  NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+           NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  68  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  100
+
+
+
+
+>transposase, partial [Lactobacillus crispatus]
+Sequence ID: WP_133484501.1 Length: 431
+Range 1: 190 to 280
+
+Score:173 bits(438), Expect:6e-50, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  190  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  249
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  250  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  280
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus crispatus]
+Sequence ID: WP_269259247.1 Length: 403
+Range 1: 245 to 335
+
+Score:172 bits(436), Expect:6e-50, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  245  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  304
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  305  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  335
+
+
+
+
+>transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_342095115.1 Length: 206
+Range 1: 63 to 155
+
+Score:166 bits(419), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:79/93(85%), Positives:84/93(90%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFA +P
+Sbjct  63   KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAPFP  122
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  123  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  155
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_201727102.1 Length: 161
+Range 1: 17 to 103
+
+Score:164 bits(415), Expect:1e-49, 
+Method:Compositional matrix adjust., 
+Identities:80/91(88%), Positives:84/91(92%), Gaps:4/91(4%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+    LY
+Sbjct  17   MKKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYV----LY  72
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+QM  LDKFDKIVA AGY
+Sbjct  73   PNPTDFKTLEPFLKQMPILDKFDKIVADAGY  103
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus crispatus]
+Sequence ID: WP_135306663.1 Length: 466
+Range 1: 152 to 242
+
+Score:172 bits(437), Expect:2e-49, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  152  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  211
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  212  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  242
+
+
+
+
+>IS1182 family transposase [Lactobacillus amylovorus]
+Sequence ID: WP_260186685.1 Length: 567
+Range 1: 248 to 338
+
+Score:174 bits(442), Expect:2e-49, 
+Method:Compositional matrix adjust., 
+Identities:79/91(87%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            +KKYE+A+ +FAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQ ATTNQY+VDFALY
+Sbjct  248  IKKYEQAQALFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQTATTNQYVVDFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+Q+ TLDKFDKIV  AGY
+Sbjct  308  PNPTDFKTLEPFLKQLPTLDKFDKIVVDAGY  338
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_271327335.1 Length: 388
+Range 1: 218 to 310
+
+Score:169 bits(429), Expect:5e-49, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  218  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  277
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  278  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  310
+
+
+
+
+>transposase, partial [Lactobacillus helveticus]
+Sequence ID: WP_201725939.1 Length: 144
+Range 1: 1 to 84
+
+Score:162 bits(410), Expect:6e-49, 
+Method:Compositional matrix adjust., 
+Identities:76/84(90%), Positives:80/84(95%), Gaps:0/84(0%)
+
+Query  8   KEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYPNPTDFK  67
+           +EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+V FALYPNPTDFK
+Sbjct  1   EEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVGFALYPNPTDFK  60
+
+Query  68  TLEPFLEQMMTLDKFDKIVAAAGY  91
+           TLEPFL+QM  LDKFDKIVA AGY
+Sbjct  61  TLEPFLKQMPILDKFDKIVADAGY  84
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus crispatus]
+Sequence ID: WP_133467563.1 Length: 538
+Range 1: 248 to 338
+
+Score:172 bits(437), Expect:7e-49, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  248  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  338
+
+
+
+
+>transposase [Lactobacillus crispatus]
+Sequence ID: MBI1720936.1 Length: 263
+Range 1: 143 to 235
+
+Score:165 bits(418), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:78/93(84%), Positives:84/93(90%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQ +VDFAL+P
+Sbjct  143  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQCVVDFALFP  202
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  203  NPTDFRTFEPFLDQMKSRGILDKFRNIVADAGY  235
+
+
+
+
+>IS1182 family transposase [Lactobacillus crispatus]
+Sequence ID: WP_411904378.1 Length: 612
+Range 1: 248 to 338
+
+Score:173 bits(438), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  248  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  338
+
+
+
+
+>transposase, partial [Lactobacillus johnsonii]
+Sequence ID: WP_285025416.1 Length: 417
+Range 1: 103 to 195
+
+Score:169 bits(427), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:79/93(85%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+E+FAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  103  KKYEEAEEVFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  162
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  163  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  195
+
+
+
+
+>transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_353535810.1 Length: 358
+Range 1: 33 to 125
+
+Score:167 bits(423), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:79/93(85%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQY+VDFAL+P
+Sbjct  33   KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYVVDFALFP  92
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  93   NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  125
+
+
+
+
+>IS1182 family transposase [Lactobacillus amylovorus]
+Sequence ID: MDB6230986.1 Length: 492
+Range 1: 248 to 338
+
+Score:170 bits(431), Expect:2e-48, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:85/91(93%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            +KKYE+A+ +FAGRNSYSKTDHDATFMHMKEDHMKNGQLKP YNIQ ATTNQY+VDFALY
+Sbjct  248  IKKYEQAQALFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPDYNIQTATTNQYVVDFALY  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEPFL+Q+ TLD FDKIVA AGY
+Sbjct  308  PNPTDFKTLEPFLKQLPTLDNFDKIVADAGY  338
+
+
+
+
+>hypothetical protein LANSK_19610 [Lactobacillus amylovorus subsp. amylovorus]
+Sequence ID: GAA0039479.1 Length: 290
+Range 1: 171 to 263
+
+Score:164 bits(415), Expect:5e-48, 
+Method:Compositional matrix adjust., 
+Identities:78/93(84%), Positives:84/93(90%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHM+NGQLK GYNIQAATTNQY+VDF L+P
+Sbjct  171  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMRNGQLKLGYNIQAATTNQYVVDFDLFP  230
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+TLEPFLEQM +   LDKF  IVA AGY
+Sbjct  231  NPTDFRTLEPFLEQMESRGILDKFQNIVADAGY  263
+
+
+
+
+>IS1182 family transposase [Lactobacillus crispatus]
+Sequence ID: MBG0737003.1 Length: 903
+Range 1: 248 to 338
+
+Score:174 bits(440), Expect:6e-48, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  248  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  338
+
+
+
+
+>IS1182 family transposase [Lactobacillus crispatus]
+Sequence ID: WP_423241894.1 Length: 802
+Range 1: 248 to 338
+
+Score:173 bits(439), Expect:6e-48, 
+Method:Compositional matrix adjust., 
+Identities:78/91(86%), Positives:86/91(94%), Gaps:0/91(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            M+KYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TT+QY+VD+A++
+Sbjct  248  MQKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAVTTDQYVVDYAIF  307
+
+Query  61   PNPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            PNPTDFKTLEP L+QM  LDKFDKIVA AGY
+Sbjct  308  PNPTDFKTLEPVLDQMTVLDKFDKIVADAGY  338
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus amylolyticus]
+Sequence ID: WP_056956271.1 Length: 485
+Range 1: 187 to 279
+
+Score:169 bits(428), Expect:6e-48, 
+Method:Compositional matrix adjust., 
+Identities:79/93(85%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQY+VDFAL+P
+Sbjct  187  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYVVDFALFP  246
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  247  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  279
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_271902247.1 Length: 517
+Range 1: 249 to 341
+
+Score:169 bits(429), Expect:7e-48, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  249  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  308
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  309  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  341
+
+
+
+
+>transposase, partial [Lactobacillus kitasatonis]
+Sequence ID: WP_025015581.1 Length: 486
+Range 1: 141 to 233
+
+Score:169 bits(427), Expect:8e-48, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  141  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  200
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  201  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  233
+
+
+
+
+>Transposase [Lactobacillus amylovorus GRL 1112]
+Sequence ID: ADQ58171.1 Length: 542
+Range 1: 171 to 263
+
+Score:169 bits(428), Expect:1e-47, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  171  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  230
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  231  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  263
+
+
+
+
+>IS1182 family transposase [Lactobacillus amylovorus]
+Sequence ID: WP_422877482.1 Length: 620
+Range 1: 249 to 341
+
+Score:169 bits(429), Expect:3e-47, 
+Method:Compositional matrix adjust., 
+Identities:80/93(86%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAL+P
+Sbjct  249  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALFP  308
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  309  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  341
+
+
+
+
+>IS1182 family transposase, partial [Lactobacillus amylovorus]
+Sequence ID: WP_427810017.1 Length: 464
+Range 1: 249 to 341
+
+Score:166 bits(421), Expect:4e-47, 
+Method:Compositional matrix adjust., 
+Identities:79/93(85%), Positives:84/93(90%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFA +P
+Sbjct  249  KKYEEAEEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFAPFP  308
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFL+QM +   LDKF  IVA AGY
+Sbjct  309  NPTDFRTFEPFLDQMKSRGILDKFQNIVADAGY  341
+
+
+
+
+>transposase [Lactobacillus johnsonii DPC 6026]
+Sequence ID: AEB93052.1 Length: 453
+Range 1: 249 to 341
+
+Score:165 bits(417), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:77/93(83%), Positives:85/93(91%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA++IF GRNSYSKTDH+ATFMHMKEDHM+NGQLKPGYNIQAATTNQY+VDFAL+P
+Sbjct  249  KKYEEAEKIFDGRNSYSKTDHEATFMHMKEDHMRNGQLKPGYNIQAATTNQYVVDFALFP  308
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+TLEPFLEQM +   LDKF  IVA AGY
+Sbjct  309  NPTDFRTLEPFLEQMKSRGILDKFHNIVADAGY  341
+
+
+
+
+>IS1182 family transposase [Lactobacillus acetotolerans]
+Sequence ID: HBG91202.1 Length: 557
+Range 1: 249 to 338
+
+Score:167 bits(422), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:75/90(83%), Positives:86/90(95%), Gaps:0/90(0%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYE+A++IFAGRNS+SKTDHDATFMHMKEDHM+NGQLKPGYNIQAATT+QY+VDFALYP
+Sbjct  249  KKYEQAEKIFAGRNSFSKTDHDATFMHMKEDHMRNGQLKPGYNIQAATTDQYVVDFALYP  308
+
+Query  62   NPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            NPTDF+TL PFL+QM  L+KF+KIVA AGY
+Sbjct  309  NPTDFRTLAPFLKQMPVLNKFNKIVADAGY  338
+
+
+
+
+>IS1182 family transposase [Lactobacillus crispatus]
+Sequence ID: WP_269257047.1 Length: 578
+Range 1: 249 to 338
+
+Score:165 bits(418), Expect:6e-46, 
+Method:Compositional matrix adjust., 
+Identities:74/90(82%), Positives:82/90(91%), Gaps:0/90(0%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYE+A+ IF GRNSYSKTD DATFMHMKEDHMKNGQLKPGYN+QAATTNQY+VD+ALYP
+Sbjct  249  KKYEQAQTIFQGRNSYSKTDQDATFMHMKEDHMKNGQLKPGYNVQAATTNQYVVDYALYP  308
+
+Query  62   NPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            NPTDF+TLEPFL+QM  LDKF  I+A AGY
+Sbjct  309  NPTDFRTLEPFLDQMSILDKFTNIIADAGY  338
+
+
+
+
+>transposase [Lactobacillus acetotolerans]
+Sequence ID: BAQ57437.1 Length: 494
+Range 1: 249 to 338
+
+Score:163 bits(413), Expect:9e-46, 
+Method:Compositional matrix adjust., 
+Identities:74/90(82%), Positives:85/90(94%), Gaps:0/90(0%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYE+A++IFAGRNS+SKTDHDATFMHMKEDHM+NGQLKPGYNIQAATT+QY+VDFALYP
+Sbjct  249  KKYEQAEKIFAGRNSFSKTDHDATFMHMKEDHMRNGQLKPGYNIQAATTDQYVVDFALYP  308
+
+Query  62   NPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            N TDF+TL PFL+QM  L+KF+KIVA AGY
+Sbjct  309  NSTDFRTLAPFLKQMPVLNKFNKIVADAGY  338
+
+
+
+
+>hypothetical protein HMPREF0528_1828, partial [Lactobacillus johnsonii ATCC 33200]
+Sequence ID: EEJ59040.1 Length: 167
+Range 1: 82 to 165
+
+Score:154 bits(389), Expect:2e-45, 
+Method:Compositional matrix adjust., 
+Identities:71/84(85%), Positives:76/84(90%), Gaps:3/84(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA+EIF GRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQA TTNQYIVDF L+P
+Sbjct  82   KKYEEAEEIFVGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQATTTNQYIVDFVLFP  141
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKF  82
+            NPTDF+T EPFL+QM +   LDKF
+Sbjct  142  NPTDFRTFEPFLDQMKSRGILDKF  165
+
+
+
+
+>IS5/IS1182 family transposase [Lactobacillus johnsonii]
+Sequence ID: MGE9917493.1 Length: 89
+Range 1: 6 to 89
+
+Score:149 bits(377), Expect:8e-45, 
+Method:Compositional matrix adjust., 
+Identities:70/84(83%), Positives:76/84(90%), Gaps:3/84(3%)
+
+Query  2   KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+           KKYEEA+EIF GRNSYSKTDHDATFMH+KEDHMKNGQLKPGYNIQA TTNQYIVDF L+P
+Sbjct  6   KKYEEAEEIFVGRNSYSKTDHDATFMHIKEDHMKNGQLKPGYNIQATTTNQYIVDFVLFP  65
+
+Query  62  NPTDFKTLEPFLEQMMT---LDKF  82
+           NPTDF+T EPFL+QM +   LDKF
+Sbjct  66  NPTDFRTFEPFLDQMKSRGILDKF  89
+
+
+
+
+>IS1182 family transposase [Lactobacillus sp. ESL0681]
+Sequence ID: WP_277126579.1 Length: 554
+Range 1: 249 to 338
+
+Score:162 bits(409), Expect:8e-45, 
+Method:Compositional matrix adjust., 
+Identities:73/90(81%), Positives:80/90(88%), Gaps:0/90(0%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            +KYE+A+  F  RNSYSKTDHDATFMHMKEDHM+NGQLKPGYNIQ ATTNQY+VD+ALYP
+Sbjct  249  EKYEQAQATFGERNSYSKTDHDATFMHMKEDHMRNGQLKPGYNIQVATTNQYVVDYALYP  308
+
+Query  62   NPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            NPTDFKTLEPFL+QM  LDKF  IVA AGY
+Sbjct  309  NPTDFKTLEPFLKQMTNLDKFQNIVADAGY  338
+
+
+
+
+>IS1182 family transposase [Lactobacillus sp. ESL0791]
+Sequence ID: MDF7637847.1 Length: 575
+Range 1: 252 to 341
+
+Score:162 bits(409), Expect:1e-44, 
+Method:Compositional matrix adjust., 
+Identities:73/90(81%), Positives:81/90(90%), Gaps:0/90(0%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            +KYE+A+EIF  RNSYSKTDHDATFMHMKEDHM+NGQLKPGYN+Q ATT+QY+V FALYP
+Sbjct  252  EKYEQAEEIFGERNSYSKTDHDATFMHMKEDHMRNGQLKPGYNLQVATTDQYVVHFALYP  311
+
+Query  62   NPTDFKTLEPFLEQMMTLDKFDKIVAAAGY  91
+            NPTDFKTLEPFL+QM  LDKF  IVA AGY
+Sbjct  312  NPTDFKTLEPFLDQMTVLDKFKNIVADAGY  341
+
+
+
+
+>transposase, partial [uncultured Lactobacillus sp.]
+Sequence ID: WP_297949918.1 Length: 323
+Range 1: 248 to 323
+
+Score:156 bits(394), Expect:2e-44, 
+Method:Compositional matrix adjust., 
+Identities:70/76(92%), Positives:76/76(100%), Gaps:0/76(0%)
+
+Query  1    MKKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALY  60
+            MKKYEEA++IFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATT+QY+VD+ALY
+Sbjct  248  MKKYEEAEKIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTDQYVVDYALY  307
+
+Query  61   PNPTDFKTLEPFLEQM  76
+            PNPTDFKTLEPFL+QM
+Sbjct  308  PNPTDFKTLEPFLDQM  323
+
+
+
+
+>IS1182 family transposase [Lactobacillus johnsonii]
+Sequence ID: WP_216513182.1 Length: 557
+Range 1: 249 to 341
+
+Score:160 bits(406), Expect:3e-44, 
+Method:Compositional matrix adjust., 
+Identities:75/93(81%), Positives:83/93(89%), Gaps:3/93(3%)
+
+Query  2    KKYEEAKEIFAGRNSYSKTDHDATFMHMKEDHMKNGQLKPGYNIQAATTNQYIVDFALYP  61
+            KKYEEA++IF GRNSYSKTDH+ATFMHMKEDHM+N QLKPGYNIQAATTNQY+VDFAL+P
+Sbjct  249  KKYEEAEKIFDGRNSYSKTDHEATFMHMKEDHMRNSQLKPGYNIQAATTNQYVVDFALFP  308
+
+Query  62   NPTDFKTLEPFLEQMMT---LDKFDKIVAAAGY  91
+            NPTDF+T EPFLEQM +   LDKF  IVA AGY
+Sbjct  309  NPTDFRTFEPFLEQMKSRGILDKFHNIVADAGY  341
+
+
+
+
+
+
+
+		
+
+

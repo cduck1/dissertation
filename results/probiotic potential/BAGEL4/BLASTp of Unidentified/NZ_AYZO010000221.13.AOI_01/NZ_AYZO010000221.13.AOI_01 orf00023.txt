@@ -1,0 +1,723 @@
+RID: T8VK81JU014	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: lcl|Query_11641739 Length: 47
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E   Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value Ident  Len        Accession        
+DUF4357 domain-containing protein [Lactobacillus gigeriorum]      1          1          Lactobacillu... firmicutes      1203069    93.2   93.2  100%  1e-23 97.87  47         WP_008472467.1   
+GIY-YIG nuclease family protein [Ligilactobacillus salivarius]    2          2          Bacilli         firmicutes      91061      46.6   46.6  96%   5e-04 51.11  292        WP_302757907.1   
+DUF4357 domain-containing protein [Butyrivibrio fibrisolvens]     1          1          Butyrivibrio... firmicutes      831        44.7   44.7  87%   0.001 56.10  170        WP_051211823.1   
+hypothetical protein BACPEC_02205 [[Bacteroides] pectinophilus... 1          1          [Bacteroides... firmicutes      483218     42.7   42.7  89%   0.001 50.00  71         EEC57693.1       
+GIY-YIG nuclease family protein [Eubacteriales bacterium]         1          1          Eubacteriale... firmicutes      2831996    45.1   45.1  89%   0.002 50.00  290        MDO5157196.1     
+hypothetical protein SORDD21_01857 [Streptococcus oralis]         1          1          Streptococcu... firmicutes      1303       42.7   42.7  94%   0.002 50.00  75         KXT88836.1       
+DUF4357 domain-containing protein [Oscillospiraceae bacterium]    2          1          Oscillospira... firmicutes      2485925    42.0   42.0  96%   0.003 46.67  71         MBP0955461.1     
+DUF4357 domain-containing protein [Streptococcus parasanguinis]   1          1          Streptococcu... firmicutes      1318       42.7   42.7  94%   0.003 50.00  106        MBS6718332.1     
+DUF4357 domain-containing protein, partial [Coprococcus eutactus] 1          1          Coprococcus ... firmicutes      33043      42.4   42.4  89%   0.004 50.00  104        WP_347008089.1   
+DUF4357 domain-containing protein [Macrococcoides bohemicum]      1          1          Macrococcoid... firmicutes      1903056    40.4   40.4  96%   0.006 44.44  47         WP_419744010.1   
+DUF4357 domain-containing protein [Peptoniphilus rachelemmaiella] 1          1          Peptoniphilu... firmicutes      2811779    41.2   41.2  96%   0.007 46.67  76         WP_251375022.1   
+GIY-YIG nuclease family protein [Bacteroides thetaiotaomicron]    1          1          Bacteroides ... CFB group ba... 818        43.1   43.1  83%   0.008 53.85  291        MCD7789061.1     
+DUF4357 domain-containing protein [Allocoprococcus comes]         1          1          Coprococcus ... firmicutes      410072     42.4   42.4  85%   0.008 55.00  163        WP_215686008.1   
+DUF4357 domain-containing protein [Coprococcus sp.]               1          1          Coprococcus sp. firmicutes      2049024    41.6   41.6  85%   0.008 55.00  96         MFQ9345313.1     
+GIY-YIG nuclease family protein, partial [Blautia...              2          2          Bacillota       firmicutes      1239       42.7   42.7  94%   0.008 50.00  231        WP_418428011.1   
+GIY-YIG nuclease family protein [Streptococcus parasanguinis]     2          2          Streptococcus   firmicutes      1301       42.7   42.7  94%   0.009 50.00  275        WP_239665685.1   
+GIY-YIG nuclease family protein [Oscillospiraceae bacterium]      1          1          Oscillospira... firmicutes      2485925    42.7   42.7  83%   0.009 56.41  302        MCR5087995.1     
+GIY-YIG nuclease family protein [Oscillospiraceae bacterium]      1          1          Oscillospira... firmicutes      2485925    42.7   42.7  83%   0.009 53.85  226        MCL2320490.1     
+GIY-YIG nuclease family protein [[Ruminococcus] torques]          11         7          root            root            1          42.7   42.7  89%   0.010 50.00  295        WP_004845621.1   
+DUF4357 domain-containing protein [Allocoprococcus comes]         1          1          Coprococcus ... firmicutes      410072     42.0   42.0  85%   0.012 55.00  153        MFR1433576.1     
+DUF4357 domain-containing protein [Roseburia intestinalis]        2          1          Roseburia in... firmicutes      166486     42.4   42.4  85%   0.013 55.00  211        WP_243863280.1   
+GIY-YIG nuclease family protein [Coprococcus sp. LG101-27]        18         8          Bacillota       firmicutes      1239       42.4   42.4  85%   0.014 55.00  292        WP_270590257.1   
+GIY-YIG nuclease family protein [Apilactobacillus xinyiensis]     1          1          Apilactobaci... firmicutes      2841032    42.4   42.4  98%   0.014 43.48  299        WP_353485970.1   
+MULTISPECIES: GIY-YIG nuclease family protein [Streptococcus]     5          3          Streptococcus   firmicutes      1301       42.4   42.4  94%   0.014 52.27  298        WP_175057374.1   
+GIY-YIG nuclease family protein [Faecousia sp.]                   1          1          Faecousia sp.   firmicutes      2952921    42.4   42.4  96%   0.015 48.89  298        MGM9600181.1     
+DUF4357 domain-containing protein [Butyrivibrio sp. MC2013]       1          1          Butyrivibrio... firmicutes      1280686    40.0   40.0  85%   0.017 52.50  65         WP_026507582.1   
+GIY-YIG nuclease family protein [Clostridiaceae bacterium]        1          1          Clostridiace... firmicutes      1898204    42.0   42.0  94%   0.019 50.00  261        NLF20511.1       
+DUF4357 domain-containing protein [Oribacterium sp. oral taxon... 1          1          Oribacterium... firmicutes      652706     39.7   39.7  83%   0.020 51.28  53         WP_256377464.1   
+GIY-YIG nuclease family protein [Dorea formicigenerans]           2          2          Lachnospiraceae firmicutes      186803     42.0   42.0  89%   0.020 50.00  293        WP_118084970.1   
+GIY-YIG nuclease family protein [Streptococcus timonensis]        16         13         Streptococcus   firmicutes      1301       42.0   42.0  94%   0.021 50.00  299        WP_075565775.1   
+GIY-YIG nuclease family protein [Erysipelothrix rhusiopathiae]    2          2          Bacillota       firmicutes      1239       42.0   42.0  94%   0.022 50.00  294        WP_418515059.1   
+GIY-YIG nuclease family protein [Macrococcoides bohemicum]        5          4          Staphylococc... Staphylococc... 90964      42.0   42.0  68%   0.022 62.50  299        WP_244999778.1   
+GIY-YIG nuclease family protein [Lachnospiraceae bacterium]       1          1          Lachnospirac... firmicutes      1898203    42.0   42.0  85%   0.022 55.00  297        MGN0483984.1     
+GIY-YIG nuclease family protein [Anaerovibrio sp.]                2          1          Anaerovibrio... firmicutes      1872532    41.6   41.6  83%   0.025 51.28  276        WP_290657641.1   
+DUF4357 domain-containing protein [Holdemanella porci]            1          1          Holdemanella... firmicutes      2652276    40.0   40.0  87%   0.026 48.78  89         WP_441137814.1   
+DUF4357 domain-containing protein [Streptococcus suis]            2          1          Streptococcu... firmicutes      1307       39.7   39.7  96%   0.029 44.44  74         HFI0958861.1     
+DUF4357 domain-containing protein [Macrococcoides bohemicum]      1          1          Macrococcoid... firmicutes      1903056    40.8   40.8  72%   0.033 55.88  164        WP_242446691.1   
+GIY-YIG nuclease family protein [Pelistega suis]                  1          1          Pelistega suis  b-proteobact... 1631957    41.2   41.2  91%   0.035 51.16  305        WP_171680374.1   
+GIY-YIG nuclease family protein [Fibrobacter sp.]                 1          1          Fibrobacter sp. bacteria        35828      41.2   41.2  96%   0.035 46.67  302        WP_290925760.1   
+DUF4357 domain-containing protein [Lachnobacterium bovis]         1          1          Lachnobacter... firmicutes      140626     40.0   40.0  83%   0.037 53.85  103        WP_082223805.1   
+MAG: nuclear disruption protein [Caudoviricetes sp.]              1          1          Caudoviricet... viruses         2832643    41.2   41.2  85%   0.038 50.00  296        XOS39123.1       
+DUF4357 domain-containing protein [Anaerovibrio sp.]              1          1          Anaerovibrio... firmicutes      1872532    39.7   39.7  89%   0.040 47.62  94         MCR5177330.1     
+DUF4357 domain-containing protein [Clostridiaceae bacterium]      1          1          Clostridiace... firmicutes      1898204    39.7   39.7  83%   0.042 51.28  96         NLW53707.1       
+GIY-YIG nuclease family protein [Blautia sp....                   1          1          Blautia sp. ... firmicutes      3144490    40.8   40.8  83%   0.049 53.85  279        WP_368190155.1   
+
+
+Alignments:
+
+>DUF4357 domain-containing protein [Lactobacillus gigeriorum]
+Sequence ID: WP_008472467.1 Length: 47
+Range 1: 1 to 47
+
+Score:93.2 bits(230), Expect:1e-23, 
+Method:Compositional matrix adjust., 
+Identities:46/47(98%), Positives:47/47(100%), Gaps:0/47(0%)
+
+Query  1   VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFENK  47
+           +DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFENK
+Sbjct  1   MDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFENK  47
+
+
+
+
+>GIY-YIG nuclease family protein [Ligilactobacillus salivarius]
+Sequence ID: WP_302757907.1 Length: 292
+Range 1: 244 to 288
+
+Score:46.6 bits(109), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:23/45(51%), Positives:29/45(64%), Gaps:0/45(0%)
+
+Query  1    VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+            V+ I++    F S + IA FV G S +GK  LKT DG+TLAEY E
+Sbjct  244  VNNIIQRDTYFDSATAIASFVVGYSVNGKKLLKTEDGRTLAEYLE  288
+
+
+
+
+>DUF4357 domain-containing protein [Butyrivibrio fibrisolvens]
+Sequence ID: WP_051211823.1 Length: 170
+Range 1: 110 to 150
+
+Score:44.7 bits(104), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:23/41(56%), Positives:25/41(60%), Gaps:0/41(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+            D I+ E   F+SPSG A FV G SK G  A K ADGK L E
+Sbjct  110  DNILLEDILFNSPSGAASFVCGASKSGNAAWKNADGKNLKE  150
+
+
+
+
+>hypothetical protein BACPEC_02205 [[Bacteroides] pectinophilus ATCC 43243]
+Sequence ID: EEC57693.1 Length: 71
+Range 1: 20 to 61
+
+Score:42.7 bits(99), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:21/42(50%), Positives:27/42(64%), Gaps:0/42(0%)
+
+Query  1   VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+           +DGI++E   FSSPSG A FV G S +G    K  +G+TL E
+Sbjct  20  IDGILQEDMLFSSPSGAAMFVVGKSDNGLTRWKDENGRTLKE  61
+
+
+
+
+>GIY-YIG nuclease family protein [Eubacteriales bacterium]
+Sequence ID: MDO5157196.1 Length: 290
+Range 1: 249 to 290
+
+Score:45.1 bits(105), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:21/42(50%), Positives:28/42(66%), Gaps:0/42(0%)
+
+Query  3    GIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYF  44
+            G V E   F+SPSG+++FV   + +GK+ LK ADGKTL E  
+Sbjct  249  GKVLENITFNSPSGVSQFVMYAASNGKIDLKDADGKTLKELL  290
+
+
+
+
+>hypothetical protein SORDD21_01857 [Streptococcus oralis]
+Sequence ID: KXT88836.1 Length: 75
+Range 1: 28 to 71
+
+Score:42.7 bits(99), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:22/44(50%), Positives:28/44(63%), Gaps:0/44(0%)
+
+Query  2   DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+           DG+++EK  FSSPS  A FV G + +G+   K  DGKTL E  E
+Sbjct  28  DGVLQEKQLFSSPSYAAAFVLGMNTNGRTDWKNKDGKTLKELEE  71
+
+
+
+
+>DUF4357 domain-containing protein [Oscillospiraceae bacterium]
+Sequence ID: MBP0955461.1 Length: 71
+Range 1: 21 to 65
+
+Score:42.0 bits(97), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:21/45(47%), Positives:30/45(66%), Gaps:0/45(0%)
+
+Query  1   VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+           +D I++E   F+SPS  A+FV G S +G ++ KT DGKTL +  E
+Sbjct  21  IDNILQEDVLFTSPSSAAEFVTGKSCNGWISWKTKDGKTLHDLEE  65
+
+
+
+
+>DUF4357 domain-containing protein [Streptococcus parasanguinis]
+Sequence ID: MBS6718332.1 Length: 106
+Range 1: 59 to 102
+
+Score:42.7 bits(99), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:22/44(50%), Positives:28/44(63%), Gaps:0/44(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+            DG+++EK  FSSPS  A FV G + +G+   K  DGKTL E  E
+Sbjct  59   DGVLQEKQLFSSPSYAAAFVLGMNTNGRTDWKNKDGKTLKELEE  102
+
+
+
+
+>DUF4357 domain-containing protein, partial [Coprococcus eutactus]
+Sequence ID: WP_347008089.1 Length: 104
+Range 1: 53 to 94
+
+Score:42.4 bits(98), Expect:0.004, 
+Method:Compositional matrix adjust., 
+Identities:21/42(50%), Positives:27/42(64%), Gaps:0/42(0%)
+
+Query  1   VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+           +DGI++E   FSSPSG A FV G S +G    K  +G+TL E
+Sbjct  53  IDGILQEDMLFSSPSGAAMFVVGKSDNGLTRWKDENGRTLKE  94
+
+
+
+
+>DUF4357 domain-containing protein [Macrococcoides bohemicum]
+Sequence ID: WP_419744010.1 Length: 47
+Range 1: 1 to 45
+
+Score:40.4 bits(93), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:20/45(44%), Positives:27/45(60%), Gaps:0/45(0%)
+
+Query  1   VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+           ++  V     F SPSG AKFV G S +G V+ KT+DG+ L E  +
+Sbjct  1   MNNYVINDILFKSPSGAAKFVSGNSVNGNVSWKTSDGRMLGEVLK  45
+
+
+
+
+>DUF4357 domain-containing protein [Peptoniphilus rachelemmaiella]
+Sequence ID: WP_251375022.1 Length: 76
+Range 1: 28 to 72
+
+Score:41.2 bits(95), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:21/45(47%), Positives:28/45(62%), Gaps:0/45(0%)
+
+Query  1   VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+           +DG V +   F+SPS  A FV GT+ +G+   KT DG+TL E  E
+Sbjct  28  MDGRVCKNHLFNSPSYAAAFVLGTNANGRTEWKTEDGRTLKELEE  72
+
+
+
+
+>GIY-YIG nuclease family protein [Bacteroides thetaiotaomicron]
+Sequence ID: MCD7789061.1 Length: 291
+Range 1: 246 to 284
+
+Score:43.1 bits(100), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:21/39(54%), Positives:27/39(69%), Gaps:0/39(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+            +GI++E   F+SPSG A FV G S +G  + KT DGKTL
+Sbjct  246  NGILQEDMLFTSPSGAAMFVIGKSANGLTSWKTPDGKTL  284
+
+
+
+
+>DUF4357 domain-containing protein [Allocoprococcus comes]
+Sequence ID: WP_215686008.1 Length: 163
+Range 1: 115 to 154
+
+Score:42.4 bits(98), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:22/40(55%), Positives:27/40(67%), Gaps:0/40(0%)
+
+Query  1    VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+            V+GI++E   FSSPSG A FV G S +G  + K ADG TL
+Sbjct  115  VEGILQEDVLFSSPSGAAMFVVGKSANGLTSWKNADGITL  154
+
+
+
+
+>DUF4357 domain-containing protein [Coprococcus sp.]
+Sequence ID: MFQ9345313.1 Length: 96
+Range 1: 48 to 87
+
+Score:41.6 bits(96), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:22/40(55%), Positives:27/40(67%), Gaps:0/40(0%)
+
+Query  1   VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+           V+GI++E   FSSPSG A FV G S +G  + K ADG TL
+Sbjct  48  VEGILQEDVLFSSPSGAAMFVVGKSANGLTSWKNADGITL  87
+
+
+
+
+>GIY-YIG nuclease family protein, partial [Blautia hydrogenotrophica]
+Sequence ID: WP_418428011.1 Length: 231
+Range 1: 184 to 227
+
+Score:42.7 bits(99), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:22/44(50%), Positives:28/44(63%), Gaps:0/44(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+            DG+++EK  FSSPS  A FV G + +G+   K  DGKTL E  E
+Sbjct  184  DGVLQEKQLFSSPSYAAAFVLGMNTNGRTDWKNKDGKTLKELEE  227
+
+
+
+
+>GIY-YIG nuclease family protein [Streptococcus parasanguinis]
+Sequence ID: WP_239665685.1 Length: 275
+Range 1: 228 to 271
+
+Score:42.7 bits(99), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:22/44(50%), Positives:28/44(63%), Gaps:0/44(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+            DG+++EK  FSSPS  A FV G + +G+   K  DGKTL E  E
+Sbjct  228  DGVLQEKQLFSSPSYAAAFVLGMNTNGRTDWKNKDGKTLKELEE  271
+
+
+
+
+>GIY-YIG nuclease family protein [Oscillospiraceae bacterium]
+Sequence ID: MCR5087995.1 Length: 302
+Range 1: 254 to 292
+
+Score:42.7 bits(99), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:22/39(56%), Positives:27/39(69%), Gaps:0/39(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+            DG++KE   F+SPS  A FV G S +G  + KTADGKTL
+Sbjct  254  DGMLKEDMLFTSPSYAAMFVIGKSANGLTSWKTADGKTL  292
+
+
+
+
+>GIY-YIG nuclease family protein [Oscillospiraceae bacterium]
+Sequence ID: MCL2320490.1 Length: 226
+Range 1: 182 to 220
+
+Score:42.7 bits(99), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:21/39(54%), Positives:28/39(71%), Gaps:0/39(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+            +GI++E   FSSPS  A FV G+S +G+   KTADGK+L
+Sbjct  182  NGILQEDILFSSPSYAASFVIGSSANGRSEWKTADGKSL  220
+
+
+
+
+>GIY-YIG nuclease family protein [[Ruminococcus] torques]
+Sequence ID: WP_004845621.1 Length: 295
+Range 1: 244 to 285
+
+Score:42.7 bits(99), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:21/42(50%), Positives:27/42(64%), Gaps:0/42(0%)
+
+Query  1    VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+            +DGI++E   FSSPSG A FV G S +G    K  +G+TL E
+Sbjct  244  IDGILQEDMLFSSPSGAAMFVVGKSDNGLTRWKDENGRTLKE  285
+
+
+
+
+>DUF4357 domain-containing protein [Allocoprococcus comes]
+Sequence ID: MFR1433576.1 Length: 153
+Range 1: 105 to 144
+
+Score:42.0 bits(97), Expect:0.012, 
+Method:Compositional matrix adjust., 
+Identities:22/40(55%), Positives:27/40(67%), Gaps:0/40(0%)
+
+Query  1    VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+            V+GI++E   FSSPSG A FV G S +G  + K ADG TL
+Sbjct  105  VEGILQEDVLFSSPSGAAMFVVGKSANGLTSWKNADGITL  144
+
+
+
+
+>DUF4357 domain-containing protein [Roseburia intestinalis]
+Sequence ID: WP_243863280.1 Length: 211
+Range 1: 163 to 202
+
+Score:42.4 bits(98), Expect:0.013, 
+Method:Compositional matrix adjust., 
+Identities:22/40(55%), Positives:27/40(67%), Gaps:0/40(0%)
+
+Query  1    VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+            V+GI++E   FSSPSG A FV G S +G  + K ADG TL
+Sbjct  163  VEGILQEDVLFSSPSGAAMFVVGKSANGLTSWKNADGITL  202
+
+
+
+
+>GIY-YIG nuclease family protein [Coprococcus sp. LG101-27]
+Sequence ID: WP_270590257.1 Length: 292
+Range 1: 244 to 283
+
+Score:42.4 bits(98), Expect:0.014, 
+Method:Compositional matrix adjust., 
+Identities:22/40(55%), Positives:27/40(67%), Gaps:0/40(0%)
+
+Query  1    VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+            V+GI++E   FSSPSG A FV G S +G  + K ADG TL
+Sbjct  244  VEGILQEDVLFSSPSGAAMFVVGKSANGLTSWKNADGITL  283
+
+
+
+
+>GIY-YIG nuclease family protein [Apilactobacillus xinyiensis]
+Sequence ID: WP_353485970.1 Length: 299
+Range 1: 252 to 297
+
+Score:42.4 bits(98), Expect:0.014, 
+Method:Composition-based stats., 
+Identities:20/46(43%), Positives:29/46(63%), Gaps:0/46(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFENK  47
+            DG+  + + F +PSG A  V+ +S +GK   K A+G TL EY EN+
+Sbjct  252  DGVFIKDYIFKTPSGAATIVYKSSANGKTMWKDANGVTLKEYLENE  297
+
+
+
+
+>MULTISPECIES: GIY-YIG nuclease family protein [Streptococcus]
+Sequence ID: WP_175057374.1 Length: 298
+Range 1: 251 to 294
+
+Score:42.4 bits(98), Expect:0.014, 
+Method:Composition-based stats., 
+Identities:23/44(52%), Positives:29/44(65%), Gaps:0/44(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+            DGI++EK  FSSPS  A FV G + +G++  K  DGKTL E  E
+Sbjct  251  DGILQEKQLFSSPSYAAAFVLGMNTNGRMDWKDKDGKTLKELEE  294
+
+
+
+
+>GIY-YIG nuclease family protein [Faecousia sp.]
+Sequence ID: MGM9600181.1 Length: 298
+Range 1: 254 to 298
+
+Score:42.4 bits(98), Expect:0.015, 
+Method:Compositional matrix adjust., 
+Identities:22/45(49%), Positives:29/45(64%), Gaps:0/45(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFEN  46
+            +GI+KE   F+SPS  A FV G S +G  + KTADG+TL    +N
+Sbjct  254  NGILKEDMLFTSPSYAAMFVIGKSANGLTSWKTADGQTLKSLEQN  298
+
+
+
+
+>DUF4357 domain-containing protein [Butyrivibrio sp. MC2013]
+Sequence ID: WP_026507582.1 Length: 65
+Range 1: 23 to 62
+
+Score:40.0 bits(92), Expect:0.017, 
+Method:Compositional matrix adjust., 
+Identities:21/40(53%), Positives:25/40(62%), Gaps:0/40(0%)
+
+Query  7   EKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFEN  46
+           E   F+SPSG A FV G+S +G +  KTADG TL E   N
+Sbjct  23  EYILFNSPSGAAAFVCGSSANGNIEWKTADGITLKELDAN  62
+
+
+
+
+>GIY-YIG nuclease family protein [Clostridiaceae bacterium]
+Sequence ID: NLF20511.1 Length: 261
+Range 1: 216 to 258
+
+Score:42.0 bits(97), Expect:0.019, 
+Method:Compositional matrix adjust., 
+Identities:22/44(50%), Positives:29/44(65%), Gaps:1/44(2%)
+
+Query  3    GIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFEN  46
+            GI++E   F SPS  A FV  +S +G +  KTADG+TL + FEN
+Sbjct  216  GILRENLLFGSPSTAAAFVTFSSANGNIMWKTADGRTLKD-FEN  258
+
+
+
+
+>DUF4357 domain-containing protein [Oribacterium sp. oral taxon 078]
+Sequence ID: WP_256377464.1 Length: 53
+Range 1: 4 to 42
+
+Score:39.7 bits(91), Expect:0.020, 
+Method:Compositional matrix adjust., 
+Identities:20/39(51%), Positives:26/39(66%), Gaps:0/39(0%)
+
+Query  2   DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+           D I++E   F+SPS  A FV G S +G  + KTADG+TL
+Sbjct  4   DHILQEDLLFTSPSYAAMFVVGKSANGLTSWKTADGQTL  42
+
+
+
+
+>GIY-YIG nuclease family protein [Dorea formicigenerans]
+Sequence ID: WP_118084970.1 Length: 293
+Range 1: 244 to 285
+
+Score:42.0 bits(97), Expect:0.020, 
+Method:Compositional matrix adjust., 
+Identities:21/42(50%), Positives:27/42(64%), Gaps:0/42(0%)
+
+Query  1    VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+            VDGI+++   FSSPSG A FV G S +G    K  +G+TL E
+Sbjct  244  VDGILQDDMLFSSPSGAAMFVVGKSDNGLTRWKDENGRTLRE  285
+
+
+
+
+>GIY-YIG nuclease family protein [Streptococcus timonensis]
+Sequence ID: WP_075565775.1 Length: 299
+Range 1: 252 to 295
+
+Score:42.0 bits(97), Expect:0.021, 
+Method:Composition-based stats., 
+Identities:22/44(50%), Positives:28/44(63%), Gaps:0/44(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+            DG+++EK  FSSPS  A FV G + +G+   K  DGKTL E  E
+Sbjct  252  DGVLQEKQLFSSPSYAAAFVLGMNTNGRTDWKNKDGKTLKELEE  295
+
+
+
+
+>GIY-YIG nuclease family protein [Erysipelothrix rhusiopathiae]
+Sequence ID: WP_418515059.1 Length: 294
+Range 1: 249 to 291
+
+Score:42.0 bits(97), Expect:0.022, 
+Method:Compositional matrix adjust., 
+Identities:22/44(50%), Positives:29/44(65%), Gaps:1/44(2%)
+
+Query  3    GIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFEN  46
+            GI++E   F SPS  A FV  +S +G +  KTADG+TL + FEN
+Sbjct  249  GILRENLLFGSPSTAAAFVTFSSANGNIMWKTADGRTLKD-FEN  291
+
+
+
+
+>GIY-YIG nuclease family protein [Macrococcoides bohemicum]
+Sequence ID: WP_244999778.1 Length: 299
+Range 1: 263 to 294
+
+Score:42.0 bits(97), Expect:0.022, 
+Method:Compositional matrix adjust., 
+Identities:20/32(63%), Positives:23/32(71%), Gaps:0/32(0%)
+
+Query  11   FSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+            F SPSG AKFV G S +G V+ KT DG+TL E
+Sbjct  263  FKSPSGAAKFVSGNSVNGNVSWKTIDGRTLGE  294
+
+
+
+
+>GIY-YIG nuclease family protein [Lachnospiraceae bacterium]
+Sequence ID: MGN0483984.1 Length: 297
+Range 1: 251 to 290
+
+Score:42.0 bits(97), Expect:0.022, 
+Method:Compositional matrix adjust., 
+Identities:22/40(55%), Positives:26/40(65%), Gaps:0/40(0%)
+
+Query  1    VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+            VDG +KE   F+SPS  A FV G S +G  + KT DGKTL
+Sbjct  251  VDGTLKENMLFTSPSYAAMFVIGKSANGLTSWKTEDGKTL  290
+
+
+
+
+>GIY-YIG nuclease family protein [Anaerovibrio sp.]
+Sequence ID: WP_290657641.1 Length: 276
+Range 1: 234 to 272
+
+Score:41.6 bits(96), Expect:0.025, 
+Method:Composition-based stats., 
+Identities:20/39(51%), Positives:24/39(61%), Gaps:0/39(0%)
+
+Query  4    IVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+            I++E  EF SPSG A F+ G   +G V  K  DGKTL E
+Sbjct  234  ILQENLEFKSPSGAASFIAGAPVNGNVYWKNEDGKTLKE  272
+
+
+
+
+>DUF4357 domain-containing protein [Holdemanella porci]
+Sequence ID: WP_441137814.1 Length: 89
+Range 1: 42 to 82
+
+Score:40.0 bits(92), Expect:0.026, 
+Method:Compositional matrix adjust., 
+Identities:20/41(49%), Positives:27/41(65%), Gaps:0/41(0%)
+
+Query  2   DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+           D ++ E   F++PSG A FV G+S +G V  KT+DG TL E
+Sbjct  42  DFMLLEDILFNTPSGAAAFVCGSSANGNVEWKTSDGTTLKE  82
+
+
+
+
+>DUF4357 domain-containing protein [Streptococcus suis]
+Sequence ID: HFI0958861.1 Length: 74
+Range 1: 28 to 72
+
+Score:39.7 bits(91), Expect:0.029, 
+Method:Compositional matrix adjust., 
+Identities:20/45(44%), Positives:27/45(60%), Gaps:0/45(0%)
+
+Query  1   VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+           VDG+++E   F+SPS  A FV G   +G+   K  DG+TL E  E
+Sbjct  28  VDGLLQENQLFNSPSYAAGFVLGMHTNGRTDWKDRDGRTLKELEE  72
+
+
+
+
+>DUF4357 domain-containing protein [Macrococcoides bohemicum]
+Sequence ID: WP_242446691.1 Length: 164
+Range 1: 128 to 161
+
+Score:40.8 bits(94), Expect:0.033, 
+Method:Compositional matrix adjust., 
+Identities:19/34(56%), Positives:23/34(67%), Gaps:0/34(0%)
+
+Query  11   FSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYF  44
+            F SPSG AKFV G S +G V+ KT+DG+ L E  
+Sbjct  128  FKSPSGAAKFVSGNSVNGNVSWKTSDGRMLGEVL  161
+
+
+
+
+>GIY-YIG nuclease family protein [Pelistega suis]
+Sequence ID: WP_171680374.1 Length: 305
+Range 1: 256 to 298
+
+Score:41.2 bits(95), Expect:0.035, 
+Method:Composition-based stats., 
+Identities:22/43(51%), Positives:27/43(62%), Gaps:0/43(0%)
+
+Query  3    GIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+            GI+KEK  F SPS  A FV G + +G+   KT DG+TL E  E
+Sbjct  256  GILKEKQLFKSPSYAAAFVLGINTNGRTEWKTEDGRTLKEIEE  298
+
+
+
+
+>GIY-YIG nuclease family protein [Fibrobacter sp.]
+Sequence ID: WP_290925760.1 Length: 302
+Range 1: 253 to 297
+
+Score:41.2 bits(95), Expect:0.035, 
+Method:Compositional matrix adjust., 
+Identities:21/45(47%), Positives:30/45(66%), Gaps:0/45(0%)
+
+Query  1    VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAEYFE  45
+            +D I++E   F+SPS  A+FV G S +G ++ KT DGKTL +  E
+Sbjct  253  IDNILQEDVLFNSPSSAAEFVTGKSCNGWISWKTKDGKTLHDLEE  297
+
+
+
+
+>DUF4357 domain-containing protein [Lachnobacterium bovis]
+Sequence ID: WP_082223805.1 Length: 103
+Range 1: 58 to 96
+
+Score:40.0 bits(92), Expect:0.037, 
+Method:Compositional matrix adjust., 
+Identities:21/39(54%), Positives:27/39(69%), Gaps:0/39(0%)
+
+Query  2   DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+           DG + +  EF SPS  A+FV GTS +G +A KT DGK+L
+Sbjct  58  DGNIIKDCEFKSPSTAAQFVTGTSINGMLAWKTKDGKSL  96
+
+
+
+
+>MAG: nuclear disruption protein [Caudoviricetes sp.]
+Sequence ID: XOS39123.1 Length: 296
+Range 1: 250 to 289
+
+Score:41.2 bits(95), Expect:0.038, 
+Method:Compositional matrix adjust., 
+Identities:20/40(50%), Positives:27/40(67%), Gaps:0/40(0%)
+
+Query  3    GIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+            GI++E   F+SPS  A FV+G + +G +  K ADGKTL E
+Sbjct  250  GILQEDLLFNSPSYAAAFVYGGNTNGLIDWKNADGKTLKE  289
+
+
+
+
+>DUF4357 domain-containing protein [Anaerovibrio sp.]
+Sequence ID: MCR5177330.1 Length: 94
+Range 1: 49 to 90
+
+Score:39.7 bits(91), Expect:0.040, 
+Method:Compositional matrix adjust., 
+Identities:20/42(48%), Positives:26/42(61%), Gaps:0/42(0%)
+
+Query  1   VDGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTLAE  42
+           VDG  +E   F SPSG A F+ G   +GK+  K+ DGKT+ E
+Sbjct  49  VDGKFQEDVLFKSPSGAAAFIAGAHVNGKIYWKSEDGKTIGE  90
+
+
+
+
+>DUF4357 domain-containing protein [Clostridiaceae bacterium]
+Sequence ID: NLW53707.1 Length: 96
+Range 1: 47 to 85
+
+Score:39.7 bits(91), Expect:0.042, 
+Method:Compositional matrix adjust., 
+Identities:20/39(51%), Positives:25/39(64%), Gaps:0/39(0%)
+
+Query  2   DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+           + ++ E   FSSPS  + FV G S +G  A KTADGKTL
+Sbjct  47  NNVLLEDVLFSSPSAASMFVTGASSNGYTAWKTADGKTL  85
+
+
+
+
+>GIY-YIG nuclease family protein [Blautia sp. 1033sp1_1033st1_G9_1033SCRN_220408]
+Sequence ID: WP_368190155.1 Length: 279
+Range 1: 232 to 270
+
+Score:40.8 bits(94), Expect:0.049, 
+Method:Compositional matrix adjust., 
+Identities:21/39(54%), Positives:26/39(66%), Gaps:0/39(0%)
+
+Query  2    DGIVKEKFEFSSPSGIAKFVWGTSKDGKVALKTADGKTL  40
+            +GI++E   FSSPSG A FV G S +G  + K ADG TL
+Sbjct  232  EGILQEDVLFSSPSGAAMFVVGKSANGLTSWKNADGITL  270
+
+
+
+
+
+
+
+		
+
+

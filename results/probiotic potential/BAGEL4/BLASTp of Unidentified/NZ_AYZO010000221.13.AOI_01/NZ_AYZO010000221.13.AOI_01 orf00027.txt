@@ -1,0 +1,2471 @@
+RID: T8VN7WKP016	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: lcl|Query_11702711 Length: 180
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E    Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value  Ident  Len        Accession        
+type III restriction-modification system endonuclease...          1          1          Lactobacillu... firmicutes      1203069    373    373   100%  7e-120 100.00 1027       WP_008472465.1   
+restriction endonuclease [uncultured Dialister sp.]               1          1          uncultured D... firmicutes      278064     311    311   99%   6e-106 80.45  180        WP_302133899.1   
+restriction endonuclease subunit R [Lachnospiraceae bacterium]    1          1          Lachnospirac... firmicutes      1898203    313    313   99%   2e-105 81.56  279        MDY6351871.1     
+type III restriction-modification system endonuclease...          1          1          Ligilactobac... firmicutes      1624       333    333   100%  9e-105 87.78  1029       WP_273778349.1   
+restriction endonuclease subunit R [Bilifractor sp.]              1          1          Bilifractor sp. firmicutes      2815796    312    312   99%   3e-104 81.56  321        MGN0363089.1     
+hypothetical protein [Ligilactobacillus ruminis]                  1          1          Ligilactobac... firmicutes      1623       304    304   99%   2e-103 78.21  180        MEQ2869889.1     
+restriction endonuclease [uncultured Megasphaera sp.]             1          1          uncultured M... firmicutes      165188     313    313   99%   6e-103 79.89  448        WP_298589601.1   
+restriction endonuclease [Mitsuokella jalaludinii]                1          1          Mitsuokella ... firmicutes      187979     303    303   99%   1e-102 77.65  180        WP_442001727.1   
+restriction endonuclease [Lactobacillus delbrueckii]              2          1          Lactobacillu... firmicutes      1584       305    305   99%   1e-102 78.09  244        WP_231520635.1   
+restriction endonuclease [Lactobacillus delbrueckii]              2          2          Lactobacillu... firmicutes      1584       303    303   99%   1e-102 78.09  187        WP_375652431.1   
+restriction endonuclease [Megasphaera sp.]                        2          2          Megasphaera     firmicutes      906        308    308   99%   2e-102 79.33  337        WP_292108180.1   
+restriction endonuclease [Megasphaera elsdenii]                   1          1          Megasphaera ... firmicutes      907        316    316   99%   3e-102 80.45  583        WP_239475606.1   
+restriction endonuclease subunit R [Lactobacillus delbrueckii...  2          1          Lactobacillu... firmicutes      1585       303    303   99%   1e-100 78.09  342        MBT8998465.1     
+restriction endonuclease [uncultured Megasphaera sp.]             1          1          uncultured M... firmicutes      165188     315    315   99%   1e-99  80.45  800        WP_288286122.1   
+type III restriction-modification system endonuclease...          1          1          Stomatobacul... firmicutes      796942     319    319   99%   1e-99  82.68  1027       WP_009533560.1   
+restriction endonuclease [Lactobacillus delbrueckii]              1          1          Lactobacillu... firmicutes      1584       303    303   99%   4e-99  78.09  457        WP_232508760.1   
+restriction endonuclease, partial [Lactobacillus delbrueckii]     1          1          Lactobacillu... firmicutes      1584       303    303   99%   3e-98  78.09  518        WP_443093534.1   
+type III restriction-modification system endonuclease...          7          4          Megasphaera     firmicutes      906        315    315   99%   4e-98  81.56  1022       WP_439785531.1   
+type III restriction-modification system endonuclease...          7          2          Megasphaera     firmicutes      906        315    315   99%   5e-98  80.45  1029       WP_353803801.1   
+type III restriction-modification system endonuclease...          1          1          Mitsuokella ... firmicutes      187979     313    313   99%   2e-97  81.56  1024       WP_441129949.1   
+restriction endonuclease [Mitsuokella multacida]                  1          1          Mitsuokella ... firmicutes      52226      305    305   98%   7e-97  80.23  709        WP_278834092.1   
+type III restriction-modification system endonuclease...          1          1          Eubacterium ... firmicutes      155865     312    312   99%   8e-97  81.01  1030       WP_441186169.1   
+type III restriction-modification system endonuclease...          3          2          Anaerovoraca... firmicutes      543314     311    311   99%   1e-96  79.89  1034       WP_331465909.1   
+type III restriction-modification system endonuclease [Dialist... 2          2          Dialister       firmicutes      39948      311    311   99%   1e-96  80.45  1029       WP_296098764.1   
+type III restriction-modification system endonuclease...          4          4          Bacillota       firmicutes      1239       310    310   99%   3e-96  81.56  1025       WP_210115221.1   
+type III restriction-modification system endonuclease...          4          3          Lactobacilla... firmicutes      33958      310    310   99%   4e-96  79.33  1027       WP_270648687.1   
+type III restriction-modification system endonuclease [Dialist... 17         9          Bacillota       firmicutes      1239       310    310   99%   5e-96  79.33  1025       WP_444224271.1   
+type III restriction-modification system endonuclease...          2          1          Megasphaera sp. firmicutes      2023260    308    308   99%   3e-95  79.33  1033       WP_292282278.1   
+restriction endonuclease subunit R [Candidatus Pseudoramibacte... 2          2          Pseudoramiba... firmicutes      113286     306    306   99%   7e-95  81.01  1022       MQM72217.1       
+restriction endonuclease [Lactobacillus delbrueckii]              3          2          Lactobacillu... firmicutes      1584       303    303   99%   7e-95  78.09  826        WP_375697646.1   
+restriction endonuclease subunit R [Candidatus Limivivens...      1          1          Candidatus L... firmicutes      2840859    283    283   99%   1e-94  73.48  203        HIQ96033.1       
+type III restriction-modification system endonuclease [Dialist... 2          1          Allisonella ... firmicutes      209880     306    306   99%   1e-94  78.77  1028       WP_441042143.1   
+MULTISPECIES: type III restriction-modification system...         3          2          Megasphaera     firmicutes      906        305    305   99%   3e-94  77.65  1033       WP_225069423.1   
+type III restriction-modification system endonuclease...          2          1          uncultured M... firmicutes      453120     305    305   98%   4e-94  80.23  1025       WP_288777601.1   
+DEAD/DEAH box helicase family protein [Succiniclasticum sp.]      1          1          Succiniclast... firmicutes      2775030    305    305   98%   4e-94  80.23  1036       MDY6346238.1     
+type III restriction-modification system endonuclease...          1          1          Pseudoramiba... firmicutes      2034862    304    304   99%   5e-94  78.77  1021       MGN0194770.1     
+restriction endonuclease subunit R [Eubacterium sp.]              1          1          Eubacterium sp. firmicutes      142586     293    293   99%   8e-94  75.98  560        MCI1513560.1     
+restriction endonuclease [Dialister histaminiformans]             1          1          Allisonella ... firmicutes      209880     280    280   91%   1e-93  78.05  165        WP_370782681.1   
+type III restriction-modification system endonuclease...          53         7          Lactobacillales firmicutes      186826     303    303   99%   1e-93  78.09  1034       WP_236154968.1   
+type III restriction-modification system endonuclease...          5          3          Lactobacilla... firmicutes      33958      303    303   99%   1e-93  78.09  1043       WP_075531039.1   
+type III restriction-modification system endonuclease...          2          2          Mitsuokella     firmicutes      52225      303    303   98%   2e-93  79.10  1037       WP_226868797.1   
+type III restriction-modification system endonuclease...          1          1          Megasphaera sp. firmicutes      2023260    300    300   99%   4e-93  77.65  919        WP_370854689.1   
+type III restriction-modification system endonuclease...          1          1          Mitsuokella sp. firmicutes      2049034    301    301   99%   1e-92  78.77  1023       WP_455048128.1   
+type III restriction-modification system endonuclease...          3          3          Negativicutes   firmicutes      909932     300    300   99%   2e-92  77.65  1022       WP_353934214.1   
+type III restriction-modification system endonuclease...          1          1          Absicoccus i... firmicutes      2926319    300    300   98%   2e-92  78.53  1020       WP_320326537.1   
+restriction endonuclease [Ligilactobacillus ruminis]              1          1          Ligilactobac... firmicutes      1623       271    271   87%   1e-90  78.85  157        WP_349211855.1   
+DEAD/DEAH box helicase family protein [Acidaminococcus sp.]       1          1          Acidaminococ... firmicutes      1872103    295    295   99%   2e-90  75.98  1027       MCH3951834.1     
+type III restriction-modification system endonuclease [Dialist... 1          1          Dialister sp.   firmicutes      1955814    295    295   99%   2e-90  74.72  1024       WP_330224137.1   
+DEAD/DEAH box helicase family protein [Eubacterium sp.]           1          1          Eubacterium sp. firmicutes      142586     293    293   99%   1e-89  75.98  1023       MCH4007591.1     
+DEAD/DEAH box helicase family protein [Megasphaera sp.]           2          1          Megasphaera sp. firmicutes      2023260    291    291   98%   3e-89  75.14  1021       MCH4179732.1     
+restriction endonuclease [Lactobacillus delbrueckii]              1          1          Lactobacillu... firmicutes      1584       264    264   86%   1e-87  77.42  164        WP_232627258.1   
+restriction endonuclease [Enterocloster lavalensis]               2          1          Enterocloste... firmicutes      460384     270    270   98%   2e-87  70.95  354        WP_227170596.1   
+DEAD/DEAH box helicase family protein [Bacteroides sp.]           3          3          Bacteria        bacteria        2          287    287   98%   2e-87  75.71  1023       MCM1527439.1     
+type III restriction-modification system endonuclease...          1          1          Pyramidobact... bacteria        1943581    286    286   99%   5e-87  72.63  1025       MGN0838040.1     
+DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium] 3          3          Clostridia      firmicutes      186801     285    285   99%   7e-87  74.03  1027       MCD8118668.1     
+restriction endonuclease subunit R [Pseudomonadota bacterium]     1          1          Pseudomonado... proteobacteria  1977087    267    267   98%   1e-86  69.83  322        MBQ1267773.1     
+restriction endonuclease [Bacteroides congonensis]                1          1          Bacteroides ... CFB group ba... 1871006    285    285   99%   7e-86  74.03  1195       WP_283140090.1   
+restriction endonuclease subunit R [Clostridia bacterium]         1          1          Clostridia b... firmicutes      2044939    262    262   99%   8e-86  67.04  235        MBQ2378733.1     
+type III restriction-modification system endonuclease [Blautia... 6          6          Clostridia      firmicutes      186801     282    282   99%   9e-86  73.89  1025       WP_349083624.1   
+type III restriction-modification system endonuclease...          2          2          Bacillota       firmicutes      1239       282    282   99%   9e-86  73.48  1025       WP_235070810.1   
+restriction endonuclease [Caproicibacterium sp. BJN0003]          1          1          Caproicibact... firmicutes      2994078    270    270   99%   2e-85  68.33  500        WP_416232457.1   
+restriction endonuclease subunit R [Accumulibacter sp.]           1          1          Accumulibact... b-proteobact... 2053492    259    259   99%   8e-85  66.67  220        MDR3300780.1     
+hypothetical protein [Selenomonadaceae bacterium]                 1          1          Selenomonada... firmicutes      2652289    266    266   99%   1e-84  69.06  447        MBR3624077.1     
+restriction endonuclease subunit R [Lachnospiraceae bacterium]    1          1          Lachnospirac... firmicutes      1898203    259    259   99%   2e-84  65.36  256        MCR5727746.1     
+DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium] 1          1          Lachnospirac... firmicutes      1898203    279    279   99%   2e-84  72.93  1028       MBD5527617.1     
+restriction endonuclease subunit R [Spirochaetia bacterium]       1          1          Spirochaetia... bacteria        2053615    268    268   99%   2e-84  67.78  534        NCD07081.1       
+type III restriction-modification system endonuclease...          1          1          Succinivibri... g-proteobact... 2053620    278    278   99%   5e-84  70.95  1036       MGN1356814.1     
+DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium] 1          1          Lachnospirac... firmicutes      1898203    277    277   99%   1e-83  71.82  1022       MCI8978950.1     
+restriction endonuclease subunit R [Clostridiales bacterium]      1          1          Clostridiale... firmicutes      1898207    256    256   99%   1e-83  65.56  215        MBE6032681.1     
+restriction endonuclease subunit R [Oscillospiraceae bacterium]   1          1          Oscillospira... firmicutes      2485925    261    261   99%   2e-83  64.44  368        MEG0397203.1     
+restriction endonuclease subunit R [Eubacteriales bacterium...    1          1          Eubacteriale... firmicutes      2885213    258    258   99%   2e-83  65.56  279        MDL2220912.1     
+DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium] 2          1          Lachnospirac... firmicutes      1898203    276    276   99%   2e-83  71.82  1022       MFG6320657.1     
+restriction endonuclease [Veillonella sp.]                        1          1          Veillonella sp. firmicutes      1926307    260    260   99%   2e-83  64.80  350        WP_287529023.1   
+restriction endonuclease [Ruminococcus difficilis]                1          1          Ruminococcus... firmicutes      2763069    261    261   99%   3e-83  67.22  387        WP_243411785.1   
+DEAD/DEAH box helicase family protein [Akkermansiaceae bacterium] 1          1          Akkermansiac... verrucomicrobia 2562705    276    276   99%   5e-83  70.72  1109       MCD7798466.1     
+hypothetical protein [Oscillospiraceae bacterium]                 1          1          Oscillospira... firmicutes      2485925    261    261   99%   1e-82  67.04  426        MDY3079881.1     
+hypothetical protein SASC598J21_002000, partial [Snodgrassella... 1          1          Snodgrassell... b-proteobact... 1385367    252    252   99%   1e-82  63.33  185        KEQ02021.1       
+DEAD/DEAH box helicase family protein [Lachnospiraceae bacteri... 2          2          Lachnospiraceae firmicutes      186803     274    274   99%   1e-82  71.82  1024       MEY8431880.1     
+restriction endonuclease [Agathobacter sp.]                       2          2          Clostridia      firmicutes      186801     259    259   99%   1e-82  68.72  400        WP_308791873.1   
+restriction endonuclease subunit R [Ruminiclostridium sp.]        1          1          Ruminiclostr... firmicutes      2053608    258    258   98%   1e-82  66.85  335        MBS7397812.1     
+putative uncharacterized protein [Clostridium sp. CAG:169]        1          1          Clostridium ... firmicutes      1262778    252    252   99%   1e-82  65.56  181        CDA61901.1       
+restriction endonuclease subunit R [Syntrophomonadaceae...        1          1          Syntrophomon... firmicutes      2093811    253    253   98%   1e-82  65.54  220        NLG33465.1       
+restriction endonuclease subunit R [Clostridia bacterium]         1          1          Clostridia b... firmicutes      2044939    257    257   98%   6e-82  64.80  365        MBQ5562144.1     
+DEAD/DEAH box helicase family protein [Akkermansia sp.]           2          2          Akkermansiaceae verrucomicrobia 1647988    271    271   99%   7e-82  69.61  1012       MCC8021789.1     
+DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium] 1          1          Lachnospirac... firmicutes      1898203    271    271   99%   9e-82  70.17  1022       MBR3186411.1     
+restriction endonuclease subunit R [Bacillota bacterium]          1          1          Bacillota ba... firmicutes      1879010    261    261   98%   1e-81  67.98  542        MBR5228386.1     
+restriction endonuclease subunit R [Ruminococcus sp.]             1          1          Ruminococcus... firmicutes      41978      259    259   99%   2e-81  67.22  486        MGN1468362.1     
+restriction endonuclease [Parabacteroides goldsteinii]            1          1          Parabacteroi... CFB group ba... 328812     249    249   99%   2e-81  66.11  182        WP_301029615.1   
+restriction endonuclease [Snodgrassella alvi]                     1          1          Snodgrassell... b-proteobact... 1196083    254    254   99%   2e-81  63.89  318        WP_216353292.1   
+MAG TPA: Restriction endonuclease, partial [Caudoviricetes sp.]   1          1          Caudoviricet... viruses         2832643    255    255   99%   3e-81  68.72  372        DAS24277.1       
+restriction endonuclease [Macellibacteroides fermentans]          2          2          Bacteroidales   CFB group ba... 171549     249    249   99%   3e-81  61.67  210        WP_446787073.1   
+restriction endonuclease [uncultured Megasphaera sp.]             1          1          uncultured M... firmicutes      165188     247    247   79%   4e-81  80.42  148        WP_296820970.1   
+restriction endonuclease subunit R [Spirochaetales bacterium]     1          1          Spirochaetal... spirochetes     2026792    260    260   99%   4e-81  65.00  546        HOT59624.1       
+restriction endonuclease subunit R [Selenomonadaceae bacterium]   1          1          Selenomonada... firmicutes      2652289    263    263   98%   6e-81  68.72  678        MBO6303448.1     
+restriction endonuclease subunit R [Clostridia bacterium]         1          1          Clostridia b... firmicutes      2044939    252    252   99%   8e-81  63.89  315        MBQ8689996.1     
+restriction endonuclease subunit R [Acetivibrio sp.]              1          1          Acetivibrio sp. firmicutes      1872092    251    251   96%   8e-81  65.52  299        HOQ38766.1       
+restriction endonuclease, partial [Faecalibacterium prausnitzii]  1          1          Faecalibacte... firmicutes      853        247    247   94%   9e-81  68.24  171        WP_456305820.1   
+type III restriction-modification system endonuclease...          1          1          Lagierella sp.  firmicutes      2849657    269    269   98%   1e-80  69.49  1045       WP_300409566.1   
+restriction endonuclease subunit R [Oscillospiraceae bacterium]   1          1          Oscillospira... firmicutes      2485925    255    255   99%   1e-80  65.56  433        HRT82416.1       
+DEAD/DEAH box helicase family protein [Solobacterium sp.]         1          1          Solobacteriu... firmicutes      2060878    268    268   99%   1e-80  70.17  1031       MBR3356227.1     
+
+
+Alignments:
+
+>type III restriction-modification system endonuclease [Lactobacillus gigeriorum]
+Sequence ID: WP_008472465.1 Length: 1027
+Range 1: 848 to 1027
+
+Score:373 bits(957), Expect:7e-120, 
+Method:Compositional matrix adjust., 
+Identities:180/180(100%), Positives:180/180(100%), Gaps:0/180(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN
+Sbjct  848   MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  907
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT
+Sbjct  908   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  967
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINSK  180
+             VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINSK
+Sbjct  968   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINSK  1027
+
+
+
+
+>restriction endonuclease [uncultured Dialister sp.]
+Sequence ID: WP_302133899.1 Length: 180
+Range 1: 1 to 179
+
+Score:311 bits(796), Expect:6e-106, 
+Method:Compositional matrix adjust., 
+Identities:144/179(80%), Positives:167/179(93%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MYK +PEEFI+KVS LINE+KATMIVEDITYN T+GTYD+ IFTAE+N++F KAY AKKN
+Sbjct  1    MYKISPEEFISKVSRLINEEKATMIVEDITYNPTEGTYDSSIFTAEKNRDFNKAYRAKKN  60
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AE+S+ERRFAEDMD+DDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT
+Sbjct  61   VQDYVFADGTAERSVERRFAEDMDMDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++FIAETKGSM++M L+ IEQ KI CAKKLFNELST DVVY+QVD++QNL++++NS
+Sbjct  121  VKHIYFIAETKGSMESMDLRPIEQAKISCAKKLFNELSTDDVVYEQVDSFQNLMNIMNS  179
+
+
+
+
+>restriction endonuclease subunit R [Lachnospiraceae bacterium]
+Sequence ID: MDY6351871.1 Length: 279
+Range 1: 100 to 278
+
+Score:313 bits(802), Expect:2e-105, 
+Method:Compositional matrix adjust., 
+Identities:146/179(82%), Positives:168/179(93%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY  NPEEFI+KVS LINE+KATMIV+DITYN+TDGTYD++IFTAE+NK+F++AY AKKN
+Sbjct  100  MYVNNPEEFISKVSRLINEEKATMIVDDITYNKTDGTYDSEIFTAEKNKDFSRAYLAKKN  159
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  160  VQDYVFADGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  219
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++F+AETKGSMD+M L+ IEQ KIKCAKKLFNE+ST DVVY QVD+YQNLL ++N+
+Sbjct  220  VKHIYFVAETKGSMDSMDLRPIEQAKIKCAKKLFNEISTDDVVYGQVDSYQNLLSMMNA  278
+
+
+
+
+>type III restriction-modification system endonuclease [Ligilactobacillus salivarius]
+Sequence ID: WP_273778349.1 Length: 1029
+Range 1: 849 to 1028
+
+Score:333 bits(854), Expect:9e-105, 
+Method:Compositional matrix adjust., 
+Identities:158/180(88%), Positives:174/180(96%), Gaps:0/180(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYK NPEEFI+KVS+LIN QKATMIV+DITYNE DGTYD+DIFTAE+NKNFAKAY AKKN
+Sbjct  849   MYKNNPEEFISKVSSLINGQKATMIVDDITYNEIDGTYDSDIFTAEKNKNFAKAYRAKKN  908
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKSIERRFAE+MDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  909   VQDYVFADGNAEKSIERRFAENMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  968
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINSK  180
+             VKH++FIAETKG+MD+MQLKTIEQ KI+CAKKLFNE+STADVVYDQVDTY+NLL++INSK
+Sbjct  969   VKHVYFIAETKGTMDSMQLKTIEQAKIRCAKKLFNEVSTADVVYDQVDTYENLLNLINSK  1028
+
+
+
+
+>restriction endonuclease subunit R [Bilifractor sp.]
+Sequence ID: MGN0363089.1 Length: 321
+Range 1: 142 to 320
+
+Score:312 bits(799), Expect:3e-104, 
+Method:Compositional matrix adjust., 
+Identities:146/179(82%), Positives:168/179(93%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY  NPEEFI+KVS LINE+KATMIV+DITYN+TDGTYD++IFTAE+NK+F++AY AKKN
+Sbjct  142  MYVNNPEEFISKVSRLINEEKATMIVDDITYNKTDGTYDSEIFTAEKNKDFSRAYLAKKN  201
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  202  VQDYVFADGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  261
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++F+AETKGSMD+M L+ IEQ KIKCAKKLFNE+ST DVVY QVD+YQNLL V+++
+Sbjct  262  VKHIYFVAETKGSMDSMDLRPIEQAKIKCAKKLFNEISTDDVVYGQVDSYQNLLSVMDA  320
+
+
+
+
+>hypothetical protein [Ligilactobacillus ruminis]
+Sequence ID: MEQ2869889.1 Length: 180
+Range 1: 1 to 179
+
+Score:304 bits(779), Expect:2e-103, 
+Method:Compositional matrix adjust., 
+Identities:140/179(78%), Positives:166/179(92%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY   PEEFI+KVS LINE+KATMIVE ITYN+TDGTYD++IFTAERNK+F KAY AKKN
+Sbjct  1    MYVKKPEEFISKVSRLINEEKATMIVEGITYNKTDGTYDSEIFTAERNKDFTKAYHAKKN  60
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AE+SIER+FAE+MDLDDKV+VYAKLPRGFQIPTPVGNYAPDWAI+FK+GT
+Sbjct  61   VQDYVFADGTAERSIERKFAEEMDLDDKVIVYAKLPRGFQIPTPVGNYAPDWAISFKRGT  120
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++F+AETKG+M++M L+ IEQ KIKCAKKLFN++ST DVVY+Q+D+YQNLL V+N+
+Sbjct  121  VKHIYFVAETKGTMESMDLRPIEQAKIKCAKKLFNDISTDDVVYEQIDSYQNLLSVMNT  179
+
+
+
+
+>restriction endonuclease [uncultured Megasphaera sp.]
+Sequence ID: WP_298589601.1 Length: 448
+Range 1: 269 to 447
+
+Score:313 bits(802), Expect:6e-103, 
+Method:Compositional matrix adjust., 
+Identities:143/179(80%), Positives:170/179(94%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY++NPEEFI+KV+ LINE+KATMIV+DITYN+TDGTYD++IFTAE+NK+F+KAY +KKN
+Sbjct  269  MYRHNPEEFISKVTKLINEEKATMIVDDITYNKTDGTYDSEIFTAEKNKDFSKAYLSKKN  328
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVF DG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  329  VQDYVFTDGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  388
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++F+AETKGSM++M L+ IEQ KIKCAKKLFNE+ST DVVY+QVD+YQNLL ++N+
+Sbjct  389  VKHIYFVAETKGSMESMDLRPIEQAKIKCAKKLFNEISTDDVVYEQVDSYQNLLSMMNA  447
+
+
+
+
+>restriction endonuclease [Mitsuokella jalaludinii]
+Sequence ID: WP_442001727.1 Length: 180
+Range 1: 1 to 179
+
+Score:303 bits(775), Expect:1e-102, 
+Method:Compositional matrix adjust., 
+Identities:139/179(78%), Positives:166/179(92%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY+ NPEEFI KVS LINEQKATMIV+DITY++TDGTYDA+IFTAE+NK+F+KAY AKKN
+Sbjct  1    MYRLNPEEFIAKVSRLINEQKATMIVDDITYDQTDGTYDAEIFTAEKNKDFSKAYLAKKN  60
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG A+KS+ERRFAEDMDLDD+VVVYAKLPRGFQ+PTPVG+YAPDWAI FK+G+
+Sbjct  61   VQDYVFADGTADKSVERRFAEDMDLDDQVVVYAKLPRGFQMPTPVGHYAPDWAITFKQGS  120
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++FIAETKG+MD+++L+  EQ KIKCAKKLF E+STADVVY QVD+YQ LL+V+ +
+Sbjct  121  VKHIYFIAETKGTMDSLELRPSEQAKIKCAKKLFQEISTADVVYGQVDSYQTLLNVMQT  179
+
+
+
+
+>restriction endonuclease [Lactobacillus delbrueckii]
+Sequence ID: WP_231520635.1 Length: 244
+Range 1: 58 to 235
+
+Score:305 bits(781), Expect:1e-102, 
+Method:Compositional matrix adjust., 
+Identities:139/178(78%), Positives:163/178(91%), Gaps:0/178(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY+YNPEEFI+KV  LINEQKATMIV+DITYNET+G YD+ IFT E+N  F+KAY AKKN
+Sbjct  58   MYQYNPEEFISKVIKLINEQKATMIVDDITYNETEGRYDSSIFTLEKNHEFSKAYRAKKN  117
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKS+ER+FAEDMDLDDKV VYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  118  VQDYVFADGSAEKSVERKFAEDMDLDDKVAVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  177
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            VKH++FIAETKGS+ +M L+ IEQ KIKCAKKLFNE+ST DV+Y+QVD++++LLD++N
+Sbjct  178  VKHIYFIAETKGSLSSMDLRPIEQAKIKCAKKLFNEMSTTDVIYEQVDSFKSLLDMMN  235
+
+
+
+
+>restriction endonuclease [Lactobacillus delbrueckii]
+Sequence ID: WP_375652431.1 Length: 187
+Range 1: 1 to 178
+
+Score:303 bits(775), Expect:1e-102, 
+Method:Compositional matrix adjust., 
+Identities:139/178(78%), Positives:163/178(91%), Gaps:0/178(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY+YNPEEFI+KV  LINEQKATMIV+DITYNET+G YD+ IFT E+N  F+KAY AKKN
+Sbjct  1    MYQYNPEEFISKVIKLINEQKATMIVDDITYNETEGRYDSSIFTLEKNHEFSKAYRAKKN  60
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKS+ER+FAEDMDLDDKV VYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  61   VQDYVFADGSAEKSVERKFAEDMDLDDKVAVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  120
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            VKH++FIAETKGS+ +M L+ IEQ KIKCAKKLFNE+ST DV+Y+QVD++++LLD++N
+Sbjct  121  VKHIYFIAETKGSLSSMDLRPIEQAKIKCAKKLFNEMSTTDVIYEQVDSFKSLLDMMN  178
+
+
+
+
+>restriction endonuclease [Megasphaera sp.]
+Sequence ID: WP_292108180.1 Length: 337
+Range 1: 158 to 336
+
+Score:308 bits(788), Expect:2e-102, 
+Method:Compositional matrix adjust., 
+Identities:142/179(79%), Positives:168/179(93%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY++NPEEFI+KV+ LINE+KATMIV+DITYN+TDGTYD++IFTAE+NK+F+KAY AKKN
+Sbjct  158  MYRHNPEEFISKVTKLINEEKATMIVDDITYNKTDGTYDSEIFTAEKNKDFSKAYLAKKN  217
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVF DG AEKSIER+FAE+MDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  218  VQDYVFTDGTAEKSIERKFAENMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  277
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++F+AETKGSM++M L+ IEQ KIKCAK LFNE+ST DVVY QVD+YQNLL ++N+
+Sbjct  278  VKHIYFVAETKGSMESMDLRPIEQAKIKCAKTLFNEISTDDVVYGQVDSYQNLLIMMNA  336
+
+
+
+
+>restriction endonuclease [Megasphaera elsdenii]
+Sequence ID: WP_239475606.1 Length: 583
+Range 1: 400 to 578
+
+Score:316 bits(809), Expect:3e-102, 
+Method:Compositional matrix adjust., 
+Identities:144/179(80%), Positives:170/179(94%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY++NPEEFI+KV+ LINE+KATMIV+DITYN+TDGTYD++IFTAE+NK+F+KAYPAKKN
+Sbjct  400  MYRHNPEEFISKVTKLINEEKATMIVDDITYNKTDGTYDSEIFTAEKNKDFSKAYPAKKN  459
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVF DG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  460  VQDYVFTDGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  519
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++F+AETKGSM++M L+ IEQ KIKCAK LFNE+ST DVVY QVD+YQNLL+++N+
+Sbjct  520  VKHIYFVAETKGSMESMDLRPIEQAKIKCAKTLFNEISTDDVVYGQVDSYQNLLNMMNA  578
+
+
+
+
+>restriction endonuclease subunit R [Lactobacillus delbrueckii subsp. bulgaricus]
+Sequence ID: MBT8998465.1 Length: 342
+Range 1: 156 to 333
+
+Score:303 bits(777), Expect:1e-100, 
+Method:Compositional matrix adjust., 
+Identities:139/178(78%), Positives:163/178(91%), Gaps:0/178(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY+YNPEEFI+KV  LINEQKATMIV+DITYNET+G YD+ IFT E+N  F+KAY AKKN
+Sbjct  156  MYQYNPEEFISKVIKLINEQKATMIVDDITYNETEGRYDSSIFTLEKNHEFSKAYRAKKN  215
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKS+ER+FAEDMDLDDKV VYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  216  VQDYVFADGSAEKSVERKFAEDMDLDDKVAVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  275
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            VKH++FIAETKGS+ +M L+ IEQ KIKCAKKLFNE+ST DV+Y+QVD++++LLD++N
+Sbjct  276  VKHIYFIAETKGSLSSMDLRPIEQAKIKCAKKLFNEMSTTDVIYEQVDSFKSLLDMMN  333
+
+
+
+
+>restriction endonuclease [uncultured Megasphaera sp.]
+Sequence ID: WP_288286122.1 Length: 800
+Range 1: 617 to 795
+
+Score:315 bits(807), Expect:1e-99, 
+Method:Compositional matrix adjust., 
+Identities:144/179(80%), Positives:168/179(93%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY++NPEEFI+KV+ LINE+KATMIV+DITYN TDGTYD++IFTAE+NK+F+KAYPAKKN
+Sbjct  617  MYRHNPEEFISKVTKLINEEKATMIVDDITYNRTDGTYDSEIFTAEKNKDFSKAYPAKKN  676
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVF DG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  677  VQDYVFTDGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  736
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++F+AETKGSM++M L+ IEQ KIKCAK LFNE+ST DVVY QVD+YQNLL ++N+
+Sbjct  737  VKHIYFVAETKGSMESMDLRPIEQAKIKCAKTLFNEISTDDVVYGQVDSYQNLLSMMNA  795
+
+
+
+
+>type III restriction-modification system endonuclease [Stomatobaculum longum]
+Sequence ID: WP_009533560.1 Length: 1027
+Range 1: 848 to 1026
+
+Score:319 bits(818), Expect:1e-99, 
+Method:Compositional matrix adjust., 
+Identities:148/179(83%), Positives:169/179(94%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+ NPEEFI+KVS LINE+KATMIVEDITYN+TDG YD++IFTAE+NK+F+KAY A+KN
+Sbjct  848   MYRNNPEEFISKVSRLINEEKATMIVEDITYNQTDGKYDSEIFTAEKNKDFSKAYRAQKN  907
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKS+ER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  908   VQDYVFADGTAEKSVERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  967
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKGSMD+M L+ IEQ KIKCAKKLFNE+ST DVVYDQVD+YQNLL V+N+
+Sbjct  968   VKHIYFIAETKGSMDSMDLRPIEQAKIKCAKKLFNEISTDDVVYDQVDSYQNLLSVMNA  1026
+
+
+
+
+>restriction endonuclease [Lactobacillus delbrueckii]
+Sequence ID: WP_232508760.1 Length: 457
+Range 1: 271 to 448
+
+Score:303 bits(777), Expect:4e-99, 
+Method:Compositional matrix adjust., 
+Identities:139/178(78%), Positives:163/178(91%), Gaps:0/178(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY+YNPEEFI+KV  LINEQKATMIV+DITYNET+G YD+ IFT E+N  F+KAY AKKN
+Sbjct  271  MYQYNPEEFISKVIKLINEQKATMIVDDITYNETEGRYDSSIFTLEKNHEFSKAYRAKKN  330
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKS+ER+FAEDMDLDDKV VYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  331  VQDYVFADGSAEKSVERKFAEDMDLDDKVAVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  390
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            VKH++FIAETKGS+ +M L+ IEQ KIKCAKKLFNE+ST DV+Y+QVD++++LLD++N
+Sbjct  391  VKHIYFIAETKGSLSSMDLRPIEQAKIKCAKKLFNEMSTTDVIYEQVDSFKSLLDMMN  448
+
+
+
+
+>restriction endonuclease, partial [Lactobacillus delbrueckii]
+Sequence ID: WP_443093534.1 Length: 518
+Range 1: 332 to 509
+
+Score:303 bits(776), Expect:3e-98, 
+Method:Compositional matrix adjust., 
+Identities:139/178(78%), Positives:163/178(91%), Gaps:0/178(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY+YNPEEFI+KV  LINEQKATMIV+DITYNET+G YD+ IFT E+N  F+KAY AKKN
+Sbjct  332  MYQYNPEEFISKVIKLINEQKATMIVDDITYNETEGRYDSSIFTLEKNHEFSKAYRAKKN  391
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKS+ER+FAEDMDLDDKV VYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  392  VQDYVFADGSAEKSVERKFAEDMDLDDKVAVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  451
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            VKH++FIAETKGS+ +M L+ IEQ KIKCAKKLFNE+ST DV+Y+QVD++++LLD++N
+Sbjct  452  VKHIYFIAETKGSLSSMDLRPIEQAKIKCAKKLFNEMSTTDVIYEQVDSFKSLLDMMN  509
+
+
+
+
+>type III restriction-modification system endonuclease [Megasphaera sp.]
+Sequence ID: WP_439785531.1 Length: 1022
+Range 1: 843 to 1021
+
+Score:315 bits(807), Expect:4e-98, 
+Method:Compositional matrix adjust., 
+Identities:146/179(82%), Positives:170/179(94%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYK NPEEFI+KV+ LINE+KATMIV+DITYN+TDGTYD++IFTAE+NK+F+KAY AKKN
+Sbjct  843   MYKNNPEEFISKVTKLINEEKATMIVDDITYNQTDGTYDSEIFTAEKNKDFSKAYLAKKN  902
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKSIER+FAEDMDLDD+VVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT
+Sbjct  903   VQDYVFADGTAEKSIERKFAEDMDLDDRVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  962
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKGSM++M L+ IEQ KIKCAKKLFNE+ST DVVY+QVD+YQNLL ++N+
+Sbjct  963   VKHIYFVAETKGSMESMDLRPIEQAKIKCAKKLFNEISTDDVVYEQVDSYQNLLSMMNA  1021
+
+
+
+
+>type III restriction-modification system endonuclease [Megasphaera elsdenii]
+Sequence ID: WP_353803801.1 Length: 1029
+Range 1: 846 to 1024
+
+Score:315 bits(807), Expect:5e-98, 
+Method:Compositional matrix adjust., 
+Identities:144/179(80%), Positives:168/179(93%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY++NPEEFI+KV+ LINE+KATMIV+DITYN TDGTYD++IFTAE+NK+F+KAYPAKKN
+Sbjct  846   MYRHNPEEFISKVTKLINEEKATMIVDDITYNRTDGTYDSEIFTAEKNKDFSKAYPAKKN  905
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVF DG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  906   VQDYVFTDGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  965
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKGSM++M L+ IEQ KIKCAK LFNE+ST DVVY QVD+YQNLL ++N+
+Sbjct  966   VKHIYFVAETKGSMESMDLRPIEQAKIKCAKTLFNEISTDDVVYGQVDSYQNLLSMMNA  1024
+
+
+
+
+>type III restriction-modification system endonuclease [Mitsuokella jalaludinii]
+Sequence ID: WP_441129949.1 Length: 1024
+Range 1: 845 to 1023
+
+Score:313 bits(803), Expect:2e-97, 
+Method:Compositional matrix adjust., 
+Identities:146/179(82%), Positives:169/179(94%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYKYNPEEFI+KV  LINE+KATMIV+DITYN+TDGTYD+ IFTAE+NK+F+KAY AKKN
+Sbjct  845   MYKYNPEEFISKVIKLINEEKATMIVDDITYNKTDGTYDSSIFTAEKNKDFSKAYLAKKN  904
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  905   VQDYVFADGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  964
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKGSM+++ L+ IEQ KIKCAKKLFNE+ST DVVY+QVD+YQ LL+V+N+
+Sbjct  965   VKHIYFVAETKGSMESLDLRPIEQAKIKCAKKLFNEISTDDVVYEQVDSYQTLLNVMNA  1023
+
+
+
+
+>restriction endonuclease [Mitsuokella multacida]
+Sequence ID: WP_278834092.1 Length: 709
+Range 1: 530 to 706
+
+Score:305 bits(781), Expect:7e-97, 
+Method:Compositional matrix adjust., 
+Identities:142/177(80%), Positives:164/177(92%), Gaps:0/177(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MYK NPEEFI KV  LINEQKATMIV+DITYN+TDGTYDA+IFTAE+NK+F KAY AKKN
+Sbjct  530  MYKSNPEEFIAKVIRLINEQKATMIVDDITYNQTDGTYDAEIFTAEKNKDFTKAYRAKKN  589
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKS+ERRFAEDMDLDDKVVVYAKLPRGFQIPTPVG YAPDWAIAF+KG+
+Sbjct  590  VQDYVFADGTAEKSVERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGYYAPDWAIAFEKGS  649
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+            VKH++FIAETKGSM+++ L+ IE+ KI+CAKKLF+E+ST DVVYDQVD+YQ LL+++
+Sbjct  650  VKHIYFIAETKGSMNSLDLRPIEKAKIQCAKKLFHEISTVDVVYDQVDSYQTLLNMM  706
+
+
+
+
+>type III restriction-modification system endonuclease [Eubacterium pyruvativorans]
+Sequence ID: WP_441186169.1 Length: 1030
+Range 1: 851 to 1029
+
+Score:312 bits(799), Expect:8e-97, 
+Method:Compositional matrix adjust., 
+Identities:145/179(81%), Positives:169/179(94%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYK NPEEFI+KV  LINE+KATMIV+DITYNETDGTYD+ IFTAE+NK+F+KAY AKKN
+Sbjct  851   MYKSNPEEFISKVVKLINEEKATMIVDDITYNETDGTYDSSIFTAEKNKDFSKAYLAKKN  910
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG A+KSIER+FAE+MDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  911   VQDYVFADGTADKSIERKFAEEMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFRKGT  970
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKGSM++M L+ IEQ KIKCAKKLFNE+ST DVVYDQVD+YQNLL+++++
+Sbjct  971   VKHIYFVAETKGSMESMDLRPIEQAKIKCAKKLFNEISTDDVVYDQVDSYQNLLNLMSA  1029
+
+
+
+
+>type III restriction-modification system endonuclease [Mobilibacterium timonense]
+Sequence ID: WP_331465909.1 Length: 1034
+Range 1: 855 to 1033
+
+Score:311 bits(798), Expect:1e-96, 
+Method:Compositional matrix adjust., 
+Identities:143/179(80%), Positives:170/179(94%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+ NPEEFITKV+ LINEQKATMIV+DITYN+T+GTY++ IFTAE+NK+F+KAYPAKKN
+Sbjct  855   MYRNNPEEFITKVTKLINEQKATMIVDDITYNKTEGTYESTIFTAEKNKDFSKAYPAKKN  914
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKS+ER+FAE+MDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  915   VQDYVFADGTAEKSVERKFAEEMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  974
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKG+MD+M+L+ IEQ KIKCAKKLFNE+ST DVVY QV TYQ+L++V++S
+Sbjct  975   VKHIYFVAETKGTMDSMELRPIEQAKIKCAKKLFNEISTEDVVYGQVKTYQDLINVMDS  1033
+
+
+
+
+>type III restriction-modification system endonuclease [Dialister sp.]
+Sequence ID: WP_296098764.1 Length: 1029
+Range 1: 850 to 1028
+
+Score:311 bits(797), Expect:1e-96, 
+Method:Compositional matrix adjust., 
+Identities:144/179(80%), Positives:167/179(93%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYK +PEEFI+KVS LINE+KATMIVEDITYN T+GTYD+ IFTAE+N++F KAY AKKN
+Sbjct  850   MYKISPEEFISKVSRLINEEKATMIVEDITYNPTEGTYDSSIFTAEKNRDFNKAYRAKKN  909
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AE+S+ERRFAEDMD+DDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT
+Sbjct  910   VQDYVFADGTAERSVERRFAEDMDMDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  969
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKGSM++M L+ IEQ KI CAKKLFNELST DVVY+QVD++QNL++++NS
+Sbjct  970   VKHIYFIAETKGSMESMDLRPIEQAKISCAKKLFNELSTDDVVYEQVDSFQNLMNIMNS  1028
+
+
+
+
+>type III restriction-modification system endonuclease [Galactobacillus timonensis]
+Sequence ID: WP_210115221.1 Length: 1025
+Range 1: 846 to 1024
+
+Score:310 bits(795), Expect:3e-96, 
+Method:Compositional matrix adjust., 
+Identities:146/179(82%), Positives:167/179(93%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFI+KV  LINE+KATMIV+DITYN+TDGTYD+ IFTAE+NK+F+KAY AKKN
+Sbjct  846   MFKNNPEEFISKVVKLINEEKATMIVDDITYNKTDGTYDSSIFTAEKNKDFSKAYLAKKN  905
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  906   VQDYVFADGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  965
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKGSM++M L+ IEQ KIKCAKKLFNE+ST DVVY QVD+YQNLL ++N+
+Sbjct  966   VKHIYFIAETKGSMESMDLRPIEQAKIKCAKKLFNEISTDDVVYGQVDSYQNLLGLMNA  1024
+
+
+
+
+>type III restriction-modification system endonuclease [Limosilactobacillus mucosae]
+Sequence ID: WP_270648687.1 Length: 1027
+Range 1: 848 to 1026
+
+Score:310 bits(794), Expect:4e-96, 
+Method:Compositional matrix adjust., 
+Identities:142/179(79%), Positives:167/179(93%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYK NPEEFI+KVS LINE+KATM+V+DITYN+T+GTY +DIFTAE+NK+F++AY AKKN
+Sbjct  848   MYKNNPEEFISKVSKLINEEKATMVVDDITYNKTNGTYSSDIFTAEKNKDFSRAYLAKKN  907
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVF DG AEKSIER+FAEDMDLDDKV+VYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  908   VQDYVFTDGTAEKSIERKFAEDMDLDDKVIVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  967
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKGSM++M L+ IEQ KI CA+KLFNE+ST DV+YDQVD+YQNLL V+N+
+Sbjct  968   VKHIYFIAETKGSMESMDLRPIEQVKISCARKLFNEISTDDVIYDQVDSYQNLLSVMNA  1026
+
+
+
+
+>type III restriction-modification system endonuclease [Dialister succinatiphilus]
+Sequence ID: WP_444224271.1 Length: 1025
+Range 1: 846 to 1024
+
+Score:310 bits(793), Expect:5e-96, 
+Method:Compositional matrix adjust., 
+Identities:142/179(79%), Positives:166/179(92%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+YNPEEFI+KVS LINE+KA MIV DITYN+TDG+YD+ IFTAE+NK+F+KAY AKKN
+Sbjct  846   MYRYNPEEFISKVSKLINEEKAAMIVNDITYNQTDGSYDSTIFTAEKNKDFSKAYLAKKN  905
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKS+ER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  906   VQDYVFADGTAEKSVERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  965
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKGSM+++ L+ IEQ KI CAKKLFNE+S  DVVYDQVD+YQNLL ++N+
+Sbjct  966   VKHIYFVAETKGSMESLDLRPIEQAKITCAKKLFNEISKDDVVYDQVDSYQNLLSLMNA  1024
+
+
+
+
+>type III restriction-modification system endonuclease [Megasphaera sp.]
+Sequence ID: WP_292282278.1 Length: 1033
+Range 1: 854 to 1032
+
+Score:308 bits(788), Expect:3e-95, 
+Method:Compositional matrix adjust., 
+Identities:142/179(79%), Positives:168/179(93%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY++NPEEFI+KV+ LINE+KATMIV+DITYN+TDGTYD++IFTAE+NK+F+KAY AKKN
+Sbjct  854   MYRHNPEEFISKVTKLINEEKATMIVDDITYNKTDGTYDSEIFTAEKNKDFSKAYLAKKN  913
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVF DG AEKSIER+FAE+MDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  914   VQDYVFTDGTAEKSIERKFAENMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  973
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKGSM++M L+ IEQ KIKCAK LFNE+ST DVVY QVD+YQNLL ++N+
+Sbjct  974   VKHIYFVAETKGSMESMDLRPIEQAKIKCAKTLFNEISTDDVVYGQVDSYQNLLIMMNA  1032
+
+
+
+
+>restriction endonuclease subunit R [Candidatus Pseudoramibacter fermentans]
+Sequence ID: MQM72217.1 Length: 1022
+Range 1: 843 to 1021
+
+Score:306 bits(785), Expect:7e-95, 
+Method:Compositional matrix adjust., 
+Identities:145/179(81%), Positives:166/179(92%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+ NPEEFI+KV  LINE+KATMIV+DITYN+TDGTYD+ IFTAE+NK+F+KAY AKKN
+Sbjct  843   MYQNNPEEFISKVIKLINEEKATMIVDDITYNKTDGTYDSSIFTAEKNKDFSKAYLAKKN  902
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKSIE +FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  903   VQDYVFADGTAEKSIEWKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  962
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKGSM +M L+ IEQ KIKCAKKLFN++ST DVVYDQVD+YQNLL ++N+
+Sbjct  963   VKHIYFIAETKGSMKSMDLRPIEQAKIKCAKKLFNDISTDDVVYDQVDSYQNLLSLMNA  1021
+
+
+
+
+>restriction endonuclease [Lactobacillus delbrueckii]
+Sequence ID: WP_375697646.1 Length: 826
+Range 1: 640 to 817
+
+Score:303 bits(775), Expect:7e-95, 
+Method:Compositional matrix adjust., 
+Identities:139/178(78%), Positives:163/178(91%), Gaps:0/178(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY+YNPEEFI+KV  LINEQKATMIV+DITYNET+G YD+ IFT E+N  F+KAY AKKN
+Sbjct  640  MYQYNPEEFISKVIKLINEQKATMIVDDITYNETEGRYDSSIFTLEKNHEFSKAYRAKKN  699
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKS+ER+FAEDMDLDDKV VYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  700  VQDYVFADGSAEKSVERKFAEDMDLDDKVAVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  759
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            VKH++FIAETKGS+ +M L+ IEQ KIKCAKKLFNE+ST DV+Y+QVD++++LLD++N
+Sbjct  760  VKHIYFIAETKGSLSSMDLRPIEQAKIKCAKKLFNEMSTTDVIYEQVDSFKSLLDMMN  817
+
+
+
+
+>restriction endonuclease subunit R [Candidatus Limivivens merdigallinarum]
+Sequence ID: HIQ96033.1 Length: 203
+Range 1: 22 to 202
+
+Score:283 bits(725), Expect:1e-94, 
+Method:Compositional matrix adjust., 
+Identities:133/181(73%), Positives:160/181(88%), Gaps:2/181(1%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            M+K NPEEFITK   LINEQKATMIVE ITYN+T GTYD+ IFTAE+N +F+KAY AKKN
+Sbjct  22   MFKNNPEEFITKAIRLINEQKATMIVEQITYNQTGGTYDSTIFTAEKNTDFSKAYRAKKN  81
+
+Query  61   VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+            VQDYVFADG+A+  +S+ER+FAEDMDL ++V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  82   VQDYVFADGYAKDGQSVERKFAEDMDLAEEVCVYAKLPKGFSIPTPVGNYSPDWAIAFNK  141
+
+Query  119  GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            GTVKH+FFIAETKG+M+T+ LK IE+ KI CA+KLF+ELS+ADVVYD VD+YQ+LLD++ 
+Sbjct  142  GTVKHIFFIAETKGTMETLNLKPIEKAKIDCARKLFSELSSADVVYDSVDSYQHLLDIME  201
+
+Query  179  S  179
+            S
+Sbjct  202  S  202
+
+
+
+
+>type III restriction-modification system endonuclease [Dialister histaminiformans]
+Sequence ID: WP_441042143.1 Length: 1028
+Range 1: 849 to 1027
+
+Score:306 bits(784), Expect:1e-94, 
+Method:Compositional matrix adjust., 
+Identities:141/179(79%), Positives:166/179(92%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYK NPEEFI+KV  LINE+KATMIV+DITYNETDGTYD+ IFT E+NK+F++AY AKKN
+Sbjct  849   MYKQNPEEFISKVIRLINEEKATMIVDDITYNETDGTYDSSIFTVEKNKDFSRAYRAKKN  908
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQ+YVFADG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  909   VQNYVFADGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  968
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKG+MD+M+L+ IEQ KIKCAKKLFN++S  DVVY+QVD+YQ LL+++ +
+Sbjct  969   VKHIYFIAETKGTMDSMELRPIEQAKIKCAKKLFNDISGKDVVYEQVDSYQTLLNIMGN  1027
+
+
+
+
+>MULTISPECIES: type III restriction-modification system endonuclease [Megasphaera]
+Sequence ID: WP_225069423.1 Length: 1033
+Range 1: 854 to 1032
+
+Score:305 bits(781), Expect:3e-94, 
+Method:Compositional matrix adjust., 
+Identities:139/179(78%), Positives:164/179(91%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+ NPEEFI K   LINE+KATMIV DITYN+TDGTYD++IFT E+NK+F+KAY A+K+
+Sbjct  854   MYRSNPEEFIAKTIKLINEEKATMIVNDITYNQTDGTYDSEIFTVEKNKDFSKAYRAQKS  913
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             +QDYVF DGF+EKS+ERRFAEDMD DDKV+VYAKLPRGFQIPTPVGNYAPDWAIAFKKGT
+Sbjct  914   IQDYVFTDGFSEKSVERRFAEDMDADDKVIVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  973
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKGSMD+M L+ IEQ KI CAKKLFNE+ST DVVY+QVDTYQNLL+++++
+Sbjct  974   VKHIYFIAETKGSMDSMDLRPIEQAKIMCAKKLFNEISTDDVVYEQVDTYQNLLNIMDA  1032
+
+
+
+
+>type III restriction-modification system endonuclease [uncultured Mitsuokella sp.]
+Sequence ID: WP_288777601.1 Length: 1025
+Range 1: 846 to 1022
+
+Score:305 bits(780), Expect:4e-94, 
+Method:Compositional matrix adjust., 
+Identities:142/177(80%), Positives:164/177(92%), Gaps:0/177(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYK NPEEFI KV  LINEQKATMIV+DITYN+TDGTYDA+IFTAE+NK+F KAY AKKN
+Sbjct  846   MYKSNPEEFIAKVIRLINEQKATMIVDDITYNQTDGTYDAEIFTAEKNKDFTKAYRAKKN  905
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKS+ERRFAEDMDLDDKVVVYAKLPRGFQIPTPVG YAPDWAIAF+KG+
+Sbjct  906   VQDYVFADGTAEKSVERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGYYAPDWAIAFEKGS  965
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+             VKH++FIAETKGSM+++ L+ IE+ KI+CAKKLF+E+ST DVVYDQVD+YQ LL+++
+Sbjct  966   VKHIYFIAETKGSMNSLDLRPIEKAKIQCAKKLFHEISTVDVVYDQVDSYQTLLNMM  1022
+
+
+
+
+>DEAD/DEAH box helicase family protein [Succiniclasticum sp.]
+Sequence ID: MDY6346238.1 Length: 1036
+Range 1: 858 to 1034
+
+Score:305 bits(780), Expect:4e-94, 
+Method:Compositional matrix adjust., 
+Identities:142/177(80%), Positives:164/177(92%), Gaps:0/177(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+ NPEEFI+KVS LINE+KATMIV+DITYN+TDGTYD+ IFTAE+NK+F+KAY AKKN
+Sbjct  858   MYRNNPEEFISKVSRLINEEKATMIVDDITYNQTDGTYDSTIFTAEKNKDFSKAYLAKKN  917
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG A KSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KG+
+Sbjct  918   VQDYVFADGTAAKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGS  977
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+             VKH++F+AETKGSM +M L+ IEQ KI CAKKLFNE+ST DVVY QVD+YQNLL+++
+Sbjct  978   VKHIYFVAETKGSMKSMDLRPIEQAKITCAKKLFNEISTDDVVYGQVDSYQNLLNIM  1034
+
+
+
+
+>type III restriction-modification system endonuclease [Pseudoramibacter sp.]
+Sequence ID: MGN0194770.1 Length: 1021
+Range 1: 842 to 1020
+
+Score:304 bits(779), Expect:5e-94, 
+Method:Compositional matrix adjust., 
+Identities:141/179(79%), Positives:165/179(92%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+ NPEEFI KVS LINE+KATMIVEDITYNET+  YD+DIFTAE+NK+F KAY AKKN
+Sbjct  842   MYQQNPEEFILKVSRLINEEKATMIVEDITYNETENAYDSDIFTAEKNKDFTKAYQAKKN  901
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG A++S+ERRFAE MD+DDKVVVYAKLPRGF+IPTPVG+YAPDWAIAFKKGT
+Sbjct  902   VQDYVFADGTAKESVERRFAEAMDVDDKVVVYAKLPRGFKIPTPVGSYAPDWAIAFKKGT  961
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKG+M +M+L+ IEQ KI+CAKKLFNE STADVVYDQVD+Y+NLL ++N+
+Sbjct  962   VKHIYFIAETKGTMSSMELRPIEQAKIQCAKKLFNEASTADVVYDQVDSYENLLSIMNA  1020
+
+
+
+
+>restriction endonuclease subunit R [Eubacterium sp.]
+Sequence ID: MCI1513560.1 Length: 560
+Range 1: 381 to 559
+
+Score:293 bits(750), Expect:8e-94, 
+Method:Compositional matrix adjust., 
+Identities:136/179(76%), Positives:160/179(89%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            M++ NPEEFI K   LINEQKA++IVEDI YNETD TYD+DIFTAE + +  KAYPAKKN
+Sbjct  381  MFEKNPEEFIAKAIRLINEQKASVIVEDIRYNETDRTYDSDIFTAEHHTDVKKAYPAKKN  440
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVF DG+AE+S E+ FAEDMD+DD+VVVYAKLPRGFQIPTPVGNYAPDWAIAFK+GT
+Sbjct  441  VQDYVFTDGYAEESTEKVFAEDMDIDDRVVVYAKLPRGFQIPTPVGNYAPDWAIAFKEGT  500
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++FIAETKGSM ++ L+ IE+ KIKCAKKLFNE+STADVVY+QVD+YQNLL V+N+
+Sbjct  501  VKHIYFIAETKGSMSSLDLRPIEKAKIKCAKKLFNEISTADVVYEQVDSYQNLLSVMNA  559
+
+
+
+
+>restriction endonuclease [Dialister histaminiformans]
+Sequence ID: WP_370782681.1 Length: 165
+Range 1: 1 to 164
+
+Score:280 bits(715), Expect:1e-93, 
+Method:Compositional matrix adjust., 
+Identities:128/164(78%), Positives:153/164(93%), Gaps:0/164(0%)
+
+Query  16   LINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKNVQDYVFADGFAEKSI  75
+            +INE+KATMIV+DITYNETDGTYD+ IFT E+NK+F++AY AKKNVQ+YVFADG AEKSI
+Sbjct  1    MINEEKATMIVDDITYNETDGTYDSSIFTVEKNKDFSRAYRAKKNVQNYVFADGTAEKSI  60
+
+Query  76   ERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGTVKHLFFIAETKGSMD  135
+            ER+FAEDMDLDDKVVVY KLPRGFQIPTPVGNYAPDWAIAF+KGTVKH++FIAETKG+MD
+Sbjct  61   ERKFAEDMDLDDKVVVYTKLPRGFQIPTPVGNYAPDWAIAFQKGTVKHIYFIAETKGTMD  120
+
+Query  136  TMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            +M+L+ IEQ KIKCAKKLFN++S  DVVY+QVD+YQ LL+++ +
+Sbjct  121  SMELRPIEQAKIKCAKKLFNDISGKDVVYEQVDSYQTLLNIMGN  164
+
+
+
+
+>type III restriction-modification system endonuclease [Lactobacillus delbrueckii]
+Sequence ID: WP_236154968.1 Length: 1034
+Range 1: 848 to 1025
+
+Score:303 bits(777), Expect:1e-93, 
+Method:Compositional matrix adjust., 
+Identities:139/178(78%), Positives:163/178(91%), Gaps:0/178(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+YNPEEFI+KV  LINEQKATMIV+DITYNET+G YD+ IFT E+N  F+KAY AKKN
+Sbjct  848   MYQYNPEEFISKVIKLINEQKATMIVDDITYNETEGRYDSSIFTLEKNHEFSKAYRAKKN  907
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKS+ER+FAEDMDLDDKV VYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  908   VQDYVFADGSAEKSVERKFAEDMDLDDKVAVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  967
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             VKH++FIAETKGS+ +M L+ IEQ KIKCAKKLFNE+ST DV+Y+QVD++++LLD++N
+Sbjct  968   VKHIYFIAETKGSLSSMDLRPIEQAKIKCAKKLFNEMSTTDVIYEQVDSFKSLLDMMN  1025
+
+
+
+
+>type III restriction-modification system endonuclease [Ligilactobacillus sp. WC1T17]
+Sequence ID: WP_075531039.1 Length: 1043
+Range 1: 846 to 1023
+
+Score:303 bits(777), Expect:1e-93, 
+Method:Compositional matrix adjust., 
+Identities:139/178(78%), Positives:164/178(92%), Gaps:0/178(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+YNPEEFI+KV  LINEQKATMIV+DITYNET+G YD+ IFT E+N  F+KAY +KKN
+Sbjct  846   MYQYNPEEFISKVIKLINEQKATMIVDDITYNETEGRYDSSIFTLEKNHEFSKAYRSKKN  905
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKS+ER+FAEDMDLDDKV VYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  906   VQDYVFADGTAEKSVERKFAEDMDLDDKVAVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  965
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             VKH++FIAETKGS+ +M L+ IEQ KIKCAKKLFN++STADV+Y+QVD++++LLD+IN
+Sbjct  966   VKHIYFIAETKGSLSSMDLRPIEQAKIKCAKKLFNKMSTADVIYEQVDSFKSLLDMIN  1023
+
+
+
+
+>type III restriction-modification system endonuclease [Mitsuokella jalaludinii]
+Sequence ID: WP_226868797.1 Length: 1037
+Range 1: 858 to 1034
+
+Score:303 bits(776), Expect:2e-93, 
+Method:Compositional matrix adjust., 
+Identities:140/177(79%), Positives:165/177(93%), Gaps:0/177(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+ NPEEFI KV  LINEQKATMIV+DITYN+TDGTYDA+IFTAE+NK+F KAY AKKN
+Sbjct  858   MYQSNPEEFIAKVIRLINEQKATMIVDDITYNQTDGTYDAEIFTAEKNKDFTKAYRAKKN  917
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKS+ERRFAEDMDLDDKVVVYAKLPRGFQIPTPVG+YAPDWAIAF+KG+
+Sbjct  918   VQDYVFADGTAEKSVERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGHYAPDWAIAFEKGS  977
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+             VKH++FIAETKGSM+++ L+ IE+ KI+CAKKLF+E+ST DVVY+QVD+YQ LL+++
+Sbjct  978   VKHIYFIAETKGSMNSLDLRPIEKAKIQCAKKLFHEISTVDVVYEQVDSYQTLLNMM  1034
+
+
+
+
+>type III restriction-modification system endonuclease [Megasphaera sp.]
+Sequence ID: WP_370854689.1 Length: 919
+Range 1: 740 to 918
+
+Score:300 bits(768), Expect:4e-93, 
+Method:Compositional matrix adjust., 
+Identities:139/179(78%), Positives:164/179(91%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY YNPEEFI KV  LINE+KATMIV+ ITYN+TDGTY+++IFTAE+NK+F+KAY A+KN
+Sbjct  740  MYAYNPEEFIAKVIKLINEEKATMIVDAITYNQTDGTYESEIFTAEKNKDFSKAYRARKN  799
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVFADG AEKSIER+FAE MD+DDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  800  VQDYVFADGTAEKSIERKFAEAMDVDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  859
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH++F+AETKGSM+++ L+ IEQ KIKCAKKLFNE+S  DVVY QVD+YQNLL ++N+
+Sbjct  860  VKHIYFVAETKGSMESLDLRPIEQAKIKCAKKLFNEISKDDVVYGQVDSYQNLLSLMNA  918
+
+
+
+
+>type III restriction-modification system endonuclease [Mitsuokella sp.]
+Sequence ID: WP_455048128.1 Length: 1023
+Range 1: 844 to 1022
+
+Score:301 bits(770), Expect:1e-92, 
+Method:Compositional matrix adjust., 
+Identities:141/179(79%), Positives:166/179(92%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY+ NPEEFI+KV  LINE+KATMIV+DITYN+T+GTYD++IFTAE+NK+F KAY AKKN
+Sbjct  844   MYQNNPEEFISKVIKLINEEKATMIVDDITYNKTEGTYDSEIFTAEKNKDFKKAYRAKKN  903
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKSIERRFAEDMD+DD VVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  904   VQDYVFADGTAEKSIERRFAEDMDMDDLVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  963
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKGS+D+M L+ IEQ KIKCAKKLFNE+ST +VVY QV +YQ+LL++++S
+Sbjct  964   VKHIYFIAETKGSLDSMDLRPIEQAKIKCAKKLFNEISTDNVVYGQVRSYQDLLNMMDS  1022
+
+
+
+
+>type III restriction-modification system endonuclease [uncultured Acidaminococcus sp.]
+Sequence ID: WP_353934214.1 Length: 1022
+Range 1: 843 to 1021
+
+Score:300 bits(769), Expect:2e-92, 
+Method:Compositional matrix adjust., 
+Identities:139/179(78%), Positives:164/179(91%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MY YNPEEFI KV  LINE+KATMIV+ ITYN+TDGTY+++IFTAE+NK+F+KAY A+KN
+Sbjct  843   MYAYNPEEFIAKVIKLINEEKATMIVDAITYNQTDGTYESEIFTAEKNKDFSKAYRARKN  902
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKSIER+FAE MD+DDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  903   VQDYVFADGTAEKSIERKFAEAMDVDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  962
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKGSM+++ L+ IEQ KIKCAKKLFNE+S  DVVY QVD+YQNLL ++N+
+Sbjct  963   VKHIYFVAETKGSMESLDLRPIEQAKIKCAKKLFNEISKDDVVYGQVDSYQNLLSLMNA  1021
+
+
+
+
+>type III restriction-modification system endonuclease [Absicoccus intestinalis]
+Sequence ID: WP_320326537.1 Length: 1020
+Range 1: 841 to 1017
+
+Score:300 bits(768), Expect:2e-92, 
+Method:Compositional matrix adjust., 
+Identities:139/177(79%), Positives:162/177(91%), Gaps:0/177(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFI+ VS LIN++KATMIV+DITYN+TDGTYD+ IFTAE+NK+F+K+Y AKKN
+Sbjct  841   MFKLNPEEFISNVSRLINDEKATMIVDDITYNQTDGTYDSSIFTAEKNKDFSKSYLAKKN  900
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKSIER+FAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  901   VQDYVFADGTAEKSIERKFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  960
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+             VKH+FFIAETKG+M ++ ++ IEQ KI CAKKLFN LST DVVY  VD+YQ+LL++I
+Sbjct  961   VKHIFFIAETKGTMQSINIRPIEQAKISCAKKLFNNLSTKDVVYHDVDSYQSLLNII  1017
+
+
+
+
+>restriction endonuclease [Ligilactobacillus ruminis]
+Sequence ID: WP_349211855.1 Length: 157
+Range 1: 1 to 156
+
+Score:271 bits(693), Expect:1e-90, 
+Method:Compositional matrix adjust., 
+Identities:123/156(79%), Positives:147/156(94%), Gaps:0/156(0%)
+
+Query  24   MIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKNVQDYVFADGFAEKSIERRFAEDM  83
+            MIVE ITYN+TDGTYD++IFTAERNK+F KAY AKKNVQDYVFADG AE+SIER+FAE+M
+Sbjct  1    MIVEGITYNKTDGTYDSEIFTAERNKDFTKAYHAKKNVQDYVFADGTAERSIERKFAEEM  60
+
+Query  84   DLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGTVKHLFFIAETKGSMDTMQLKTIE  143
+            DLDDKV+VYAKLPRGFQIPTPVGNYAPDWAI+FK+GTVKH++F+AETKG+M++M L+ IE
+Sbjct  61   DLDDKVIVYAKLPRGFQIPTPVGNYAPDWAISFKRGTVKHIYFVAETKGTMESMDLRPIE  120
+
+Query  144  QTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            Q KIKCAKKLFN++ST DVVY+Q+D+YQNLL V+N+
+Sbjct  121  QAKIKCAKKLFNDISTDDVVYEQIDSYQNLLSVMNT  156
+
+
+
+
+>DEAD/DEAH box helicase family protein [Acidaminococcus sp.]
+Sequence ID: MCH3951834.1 Length: 1027
+Range 1: 848 to 1026
+
+Score:295 bits(755), Expect:2e-90, 
+Method:Compositional matrix adjust., 
+Identities:136/179(76%), Positives:159/179(88%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPE+FI+K   LINEQKATMIV+ ITYN+T GTYD+ IFTAE+NK+F+KAY AKKN
+Sbjct  848   MFKENPEDFISKTIQLINEQKATMIVDHITYNQTTGTYDSSIFTAEKNKDFSKAYAAKKN  907
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVF DG+AEKS+ER+FAEDMD DDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG+
+Sbjct  908   VQDYVFTDGYAEKSVERKFAEDMDADDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGS  967
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH+FFIAETKGS+ +M L+TIEQ KIKCA +LF  LS  DVVY +VDTY+NLLD++ +
+Sbjct  968   VKHVFFIAETKGSLSSMNLRTIEQAKIKCASELFKSLSNKDVVYHEVDTYKNLLDIMKT  1026
+
+
+
+
+>type III restriction-modification system endonuclease [Dialister sp.]
+Sequence ID: WP_330224137.1 Length: 1024
+Range 1: 845 to 1022
+
+Score:295 bits(754), Expect:2e-90, 
+Method:Compositional matrix adjust., 
+Identities:133/178(75%), Positives:162/178(91%), Gaps:0/178(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             +++ NPEEFI KVS LINEQKATMIV DITYNETD TYD++IFTAE+NK+F KAY  KKN
+Sbjct  845   LFRENPEEFIVKVSRLINEQKATMIVNDITYNETDDTYDSEIFTAEKNKDFTKAYQGKKN  904
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVF DG+AE+S+ER+FAE+MDLD+KV+VYAKLPRGFQIPTPVGNYAPDWAI FKKGT
+Sbjct  905   VQDYVFTDGYAEQSVERKFAENMDLDEKVLVYAKLPRGFQIPTPVGNYAPDWAIVFKKGT  964
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             VKH++F+AETKG+M+++ LK IEQ KI CAKKLF++LS+ DVVY +VDTYQ+L+D++N
+Sbjct  965   VKHIYFVAETKGTMESLNLKPIEQAKISCAKKLFSKLSSKDVVYHEVDTYQHLMDIMN  1022
+
+
+
+
+>DEAD/DEAH box helicase family protein [Eubacterium sp.]
+Sequence ID: MCH4007591.1 Length: 1023
+Range 1: 844 to 1022
+
+Score:293 bits(749), Expect:1e-89, 
+Method:Compositional matrix adjust., 
+Identities:136/179(76%), Positives:160/179(89%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M++ NPEEFI K   LINEQKA++IVEDI YNETD TYD+DIFTAE + +  KAYPAKKN
+Sbjct  844   MFEKNPEEFIAKAIRLINEQKASVIVEDIRYNETDRTYDSDIFTAEHHTDVKKAYPAKKN  903
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVF DG+AE+S E+ FAEDMD+DD+VVVYAKLPRGFQIPTPVGNYAPDWAIAFK+GT
+Sbjct  904   VQDYVFTDGYAEESTEKVFAEDMDIDDRVVVYAKLPRGFQIPTPVGNYAPDWAIAFKEGT  963
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKGSM ++ L+ IE+ KIKCAKKLFNE+STADVVY+QVD+YQNLL V+N+
+Sbjct  964   VKHIYFIAETKGSMSSLDLRPIEKAKIKCAKKLFNEISTADVVYEQVDSYQNLLSVMNA  1022
+
+
+
+
+>DEAD/DEAH box helicase family protein [Megasphaera sp.]
+Sequence ID: MCH4179732.1 Length: 1021
+Range 1: 842 to 1018
+
+Score:291 bits(746), Expect:3e-89, 
+Method:Compositional matrix adjust., 
+Identities:133/177(75%), Positives:159/177(89%), Gaps:0/177(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFI K   LINE KATMIV+DITYN T+G YD++IFTAE+NK+F+KAY AKKN
+Sbjct  842   MFKANPEEFIAKSIRLINEAKATMIVDDITYNRTNGMYDSEIFTAEKNKDFSKAYAAKKN  901
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG+AE S+E+RFA+DMDLDDKV+VYAKLPRGFQIPTPVGNYAPDWAIAF+KGT
+Sbjct  902   VQDYVFADGYAENSVEKRFAQDMDLDDKVIVYAKLPRGFQIPTPVGNYAPDWAIAFQKGT  961
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+             VKH+FF+AETKG+MD++ LK IEQ KI CAKKLF+ LST +V Y +VD+YQ+LLD++
+Sbjct  962   VKHIFFVAETKGTMDSLNLKPIEQAKISCAKKLFHTLSTKNVAYHEVDSYQHLLDIM  1018
+
+
+
+
+>restriction endonuclease [Lactobacillus delbrueckii]
+Sequence ID: WP_232627258.1 Length: 164
+Range 1: 1 to 155
+
+Score:264 bits(675), Expect:1e-87, 
+Method:Compositional matrix adjust., 
+Identities:120/155(77%), Positives:142/155(91%), Gaps:0/155(0%)
+
+Query  24   MIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKNVQDYVFADGFAEKSIERRFAEDM  83
+            MIV+DITYNET+G YD+ IFT E+N  F+KAY AKKNVQDYVFADG AEKS+ER+FAEDM
+Sbjct  1    MIVDDITYNETEGRYDSSIFTLEKNHEFSKAYRAKKNVQDYVFADGSAEKSVERKFAEDM  60
+
+Query  84   DLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGTVKHLFFIAETKGSMDTMQLKTIE  143
+            DLDDKV VYAKLPRGFQIPTPVGNYAPDWAIAFKKG+VKH++FIAETKGS+ +M L+ IE
+Sbjct  61   DLDDKVAVYAKLPRGFQIPTPVGNYAPDWAIAFKKGSVKHIYFIAETKGSLSSMDLRPIE  120
+
+Query  144  QTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            Q KIKCAKKLFNE+ST DV+Y+QVD++++LLD++N
+Sbjct  121  QAKIKCAKKLFNEMSTTDVIYEQVDSFKSLLDMMN  155
+
+
+
+
+>restriction endonuclease [Enterocloster lavalensis]
+Sequence ID: WP_227170596.1 Length: 354
+Range 1: 173 to 351
+
+Score:270 bits(691), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:127/179(71%), Positives:153/179(85%), Gaps:2/179(1%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            M++ NPEEFITK   LINEQKATMIVE ITYN+TDGTYD+ IFTAE+N +F +AY AKK+
+Sbjct  173  MFQNNPEEFITKAIRLINEQKATMIVEQITYNQTDGTYDSTIFTAEKNTDFTRAYHAKKH  232
+
+Query  61   VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+            VQDYVF DG+A+  +SIER FAE+MDL ++V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  233  VQDYVFVDGYAKDGRSIEREFAENMDLAEEVCVYAKLPKGFSIPTPVGNYSPDWAIAFNK  292
+
+Query  119  GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+            G VKH+FFIAETKG+M+T+ LK IE+ KI CA+KLF  LSTA VVY+ VD+YQ+LLDV+
+Sbjct  293  GAVKHIFFIAETKGTMETLNLKLIEKAKIDCARKLFGNLSTAGVVYETVDSYQHLLDVM  351
+
+
+
+
+>DEAD/DEAH box helicase family protein [Bacteroides sp.]
+Sequence ID: MCM1527439.1 Length: 1023
+Range 1: 844 to 1020
+
+Score:287 bits(734), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:134/177(76%), Positives:155/177(87%), Gaps:0/177(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFITK   LINEQKATMIVE ITYN T+GTYD+ IFTAE+N +F++AY AKKN
+Sbjct  844   MFKNNPEEFITKAIRLINEQKATMIVEQITYNRTEGTYDSTIFTAEKNTDFSRAYRAKKN  903
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQDYVFADG AEKS+ERRFAE+MDL D+V VYAKLP+GF IPTPVGNY+PDWAIAF KGT
+Sbjct  904   VQDYVFADGSAEKSVERRFAENMDLADEVCVYAKLPKGFSIPTPVGNYSPDWAIAFNKGT  963
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+             VKH+FFI ETKG+M+T+ L+ IEQ KI CAKKLFNELST DVVY  VD+YQ+LLD++
+Sbjct  964   VKHIFFIDETKGTMETLNLRPIEQAKISCAKKLFNELSTEDVVYHDVDSYQHLLDIM  1020
+
+
+
+
+>type III restriction-modification system endonuclease [Pyramidobacter sp.]
+Sequence ID: MGN0838040.1 Length: 1025
+Range 1: 846 to 1024
+
+Score:286 bits(731), Expect:5e-87, 
+Method:Compositional matrix adjust., 
+Identities:130/179(73%), Positives:157/179(87%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M++ NPEEFI +   LINE+KA MIV+D+ YN+T GTYDA IFTAE+NK+F+KAY AKKN
+Sbjct  846   MFRENPEEFIARTIRLINEEKAAMIVDDVVYNQTAGTYDATIFTAEKNKDFSKAYQAKKN  905
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             VQ+YVF DG AEKSIER+FAEDMDLDDKVV+YAKLPRGFQIPTPVGNYAPDWAI FK+GT
+Sbjct  906   VQNYVFVDGTAEKSIERKFAEDMDLDDKVVIYAKLPRGFQIPTPVGNYAPDWAIVFKRGT  965
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH+FF+AETKG+M+++ L+ IEQ KIKCA KLF  LS+ DVVY  VD+YQ+LLD+++S
+Sbjct  966   VKHIFFVAETKGTMESLNLRPIEQAKIKCAAKLFKTLSSKDVVYHDVDSYQHLLDIMSS  1024
+
+
+
+
+>DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium]
+Sequence ID: MCD8118668.1 Length: 1027
+Range 1: 846 to 1026
+
+Score:285 bits(730), Expect:7e-87, 
+Method:Compositional matrix adjust., 
+Identities:134/181(74%), Positives:159/181(87%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFITK   LINEQKAT+IVE ITYN+TDGTYD+ IFTAE+N +F++AY A+KN
+Sbjct  846   MFKNNPEEFITKAIRLINEQKATVIVEQITYNQTDGTYDSGIFTAEKNSDFSRAYRARKN  905
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVFADG+A+  +S+ERRFAEDMDL D+V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  906   VQDYVFADGYAKDGQSVERRFAEDMDLADEVCVYAKLPKGFSIPTPVGNYSPDWAIAFNK  965
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+M+T+ LK IEQ KI CAKKLFNELSTADVVY  V TYQ+L++++ 
+Sbjct  966   GTVKHIFFIAETKGTMETLNLKPIEQAKISCAKKLFNELSTADVVYHDVKTYQDLINIME  1025
+
+Query  179   S  179
+             S
+Sbjct  1026  S  1026
+
+
+
+
+>restriction endonuclease subunit R [Pseudomonadota bacterium]
+Sequence ID: MBQ1267773.1 Length: 322
+Range 1: 141 to 319
+
+Score:267 bits(683), Expect:1e-86, 
+Method:Compositional matrix adjust., 
+Identities:125/179(70%), Positives:153/179(85%), Gaps:2/179(1%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            M++ NPEEFI+K   LINEQKATMIVE ITY  TDGTYD+ IFTAE+N +F+KAY +KKN
+Sbjct  141  MFRNNPEEFISKAIRLINEQKATMIVEQITYCRTDGTYDSAIFTAEKNSDFSKAYRSKKN  200
+
+Query  61   VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+            VQ+YVFADG+A+   S+ERR AED+D  ++V VYAKLP+GF IPTPVGNY+PDWAIAF +
+Sbjct  201  VQNYVFADGYAKDGNSVERRMAEDLDKAEEVCVYAKLPKGFAIPTPVGNYSPDWAIAFNR  260
+
+Query  119  GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+            GTVKH+FFIAETKG+M+T+ L+ IEQ KIKCAKKLF +LST DVVY +VD+YQ+LL V+
+Sbjct  261  GTVKHIFFIAETKGTMETLSLRPIEQAKIKCAKKLFADLSTEDVVYHEVDSYQSLLTVM  319
+
+
+
+
+>restriction endonuclease [Bacteroides congonensis]
+Sequence ID: WP_283140090.1 Length: 1195
+Range 1: 1014 to 1194
+
+Score:285 bits(728), Expect:7e-86, 
+Method:Compositional matrix adjust., 
+Identities:134/181(74%), Positives:160/181(88%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFITK   LINEQKATMIVE ITYN+T+GTYD+ IFTAE+N +F+KAY AKKN
+Sbjct  1014  MFKNNPEEFITKAIRLINEQKATMIVEQITYNQTEGTYDSTIFTAEKNTDFSKAYRAKKN  1073
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVFADG+A+  +S+ER+FAEDMDL ++V VYAKLPRGF IPTPVGNY+PDWAIAF K
+Sbjct  1074  VQDYVFADGYAKDGQSVERKFAEDMDLAEEVCVYAKLPRGFSIPTPVGNYSPDWAIAFNK  1133
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+M+T+ LK IE+ KI CA+KLF ELS+ADVVYD VD+YQ+LLD++ 
+Sbjct  1134  GTVKHIFFIAETKGTMETLNLKPIEKAKIDCARKLFAELSSADVVYDSVDSYQHLLDIME  1193
+
+Query  179   S  179
+             S
+Sbjct  1194  S  1194
+
+
+
+
+>restriction endonuclease subunit R [Clostridia bacterium]
+Sequence ID: MBQ2378733.1 Length: 235
+Range 1: 54 to 232
+
+Score:262 bits(669), Expect:8e-86, 
+Method:Compositional matrix adjust., 
+Identities:120/179(67%), Positives:154/179(86%), Gaps:1/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNK-NFAKAYPAKK  59
+            M+K+NPEEFI+KV  LINEQKATMIV+ I+Y++T GTYD+DIFTAE++K +  KA+ A+K
+Sbjct  54   MFKHNPEEFISKVVKLINEQKATMIVDHISYDQTSGTYDSDIFTAEKSKQSIDKAFKAEK  113
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDYVF DG A+KSIERRFAED+D  ++V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  114  AIQDYVFTDGSADKSIERRFAEDLDTAEEVCVYAKLPKGFHIPTPVGNYSPDWAIAFNEG  173
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            +VKH++FIAETKG+M+++ L+ IEQ KI CAKKLFNE+ST +V Y  VD+YQ+LL V+N
+Sbjct  174  SVKHIYFIAETKGTMESLNLRPIEQAKISCAKKLFNEISTNNVKYHDVDSYQSLLAVMN  232
+
+
+
+
+>type III restriction-modification system endonuclease [Blautia acetigignens]
+Sequence ID: WP_349083624.1 Length: 1025
+Range 1: 844 to 1023
+
+Score:282 bits(722), Expect:9e-86, 
+Method:Compositional matrix adjust., 
+Identities:133/180(74%), Positives:159/180(88%), Gaps:2/180(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFITK   LINEQKATMIVE ITYN+TDGTYD+ IFTAE+N +F+KAY AKKN
+Sbjct  844   MFKNNPEEFITKAIRLINEQKATMIVEQITYNQTDGTYDSSIFTAEKNTDFSKAYHAKKN  903
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVFADG+A+  +SIER+FAE MDL D+V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  904   VQDYVFADGYAKDGQSIERQFAESMDLADEVCVYAKLPKGFSIPTPVGNYSPDWAIAFHK  963
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH++FIAETKG+M+T+ LK IE+ KI CAKKLF+ LS+ADVVYD VD+YQ+LLD+++
+Sbjct  964   GTVKHIYFIAETKGTMETLNLKPIEKAKIDCAKKLFHNLSSADVVYDSVDSYQHLLDIMD  1023
+
+
+
+
+>type III restriction-modification system endonuclease [Turicibacter sp. TJ11]
+Sequence ID: WP_235070810.1 Length: 1025
+Range 1: 844 to 1024
+
+Score:282 bits(722), Expect:9e-86, 
+Method:Compositional matrix adjust., 
+Identities:133/181(73%), Positives:160/181(88%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFITK   LINEQKATMIVE ITYN+T+GTYD+ IFTAE+N +F+KAY AKKN
+Sbjct  844   MFKNNPEEFITKAIRLINEQKATMIVEKITYNQTEGTYDSAIFTAEKNTDFSKAYRAKKN  903
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVFADG+A+  +S+ER+FAEDMDL ++V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  904   VQDYVFADGYAKDGQSVERKFAEDMDLAEEVCVYAKLPKGFSIPTPVGNYSPDWAIAFNK  963
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+M+T+ LK IE+ KI CA+KLF ELS+ADVVYD VD+YQ+LLD++ 
+Sbjct  964   GTVKHIFFIAETKGTMETLNLKPIEKAKIDCARKLFAELSSADVVYDSVDSYQHLLDIME  1023
+
+Query  179   S  179
+             S
+Sbjct  1024  S  1024
+
+
+
+
+>restriction endonuclease [Caproicibacterium sp. BJN0003]
+Sequence ID: WP_416232457.1 Length: 500
+Range 1: 320 to 499
+
+Score:270 bits(690), Expect:2e-85, 
+Method:Compositional matrix adjust., 
+Identities:123/180(68%), Positives:156/180(86%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M++YNPEEFI+KV  LINEQKATMIVE I+Y++ DG+YD+ IFTAE+N ++F KA+ A+K
+Sbjct  320  MFRYNPEEFISKVIKLINEQKATMIVEHISYDQIDGSYDSTIFTAEKNTQSFDKAFRAEK  379
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+            ++QD+VF DG AE+S+ERRFA+D+D   +V VYAKLP+GF IPTPVGNY+PDWAIAF KG
+Sbjct  380  HIQDFVFTDGTAEQSVERRFAQDLDAAKEVCVYAKLPKGFHIPTPVGNYSPDWAIAFNKG  439
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKG+M+T+ L+ IEQ KI CAKKLFNELST DVVY  VD+YQNLL+++NS
+Sbjct  440  MVKHIYFIAETKGTMETLSLRPIEQAKISCAKKLFNELSTDDVVYHDVDSYQNLLNIMNS  499
+
+
+
+
+>restriction endonuclease subunit R [Accumulibacter sp.]
+Sequence ID: MDR3300780.1 Length: 220
+Range 1: 40 to 219
+
+Score:259 bits(661), Expect:8e-85, 
+Method:Compositional matrix adjust., 
+Identities:120/180(67%), Positives:151/180(83%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M+K NPEEFI+KV  LI EQKATMIVE I+Y+  +G YD+ IFT E+N +NF KA+ A+K
+Sbjct  40   MFKNNPEEFISKVIKLIKEQKATMIVEHISYDRIEGEYDSAIFTMEKNSRNFDKAFRAEK  99
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+            ++QDYVF DG AE+S+ERRFA+D+D   +V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  100  HIQDYVFTDGTAEQSVERRFAQDLDAAREVGVYAKLPKGFAIPTPVGNYSPDWAIAFNEG  159
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            TVKH+FFIAETKG+MD++ L+ IEQ KI CAKKLFNELST+ V Y  VD+YQ+LLD++N+
+Sbjct  160  TVKHIFFIAETKGTMDSLNLRPIEQAKISCAKKLFNELSTSKVKYHDVDSYQHLLDIMNT  219
+
+
+
+
+>hypothetical protein [Selenomonadaceae bacterium]
+Sequence ID: MBR3624077.1 Length: 447
+Range 1: 266 to 446
+
+Score:266 bits(680), Expect:1e-84, 
+Method:Compositional matrix adjust., 
+Identities:125/181(69%), Positives:153/181(84%), Gaps:2/181(1%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            M K NPEEFITK   LINE+KATMIVE ITYN+T+G YD+ IFTAE+N +F+K Y AKKN
+Sbjct  266  MLKNNPEEFITKAIRLINEEKATMIVEHITYNKTEGVYDSAIFTAEKNSDFSKGYRAKKN  325
+
+Query  61   VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+            VQDY+F DG+A+  KS+E+R AEDMD+ ++V VYAKLPRGF+IPTPVGNY+PDWAIAF K
+Sbjct  326  VQDYLFTDGYAKDGKSVEQRMAEDMDIAEEVSVYAKLPRGFKIPTPVGNYSPDWAIAFNK  385
+
+Query  119  GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            G VKH+FFIAETKG+MD++ LK IEQ KIKCAKKLF  L+  DVVY +VD+YQ+LLD++ 
+Sbjct  386  GKVKHIFFIAETKGTMDSLNLKPIEQAKIKCAKKLFANLNENDVVYHEVDSYQSLLDIME  445
+
+Query  179  S  179
+            +
+Sbjct  446  T  446
+
+
+
+
+>restriction endonuclease subunit R [Lachnospiraceae bacterium]
+Sequence ID: MCR5727746.1 Length: 256
+Range 1: 70 to 248
+
+Score:259 bits(663), Expect:2e-84, 
+Method:Compositional matrix adjust., 
+Identities:117/179(65%), Positives:152/179(84%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            M+K NPEEFI KV+ +I EQKATM+VE I+Y++ DGTYD+ IFTAE++    KA+ A+K+
+Sbjct  70   MFKNNPEEFIAKVTRIIKEQKATMVVEHISYDQLDGTYDSSIFTAEKHATIDKAFKAEKH  129
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            +Q YVF DG A+KS+ER+FAED+D  D+V VYAKLP+GF IPTPVGNY+PDWAIAFK GT
+Sbjct  130  IQPYVFTDGTADKSVERKFAEDLDGADEVSVYAKLPKGFSIPTPVGNYSPDWAIAFKAGT  189
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH+FFIAETKG+M+T+QL+ IE+ KI CA+KLFNE+ST +VVY  VD+YQ+LL+++ S
+Sbjct  190  VKHIFFIAETKGTMETLQLRPIEKAKISCARKLFNEISTDNVVYHDVDSYQSLLNIMPS  248
+
+
+
+
+>DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium]
+Sequence ID: MBD5527617.1 Length: 1028
+Range 1: 847 to 1027
+
+Score:279 bits(713), Expect:2e-84, 
+Method:Compositional matrix adjust., 
+Identities:132/181(73%), Positives:156/181(86%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFI K   LINEQKATMIVE ITYN+ +G+YDA+IFTAE N +F+KAY AKKN
+Sbjct  847   MFKNNPEEFIIKAVRLINEQKATMIVEQITYNKAEGSYDANIFTAENNTDFSKAYRAKKN  906
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVF DG+A+  +SIERRFAEDMDL D+V VYAKLP+GF IPTPVGNY+PDWAIAF+K
+Sbjct  907   VQDYVFTDGYAKNGQSIERRFAEDMDLADEVCVYAKLPKGFSIPTPVGNYSPDWAIAFRK  966
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+M+T+ LK IE+ KI CA+KLF +LS  DVVYD VD+YQ+LLDV+ 
+Sbjct  967   GTVKHIFFIAETKGTMETLNLKPIEKAKIDCARKLFKKLSGEDVVYDSVDSYQHLLDVMG  1026
+
+Query  179   S  179
+             S
+Sbjct  1027  S  1027
+
+
+
+
+>restriction endonuclease subunit R [Spirochaetia bacterium]
+Sequence ID: NCD07081.1 Length: 534
+Range 1: 354 to 533
+
+Score:268 bits(686), Expect:2e-84, 
+Method:Compositional matrix adjust., 
+Identities:122/180(68%), Positives:154/180(85%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M+K NPEEFITK++ +I EQK+TMIVE I+YN+ DG Y++DIFT E+N K+F KAY AKK
+Sbjct  354  MFKLNPEEFITKINKIIKEQKSTMIVEHISYNKIDGEYESDIFTKEKNTKSFDKAYKAKK  413
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+            ++QDYVF DG AE S+ERRFAED+D   +V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  414  SIQDYVFTDGLAEMSVERRFAEDLDSASEVCVYAKLPKGFYIPTPVGNYSPDWAIAFNEG  473
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            +VKH+FF+AETKGS+D+M L+ IEQ KI CAKKLFNE+ST++V Y  VD+YQ+LLD++NS
+Sbjct  474  SVKHIFFVAETKGSLDSMNLRPIEQAKISCAKKLFNEISTSNVKYHDVDSYQSLLDIMNS  533
+
+
+
+
+>type III restriction-modification system endonuclease [Succinivibrionaceae bacterium]
+Sequence ID: MGN1356814.1 Length: 1036
+Range 1: 857 to 1035
+
+Score:278 bits(710), Expect:5e-84, 
+Method:Compositional matrix adjust., 
+Identities:127/179(71%), Positives:155/179(86%), Gaps:0/179(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFI+KV NLINE+KATMIV+DITYN+TDG YD+ IFT+E+NK+ +KA   KKN
+Sbjct  857   MFKKNPEEFISKVVNLINEEKATMIVDDITYNQTDGFYDSTIFTSEKNKDLSKAIQVKKN  916
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             +QDY+F DG +E S+ERRFA D++   +V+VYAKLPRGFQIPTPVGNYAPDWAIAFK+GT
+Sbjct  917   IQDYLFIDGMSENSVERRFANDLEGATEVIVYAKLPRGFQIPTPVGNYAPDWAIAFKEGT  976
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKGSM+TMQL+ IE  KI CAKKLFNE+ST DV+Y QVD+YQ LL+ I S
+Sbjct  977   VKHIYFVAETKGSMETMQLRKIENAKISCAKKLFNEISTDDVIYKQVDSYQTLLNEITS  1035
+
+
+
+
+>DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium]
+Sequence ID: MCI8978950.1 Length: 1022
+Range 1: 841 to 1021
+
+Score:277 bits(708), Expect:1e-83, 
+Method:Compositional matrix adjust., 
+Identities:130/181(72%), Positives:153/181(84%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFI K   LINEQKA MIVE ITYN+ +G+YDA+IFTAE+N +F++AY AKKN
+Sbjct  841   MFKNNPEEFIVKAIRLINEQKAAMIVEQITYNKAEGSYDANIFTAEKNTDFSRAYRAKKN  900
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVFADG+A   +S+ERRFAEDMDL D+V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  901   VQDYVFADGYARNGQSVERRFAEDMDLADEVCVYAKLPKGFSIPTPVGNYSPDWAIAFHK  960
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+M+T  LK IE+ KI CAKKLF  LS ADVVYD VD+Y +LLD++ 
+Sbjct  961   GTVKHIFFIAETKGTMETFNLKAIEKAKIDCAKKLFKSLSGADVVYDSVDSYHHLLDIME  1020
+
+Query  179   S  179
+             S
+Sbjct  1021  S  1021
+
+
+
+
+>restriction endonuclease subunit R [Clostridiales bacterium]
+Sequence ID: MBE6032681.1 Length: 215
+Range 1: 35 to 214
+
+Score:256 bits(653), Expect:1e-83, 
+Method:Compositional matrix adjust., 
+Identities:118/180(66%), Positives:149/180(82%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M++ NPEEFI+KV   INEQKATMIVE I+Y++ DG YD+ IFTAE+  + F KA+ A K
+Sbjct  35   MFRNNPEEFISKVVRFINEQKATMIVEHISYSQIDGEYDSTIFTAEKGVQAFDKAFRASK  94
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDYVF DG AEKS+ERRF E++D   +V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  95   AIQDYVFTDGSAEKSVERRFVEELDSAQEVCVYAKLPKGFHIPTPVGNYSPDWAIAFNEG  154
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            TVKH+FFIAETKG+MD+++L+ IE+ KI CAKKLFNE+ST++V Y  VD+YQ+LLDV+ S
+Sbjct  155  TVKHIFFIAETKGTMDSLELRPIERAKISCAKKLFNEISTSNVKYHDVDSYQSLLDVMKS  214
+
+
+
+
+>restriction endonuclease subunit R [Oscillospiraceae bacterium]
+Sequence ID: MEG0397203.1 Length: 368
+Range 1: 188 to 367
+
+Score:261 bits(666), Expect:2e-83, 
+Method:Compositional matrix adjust., 
+Identities:116/180(64%), Positives:155/180(86%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M+++NPEEFI+KV  LI+EQKATMIVE I+Y+  DG+YD+ +FTAE++ ++F KA+ A+K
+Sbjct  188  MFRFNPEEFISKVITLIHEQKATMIVEHISYDRIDGSYDSTVFTAEKHTQSFDKAFRAEK  247
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+            ++QDYVF DG AE+S+ERRFA+D+D   +V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  248  HIQDYVFTDGSAEQSVERRFAQDLDAAKEVCVYAKLPKGFHIPTPVGNYSPDWAIAFNEG  307
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++FIAETKG+M+++ L+ IEQ KI CAKKLFNELST D+VY  VD+YQ+LL+++NS
+Sbjct  308  AVKHIYFIAETKGTMESLNLRPIEQAKISCAKKLFNELSTDDIVYHDVDSYQSLLNIMNS  367
+
+
+
+
+>restriction endonuclease subunit R [Eubacteriales bacterium OttesenSCG-928-N14]
+Sequence ID: MDL2220912.1 Length: 279
+Range 1: 99 to 278
+
+Score:258 bits(658), Expect:2e-83, 
+Method:Compositional matrix adjust., 
+Identities:118/180(66%), Positives:152/180(84%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M++ NPEEFI+KV  LI EQKATMIVE I+Y++ DG YD+ IFTAE++ ++F KA+ A K
+Sbjct  99   MFRNNPEEFISKVIKLIKEQKATMIVEHISYDQIDGEYDSAIFTAEKSSQSFDKAFRANK  158
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDYVF DG AE+SIERRF +D+D  D+V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  159  AIQDYVFTDGTAEQSIERRFVQDLDAADEVCVYAKLPKGFHIPTPVGNYSPDWAIAFYEG  218
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            TVKH+FFIAETKG+MD++ L+ IEQ KI CAKKLFNE+ST++V Y  VD+YQ+LL+++N+
+Sbjct  219  TVKHIFFIAETKGTMDSLNLRPIEQAKISCAKKLFNEISTSNVKYHDVDSYQSLLNIMNT  278
+
+
+
+
+>DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium]
+Sequence ID: MFG6320657.1 Length: 1022
+Range 1: 841 to 1021
+
+Score:276 bits(705), Expect:2e-83, 
+Method:Compositional matrix adjust., 
+Identities:130/181(72%), Positives:154/181(85%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFI K   LINEQKAT+IVE ITYN+ +G+YDA IFTAE+N +F++AY AKKN
+Sbjct  841   MFKNNPEEFIAKAIRLINEQKATLIVEQITYNKAEGSYDATIFTAEKNTDFSRAYRAKKN  900
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVF DG+A   KSIER+FAEDMDL D+V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  901   VQDYVFVDGYARDGKSIERKFAEDMDLADEVCVYAKLPKGFSIPTPVGNYSPDWAIAFHK  960
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+M+T+ LK IE+ KI CA+KLF ELS  DVVYD VD+YQ+LLD++ 
+Sbjct  961   GTVKHIFFIAETKGTMETLNLKPIEKAKIDCARKLFKELSGEDVVYDSVDSYQHLLDIME  1020
+
+Query  179   S  179
+             S
+Sbjct  1021  S  1021
+
+
+
+
+>restriction endonuclease [Veillonella sp.]
+Sequence ID: WP_287529023.1 Length: 350
+Range 1: 171 to 349
+
+Score:260 bits(664), Expect:2e-83, 
+Method:Compositional matrix adjust., 
+Identities:116/179(65%), Positives:150/179(83%), Gaps:0/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            ++K NPEEFI+KVS+LINEQKAT+IVEDITYN TD  Y+++IFTAE+ K++ +A  + K+
+Sbjct  171  LFKMNPEEFISKVSSLINEQKATIIVEDITYNLTDKVYESEIFTAEKYKDYTRAIKSSKH  230
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            +QDY+F DG AE S+E RFA+ ++LD KVVVYAKLPRGF+IPTPVGNY PDWAIAF+K +
+Sbjct  231  IQDYIFTDGLAENSVENRFAKSLELDSKVVVYAKLPRGFKIPTPVGNYTPDWAIAFEKDS  290
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH+FFIAETKG M ++ L+ IEQ KI CAKKLF+ LS  D+VY +VD+Y+NL+ V+ S
+Sbjct  291  VKHIFFIAETKGDMSSLSLRPIEQAKISCAKKLFSSLSNQDLVYHEVDSYENLMAVMES  349
+
+
+
+
+>restriction endonuclease [Ruminococcus difficilis]
+Sequence ID: WP_243411785.1 Length: 387
+Range 1: 206 to 385
+
+Score:261 bits(666), Expect:3e-83, 
+Method:Compositional matrix adjust., 
+Identities:121/180(67%), Positives:151/180(83%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            MYK NPEEFI KV+ LINE+KATMIVE ++YN   G YD+DIFTAE+N + F KAY A+K
+Sbjct  206  MYKNNPEEFIKKVTRLINEEKATMIVEHVSYNTIAGEYDSDIFTAEKNTQGFDKAYKAEK  265
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDY+F DG A+KSIERRFAED+D  ++V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  266  AIQDYIFTDGTADKSIERRFAEDLDSANEVCVYAKLPKGFHIPTPVGNYSPDWAIAFYEG  325
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            TVKH+FF+AETKG+M+++ L+ IEQ KI CAKKLFNE+ST+ V Y  VD+YQ+LLDV+ +
+Sbjct  326  TVKHIFFVAETKGTMESLNLRPIEQAKISCAKKLFNEMSTSKVKYHDVDSYQSLLDVMKT  385
+
+
+
+
+>DEAD/DEAH box helicase family protein [Akkermansiaceae bacterium]
+Sequence ID: MCD7798466.1 Length: 1109
+Range 1: 928 to 1108
+
+Score:276 bits(706), Expect:5e-83, 
+Method:Compositional matrix adjust., 
+Identities:128/181(71%), Positives:156/181(86%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFITK   LINEQKAT+IVE ITY++TDGTYD+ IFTAE+N ++ +AY A+KN
+Sbjct  928   MFKKNPEEFITKAVRLINEQKATVIVEQITYSQTDGTYDSGIFTAEKNSDYTRAYRARKN  987
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVFADG+A+  +S+ERRFAEDMD   +V VYAKLP+GF IPTPVG+Y+PDWAIAF K
+Sbjct  988   VQDYVFADGYAKDGQSVERRFAEDMDRAAEVCVYAKLPKGFSIPTPVGHYSPDWAIAFNK  1047
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+MD++ L+ +EQ KIKCAKKLFNELS ADVVY  V  YQNL++++N
+Sbjct  1048  GTVKHIFFIAETKGTMDSLNLRPVEQAKIKCAKKLFNELSAADVVYHDVTNYQNLMNIMN  1107
+
+Query  179   S  179
+             S
+Sbjct  1108  S  1108
+
+
+
+
+>hypothetical protein [Oscillospiraceae bacterium]
+Sequence ID: MDY3079881.1 Length: 426
+Range 1: 246 to 424
+
+Score:261 bits(666), Expect:1e-82, 
+Method:Compositional matrix adjust., 
+Identities:120/179(67%), Positives:150/179(83%), Gaps:1/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNK-NFAKAYPAKK  59
+            M+K+NPEEFI K   LI EQKATMIVE I+YN+T+  YD++IFTAE+   +FAKAY AKK
+Sbjct  246  MFKHNPEEFINKAIKLIREQKATMIVEHISYNQTEQVYDSNIFTAEKGSVDFAKAYRAKK  305
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+            ++QDYVF DG A+KSIERRFAED+D  ++V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  306  HIQDYVFTDGTADKSIERRFAEDLDRAEEVCVYAKLPKGFHIPTPVGNYSPDWAIAFNEG  365
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            +VKH+FFIAETKG+MD++ L+ IEQ KI CAKKLFN +ST+ V Y  VD+YQ+LLD++ 
+Sbjct  366  SVKHIFFIAETKGTMDSLNLRPIEQAKIACAKKLFNSISTSKVRYHDVDSYQSLLDIMG  424
+
+
+
+
+>hypothetical protein SASC598J21_002000, partial [Snodgrassella alvi SCGC AB-598-J21]
+Sequence ID: KEQ02021.1 Length: 185
+Range 1: 5 to 184
+
+Score:252 bits(644), Expect:1e-82, 
+Method:Compositional matrix adjust., 
+Identities:114/180(63%), Positives:144/180(80%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKN-FAKAYPAKK  59
+            M+KYNPEEFI K+  LI EQKAT I+E +TYN+T G YD+ IFT E++ + + KA+ +KK
+Sbjct  5    MFKYNPEEFIAKIIKLIKEQKATTIIEHVTYNKTSGKYDSTIFTQEKSSHSYNKAFLSKK  64
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +Q+YVF DG  EK++ER+F ED+D  ++V VYAKLP+GF IPTPVGNY+PDWAI F  G
+Sbjct  65   AIQNYVFTDGLNEKNVERKFVEDLDAANEVCVYAKLPKGFHIPTPVGNYSPDWAITFHNG  124
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH+FFIAETKGSMD++ L+ IEQ KI CAKKLFNELST+ V Y  VD+YQNL+ +INS
+Sbjct  125  AVKHIFFIAETKGSMDSLNLRAIEQAKISCAKKLFNELSTSRVRYHDVDSYQNLMSIINS  184
+
+
+
+
+>DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium 48-42]
+Sequence ID: MEY8431880.1 Length: 1024
+Range 1: 841 to 1021
+
+Score:274 bits(701), Expect:1e-82, 
+Method:Compositional matrix adjust., 
+Identities:130/181(72%), Positives:155/181(85%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M++ NPEEFITK   LINEQKA MIVE ITYN+ +G+YDA+IFTAE+N +F+KAY AKKN
+Sbjct  841   MFQDNPEEFITKAIRLINEQKAAMIVEQITYNKAEGSYDANIFTAEKNADFSKAYRAKKN  900
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVF DG+A   KSIER+FA DMDL D+V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  901   VQDYVFTDGYARDGKSIERKFAVDMDLADEVCVYAKLPKGFSIPTPVGNYSPDWAIAFHK  960
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+M+T++LK IE+ KI CA+KLF ELS  DVVYD VD+YQ+LLD++ 
+Sbjct  961   GTVKHIFFIAETKGTMETLKLKPIEKAKIDCARKLFKELSGEDVVYDSVDSYQHLLDIME  1020
+
+Query  179   S  179
+             S
+Sbjct  1021  S  1021
+
+
+
+
+>restriction endonuclease [Agathobacter sp.]
+Sequence ID: WP_308791873.1 Length: 400
+Range 1: 212 to 390
+
+Score:259 bits(663), Expect:1e-82, 
+Method:Compositional matrix adjust., 
+Identities:123/179(69%), Positives:151/179(84%), Gaps:1/179(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M+K NPEEFITKV  LINEQKATMIVE I+Y+  +G YD+ IFTAE+N ++F KA+ AKK
+Sbjct  212  MFKNNPEEFITKVIRLINEQKATMIVEHISYDTIEGEYDSTIFTAEKNTQSFDKAFLAKK  271
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDYVF DG AEKSIER+FAED+D   +V VYAKLPR FQIPTPVGNY+PDWAIAF +G
+Sbjct  272  AIQDYVFTDGSAEKSIERKFAEDLDAAAEVCVYAKLPRTFQIPTPVGNYSPDWAIAFYEG  331
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            TVKH+FF+AETKG+M+T+ L+ IEQ KI CAKKLFNE+S + VVY  VD+YQ+LL+++N
+Sbjct  332  TVKHIFFVAETKGTMETLNLRPIEQAKISCAKKLFNEMSNSKVVYHDVDSYQSLLNIMN  390
+
+
+
+
+>restriction endonuclease subunit R [Ruminiclostridium sp.]
+Sequence ID: MBS7397812.1 Length: 335
+Range 1: 156 to 333
+
+Score:258 bits(658), Expect:1e-82, 
+Method:Compositional matrix adjust., 
+Identities:119/178(67%), Positives:151/178(84%), Gaps:1/178(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M+K NPEEFI+KV  LINEQKATMIVE I+Y+  +G YD+ IFTAE+N ++F KA+ AKK
+Sbjct  156  MFKNNPEEFISKVIRLINEQKATMIVEHISYDTIEGEYDSTIFTAEKNTQSFDKAFLAKK  215
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDYVF DG AEKSIER+FAED+D  ++V VYAKLPR F IPTPVGNY+PDWAIAF +G
+Sbjct  216  AIQDYVFTDGSAEKSIERKFAEDLDAAEEVCVYAKLPRTFHIPTPVGNYSPDWAIAFYEG  275
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+            TVKH+FF+AETKG+M++++L+ IEQ KI CAKKLFNE+ST+ V YD VD+Y+ LL+++
+Sbjct  276  TVKHIFFVAETKGTMESLELRPIEQAKISCAKKLFNEMSTSKVRYDAVDSYKELLNIV  333
+
+
+
+
+>putative uncharacterized protein [Clostridium sp. CAG:169]
+Sequence ID: CDA61901.1 Length: 181
+Range 1: 1 to 180
+
+Score:252 bits(643), Expect:1e-82, 
+Method:Compositional matrix adjust., 
+Identities:118/180(66%), Positives:147/180(81%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M+K NPEEFI+KV  LI EQKATMIVE I+Y++ +G YD+ IFTAE++ + F KA+ A K
+Sbjct  1    MFKNNPEEFISKVIKLIKEQKATMIVEHISYDQIEGEYDSTIFTAEKSAQTFDKAFRANK  60
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDYVF DG AEKS+ERRF ED+D   +V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  61   AIQDYVFTDGSAEKSMERRFVEDLDAAQEVCVYAKLPKGFHIPTPVGNYSPDWAIAFYEG  120
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH+FF+AETKG+MD++ L+ IEQ KI CAKKLFNE+ST+ V Y  VD+YQNLL+V+ S
+Sbjct  121  MVKHIFFVAETKGTMDSLNLRPIEQAKISCAKKLFNEMSTSKVKYHDVDSYQNLLNVMKS  180
+
+
+
+
+>restriction endonuclease subunit R [Syntrophomonadaceae bacterium]
+Sequence ID: NLG33465.1 Length: 220
+Range 1: 42 to 218
+
+Score:253 bits(647), Expect:1e-82, 
+Method:Compositional matrix adjust., 
+Identities:116/177(66%), Positives:148/177(83%), Gaps:1/177(0%)
+
+Query  3    KYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNK-NFAKAYPAKKNV  61
+            K NPEEFI+K   LINEQKATMI+E I+YN+ +  YD+ IFTAE+   +FAKA+ AKK +
+Sbjct  42   KQNPEEFISKAIRLINEQKATMIIEHISYNQLEKQYDSSIFTAEKGAGDFAKAFQAKKCI  101
+
+Query  62   QDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGTV  121
+            QDY+F DG AEKS+ERRFAEDMD  D+V VYAKLP+GF IPTPVGNY+PDWAI F +GTV
+Sbjct  102  QDYIFTDGTAEKSVERRFAEDMDSADEVCVYAKLPKGFAIPTPVGNYSPDWAIVFYEGTV  161
+
+Query  122  KHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            KH++FIAETKG+M++++L+ IEQ KIKCA+KLFN+LST+ V Y  VD+YQ+LL+++ 
+Sbjct  162  KHIYFIAETKGTMESLKLRPIEQAKIKCARKLFNQLSTSKVKYHDVDSYQSLLNIMG  218
+
+
+
+
+>restriction endonuclease subunit R [Clostridia bacterium]
+Sequence ID: MBQ5562144.1 Length: 365
+Range 1: 185 to 363
+
+Score:257 bits(656), Expect:6e-82, 
+Method:Compositional matrix adjust., 
+Identities:116/179(65%), Positives:156/179(87%), Gaps:2/179(1%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            M++ NPEEFITK   LI+E+KA+MIV+ I+YN TDG YD++IFTAE+N + +KAY +KK+
+Sbjct  185  MFRNNPEEFITKAIRLIDEEKASMIVDHISYNLTDGKYDSNIFTAEKNTDISKAYRSKKH  244
+
+Query  61   VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+            +QDYVF DG+A+  KS+ER+FAEDMD+ ++V VYAKLP+GF IPTPVGNY+PDWA+AF +
+Sbjct  245  IQDYVFTDGYAKDGKSVERKFAEDMDISEEVCVYAKLPKGFSIPTPVGNYSPDWAVAFYE  304
+
+Query  119  GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+            GTVKH++FIAETKG+MD++ LK IE+ KI CA+KLF++LS ADVVYD+VD+YQ LL+++
+Sbjct  305  GTVKHIYFIAETKGTMDSLNLKPIEKAKIDCAEKLFDQLSGADVVYDRVDSYQTLLNMM  363
+
+
+
+
+>DEAD/DEAH box helicase family protein [Akkermansia sp.]
+Sequence ID: MCC8021789.1 Length: 1012
+Range 1: 831 to 1011
+
+Score:271 bits(694), Expect:7e-82, 
+Method:Compositional matrix adjust., 
+Identities:126/181(70%), Positives:154/181(85%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M+K NPEEFITK   LINEQKAT+IVE ITY++TDG YD+ IFTAE+N ++ +AY A+KN
+Sbjct  831   MFKKNPEEFITKAVRLINEQKATVIVEQITYSQTDGAYDSGIFTAEKNSDYTRAYRARKN  890
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVFADG+A+  +S+ERRFAEDMD   +V VYAKLP+GF IPTPVG+Y+PDWAIAF K
+Sbjct  891   VQDYVFADGYAKDGQSVERRFAEDMDRAAEVCVYAKLPKGFSIPTPVGHYSPDWAIAFNK  950
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+MD++ L+ +EQ KIKCAKKLFNELS ADVVY  V  YQ+L+ ++N
+Sbjct  951   GTVKHIFFIAETKGTMDSLNLRPVEQAKIKCAKKLFNELSAADVVYHDVTNYQDLMSIMN  1010
+
+Query  179   S  179
+             S
+Sbjct  1011  S  1011
+
+
+
+
+>DEAD/DEAH box helicase family protein [Lachnospiraceae bacterium]
+Sequence ID: MBR3186411.1 Length: 1022
+Range 1: 841 to 1021
+
+Score:271 bits(694), Expect:9e-82, 
+Method:Compositional matrix adjust., 
+Identities:127/181(70%), Positives:154/181(85%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M++ NPEEFITK   LINEQKATMIVE ITYN T+GTYD+ IFTAE+N ++++AY +KKN
+Sbjct  841   MFRNNPEEFITKAIRLINEQKATMIVEQITYNRTEGTYDSAIFTAEKNSDYSRAYRSKKN  900
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             VQDYVFADG+A   KS+ERR AEDMDL ++V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  901   VQDYVFADGYARDGKSVERRMAEDMDLAEEVCVYAKLPKGFSIPTPVGNYSPDWAIAFNK  960
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+M+T+ LK IEQ KI CAKKLF +LS+ DVVY  VD YQ+L++++ 
+Sbjct  961   GTVKHIFFIAETKGTMETLNLKPIEQAKISCAKKLFADLSSEDVVYHDVDGYQSLMNIME  1020
+
+Query  179   S  179
+             S
+Sbjct  1021  S  1021
+
+
+
+
+>restriction endonuclease subunit R [Bacillota bacterium]
+Sequence ID: MBR5228386.1 Length: 542
+Range 1: 363 to 540
+
+Score:261 bits(668), Expect:1e-81, 
+Method:Compositional matrix adjust., 
+Identities:121/178(68%), Positives:153/178(85%), Gaps:1/178(0%)
+
+Query  2    YKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKKN  60
+            +K NPEEFI+KV  LINEQKATMIV+ ITY++TDGTYD+ IFTAE++ ++F KA+ A K 
+Sbjct  363  FKNNPEEFISKVVKLINEQKATMIVQKITYDQTDGTYDSAIFTAEKSSQSFDKAFRANKA  422
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            +QDYVF DG AEKSIERRFAED+D  ++V VYAKLP+GF IPTPVGNY+PDWAIAF +G+
+Sbjct  423  IQDYVFTDGSAEKSIERRFAEDLDAAEEVCVYAKLPKGFHIPTPVGNYSPDWAIAFNEGS  482
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+            VKH+FFIAETKG+M+++ L+ IEQ KI CAKKLFNE+ST++V Y  VD+YQ+LL ++N
+Sbjct  483  VKHIFFIAETKGTMESLNLRPIEQAKIACAKKLFNEISTSNVKYHDVDSYQSLLTIMN  540
+
+
+
+
+>restriction endonuclease subunit R [Ruminococcus sp.]
+Sequence ID: MGN1468362.1 Length: 486
+Range 1: 306 to 485
+
+Score:259 bits(662), Expect:2e-81, 
+Method:Compositional matrix adjust., 
+Identities:121/180(67%), Positives:153/180(85%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M+K NPEEFITKV  LINEQKATMIVE I+Y+  +G YD+ IFTAE+N ++F KA+ AKK
+Sbjct  306  MFKNNPEEFITKVIRLINEQKATMIVEHISYDTIEGEYDSTIFTAEKNTQSFDKAFLAKK  365
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDYVF DG AEKSIER+FAED+D  ++V VYAKLPR FQIPTPVGNY+PDWAIAF +G
+Sbjct  366  AIQDYVFTDGSAEKSIERKFAEDLDAAEEVCVYAKLPRTFQIPTPVGNYSPDWAIAFYEG  425
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH+FF+AETKG+M++++L+ IEQ KI CAKKLFNE+ST+ V Y  VD+YQ+LL+++N+
+Sbjct  426  KVKHIFFVAETKGTMESLELRPIEQAKISCAKKLFNEMSTSKVKYHDVDSYQSLLNIMNA  485
+
+
+
+
+>restriction endonuclease [Parabacteroides goldsteinii]
+Sequence ID: WP_301029615.1 Length: 182
+Range 1: 1 to 180
+
+Score:249 bits(636), Expect:2e-81, 
+Method:Compositional matrix adjust., 
+Identities:119/180(66%), Positives:147/180(81%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M+K NPEEFITKV  LINEQKA MIVE I+Y+  +G YD+ IFTAE+N  +F KA+ AKK
+Sbjct  1    MFKNNPEEFITKVIRLINEQKAAMIVEHISYDTIEGEYDSAIFTAEKNTPSFGKAFLAKK  60
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDY F DG AEKSIER+F E +DL D+V VYAKLPR FQIPTPVGNY+PDWAIAF + 
+Sbjct  61   AIQDYEFTDGSAEKSIERKFVEKIDLADEVCVYAKLPRTFQIPTPVGNYSPDWAIAFYED  120
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH+FFIAETKG+M++++L+ IEQ KI CAKKLFNE+ST+ V Y  VD+YQ+LL+++ S
+Sbjct  121  KVKHIFFIAETKGTMESLELRPIEQVKISCAKKLFNEMSTSKVKYHDVDSYQSLLNLMES  180
+
+
+
+
+>restriction endonuclease [Snodgrassella alvi]
+Sequence ID: WP_216353292.1 Length: 318
+Range 1: 138 to 317
+
+Score:254 bits(648), Expect:2e-81, 
+Method:Compositional matrix adjust., 
+Identities:115/180(64%), Positives:144/180(80%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKN-FAKAYPAKK  59
+            M+KYNPEEFI K+  LI EQKAT I+E +TYN+T G YD+ IFT E++ + + KA+ +KK
+Sbjct  138  MFKYNPEEFIAKIIKLIKEQKATTIIEHVTYNKTSGKYDSTIFTQEKSSHSYNKAFLSKK  197
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +Q+YVF DG  EKS+ER+F ED+D  ++V VYAKLP+GF IPTPVGNY+PDWAI F  G
+Sbjct  198  AIQNYVFTDGLNEKSVERKFVEDLDAANEVCVYAKLPKGFHIPTPVGNYSPDWAITFHNG  257
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH+FFIAETKGSMD++ L+ IEQ KI CAKKLFNELST  V Y  VD+YQNL+++INS
+Sbjct  258  AVKHIFFIAETKGSMDSLNLRAIEQAKISCAKKLFNELSTNRVRYHDVDSYQNLMNIINS  317
+
+
+
+
+>MAG TPA: Restriction endonuclease, partial [Caudoviricetes sp.]
+Sequence ID: DAS24277.1 Length: 372
+Range 1: 197 to 371
+
+Score:255 bits(652), Expect:3e-81, 
+Method:Compositional matrix adjust., 
+Identities:123/179(69%), Positives:147/179(82%), Gaps:4/179(2%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            MY+ NPEEFI K   LI+E+KATMIVE I YN+T+GTYD+ IFTAE+N +FA+A  AKKN
+Sbjct  197  MYQNNPEEFIAKAIRLIDEEKATMIVEQIQYNQTEGTYDSAIFTAEKNTDFARAIEAKKN  256
+
+Query  61   VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+            VQDYVF D   EK+    FA +++LD+KVVVYAKLPRGFQIPTPVGNYAPDWAIAF KG+
+Sbjct  257  VQDYVFPDSDGEKA----FAGELELDEKVVVYAKLPRGFQIPTPVGNYAPDWAIAFSKGS  312
+
+Query  121  VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            VKH+FFIAETKG+M+++ LK IEQ KI CAK+LF  LS  DVVY  VDTYQ+LLDV+ +
+Sbjct  313  VKHIFFIAETKGTMESLNLKPIEQAKISCAKQLFKTLSNKDVVYHDVDTYQHLLDVMEA  371
+
+
+
+
+>restriction endonuclease [Macellibacteroides fermentans]
+Sequence ID: WP_446787073.1 Length: 210
+Range 1: 30 to 209
+
+Score:249 bits(637), Expect:3e-81, 
+Method:Compositional matrix adjust., 
+Identities:111/180(62%), Positives:152/180(84%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKK  59
+            M+K+NPEEFI+KV  LI EQKATMIV+ I+Y++ +G YD+ IFTAE++ +   KA+ A++
+Sbjct  30   MFKFNPEEFISKVIKLIKEQKATMIVDHISYDQIEGEYDSSIFTAEKHSQTLDKAFKAQR  89
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+            ++QDYVF DG AEKS+ER FA+D+D  ++V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  90   HIQDYVFTDGTAEKSVERVFAQDLDTAEEVCVYAKLPKGFAIPTPVGNYSPDWAIAFNEG  149
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH++F+AETKG+M+++QL+ IEQ KI CAKKLFN+LST++V Y  VD+YQ+LL +++S
+Sbjct  150  AVKHIYFVAETKGTMESLQLRPIEQAKISCAKKLFNKLSTSNVKYHDVDSYQSLLQIMSS  209
+
+
+
+
+>restriction endonuclease [uncultured Megasphaera sp.]
+Sequence ID: WP_296820970.1 Length: 148
+Range 1: 5 to 147
+
+Score:247 bits(630), Expect:4e-81, 
+Method:Compositional matrix adjust., 
+Identities:115/143(80%), Positives:133/143(93%), Gaps:0/143(0%)
+
+Query  37   TYDADIFTAERNKNFAKAYPAKKNVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLP  96
+            TYD++IFTAE+NK+F+KAY AKKNVQDYVF DG AEKSIER+FAEDMDLDDKVVVYAKLP
+Sbjct  5    TYDSEIFTAEKNKDFSKAYLAKKNVQDYVFTDGTAEKSIERKFAEDMDLDDKVVVYAKLP  64
+
+Query  97   RGFQIPTPVGNYAPDWAIAFKKGTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNE  156
+            RGFQIPTPVGNYAPDWAIAF+KGTVKH++F+AETKGSM++M L+ IEQ KIKCAK LFNE
+Sbjct  65   RGFQIPTPVGNYAPDWAIAFQKGTVKHIYFVAETKGSMESMDLRPIEQAKIKCAKTLFNE  124
+
+Query  157  LSTADVVYDQVDTYQNLLDVINS  179
+            +ST DVVY QVD+YQNLL ++N+
+Sbjct  125  ISTDDVVYGQVDSYQNLLIMMNA  147
+
+
+
+
+>restriction endonuclease subunit R [Spirochaetales bacterium]
+Sequence ID: HOT59624.1 Length: 546
+Range 1: 366 to 545
+
+Score:260 bits(664), Expect:4e-81, 
+Method:Compositional matrix adjust., 
+Identities:117/180(65%), Positives:153/180(85%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAE-RNKNFAKAYPAKK  59
+            M+KYNPEEFI KV  LI EQKATMIVE ITY+   G+Y++DIFTAE R++   +A+  +K
+Sbjct  366  MFKYNPEEFINKVIRLIKEQKATMIVEHITYDRIQGSYESDIFTAEKRSQGIDRAFRVQK  425
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+            ++QDYVF DG AE+S+ERRFA+D++  ++V VYAKLP+GFQIPTPVGNY+PDWAIAF  G
+Sbjct  426  HIQDYVFTDGIAEQSVERRFAQDLEAANEVCVYAKLPKGFQIPTPVGNYSPDWAIAFYAG  485
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+             VKH+FF+AETKG+M+T+QLK IEQ KI+CA+KLFNE+ST +VVY  VD+YQ+LL++++S
+Sbjct  486  AVKHIFFVAETKGTMETLQLKPIEQAKIRCARKLFNEISTENVVYHDVDSYQSLLNIMDS  545
+
+
+
+
+>restriction endonuclease subunit R [Selenomonadaceae bacterium]
+Sequence ID: MBO6303448.1 Length: 678
+Range 1: 497 to 675
+
+Score:263 bits(672), Expect:6e-81, 
+Method:Compositional matrix adjust., 
+Identities:123/179(69%), Positives:152/179(84%), Gaps:2/179(1%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+            M K NPEEFI+K   LINE+KATMIVE ITYN+T+G YD+ IFTAE+N +F+K Y AKKN
+Sbjct  497  MLKNNPEEFISKAIRLINEEKATMIVEHITYNKTEGVYDSAIFTAEKNSDFSKGYRAKKN  556
+
+Query  61   VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+            VQDY+F DG+A+  KS+E+R AEDMD+ ++V VYAKLPRGF+IPTPVGNY+PDWAIAF K
+Sbjct  557  VQDYLFTDGYAKDGKSVEQRMAEDMDIAEEVSVYAKLPRGFKIPTPVGNYSPDWAIAFNK  616
+
+Query  119  GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+            G VKH+FFIAETKG+MD++ LK IEQ KIKCAKKLF  L+  DVVY +VD+Y+NLL+++
+Sbjct  617  GKVKHIFFIAETKGTMDSLNLKPIEQAKIKCAKKLFANLNENDVVYHEVDSYENLLNIM  675
+
+
+
+
+>restriction endonuclease subunit R [Clostridia bacterium]
+Sequence ID: MBQ8689996.1 Length: 315
+Range 1: 134 to 313
+
+Score:252 bits(644), Expect:8e-81, 
+Method:Compositional matrix adjust., 
+Identities:115/180(64%), Positives:150/180(83%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKN-FAKAYPAKK  59
+            M+K NPEEFI+KV  LINEQKATMIVE I+YN  +G +D+ IFTAE++K  F KA+ A+K
+Sbjct  134  MFKNNPEEFISKVIKLINEQKATMIVEHISYNPIEGEFDSGIFTAEKSKQAFDKAFRAEK  193
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDYVF DG AE+SIERRFA+D+D   +V VYAKLP+GF IPTPVGNY+PDWAIAF +G
+Sbjct  194  AIQDYVFTDGSAEQSIERRFAQDLDAAAEVCVYAKLPKGFHIPTPVGNYSPDWAIAFYEG  253
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            +VKH++F+AETKG+M+++ L+ IEQ KI CAK+LFNE+ST+ V Y  VD+YQ+LL+++ S
+Sbjct  254  SVKHIYFVAETKGTMESLNLRPIEQAKISCAKRLFNEISTSQVRYHDVDSYQSLLNIMGS  313
+
+
+
+
+>restriction endonuclease subunit R [Acetivibrio sp.]
+Sequence ID: HOQ38766.1 Length: 299
+Range 1: 123 to 296
+
+Score:251 bits(642), Expect:8e-81, 
+Method:Compositional matrix adjust., 
+Identities:114/174(66%), Positives:147/174(84%), Gaps:1/174(0%)
+
+Query  5    NPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNK-NFAKAYPAKKNVQD  63
+            NPEEFITK  +LINEQKATMIVE I+YN+ +  YD+ IFTA++   +F +A+ AKKN+QD
+Sbjct  123  NPEEFITKAIHLINEQKATMIVEHISYNQIEKQYDSTIFTADKGTIDFTRAFRAKKNIQD  182
+
+Query  64   YVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGTVKH  123
+            YVF DG AEKS+ERRFAED+D  ++V VYAKLP+GF IPTPVGNY+PDWAI F +GTVKH
+Sbjct  183  YVFTDGIAEKSVERRFAEDLDNAEEVCVYAKLPKGFSIPTPVGNYSPDWAIVFYEGTVKH  242
+
+Query  124  LFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+            ++FIAETKG+M+++ L+ IEQ KIKCAKKLFN+LST+ + Y  VD+YQ+LL+++
+Sbjct  243  IYFIAETKGTMESLHLRPIEQAKIKCAKKLFNQLSTSKIKYHDVDSYQSLLNIM  296
+
+
+
+
+>restriction endonuclease, partial [Faecalibacterium prausnitzii]
+Sequence ID: WP_456305820.1 Length: 171
+Range 1: 1 to 170
+
+Score:247 bits(630), Expect:9e-81, 
+Method:Compositional matrix adjust., 
+Identities:116/170(68%), Positives:141/170(82%), Gaps:1/170(0%)
+
+Query  9    FITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERN-KNFAKAYPAKKNVQDYVFA  67
+             ITK+  LINEQKATMIVE I+YN  +GTY+  IFTAE+N ++F KA+PA K VQDYVF 
+Sbjct  1    LITKIIRLINEQKATMIVEHISYNTIEGTYEESIFTAEKNSQSFDKAFPANKAVQDYVFT  60
+
+Query  68   DGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGTVKHLFFI  127
+            DG AEKS+ERRFAED+D  ++V VYAKLPR FQIPTPVGNYAPDWAIAF +GTVKH+FF+
+Sbjct  61   DGTAEKSVERRFAEDLDAAEEVCVYAKLPRTFQIPTPVGNYAPDWAIAFYEGTVKHIFFV  120
+
+Query  128  AETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+            AETKG+M++++L+ IEQ KI CAKKLFNE+S+  V YD V+ YQ LL +I
+Sbjct  121  AETKGTMESLELRPIEQAKISCAKKLFNEISSGKVKYDCVNDYQTLLSLI  170
+
+
+
+
+>type III restriction-modification system endonuclease [Lagierella sp.]
+Sequence ID: WP_300409566.1 Length: 1045
+Range 1: 862 to 1038
+
+Score:269 bits(687), Expect:1e-80, 
+Method:Compositional matrix adjust., 
+Identities:123/177(69%), Positives:150/177(84%), Gaps:0/177(0%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             MYK NPEEFI+KVS LI EQKATMIVE I+Y+E DG YD  IFT+E+N +  KA+ AKK+
+Sbjct  862   MYKNNPEEFISKVSRLIKEQKATMIVEHISYDEIDGKYDTSIFTSEKNSSLEKAFQAKKH  921
+
+Query  61    VQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKGT  120
+             +Q YVF DG AEKS+ER+FAED+D  D+V VYAKLPRGF IPTPVGNY+PDWAIAFK GT
+Sbjct  922   IQPYVFTDGSAEKSVERQFAEDLDGADEVCVYAKLPRGFSIPTPVGNYSPDWAIAFKAGT  981
+
+Query  121   VKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVI  177
+             VKH+FFIAETKG+M+++QL+ IE+ KI CA+KLFN LST DVVY  VD+YQ+LL+++
+Sbjct  982   VKHIFFIAETKGTMESLQLRPIEKAKISCARKLFNHLSTEDVVYHDVDSYQSLLNIM  1038
+
+
+
+
+>restriction endonuclease subunit R [Oscillospiraceae bacterium]
+Sequence ID: HRT82416.1 Length: 433
+Range 1: 252 to 431
+
+Score:255 bits(652), Expect:1e-80, 
+Method:Compositional matrix adjust., 
+Identities:118/180(66%), Positives:149/180(82%), Gaps:1/180(0%)
+
+Query  1    MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAER-NKNFAKAYPAKK  59
+            M++ NPEEFI+KV+ LI EQKA+MIVE I+YN+ DG YD+ IFTAE+  ++F +A+   K
+Sbjct  252  MFRNNPEEFISKVNKLIKEQKASMIVEHISYNKIDGDYDSTIFTAEKTGQSFDRAFRTNK  311
+
+Query  60   NVQDYVFADGFAEKSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKKG  119
+             +QDYVF DG AE+S+ERRFA+D+D   +V VYAKLP+GF IPTPVGNY+PDWAIAF  G
+Sbjct  312  AIQDYVFTDGTAEQSVERRFAQDLDAAAEVSVYAKLPKGFHIPTPVGNYSPDWAIAFNAG  371
+
+Query  120  TVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVINS  179
+            +VKH+FFIAETKG+M+++QL+ IEQ KI CAKKLFNE+ST  V Y  VD+YQNLL+VINS
+Sbjct  372  SVKHIFFIAETKGTMESLQLRPIEQAKISCAKKLFNEISTEKVRYHDVDSYQNLLNVINS  431
+
+
+
+
+>DEAD/DEAH box helicase family protein [Solobacterium sp.]
+Sequence ID: MBR3356227.1 Length: 1031
+Range 1: 850 to 1030
+
+Score:268 bits(686), Expect:1e-80, 
+Method:Compositional matrix adjust., 
+Identities:127/181(70%), Positives:155/181(85%), Gaps:2/181(1%)
+
+Query  1     MYKYNPEEFITKVSNLINEQKATMIVEDITYNETDGTYDADIFTAERNKNFAKAYPAKKN  60
+             M++ NPEEFITK   LINEQKATMIVE ITYN T+GTYD+ IFTAE+N +F +AY AKK+
+Sbjct  850   MFQDNPEEFITKAIRLINEQKATMIVEQITYNRTEGTYDSAIFTAEKNTDFNRAYRAKKS  909
+
+Query  61    VQDYVFADGFAE--KSIERRFAEDMDLDDKVVVYAKLPRGFQIPTPVGNYAPDWAIAFKK  118
+             +QDYVF DG+A+  +S ER FA+D+DL ++V VYAKLP+GF IPTPVGNY+PDWAIAF K
+Sbjct  910   IQDYVFTDGYAKDGQSRERVFAQDLDLAEEVCVYAKLPKGFSIPTPVGNYSPDWAIAFNK  969
+
+Query  119   GTVKHLFFIAETKGSMDTMQLKTIEQTKIKCAKKLFNELSTADVVYDQVDTYQNLLDVIN  178
+             GTVKH+FFIAETKG+M+++ LK IEQ KIKCAKKLFNELST DVVY  VD+YQ+LL+++ 
+Sbjct  970   GTVKHIFFIAETKGTMESLNLKPIEQAKIKCAKKLFNELSTEDVVYHDVDSYQSLLNIME  1029
+
+Query  179   S  179
+             S
+Sbjct  1030  S  1030
+
+
+
+
+
+
+
+		
+
+

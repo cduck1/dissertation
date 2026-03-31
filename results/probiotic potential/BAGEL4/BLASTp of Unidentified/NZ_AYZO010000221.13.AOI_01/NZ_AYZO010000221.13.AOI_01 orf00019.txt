@@ -1,0 +1,279 @@
+RID: T8VK4XRH016	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: lcl|Query_10465916 Length: 100
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E   Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value Ident  Len        Accession        
+hypothetical protein [Lactobacillus gigeriorum]                   3          2          Lactobacillu... firmicutes      1203069    187    187   94%   9e-60 98.94  94         WP_156640968.1   
+hypothetical protein AY471_00750 [Lactobacillus helveticus]       1          1          Lactobacillu... firmicutes      1587       84.3   84.3  94%   1e-18 44.68  106        KXN79245.1       
+LysR family transcriptional regulator substrate-binding protei... 1          1          Lactobacillu... firmicutes      1587       84.3   84.3  93%   3e-18 45.16  145        WP_080669027.1   
+MULTISPECIES: LysR family transcriptional regulator...            1          1          Lactobacillus   firmicutes      1578       84.7   84.7  93%   5e-18 45.16  176        WP_006351619.1   
+LysR family transcriptional regulator [Lactobacillus helveticus]  4          3          Lactobacillus   firmicutes      1578       85.1   85.1  93%   3e-17 45.16  286        WP_233724994.1   
+MULTISPECIES: LysR family transcriptional regulator...            3          3          Lactobacillus   firmicutes      1578       73.2   73.2  99%   1e-12 38.00  296        WP_267394322.1   
+LysR family transcriptional regulator [Ligilactobacillus sp....   1          1          Ligilactobac... firmicutes      3022128    68.9   68.9  82%   3e-11 38.55  291        WP_178198289.1   
+MULTISPECIES: LysR family transcriptional regulator...            1          1          unclassified... firmicutes      2620435    63.2   63.2  97%   4e-09 32.65  291        WP_277126687.1   
+LysR family transcriptional regulator [Vagococcus sp.]            1          1          Vagococcus sp.  firmicutes      1933889    60.8   60.8  81%   3e-08 37.80  299        WP_442259349.1   
+LysR family transcriptional regulator [Aerococcus urinaeequi]     1          1          Aerococcus u... firmicutes      51665      55.1   55.1  84%   3e-06 32.94  291        WP_418150572.1   
+LysR family transcriptional regulator [Candidatus Enterococcus... 3          3          Enterococcus    firmicutes      1350       53.5   53.5  84%   1e-05 33.33  294        WP_207702450.1   
+LysR family transcriptional regulator [Butyrivibrio sp.]          1          1          Butyrivibrio... firmicutes      28121      50.8   50.8  89%   1e-04 32.22  301        WP_292213041.1   
+LysR family transcriptional regulator [Enterococcus pallens]      1          1          Enterococcus... firmicutes      160454     49.7   49.7  93%   2e-04 28.72  292        WP_010756429.1   
+
+
+Alignments:
+
+>hypothetical protein [Lactobacillus gigeriorum]
+Sequence ID: WP_156640968.1 Length: 94
+Range 1: 1 to 94
+
+Score:187 bits(476), Expect:9e-60, 
+Method:Compositional matrix adjust., 
+Identities:93/94(99%), Positives:94/94(100%), Gaps:0/94(0%)
+
+Query  7   VSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLEQAKKIKKIP  66
+           +SQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLEQAKKIKKIP
+Sbjct  1   MSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLEQAKKIKKIP  60
+
+Query  67  FKDSPYKYQLRVAKLKNNYDKETVKLFELIKHFS  100
+           FKDSPYKYQLRVAKLKNNYDKETVKLFELIKHFS
+Sbjct  61  FKDSPYKYQLRVAKLKNNYDKETVKLFELIKHFS  94
+
+
+
+
+>hypothetical protein AY471_00750 [Lactobacillus helveticus]
+Sequence ID: KXN79245.1 Length: 106
+Range 1: 11 to 103
+
+Score:84.3 bits(207), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:42/94(45%), Positives:62/94(65%), Gaps:1/94(1%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLEQAK  60
+            ML    + +S+++MAK T  LG KLN+ QE  DV +ELFLI+H NY+ FLP+ YP+   +
+Sbjct  11   MLKRKIIGKSYDLMAKETRNLGLKLNVVQECNDVPTELFLIKHNNYVGFLPDQYPIND-E  69
+
+Query  61   KIKKIPFKDSPYKYQLRVAKLKNNYDKETVKLFE  94
+             I K+   D+P+KY + +A L+NN D +T+  F 
+Sbjct  70   DICKVEVVDTPHKYVISLAMLRNNDDIKTIDFFR  103
+
+
+
+
+>LysR family transcriptional regulator substrate-binding protein [Lactobacillus helveticus]
+Sequence ID: WP_080669027.1 Length: 145
+Range 1: 50 to 141
+
+Score:84.3 bits(207), Expect:3e-18, 
+Method:Compositional matrix adjust., 
+Identities:42/93(45%), Positives:62/93(66%), Gaps:1/93(1%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLEQAK  60
+            ML    + +S+++MAK T  LG KLN+ QE  DV +ELFLI+H NY+ FLP+ YP+   +
+Sbjct  50   MLKRKIIGKSYDLMAKETRNLGLKLNVVQECNDVPTELFLIKHNNYVGFLPDQYPIND-E  108
+
+Query  61   KIKKIPFKDSPYKYQLRVAKLKNNYDKETVKLF  93
+             I K+   D+P+KY + +A L+NN D +T+  F
+Sbjct  109  DICKVEVVDTPHKYVISLAMLRNNDDIKTIDFF  141
+
+
+
+
+>MULTISPECIES: LysR family transcriptional regulator substrate-binding protein [Lactobacillus]
+Sequence ID: WP_006351619.1 Length: 176
+Range 1: 81 to 172
+
+Score:84.7 bits(208), Expect:5e-18, 
+Method:Compositional matrix adjust., 
+Identities:42/93(45%), Positives:62/93(66%), Gaps:1/93(1%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLEQAK  60
+            ML    + +S+++MAK T  LG KLN+ QE  DV +ELFLI+H NY+ FLP+ YP+   +
+Sbjct  81   MLKRKIIGKSYDLMAKETRNLGLKLNVVQECNDVPTELFLIKHNNYVGFLPDQYPIND-E  139
+
+Query  61   KIKKIPFKDSPYKYQLRVAKLKNNYDKETVKLF  93
+             I K+   D+P+KY + +A L+NN D +T+  F
+Sbjct  140  DICKVEVVDTPHKYVISLAMLRNNDDIKTIDFF  172
+
+
+
+
+>LysR family transcriptional regulator [Lactobacillus helveticus]
+Sequence ID: WP_233724994.1 Length: 286
+Range 1: 191 to 282
+
+Score:85.1 bits(209), Expect:3e-17, 
+Method:Compositional matrix adjust., 
+Identities:42/93(45%), Positives:62/93(66%), Gaps:1/93(1%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLEQAK  60
+            ML    + +S+++MAK T  LG KLN+ QE  DV +ELFLI+H NY+ FLP+ YP+   +
+Sbjct  191  MLKRKIIGKSYDLMAKETRNLGLKLNVVQECNDVPTELFLIKHNNYVGFLPDQYPIND-E  249
+
+Query  61   KIKKIPFKDSPYKYQLRVAKLKNNYDKETVKLF  93
+             I K+   D+P+KY + +A L+NN D +T+  F
+Sbjct  250  DICKVEVVDTPHKYVISLAMLRNNDDIKTIDFF  282
+
+
+
+
+>MULTISPECIES: LysR family transcriptional regulator [unclassified Lactobacillus]
+Sequence ID: WP_267394322.1 Length: 296
+Range 1: 191 to 289
+
+Score:73.2 bits(178), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:38/100(38%), Positives:64/100(64%), Gaps:2/100(2%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLE-QA  59
+            M++P S+ +S+++M KR++  G K NI + V++V+SELF+I+ KN + F P D+P++ + 
+Sbjct  191  MITPTSIGKSYDLMIKRSQKAGEKPNIGEIVDNVESELFMIQQKNLIGFFPEDFPMKLEN  250
+
+Query  60   KKIKKIPFKDSPYKYQLRVAKLKNNYDKETVKLFELIKHF  99
+              +K I  K+SP+ YQ RV   K N   + + L   IK+ 
+Sbjct  251  PNLKLIKIKNSPHSYQ-RVIAYKKNASSKIISLTNEIKNI  289
+
+
+
+
+>LysR family transcriptional regulator [Ligilactobacillus sp. Marseille-Q7487]
+Sequence ID: WP_178198289.1 Length: 291
+Range 1: 192 to 274
+
+Score:68.9 bits(167), Expect:3e-11, 
+Method:Compositional matrix adjust., 
+Identities:32/83(39%), Positives:57/83(68%), Gaps:1/83(1%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLEQAK  60
+            ML+  ++ +S++IM +R++ +G K  I Q  +DV+SE+F+IEH+N + F P +YPL   K
+Sbjct  192  MLNKETIGKSYDIMLERSQKIGIKPQIVQTADDVESEIFMIEHQNLVGFFPENYPLSSDK  251
+
+Query  61   K-IKKIPFKDSPYKYQLRVAKLK  82
+            K +  +P  D+P+ Y++ +A L+
+Sbjct  252  KSLIFVPVVDTPHVYKIVLAYLR  274
+
+
+
+
+>MULTISPECIES: LysR family transcriptional regulator [unclassified Lactobacillus]
+Sequence ID: WP_277126687.1 Length: 291
+Range 1: 193 to 290
+
+Score:63.2 bits(152), Expect:4e-09, 
+Method:Compositional matrix adjust., 
+Identities:32/98(33%), Positives:56/98(57%), Gaps:1/98(1%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPL-EQA  59
+            MLSPN++ +S+++M    +  G   NI Q V D+++E FL+  +N + F PN+YPL E  
+Sbjct  193  MLSPNAIGKSYQLMLTHAKQDGYLPNIAQTVNDIETEFFLLRTQNLIGFFPNNYPLPENH  252
+
+Query  60   KKIKKIPFKDSPYKYQLRVAKLKNNYDKETVKLFELIK  97
+              +  +P KD+ +K+++  A  K+      ++    IK
+Sbjct  253  HDLHLLPIKDTNHKFKIVFAYRKDFNQTALIRAISAIK  290
+
+
+
+
+>LysR family transcriptional regulator [Vagococcus sp.]
+Sequence ID: WP_442259349.1 Length: 299
+Range 1: 193 to 274
+
+Score:60.8 bits(146), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/82(38%), Positives:52/82(63%), Gaps:1/82(1%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLE-QA  59
+            MLSP  + +S+++M  + E  G   NI Q+VED ++E+FLI+ K+ + F P  YPL  + 
+Sbjct  193  MLSPRVIGKSYQMMIDKAENEGFIPNIVQQVEDAETEMFLIQTKDLIGFFPETYPLGVEN  252
+
+Query  60   KKIKKIPFKDSPYKYQLRVAKL  81
+            + ++ IP K S + Y++ +A L
+Sbjct  253  QSLRLIPLKKSLHTYKIVLAYL  274
+
+
+
+
+>LysR family transcriptional regulator [Aerococcus urinaeequi]
+Sequence ID: WP_418150572.1 Length: 291
+Range 1: 193 to 277
+
+Score:55.1 bits(131), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:28/85(33%), Positives:56/85(65%), Gaps:1/85(1%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPLEQAK  60
+            MLSP S+ +S+ +M  + +      +I++ V+DV++ELF+++ ++ + F P +YPL   K
+Sbjct  193  MLSPQSIGKSYYMMISKAQRHDFIPDIEKLVDDVETELFMLQTQSLMGFFPENYPLPTDK  252
+
+Query  61   -KIKKIPFKDSPYKYQLRVAKLKNN  84
+              +K +P K++ +KY++ +A  KN+
+Sbjct  253  GALKMLPIKENHHKYKIVIAYNKNS  277
+
+
+
+
+>LysR family transcriptional regulator [Candidatus Enterococcus ferrettii]
+Sequence ID: WP_207702450.1 Length: 294
+Range 1: 194 to 280
+
+Score:53.5 bits(127), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:29/87(33%), Positives:51/87(58%), Gaps:3/87(3%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPL-EQA  59
+            MLSP  + +S+ +M +     G   NI +   D+++ELF+I++ + + F P DYPL    
+Sbjct  194  MLSPEMIGKSYYLMLENALKDGYTPNIAKVANDIETELFMIQNNDMIGFFPKDYPLVNNG  253
+
+Query  60   KKIKKIPFKDSPYKYQLRVA--KLKNN  84
+              +K +P KDS +++ + +A  K +NN
+Sbjct  254  VDVKLLPIKDSHHQFAIVLAYRKGENN  280
+
+
+
+
+>LysR family transcriptional regulator [Butyrivibrio sp.]
+Sequence ID: WP_292213041.1 Length: 301
+Range 1: 205 to 289
+
+Score:50.8 bits(120), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:29/90(32%), Positives:50/90(55%), Gaps:6/90(6%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPL-EQA  59
+            MLS N +   +++M  R E  G +  I++ VED+D+E+FLI  + Y+ F P    + +  
+Sbjct  205  MLSRNVIGNLYDMMVSRAEEDGFEPLIEKSVEDIDTEMFLIITEGYIGFAPEGQSVADYG  264
+
+Query  60   KKIKKIPFKDSPYKYQLRVAKLKNNYDKET  89
+              I+ IP ++S +KY +        Y+KE+
+Sbjct  265  DSIRLIPIENSSHKYSVAAG-----YNKES  289
+
+
+
+
+>LysR family transcriptional regulator [Enterococcus pallens]
+Sequence ID: WP_010756429.1 Length: 292
+Range 1: 194 to 286
+
+Score:49.7 bits(117), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:27/94(29%), Positives:53/94(56%), Gaps:2/94(2%)
+
+Query  1    MLSPNSVSQSFEIMAKRTELLGSKLNIKQEVEDVDSELFLIEHKNYLCFLPNDYPL-EQA  59
+            ML+P  + +S+ +M +     G   NI +   D+++ELF+I++ N + F P +YPL    
+Sbjct  194  MLAPEMIGKSYYLMLENALKDGYAPNIIKVASDIETELFMIQNNNMIGFFPENYPLVNNG  253
+
+Query  60   KKIKKIPFKDSPYKYQLRVAKLKNNYDKETVKLF  93
+              +K +P + S +++ + +A  K   +K ++K F
+Sbjct  254  DGVKLLPIEHSHHQFSIVLAYRKGE-NKPSIKRF  286
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,3287 @@
+RID: T8UR0U1Y016	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: lcl|Query_9372290 Length: 321
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E    Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value  Ident  Len        Accession        
+hypothetical protein [Lactobacillus gigeriorum]                   2          2          Lactobacillu... firmicutes      1203069    613    613   93%   0.0    99.67  299        WP_236698441.1   
+hypothetical protein [Lactobacillus intestinalis]                 7          2          Lactobacillu... firmicutes      151781     356    356   100%  2e-119 53.11  325        WP_242367685.1   
+hypothetical protein [Lactobacillus kalixensis]                   1          1          Lactobacillu... firmicutes      227944     344    344   100%  2e-114 50.16  323        WP_057798056.1   
+hypothetical protein [Lactobacillus acetotolerans]                3          1          Lactobacillu... firmicutes      1600       337    337   98%   9e-112 50.95  321        WP_056969641.1   
+hypothetical protein [Lactobacillus hamsteri]                     1          1          Lactobacillu... firmicutes      96565      335    335   99%   6e-111 47.34  325        WP_025080492.1   
+hypothetical protein [Lactobacillus sp. PSON]                     1          1          Lactobacillu... firmicutes      3455454    329    329   98%   1e-108 48.58  321        WP_445353427.1   
+hypothetical protein [Lactobacillus sp. ESL0791]                  1          1          Lactobacillu... firmicutes      2983234    327    327   99%   5e-108 51.74  321        WP_277148699.1   
+hypothetical protein [Lactobacillus sp. LL6]                      1          1          Lactobacillu... firmicutes      2596827    326    326   98%   1e-107 46.84  321        WP_144355309.1   
+hypothetical protein [Lactobacillus sp. ESL0703]                  3          3          unclassified... firmicutes      2620435    325    325   100%  4e-107 48.91  321        WP_277129616.1   
+ABC transporter permease [Lactobacillus kitasatonis]              4          3          Lactobacillus   firmicutes      1578       322    322   99%   8e-106 47.65  327        WP_056938266.1   
+hypothetical protein [Lactobacillus gallinarum]                   12         3          Lactobacillus   firmicutes      1578       320    320   99%   5e-105 45.77  325        WP_281681429.1   
+hypothetical protein [Lactobacillus xujianguonis]                 2          2          Lactobacillus   firmicutes      1578       318    318   99%   3e-104 47.34  320        WP_127811464.1   
+ABC transporter permease [Lactobacillus agrestimuris]             2          2          Lactobacillus   firmicutes      1578       318    318   100%  3e-104 49.69  320        WP_251717370.1   
+MULTISPECIES: hypothetical protein [unclassified Lactobacillus]   3          3          unclassified... firmicutes      2620435    316    316   98%   1e-103 47.78  321        WP_277141988.1   
+hypothetical protein [uncultured Lactobacillus sp.]               1          1          uncultured L... firmicutes      153152     311    311   99%   1e-101 46.71  327        WP_308555562.1   
+hypothetical protein [Lactobacillus pasteurii]                    1          1          Lactobacillu... firmicutes      872327     311    311   98%   1e-101 51.27  318        WP_009560140.1   
+ABC transporter permease [Lactobacillus amylovorus]               34         8          Lactobacillus   firmicutes      1578       311    311   99%   2e-101 46.39  327        WP_271873738.1   
+ABC transporter permease [Lactobacillus kefiranofaciens]          4          2          Lactobacillu... firmicutes      267818     309    309   99%   7e-101 45.77  325        WP_056941203.1   
+hypothetical protein [Lactobacillus helveticus]                   37         6          Lactobacillus   firmicutes      1578       308    308   99%   2e-100 44.51  327        WP_216695178.1   
+hypothetical protein [Lactobacillus acidophilus]                  6          2          Lactobacillus   firmicutes      1578       308    308   99%   3e-100 48.28  325        WP_003547594.1   
+hypothetical protein [Lactobacillus sp.]                          1          1          Lactobacillu... firmicutes      1591       305    305   89%   1e-99  49.65  288        HBQ08423.1       
+ABC transporter permease [Lactobacillus ultunensis]               2          2          Lactobacillu... firmicutes      227945     305    305   99%   5e-99  47.34  325        WP_007126244.1   
+hypothetical protein [uncultured Lactobacillus sp.]               17         5          Lactobacillus   firmicutes      1578       304    304   98%   1e-98  45.57  324        WP_294756215.1   
+ABC transporter permease [uncultured Lactobacillus sp.]           1          1          uncultured L... firmicutes      153152     303    303   99%   2e-98  46.08  325        WP_297950030.1   
+hypothetical protein [Candidatus Lactobacillus pullistercoris]    1          1          Candidatus L... firmicutes      2838636    303    303   99%   3e-98  47.19  322        MBU3827836.1     
+ABC transporter permease [Lactobacillus crispatus]                43         5          Bacteria        bacteria        2          302    302   94%   4e-98  47.35  320        WP_005719699.1   
+hypothetical protein [Lactobacillus panisapium]                   11         6          Lactobacillus   firmicutes      1578       300    300   90%   4e-97  47.59  321        WP_220219675.1   
+MULTISPECIES: hypothetical protein [unclassified Lactobacillus]   1          1          unclassified... firmicutes      2620435    300    300   93%   5e-97  51.01  321        WP_122018222.1   
+hypothetical protein [Lactobacillus bombicola]                    8          6          Lactobacillus   firmicutes      1578       295    295   100%  2e-95  45.48  321        WP_090091971.1   
+ABC transporter permease [Lactobacillus kitasatonis]              1          1          Lactobacillu... firmicutes      237446     293    293   98%   3e-94  45.89  327        WP_304228568.1   
+ABC transporter permease [Lactobacillus xylocopicola]             1          1          Lactobacillu... firmicutes      2976676    291    291   99%   7e-94  45.74  321        WP_317638216.1   
+hypothetical protein [Lactobacillus sp. wkB8]                     10         5          Lactobacillus   firmicutes      1578       290    290   95%   2e-93  45.42  324        WP_038522665.1   
+hypothetical protein [Lactobacillus sp. ESL0785]                  1          1          Lactobacillu... firmicutes      2983232    289    289   93%   7e-93  47.81  321        WP_277163804.1   
+hypothetical protein [Lactobacillus apis]                         16         5          Lactobacillus   firmicutes      1578       286    286   93%   7e-92  45.48  321        WP_278952081.1   
+hypothetical protein [Lactobacillus sp. ESL0684]                  2          2          unclassified... firmicutes      2620435    284    284   100%  8e-91  44.10  326        WP_277140317.1   
+MULTISPECIES: hypothetical protein [Lactobacillus]                3          3          Lactobacillus   firmicutes      1578       282    282   98%   4e-90  43.35  324        WP_198179215.1   
+MULTISPECIES: hypothetical protein [Lactobacillus]                6          3          Lactobacillus   firmicutes      1578       275    275   93%   1e-87  48.84  301        WP_281827933.1   
+ABC transporter permease [Lactobacillus amylovorus]               1          1          Lactobacillu... firmicutes      1604       271    271   79%   9e-87  50.39  254        MDF9461995.1     
+hypothetical protein [uncultured Lactobacillus sp.]               7          7          Lactobacillus   firmicutes      1578       269    269   93%   5e-85  43.81  324        WP_294759575.1   
+hypothetical protein DM466_10050, partial [Lactobacillus...       1          1          Lactobacillu... firmicutes      1587       264    264   75%   4e-84  48.96  241        PXZ35464.1       
+hypothetical protein [Lactobacillus sp.]                          1          1          Lactobacillu... firmicutes      1591       254    254   78%   3e-80  45.78  255        NMB32308.1       
+ABC transporter permease [Lactobacillus crispatus]                1          1          Lactobacillu... firmicutes      47770      251    251   68%   4e-79  52.05  239        MCT7873341.1     
+hypothetical protein [Lactobacillus acetotolerans]                1          1          Lactobacillu... firmicutes      1600       232    232   61%   3e-72  55.33  197        HBQ42992.1       
+hypothetical protein [Lactobacillus corticis]                     2          1          Lactobacillu... firmicutes      2201249    224    224   92%   9e-68  40.74  297        WP_212780734.1   
+hypothetical protein [Lactobacillus equicursoris]                 6          2          Lactobacillus   firmicutes      1578       207    207   98%   9e-61  33.33  328        WP_008460660.1   
+hypothetical protein [Lactobacillus sp.]                          4          1          Lactobacillu... firmicutes      1591       203    203   83%   1e-59  38.11  295        MDN6029252.1     
+hypothetical protein [Lactobacillus nasalidis]                    1          1          Lactobacillu... firmicutes      2797258    199    199   98%   2e-57  33.02  327        WP_201330596.1   
+hypothetical protein [Lactobacillus porci]                        1          1          Lactobacillu... firmicutes      2012477    197    197   99%   5e-57  33.96  325        WP_154547345.1   
+hypothetical protein [Lactobacillus sp. R2/2]                     1          1          Lactobacillu... firmicutes      3093669    184    184   50%   1e-53  53.42  177        MEB3365318.1     
+hypothetical protein [Lactobacillus mulieris]                     4          1          Lactobacillu... firmicutes      2508708    188    188   98%   2e-53  32.60  322        WP_167801735.1   
+hypothetical protein [Lactobacillus sp. 23-2]                     5          5          Lactobacilla... firmicutes      33958      187    187   94%   7e-53  34.21  325        WP_404539892.1   
+hypothetical protein [Lactobacillus crispatus]                    3          2          Lactobacillu... firmicutes      47770      173    173   56%   2e-49  43.02  185        MCT7795384.1     
+hypothetical protein [Lactobacillus delbrueckii]                  77         8          Lactobacillus   firmicutes      1578       175    175   98%   3e-48  33.65  327        WP_236159206.1   
+hypothetical protein [Lactobacillus jensenii]                     3          1          Lactobacillu... firmicutes      109790     174    174   100%  5e-48  32.00  323        WP_240400647.1   
+hypothetical protein [Lactobacillus sp.]                          2          1          Lactobacillu... firmicutes      1591       172    172   98%   1e-47  32.92  319        MCH3990153.1     
+NOL1/NOP2/sun family putative RNA methylase [Lactobacillus...     1          1          Lactobacillu... firmicutes      575606     181    181   98%   2e-47  32.29  781        EEU21419.2       
+hypothetical protein, partial [Lactobacillus delbrueckii]         35         3          Lactobacillus   firmicutes      1578       170    170   89%   7e-47  34.26  294        WP_236160242.1   
+hypothetical protein [Lactobacillus crispatus]                    1          1          Lactobacillu... firmicutes      47770      162    162   47%   1e-45  46.67  151        MBI1697752.1     
+hypothetical protein [Lactobacillus rodentium]                    1          1          Lactobacillu... firmicutes      947835     165    165   99%   1e-44  31.00  326        WP_117118648.1   
+hypothetical protein [Lactobacillus sp.]                          1          1          Lactobacillu... firmicutes      1591       162    162   95%   1e-43  31.09  324        WP_290626060.1   
+hypothetical protein [Lactobacillus psittaci]                     2          2          Lactobacillu... firmicutes      116089     161    161   93%   2e-43  29.90  303        WP_236692236.1   
+hypothetical protein [Lactobacillus johnsonii]                    39         3          Lactobacillus   firmicutes      1578       160    160   99%   1e-42  31.69  325        WP_023599549.1   
+hypothetical protein [Lactobacillus paragasseri]                  33         4          Lactobacillus   firmicutes      1578       159    159   99%   3e-42  33.43  319        WP_260511884.1   
+hypothetical protein [Lactobacillus sp. PV012]                    2          2          unclassified... firmicutes      2620435    157    157   98%   1e-41  32.81  329        WP_265486502.1   
+hypothetical protein [Lactobacillus sp.]                          1          1          Lactobacillu... firmicutes      1591       157    157   92%   1e-41  32.89  319        MCI1290228.1     
+hypothetical protein [Lactobacillus colini]                       1          1          Lactobacillu... firmicutes      1819254    155    155   98%   5e-41  30.43  323        WP_209685548.1   
+hypothetical protein [Lactobacillus sp.]                          2          2          Lactobacillus   firmicutes      1578       155    155   99%   6e-41  33.13  325        WP_298491085.1   
+hypothetical protein [Lactobacillus gallinarum]                   1          1          Lactobacillu... firmicutes      52242      150    150   51%   1e-40  40.61  171        MDM8281832.1     
+hypothetical protein [Lactobacillus helsingborgensis]             1          1          Lactobacillu... firmicutes      1218494    147    147   55%   3e-39  41.48  181        MCT6811542.1     
+hypothetical protein [Lactobacillus sp. PV034]                    1          1          Lactobacillu... firmicutes      2594495    150    150   98%   8e-39  29.85  326        WP_265489188.1   
+hypothetical protein [Lactobacillus sp.]                          1          1          Lactobacillu... firmicutes      1591       144    144   43%   1e-38  47.45  137        MCT6903010.1     
+hypothetical protein [Lactobacillus sp.]                          1          1          Lactobacillu... firmicutes      1591       148    148   85%   3e-38  33.33  317        MFC2694509.1     
+hypothetical protein [Lactobacillus taiwanensis]                  1          1          Lactobacillu... firmicutes      508451     147    147   81%   4e-38  32.21  284        WP_256979022.1   
+hypothetical protein FC28_GL001025 [Lactobacillus crispatus DS... 2          2          Lactobacillu... firmicutes      47770      141    141   39%   2e-37  55.20  142        KRK33681.1       
+hypothetical protein [Lactobacillus hominis]                      2          1          Lactobacillu... firmicutes      1203033    146    146   98%   3e-37  31.50  330        WP_008471691.1   
+hypothetical protein [Lactobacillus sp.]                          1          1          Lactobacillu... firmicutes      1591       144    144   65%   9e-37  36.19  292        MDO4912264.1     
+hypothetical protein [Lactobacillus taiwanensis]                  17         1          Lactobacillu... firmicutes      508451     144    144   96%   1e-36  31.40  326        WP_290085568.1   
+hypothetical protein [Lactobacillus delbrueckii subsp. lactis]    1          1          Lactobacillu... firmicutes      29397      136    136   78%   2e-34  31.87  251        MCD5430522.1     
+hypothetical protein [Lactobacillus iners]                        1          1          Lactobacillu... firmicutes      147802     130    130   56%   4e-32  38.17  237        MCT7856056.1     
+hypothetical protein [Lactobacillus iners]                        45         5          Lactobacillu... firmicutes      147802     132    132   72%   7e-32  34.02  328        WP_240401855.1   
+hypothetical protein [Lactobacillus mulieris]                     1          1          Lactobacillu... firmicutes      2508708    126    126   52%   3e-31  38.55  178        WP_391489005.1   
+hypothetical protein [Lactobacillus crispatus]                    1          1          Lactobacillu... firmicutes      47770      124    124   46%   1e-30  37.84  154        MCT7870976.1     
+hypothetical protein [Lactobacillus iners]                        1          1          Lactobacillu... firmicutes      147802     127    127   72%   2e-30  34.44  291        MCT7869220.1     
+hypothetical protein FOF76_07105, partial [Lactobacillus gasseri] 1          1          Lactobacillu... firmicutes      1596       125    125   83%   5e-30  32.62  275        TVU94263.1       
+ABC transporter permease, partial [Escherichia coli]              1          1          Escherichia ... E. coli         562        119    119   32%   1e-29  55.88  102        WP_458928417.1   
+hypothetical protein [Lactobacillus crispatus]                    1          1          Lactobacillu... firmicutes      47770      110    110   28%   2e-26  58.24  108        MDM8291415.1     
+hypothetical protein HMPREF9211_0339 [Lactobacillus iners...      2          2          Lactobacillu... firmicutes      147802     115    115   56%   5e-26  36.51  279        EFO71289.1       
+hypothetical protein [Lactobacillus sp.]                          2          1          Lactobacillu... firmicutes      1591       106    106   41%   5e-24  37.59  141        MDN6653436.1     
+hypothetical protein [Lactobacillus iners]                        1          1          Lactobacillu... firmicutes      147802     98.2   98.2  49%   7e-20  36.97  248        MCT7851186.1     
+hypothetical protein [Companilactobacillus sp. HBUAS59544]        3          3          Companilacto... firmicutes      2767879    98.6   98.6  95%   2e-19  25.87  324        WP_334332768.1   
+hypothetical protein [Companilactobacillus nuruki]                1          1          Companilacto... firmicutes      1993540    93.6   93.6  96%   1e-17  25.55  324        WP_102196086.1   
+hypothetical protein [Companilactobacillus halodurans]            1          1          Companilacto... firmicutes      2584183    92.0   92.0  96%   3e-17  24.69  324        WP_153385799.1   
+hypothetical protein [Lactobacillus sp. R2/2]                     1          1          Lactobacillu... firmicutes      3093669    86.3   86.3  38%   1e-16  36.07  137        MEB3365317.1     
+hypothetical protein [Bombilactobacillus bombi]                   3          1          Bombilactoba... firmicutes      1303590    88.6   88.6  83%   6e-16  25.99  326        WP_118901722.1   
+hypothetical protein HMPREF9212_1193 [Lactobacillus iners...      1          1          Lactobacillu... firmicutes      879298     84.3   84.3  31%   7e-16  44.66  140        EFO69551.1       
+hypothetical protein [Companilactobacillus alimentarius]          2          2          Companilacto... firmicutes      1602       88.6   88.6  95%   7e-16  25.08  325        WP_057739701.1   
+hypothetical protein [Companilactobacillus paralimentarius]       5          4          Companilacto... firmicutes      2767879    86.7   86.7  96%   3e-15  26.40  325        WP_404327167.1   
+hypothetical protein [Companilactobacillus kimchiensis]           1          1          Companilacto... firmicutes      993692     86.3   86.3  96%   4e-15  22.81  324        WP_057879805.1   
+hypothetical protein [Lactobacillus iners]                        1          1          Lactobacillu... firmicutes      147802     79.3   79.3  37%   4e-14  35.00  126        MCT7787352.1     
+hypothetical protein [Companilactobacillus mindensis]             1          1          Companilacto... firmicutes      167481     82.4   82.4  96%   1e-13  24.61  324        WP_057887064.1   
+
+
+Alignments:
+
+>hypothetical protein [Lactobacillus gigeriorum]
+Sequence ID: WP_236698441.1 Length: 299
+Range 1: 1 to 299
+
+Score:613 bits(1582), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:298/299(99%), Positives:299/299(100%), Gaps:0/299(0%)
+
+Query  23   LSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEAD  82
+            +SKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEAD
+Sbjct  1    MSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEAD  60
+
+Query  83   QVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYYT  142
+            QVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYYT
+Sbjct  61   QVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYYT  120
+
+Query  143  VIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYVPK  202
+            VIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYVPK
+Sbjct  121  VIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYVPK  180
+
+Query  203  FVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNRSI  262
+            FVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNRSI
+Sbjct  181  FVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNRSI  240
+
+Query  263  RYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKGIKRG  321
+            RYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKGIKRG
+Sbjct  241  RYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKGIKRG  299
+
+
+
+
+>hypothetical protein [Lactobacillus intestinalis]
+Sequence ID: WP_242367685.1 Length: 325
+Range 1: 1 to 321
+
+Score:356 bits(914), Expect:2e-119, 
+Method:Compositional matrix adjust., 
+Identities:171/322(53%), Positives:233/322(72%), Gaps:2/322(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L  II + L+G G++LS +QS+EADQLLE +GLSNNTRY ++N N  I DFL 
+Sbjct  1    MNYKKIVLFFIIFMCLLGVGSMLSNVQSREADQLLEAHGLSNNTRYIEVNRNETISDFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD +Y+ A IQ+H DN+Y+ DQVLVWAN+N++  PT+NGRYFS DDF GQV   VLGP+
+Sbjct  61   YLD-KYKNANIQLHLDNRYDNDQVLVWANHNVINLPTQNGRYFSPDDFEGQVSFAVLGPE  119
+
+Query  121  S-TANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRII  179
+            +    ITE QGN+YL  ++ YY+VIG+ K+YHQ+EQ+ YYL+TGI+QPTA  KLKDYRI+
+Sbjct  120  TKNVQITESQGNQYLIWNNDYYSVIGDLKHYHQMEQNKYYLSTGIDQPTAKNKLKDYRIV  179
+
+Query  180  IDAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIY  239
+            ID+   +I  +AKHYH ++  P FV  H+ +RFS +KEI +I L  ++ +V N L+A + 
+Sbjct  180  IDSSNKVIHEIAKHYHVKVNTPSFVKNHQIHRFSILKEIAIILLFWIVIVVCNGLLAFLN  239
+
+Query  240  WRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEF  299
+             +Q K +HLR  L +NWI+NRS++ IL E L++VG Y  L WRAF+S P H   L +  F
+Sbjct  240  IQQLKKSHLRGRLSKNWIINRSVQLILLEGLISVGAYTFLRWRAFFSKPDHLIGLIILSF  299
+
+Query  300  ILFMVSYVLTYLYLSRKGIKRG  321
+            I+ MVSY+++ +YL RK I   
+Sbjct  300  IIIMVSYLISIVYLWRKYINNA  321
+
+
+
+
+>hypothetical protein [Lactobacillus kalixensis]
+Sequence ID: WP_057798056.1 Length: 323
+Range 1: 1 to 321
+
+Score:344 bits(882), Expect:2e-114, 
+Method:Compositional matrix adjust., 
+Identities:161/321(50%), Positives:231/321(71%), Gaps:1/321(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN++K+   LI+  + +GSG +LS +QS+EADQLLE +GLSNNTRYF  N +  I DFL 
+Sbjct  1    MNLKKIIFILIVFATFLGSGAMLSNVQSREADQLLEEHGLSNNTRYFYTNKSESISDFLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL+  Y K  +Q+H DN+   +QVLVWAN   +T PT++GRYFS+DDF GQV   VLGPD
+Sbjct  61   YLNKTYPKTHLQLHLDNRELTNQVLVWANYQGITLPTQSGRYFSLDDFKGQVSFAVLGPD  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  +  E+Q N+Y+    RYY+VIG FKN+HQ EQ+ YYLTTG++QPTA G ++DYRI+I
+Sbjct  121  AVDDAVELQNNKYIVFGKRYYSVIGIFKNFHQKEQEKYYLTTGVDQPTAKGSIRDYRIVI  180
+
+Query  181  DAP-EHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIY  239
+            D+  + +I+ +AKHY ++++VP+FVTTH+++RFS +K+I  I LM +I I+AN L+A + 
+Sbjct  181  DSTNKSVIKKIAKHYGSKLHVPQFVTTHQHHRFSVLKDISGIILMWVISIIANALIAFMQ  240
+
+Query  240  WRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEF  299
+            WRQ + THL  +LLRNW++NRS+R IL EV+ A+  Y+ L   AF + P H A + +  +
+Sbjct  241  WRQVRRTHLSGNLLRNWLLNRSVRLILIEVVSAIIAYVFLRMHAFINKPEHLAFVLIISW  300
+
+Query  300  ILFMVSYVLTYLYLSRKGIKR  320
+            I+  VSYV +++ L  K  ++
+Sbjct  301  IVATVSYVASFVILHNKEKRK  321
+
+
+
+
+>hypothetical protein [Lactobacillus acetotolerans]
+Sequence ID: WP_056969641.1 Length: 321
+Range 1: 1 to 316
+
+Score:337 bits(864), Expect:9e-112, 
+Method:Compositional matrix adjust., 
+Identities:161/316(51%), Positives:218/316(68%), Gaps:0/316(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L  II L+ +G+G++LS +QS+EADQLLE +GLSNNTR    +S   +K+FL 
+Sbjct  1    MNYKKILLIFIIFLTFLGTGSMLSNVQSREADQLLEAHGLSNNTRDIRTDSKETVKNFLQ  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL+  Y    IQ+H DN YE +Q+LVWAN+NI+  PTE+GRYFS DDF GQV   VLGP+
+Sbjct  61   YLNKNYPHKKIQLHLDNNYEKNQILVWANHNIIGLPTESGRYFSPDDFQGQVSFAVLGPN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +     ++Q N+Y+   ++YY+VIG  K+YHQIEQ+ YYLTTGINQPTA  KL +YRI+I
+Sbjct  121  AEVGTAKMQNNQYVIWGNQYYSVIGTLKHYHQIEQNKYYLTTGINQPTAQSKLNNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +I  VAKHY  ++ +P FV  H+ +RFS I+E+++I L  +I  V N L+A + W
+Sbjct  181  DSSNKVIHRVAKHYRAKVRMPSFVKKHQIHRFSIIRELLVILLFWIIATVCNALLALLNW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            R  K THL   LLRNW++NRS R  L E+L+ V  YI L WRAFYS   H   L LF ++
+Sbjct  241  RTVKQTHLHGHLLRNWLINRSARLGLVELLVGVAAYIFLRWRAFYSKADHLGWLLLFSWL  300
+
+Query  301  LFMVSYVLTYLYLSRK  316
+            + +V Y ++ L L RK
+Sbjct  301  IIIVVYGISILRLIRK  316
+
+
+
+
+>hypothetical protein [Lactobacillus hamsteri]
+Sequence ID: WP_025080492.1 Length: 325
+Range 1: 1 to 319
+
+Score:335 bits(859), Expect:6e-111, 
+Method:Compositional matrix adjust., 
+Identities:151/319(47%), Positives:228/319(71%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K+ L  I+ L+ IG+G ILS +QS+EADQLLE +GLSNNTRYF  N    I DFL 
+Sbjct  1    MTWKKITLIFIVFLTFIGTGLILSDVQSREADQLLEAHGLSNNTRYFKTNKEETISDFLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            Y++N Y K  IQ+HFDN+ E +QVLVWAN N+++ PT++GR+FS+DDF+G+V   VLGP+
+Sbjct  61   YINNHYRKEKIQLHFDNEIEQNQVLVWANRNMISLPTDSGRFFSLDDFSGKVSFAVLGPN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +   + E QGN+Y+   ++Y++VIG+ KN+ QIEQ  YYL+TGI+QPTA G+LK+YRII+
+Sbjct  121  AQIKVMETQGNKYIHNHNQYFSVIGDLKNFPQIEQSKYYLSTGIDQPTAQGQLKNYRIIV  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +I+ +A+HYH +++ P+FV  H+ + FS +KEI++I  + LI ++ N L+A ++W
+Sbjct  181  DSSTRVIKKIARHYHAKLHTPEFVRDHQIHSFSVVKEILIIMTLWLIAMICNSLIALLHW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ K THL+ +LL NW +NRS+R  L E+LL    Y  LSW +F+    H  +L +   +
+Sbjct  241  RQIKLTHLKGNLLGNWFINRSLRLALIEILLCAIAYFCLSWFSFFKGMDHLILLLIGNLL  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+              +++Y+ T+++L ++  K
+Sbjct  301  TSIIAYLATWVFLDKREEK  319
+
+
+
+
+>hypothetical protein [Lactobacillus sp. PSON]
+Sequence ID: WP_445353427.1 Length: 321
+Range 1: 1 to 316
+
+Score:329 bits(844), Expect:1e-108, 
+Method:Compositional matrix adjust., 
+Identities:154/317(49%), Positives:219/317(69%), Gaps:2/317(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L   I L L+G G +LS +QS+EA+QLLE +GLSNNTRY DI++N+ ++DFL 
+Sbjct  1    MNYKKILLLFTIFLCLLGIGAVLSNVQSREANQLLEAHGLSNNTRYIDIDNNQSVEDFLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD  Y    IQ+H DNK + +QVLVWAN++++T PTE+GRYF  DDF GQV   +LGPD
+Sbjct  61   YLDKAYHNKKIQLHLDNKIQKNQVLVWANHSVITVPTESGRYFVPDDFKGQVSFAILGPD  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +       Q N Y+  + RYY+VIG  K+YHQ++Q  YYL+TGINQPTA  KLK+YRI+I
+Sbjct  121  TKIKTLHAQSNSYVLWNKRYYSVIGSLKHYHQMDQTKYYLSTGINQPTAKEKLKNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVL-IALMVLIGIVANILVAAIY  239
+            D+    I  +AKHYHT +++P+FV  H+ +R S I EI++ I   ++IGI  N+++A + 
+Sbjct  181  DSNNKTINQIAKHYHTSVHIPEFVKKHQIHRLSVINEILMIIGYWIVIGI-CNMILALVN  239
+
+Query  240  WRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEF  299
+            WRQ + T+LR  L++NW++NRS+R +L E L+ +  Y  L WRAF+S   H   L +  F
+Sbjct  240  WRQVRRTNLRGSLMKNWLVNRSLRLLLAEGLITLTAYCFLCWRAFFSKTDHLIELLIISF  299
+
+Query  300  ILFMVSYVLTYLYLSRK  316
+            I+ ++SY    + L R+
+Sbjct  300  IVMILSYGFEIIILKRR  316
+
+
+
+
+>hypothetical protein [Lactobacillus sp. ESL0791]
+Sequence ID: WP_277148699.1 Length: 321
+Range 1: 1 to 317
+
+Score:327 bits(839), Expect:5e-108, 
+Method:Compositional matrix adjust., 
+Identities:164/317(52%), Positives:220/317(69%), Gaps:0/317(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L  I  LS +G G++LS IQS+EADQLLE +GLSNNTRY  INS + I  FL 
+Sbjct  1    MNYKKILLIFITFLSFLGIGSMLSNIQSREADQLLEAHGLSNNTRYLKINSKKSISSFLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL   Y    IQ+H D++Y  DQVLVWAN+N+VT PTE+GRYFS DDF GQ+   VLG +
+Sbjct  61   YLTKTYPNKKIQLHLDSRYGKDQVLVWANHNVVTMPTESGRYFSSDDFTGQISFAVLGAE  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +     + Q N+Y+   +RYY+VIG  K+Y QI+Q+ YYLTTGI QPTA   LK+YR++I
+Sbjct  121  AKVTTVKTQNNQYILWGNRYYSVIGNLKHYRQIKQNKYYLTTGIMQPTAQNPLKNYRVVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            DA   + + +A+HYHTQ+Y P FV  H++ +FS I+E++LI L ++I I+AN+L+A I  
+Sbjct  181  DAAPKLTQKIARHYHTQVYTPLFVKKHQSRQFSVIRELLLILLFLIIAILANVLIAVINC  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+               + +HLR  LL+  ++NR  R ILFE LL V  YI L WRAFYS P H  +L L  ++
+Sbjct  241  ESARQSHLRGSLLQTLLVNRGGRLILFEALLEVLAYIFLRWRAFYSQPMHLGLLLLGSWL  300
+
+Query  301  LFMVSYVLTYLYLSRKG  317
+            + + SY+LT +YL RKG
+Sbjct  301  ITIASYILTSIYLKRKG  317
+
+
+
+
+>hypothetical protein [Lactobacillus sp. LL6]
+Sequence ID: WP_144355309.1 Length: 321
+Range 1: 1 to 316
+
+Score:326 bits(836), Expect:1e-107, 
+Method:Compositional matrix adjust., 
+Identities:148/316(47%), Positives:218/316(68%), Gaps:0/316(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L  +I LSL+G G +LS +QS+EA+QLLE +GLSNNTRY +IN+ + I +FL 
+Sbjct  1    MNYKKILLLFVIFLSLLGIGAVLSNVQSREANQLLEAHGLSNNTRYININNKQNIGEFLQ  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL+  +    IQ+H DNK + +QVLVWAN++++T PTE GRYF  DDF GQV   +LGPD
+Sbjct  61   YLNKTFHNKKIQLHLDNKIQKNQVLVWANHSVITVPTETGRYFVPDDFKGQVSFAILGPD  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +       QGN Y+  + RYY+VIG  K+YHQ++Q  YYL+TGINQPTA  ++K+Y+I+I
+Sbjct  121  TKIKTLHAQGNSYVLWNKRYYSVIGNLKHYHQMDQTKYYLSTGINQPTAQERIKNYQIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +I  +AKHYH  ++ P+FV  H+ +R S I EI++I    L+  + N+++A + W
+Sbjct  181  DSNTKVINQIAKHYHVSVHTPEFVKKHQIHRLSVINEILMIIGYWLVIAICNMILALVNW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ + T+LRD+L++ W++NRS+R +L E ++ +  YI L WRAF+S   H   L +  FI
+Sbjct  241  RQARRTNLRDNLMKIWLINRSLRLLLIEGIVTLAAYIFLCWRAFFSKTDHLVELLILSFI  300
+
+Query  301  LFMVSYVLTYLYLSRK  316
+              ++SY L  + L R+
+Sbjct  301  AMILSYGLEIIILKRR  316
+
+
+
+
+>hypothetical protein [Lactobacillus sp. ESL0703]
+Sequence ID: WP_277129616.1 Length: 321
+Range 1: 1 to 321
+
+Score:325 bits(833), Expect:4e-107, 
+Method:Compositional matrix adjust., 
+Identities:157/321(49%), Positives:216/321(67%), Gaps:0/321(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K  L ++  L+L+G G++LS +QS+EA+QLLE YGLSN+TRY DINS +++  FL 
+Sbjct  1    MKFKKFGLIIVFFLALLGIGSMLSNVQSREANQLLEAYGLSNSTRYIDINSQQKVSTFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL  +Y K  IQ+H D++ +  Q L+WAN+ I++ PTE+GRYFS DDF GQV   VLG +
+Sbjct  61   YLTKKYPKNKIQVHLDHQDKDHQTLIWANHTIISLPTESGRYFSADDFTGQVSFAVLGLN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +     + QGN+Y+ L  RYY+VIG FK+Y Q++QD YYL+TG  QPT   KL +Y+III
+Sbjct  121  AKVKTLKTQGNQYVALHHRYYSVIGTFKHYRQMKQDGYYLSTGPKQPTGQFKLNNYQIII  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            DA + +I  +A HY  ++  P FV  H+ +RFS I+EI+LIAL  LI  + N+L+A I W
+Sbjct  181  DASDKVIHKIAAHYGGKVRTPLFVKRHQIHRFSVIREILLIALFGLIAAICNLLLALIDW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            +  K T L  +LLRNW++NR IR IL E+L  VG Y  L WRAFYS P H   L    + 
+Sbjct  241  QTVKQTSLTGNLLRNWLINRGIRLILTELLATVGAYFFLCWRAFYSKPDHLLWLLALSWF  300
+
+Query  301  LFMVSYVLTYLYLSRKGIKRG  321
+            + + +Y+L   YLSRK  +R 
+Sbjct  301  VIIWAYILNIFYLSRKERRRA  321
+
+
+
+
+>ABC transporter permease [Lactobacillus kitasatonis]
+Sequence ID: WP_056938266.1 Length: 327
+Range 1: 1 to 319
+
+Score:322 bits(825), Expect:8e-106, 
+Method:Compositional matrix adjust., 
+Identities:152/319(48%), Positives:215/319(67%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+FL  I +L+ +G GT+LS I S  AD+LLE +GL+NNTRYF  ++N  I  FL 
+Sbjct  1    MNFKKIFLLFIPLLAFLGMGTMLSNIDSGHADELLEAHGLTNNTRYFRTSNNESISSFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD  Y    +Q+H D+KYE  QVLVWAN+ + + PTE GRYFS DDF G+V   VLGP 
+Sbjct  61   YLDKYYANHQLQLHLDSKYEKKQVLVWANHTVKSLPTEEGRYFSPDDFKGKVSFAVLGPA  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+ +VQ N+Y+ L   YY+VIGEFK+Y Q+E D YYL+TG++QPTA  +LK+YRI+I
+Sbjct  121  TNVNLLDVQNNKYVVLGQNYYSVIGEFKDYPQVEMDKYYLSTGVDQPTAKDQLKNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D   ++I  VA+HYH +++VP FV  H  +R+S +  I+++   +L GI  N+L+A +  
+Sbjct  181  DGAPNVIERVAQHYHARLHVPSFVKKHHRDRWSVVPYILMLLGAMLFGIGGNVLLATLIK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ K THL   LLRNW++N+S+R  L E  L +  YI L + AFYS      I+ +  +I
+Sbjct  241  RQAKLTHLHGVLLRNWVINQSVRLFLIEGALGIFTYIFLKYHAFYSADSSLVIMLIASWI  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            +F+V++ +T  +L RK  K
+Sbjct  301  IFVVAFCMTVYFLVRKDRK  319
+
+
+
+
+>hypothetical protein [Lactobacillus gallinarum]
+Sequence ID: WP_281681429.1 Length: 325
+Range 1: 1 to 319
+
+Score:320 bits(820), Expect:5e-105, 
+Method:Compositional matrix adjust., 
+Identities:146/319(46%), Positives:218/319(68%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +++FL L+ ++  +G GT++S IQS  AD++LE +GL+NNTRYF  +S+  I  FL 
+Sbjct  1    MNFKRIFLLLVPLIMFLGIGTMISNIQSDYADEVLEAHGLTNNTRYFRTDSDESISSFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL+  Y+   IQ+HFD+ YE  QVLVW+N+ + + PTE GRYFS DDF G+V   VLGP 
+Sbjct  61   YLNKNYKNHQIQLHFDSNYEKKQVLVWSNHVVKSLPTETGRYFSPDDFEGKVSFAVLGPT  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+ E Q N+Y+ L   YY+VIG FKNY Q+E D YYL+TG+NQPTA  +L++YRI+I
+Sbjct  121  AKINVLEAQNNKYVVLGRNYYSVIGTFKNYPQVEMDKYYLSTGVNQPTARDQLRNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+  ++I  +AKHYHT++++P FV  H  +R S +  I+++   +++G+V NI++A +  
+Sbjct  181  DSTPYVISKIAKHYHTKLHIPSFVQEHHRDRLSVLPNILMLITCMILGVVTNIVLAILMM  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ K THL  DL RNW++NRS R ++ E +  +  YI L W AFYS     +I+ L  ++
+Sbjct  241  RQAKLTHLHGDLFRNWVINRSARTLMVEGVCGLLAYIFLRWHAFYSVASVLSIVLLVAWL  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            + +V++ +T  +L RK  K
+Sbjct  301  MNVVAFCITLYHLIRKDKK  319
+
+
+
+
+>hypothetical protein [Lactobacillus xujianguonis]
+Sequence ID: WP_127811464.1 Length: 320
+Range 1: 1 to 314
+
+Score:318 bits(814), Expect:3e-104, 
+Method:Compositional matrix adjust., 
+Identities:151/319(47%), Positives:223/319(69%), Gaps:5/319(1%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+FL  ++ L+ +G+G+ILS +QS+EADQLLE +GLSNNTR   +NSN+ +  FL 
+Sbjct  1    MNWKKIFLIFVVFLTFLGTGSILSNVQSREADQLLEAHGLSNNTRQLQVNSNKSVSSFLQ  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL+  ++K  IQ+H DNK E +Q+LVWAN NI+  PTE+G+YFSIDDF+G+V   VLG +
+Sbjct  61   YLNQYFKKNKIQLHLDNKNEQEQILVWANRNIIPLPTESGKYFSIDDFSGRVSFAVLGAN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            S     +VQGN+YL     YYTVIGE KN+ QIE++ YYL+TGI+QPTA  +LK+YRI+I
+Sbjct  121  SKYKTLKVQGNQYLLNHGHYYTVIGELKNFKQIERNKYYLSTGIDQPTAKSQLKNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +I+ +A+HYHT++  P+FV  H+   FS + EI+LI L  ++ ++AN+L+  +  
+Sbjct  181  DSSPKVIKKLARHYHTKVSTPEFVKQHQIKPFSVVNEIILILLYWIVAVIANLLIMMMQK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ   THL+  LLRNW++   +R IL E LL V  +++L W+AF+  P H  +L    ++
+Sbjct  241  RQ--ITHLKGKLLRNWVI---LRLILIEGLLCVIAFLILWWKAFFKAPDHLILLLFLNWL  295
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            + +++Y+  +    RKG K
+Sbjct  296  IAVIAYLFAWYIFKRKGQK  314
+
+
+
+
+>ABC transporter permease [Lactobacillus agrestimuris]
+Sequence ID: WP_251717370.1 Length: 320
+Range 1: 1 to 320
+
+Score:318 bits(814), Expect:3e-104, 
+Method:Compositional matrix adjust., 
+Identities:159/320(50%), Positives:222/320(69%), Gaps:0/320(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L  II L+ IG+G+ILS +QSKEA+QLLET+GLSNNTRYF  NS + I  FL 
+Sbjct  1    MNWKKIILIFIIFLTFIGTGSILSNVQSKEANQLLETHGLSNNTRYFTTNSKQTISFFLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            Y+D  + K  IQ HFD+K   DQVLVWAN N+++  T+ GR+F++DDF+G+V   VLGP+
+Sbjct  61   YIDKNFHKEKIQFHFDSKINRDQVLVWANRNVLSMSTDTGRFFTLDDFSGRVSFAVLGPN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +   + E QGN+Y+ ++D+YYTVIGE K YHQIE++ YYL+TGI+QPTA G+L+DYRIII
+Sbjct  121  AQVKVMETQGNKYIHINDQYYTVIGELKKYHQIEENKYYLSTGIDQPTAKGQLRDYRIII  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +I+ VAKHYH +  VP FV  H+ + FS IKEI+LI ++ L+ +V N L+A I+W
+Sbjct  181  DSSNPVIKKVAKHYHAKTSVPAFVRDHQIHSFSVIKEILLIFVVWLVAMVCNALIALIHW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+             Q K T+L+     NW  NR IR +L E  LA   YI+L    F+    H  +L +   +
+Sbjct  241  HQIKLTNLKHSFFNNWFTNRFIRLVLTESFLAFISYIVLYSTEFFKGNEHLIMLIVANLL  300
+
+Query  301  LFMVSYVLTYLYLSRKGIKR  320
+            + + +Y+ T+ YL++   KR
+Sbjct  301  VGIFAYIATWDYLNKFRKKR  320
+
+
+
+
+>MULTISPECIES: hypothetical protein [unclassified Lactobacillus]
+Sequence ID: WP_277141988.1 Length: 321
+Range 1: 1 to 316
+
+Score:316 bits(810), Expect:1e-103, 
+Method:Compositional matrix adjust., 
+Identities:151/316(48%), Positives:212/316(67%), Gaps:0/316(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K+ L ++  L+L+G G++LS +QS EADQLLE YGLSNNTRY +IN+ +++  FL 
+Sbjct  1    MKFKKLGLIIVFFLALLGIGSMLSNVQSHEADQLLEAYGLSNNTRYIEINTEQKVNTFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL   Y K  IQ+H + +    Q L+WAN+ I++ PTE+GRYFS DDF GQV   VLG +
+Sbjct  61   YLTQNYPKNKIQVHLERQGTTHQTLIWANHTIISLPTESGRYFSADDFKGQVSFAVLGLN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +     + QGN+Y+ L  +YY+VIG  K+Y Q++QD YYL+TG  QPT   KL++Y+II+
+Sbjct  121  AKVKTLKTQGNQYVVLHHKYYSVIGTLKHYRQMKQDGYYLSTGPKQPTGEFKLENYQIIM  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            DA + +IR VA HY  ++  P FV  H+ +RFS I+EI+L+ +  +I I+ N+L+A I W
+Sbjct  181  DASDKVIRKVAAHYGGRVRTPLFVKKHQIHRFSVIREILLMIMFGIIAIICNLLLALIDW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            +  K T+L  +LLRNW +NR IR IL E+L+ VG Y+ L WRAFYS P H   L    + 
+Sbjct  241  QTVKRTNLTGNLLRNWFINRGIRLILTELLVTVGAYLFLCWRAFYSKPDHLMWLLALSWF  300
+
+Query  301  LFMVSYVLTYLYLSRK  316
+            L +  Y+    YLSRK
+Sbjct  301  LIIWGYIFGIFYLSRK  316
+
+
+
+
+>hypothetical protein [uncultured Lactobacillus sp.]
+Sequence ID: WP_308555562.1 Length: 327
+Range 1: 1 to 319
+
+Score:311 bits(798), Expect:1e-101, 
+Method:Compositional matrix adjust., 
+Identities:149/319(47%), Positives:216/319(67%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L +I +L+ +G GT+LS I S  AD+LLE +GL+NNTRYF  NS ++I  FL 
+Sbjct  1    MNFKKIILLIIPLLAFLGMGTMLSNIDSGHADELLEAHGLTNNTRYFRTNSKQKISSFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD  Y    +Q+H D+ YE  QVLVWAN+ + + PTE GRYFS DDF G+V   VLGP 
+Sbjct  61   YLDKNYANHQLQLHLDSNYEKKQVLVWANHTVKSLPTEEGRYFSPDDFKGKVSFAVLGPA  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+ EVQ N+Y+     YY+VIGEFK+Y Q+E D YYL+TGI+QPTA  +LK+YRI++
+Sbjct  121  TKVNLLEVQNNKYVVWGQNYYSVIGEFKDYPQVEMDKYYLSTGIDQPTAQDQLKNYRIVV  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D   ++I  +AKHYH Q++VP FV  H  +R+S + +++++ +  L+GI +N+L+A +  
+Sbjct  181  DGAPNVINKIAKHYHAQLHVPSFVKEHHRDRWSIVPDVLMLIVAALVGIGSNVLLAILIK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ K THL  DLLRNW++N+S+R  + E +L +  Y  L + AFYS      I  +  +I
+Sbjct  241  RQAKLTHLHGDLLRNWMINQSVRLFMIEGVLGIFTYFFLRYHAFYSAHSTLIITLISAWI  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            +F++++ +T   L RK  K
+Sbjct  301  IFVIAFCITIYRLRRKDRK  319
+
+
+
+
+>hypothetical protein [Lactobacillus pasteurii]
+Sequence ID: WP_009560140.1 Length: 318
+Range 1: 1 to 316
+
+Score:311 bits(797), Expect:1e-101, 
+Method:Compositional matrix adjust., 
+Identities:162/316(51%), Positives:226/316(71%), Gaps:0/316(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN+RK+FLTL+I+LS +G G  LS IQS+EADQLLET+GLSNNTRYF  +    I+ FL 
+Sbjct  1    MNLRKIFLTLLILLSFLGMGITLSNIQSQEADQLLETHGLSNNTRYFYTDKKTTIRSFLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL   ++ + IQ+HF+N+YE DQVLVWAN +IV QPT+NGRYF++DDF   V V VLGPD
+Sbjct  61   YLHKNFKNSQIQVHFNNRYEKDQVLVWANKSIVAQPTDNGRYFTMDDFNSMVTVAVLGPD  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            S  N T  Q N+Y+  D+RYY+VIG FK Y QI+Q  YY+TTGINQ  +T  L +YR+ I
+Sbjct  121  SNINTTTSQNNKYIIYDNRYYSVIGTFKRYKQIDQYRYYMTTGINQENSTDSLANYRVSI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            DA   +++ V+KHY   +  P FV  H++ ++S I+E++LI L+ L+GI+ N+++A ++W
+Sbjct  181  DASARVLKAVSKHYKVSLKYPGFVIRHKSRKYSIIQELILIVLLSLVGIIGNVIIAMLHW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            +Q K T LR DLLRNW++NRS RY+L E+LL +G Y +L W+AF+  P +   L     +
+Sbjct  241  KQAKLTRLRGDLLRNWLINRSSRYLLVELLLMLGSYFILVWKAFFERPEYLIALLSLNLV  300
+
+Query  301  LFMVSYVLTYLYLSRK  316
+            + ++SY+ T   + RK
+Sbjct  301  ILIISYMTTIFVMKRK  316
+
+
+
+
+>ABC transporter permease [Lactobacillus amylovorus]
+Sequence ID: WP_271873738.1 Length: 327
+Range 1: 1 to 319
+
+Score:311 bits(797), Expect:2e-101, 
+Method:Compositional matrix adjust., 
+Identities:148/319(46%), Positives:209/319(65%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L  I +L+ +G GT+LS I S  AD+LLE +GL+NNTRYF  NS   I  FL 
+Sbjct  1    MNFKKILLLFIPLLAFLGMGTMLSNIDSGHADELLEAHGLTNNTRYFRTNSKESISSFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            Y+D  Y    +Q+H D+ YE  QVLVWAN+ + + PTE GRYFS DDF G+V   VLGP 
+Sbjct  61   YIDKNYANHQLQLHLDSNYEKKQVLVWANHTVKSLPTEEGRYFSPDDFKGKVSFAVLGPA  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+  VQ N+Y+ L   YY+VIGEFK+Y Q+E D YYL+TGI+QPTA  +L++YRI+I
+Sbjct  121  TEVNLLNVQNNKYVVLGQNYYSVIGEFKDYPQVEIDKYYLSTGIDQPTAKDQLRNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D   +++  +AKHYH Q++VP FV  H  +R+S +  I+L+ +  L GI  N+L+A +  
+Sbjct  181  DGAPNVLDRIAKHYHAQLHVPSFVKEHHRDRWSVVPYILLLLVAELFGIGGNVLLAILIK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ K T L  DLLRNW++N+S+R  + E  L +  YI L + AFYS      I  +  ++
+Sbjct  241  RQAKLTRLHGDLLRNWVINKSVRLFMIEGALGIFTYIFLRYHAFYSTYSSLIITLIVSWL  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            +F+ ++ +T   L+RK  K
+Sbjct  301  IFIAAFCVTIYCLARKDRK  319
+
+
+
+
+>ABC transporter permease [Lactobacillus kefiranofaciens]
+Sequence ID: WP_056941203.1 Length: 325
+Range 1: 1 to 319
+
+Score:309 bits(792), Expect:7e-101, 
+Method:Compositional matrix adjust., 
+Identities:146/319(46%), Positives:216/319(67%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L L+ +++ +G GT+LS I+S  AD+LLE +GL+NNTR+F  +S++ I  FL 
+Sbjct  1    MNYKKILLLLLPLIAFLGMGTMLSNIESGYADELLEAHGLTNNTRFFRTDSSQSISSFLQ  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL+ +Y    IQ+HFDN YE DQVLVWAN+++ + PTE GRYFS DDF G +   VLGP 
+Sbjct  61   YLNKKYRHHQIQLHFDNNYEKDQVLVWANHSVRSLPTETGRYFSPDDFEGHISFAVLGPA  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  ++  VQ N+Y+ L   YY+VIGEFKNY Q++ + YYL+TGI+QPTA G+LKDYRI++
+Sbjct  121  TKVDLLNVQNNKYIVLGQNYYSVIGEFKNYPQVKMNKYYLSTGIDQPTAKGQLKDYRIVV  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D   ++I  +A+HY  ++++P FV  H   R+S + +I+L    +L G+V N+L+A +  
+Sbjct  181  DGTPNVINKIARHYRAKVHIPSFVQKHHKARWSVLPDILLCLACLLFGVVGNVLLAIVIK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ   T L  DLLRNW++NRS+R I+ E LLA+  Y+   W AFYS  G    + +  +I
+Sbjct  241  RQATLTRLHGDLLRNWVINRSVRLIMIEGLLALLTYLFFRWHAFYSTYGSLIAVLILGWI  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            + ++ + +T  +  RK  K
+Sbjct  301  ICVIMFGITLWHSFRKDKK  319
+
+
+
+
+>hypothetical protein [Lactobacillus helveticus]
+Sequence ID: WP_216695178.1 Length: 327
+Range 1: 1 to 319
+
+Score:308 bits(789), Expect:2e-100, 
+Method:Compositional matrix adjust., 
+Identities:142/319(45%), Positives:214/319(67%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +++FL L+ ++  +G G ++S IQS  AD++LE +GL+NNTRYF  +S+  I  FL 
+Sbjct  1    MNFKRIFLLLVPLIMFLGIGAMISNIQSDYADEVLEAHGLTNNTRYFRTDSDESISSFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL+  Y    IQ+HFD+ YE  QVLVW N+ + + PTE GRYFS DDF G+V   VLGP 
+Sbjct  61   YLNKNYAHHRIQLHFDSNYEKKQVLVWTNHMVKSLPTETGRYFSPDDFKGKVSFAVLGPT  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+ EVQ N+Y+ L   YY+VIG FKNY Q+E D YYL+TG++Q TA  +L++YRI+I
+Sbjct  121  AKINVLEVQNNKYVVLGRNYYSVIGTFKNYPQVEMDKYYLSTGVDQLTAQDQLRNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+  ++I  +AKHYH ++++P FV  H  +R S +  I+++   V+IGI++N+++A +  
+Sbjct  181  DSTPYVINKIAKHYHAKLHIPSFVQEHHRDRLSVLPNILILVACVIIGILSNVVLAILMK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ + T+LR DLLRNW++NRS R ++ E + A   YI L W AFYS     +I     ++
+Sbjct  241  RQARLTYLRGDLLRNWVINRSARTLMVEGVCAFLAYIFLRWHAFYSAYSSLSIALFIAWL  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            + ++++ +   +L RK  K
+Sbjct  301  MNVIAFCIMLYHLMRKDKK  319
+
+
+
+
+>hypothetical protein [Lactobacillus acidophilus]
+Sequence ID: WP_003547594.1 Length: 325
+Range 1: 1 to 319
+
+Score:308 bits(788), Expect:3e-100, 
+Method:Compositional matrix adjust., 
+Identities:154/319(48%), Positives:215/319(67%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+FL L+ +L+ +G GT+LS I+S  AD+LLE +GL+NNTRYF  +S+  I  FL 
+Sbjct  1    MNFKKIFLLLVPLLTFLGIGTMLSNIESGYADELLEAHGLTNNTRYFRTDSDESISSFLQ  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD  Y    IQ+H D+ YE  QVLVWAN ++ + P E GRYFS+DDF G+V   +LGP 
+Sbjct  61   YLDKNYAHRQIQLHLDSNYEKKQVLVWANRSVKSLPIETGRYFSLDDFKGKVSFAILGPS  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+               N+  VQ N+Y+ L   YY+VIGEFK+Y Q+E D YYL+TGI+QPTA  +LK+YRI+I
+Sbjct  121  VNVNLLNVQNNKYVILGQNYYSVIGEFKDYPQVEMDKYYLSTGIDQPTAKNQLKNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +I  VAKHYH ++++P FV  H  +RFS I  I+ + +  L+G+++N+L+A +  
+Sbjct  181  DSSPSVIEKVAKHYHGKIHIPSFVQEHHRDRFSVIPNILFLIVCALVGLISNVLLAILIK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ K T L  DLLRNW++NRS+R  + E + A   YI L W AFYS      I  L  +I
+Sbjct  241  RQAKITSLHGDLLRNWVINRSVRLFMIEGVFAALSYIFLRWHAFYSSNTSLIISLLCAWI  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            L+++++ +   YL RKG K
+Sbjct  301  LYVLAFCVEIYYLMRKGKK  319
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: HBQ08423.1 Length: 288
+Range 1: 1 to 286
+
+Score:305 bits(781), Expect:1e-99, 
+Method:Compositional matrix adjust., 
+Identities:142/286(50%), Positives:194/286(67%), Gaps:0/286(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L  I +L+ +G GT+LS I S  AD+LLE +GL+NNTRYF  NS   I  FL 
+Sbjct  1    MNFKKILLLFIPLLAFLGMGTMLSNIDSGHADELLEAHGLTNNTRYFRTNSKESISSFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD  Y    +Q+H D+ YE  QVLVWAN+ + + PTE GRYFS DDF G+V   VLGP 
+Sbjct  61   YLDKDYANHQLQLHLDSNYEKKQVLVWANHTVKSLPTEEGRYFSPDDFKGKVSFAVLGPA  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+  VQ N+Y+ L   YY+VIGEFK+Y Q+E D YYL+TGI+QPTA  +L++YRI+I
+Sbjct  121  TEVNLLNVQNNKYVVLGQNYYSVIGEFKDYPQVEMDKYYLSTGIDQPTAKDQLRNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D   +++  +AKHYH Q++VP FV  H  +R+S +  I+L+ +  L GI  N+L+A +  
+Sbjct  181  DGAPNVLDRIAKHYHAQLHVPSFVKEHHRDRWSVVPYILLLLVAELFGIGGNVLLAILIK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYS  286
+            RQ K THL  +LLRNW++N+S+R  + E  L +  YI L + AFYS
+Sbjct  241  RQAKLTHLHGELLRNWVINQSVRLFMIEGALGIFTYIFLRYHAFYS  286
+
+
+
+
+>ABC transporter permease [Lactobacillus ultunensis]
+Sequence ID: WP_007126244.1 Length: 325
+Range 1: 1 to 319
+
+Score:305 bits(780), Expect:5e-99, 
+Method:Compositional matrix adjust., 
+Identities:151/319(47%), Positives:220/319(68%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+FL LI +L+ +  GT+LS I+S  AD+LLE +GL+NNTRYF  +S+  +  FL 
+Sbjct  1    MNFKKIFLLLIPLLTFLCIGTMLSNIESGYADELLEAHGLTNNTRYFRTDSDESVSSFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD  Y+   IQ+H D+ YE DQVLVWAN+++ + PTE+GRYFS DDF G +   VLGP 
+Sbjct  61   YLDKNYKHHQIQLHLDSNYEKDQVLVWANHSVKSLPTESGRYFSPDDFKGTISFAVLGPA  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+ +VQ N+Y+ L   YY+VIGEFK+Y Q+E + YYL+TGI+QPTA  +LK+YRI++
+Sbjct  121  TKTNLLDVQNNKYVILGQHYYSVIGEFKDYPQVEMNKYYLSTGIDQPTAKDQLKNYRIVV  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D   ++I  +AKHY+ ++++P FV  H  +R S + +++L+   +++GIV N+L+A I  
+Sbjct  181  DGAPNVISRIAKHYNAKLHIPSFVQEHHRDRLSILPDLLLMLAALVVGIVGNLLLATIIK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ K THL  DLLRNW++NRS+R  + E + A+ VY  L W AFYS      I  L  +I
+Sbjct  241  RQAKLTHLHGDLLRNWVINRSVRLFMIEGVFAIAVYFFLRWHAFYSTYSSLRISLLASWI  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            +++V++ +   YL RK  K
+Sbjct  301  IYIVAFCIMLRYLVRKDRK  319
+
+
+
+
+>hypothetical protein [uncultured Lactobacillus sp.]
+Sequence ID: WP_294756215.1 Length: 324
+Range 1: 1 to 316
+
+Score:304 bits(778), Expect:1e-98, 
+Method:Compositional matrix adjust., 
+Identities:144/316(46%), Positives:212/316(67%), Gaps:0/316(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K  L +II LS +G G++LS +QS+EADQLLE YGLSNNTRY +I + + ++ FL 
+Sbjct  1    MKFKKTILVIIIFLSFLGIGSMLSNVQSREADQLLEAYGLSNNTRYIEIKNKQNVRSFLL  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL  +Y    IQ+H   + + +Q LVW+N++++  PTE+GRYF+ +DF G+V   VLG +
+Sbjct  61   YLQKKYPHNKIQVHMTCRSKKNQTLVWSNHDVLNLPTESGRYFTKEDFKGRVSFAVLGLN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  +  +VQGN Y+ L+ +YYTVIG  K+Y Q++QDSYYLTT   QPT   KL+DY+III
+Sbjct  121  AKVHTYKVQGNEYVYLNKKYYTVIGTLKHYRQMKQDSYYLTTSPKQPTGKFKLRDYQIII  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +IR +AKHY  +   P FV  H+ ++FS I+EI+ I + +LI   +N+++A I W
+Sbjct  181  DSSNKVIRQIAKHYGVKAKTPLFVKNHQIHQFSIIREILFIIVFLLIASFSNLVLAFIDW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            +  KSTHL+ +LLRNW++N  IR +L E+L+ +  Y  L WR F S P H   L +  +I
+Sbjct  241  KTVKSTHLKGNLLRNWLINHGIRILLIELLVTISAYFFLIWRTFLSKPQHLIWLLMGCWI  300
+
+Query  301  LFMVSYVLTYLYLSRK  316
+            +  + Y +  L+L RK
+Sbjct  301  IISILYSICVLHLLRK  316
+
+
+
+
+>ABC transporter permease [uncultured Lactobacillus sp.]
+Sequence ID: WP_297950030.1 Length: 325
+Range 1: 1 to 319
+
+Score:303 bits(777), Expect:2e-98, 
+Method:Compositional matrix adjust., 
+Identities:147/319(46%), Positives:212/319(66%), Gaps:0/319(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN ++ FL L+ +L+ +G GT+LS ++S  AD+LLE +GL+N+TRYF INS+ +I   L 
+Sbjct  1    MNFKRTFLLLLPLLAFLGIGTMLSNVESSYADELLEAHGLTNDTRYFRINSDEKISSLLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD +Y    IQ+H DN YE  QVLVWAN+   + PTE+GRYF+ DDF GQ+   VLGP 
+Sbjct  61   YLDKKYAHHQIQLHLDNNYEKKQVLVWANHAATSLPTESGRYFAPDDFKGQISFAVLGPA  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  ++ +VQ N+Y+ L+  YY+VIGE K+Y Q+E D YYL+TG++QPTA  KLK+YRI+I
+Sbjct  121  AKLDLLDVQNNKYIVLNSNYYSVIGELKDYPQMEMDKYYLSTGVDQPTAKAKLKNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            DA   +I  +AKHYH +++VP FV  H  +R S + +I+++   +L+G++ N+++A    
+Sbjct  181  DAAPAVISKIAKHYHAKLHVPSFVQEHHRDRLSVVPDILMLVAFLLLGMLTNMMLAMGIK  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ + T L  DLLRNW++NRS R  L E   A   YI L W AFYS  G   I     ++
+Sbjct  241  RQARLTRLHGDLLRNWVINRSARLFLTEAAFAFAAYIFLRWHAFYSTYGSLVITMTVSWL  300
+
+Query  301  LFMVSYVLTYLYLSRKGIK  319
+            + ++++     YL RK  K
+Sbjct  301  IMILTFCGMIWYLMRKDKK  319
+
+
+
+
+>hypothetical protein [Candidatus Lactobacillus pullistercoris]
+Sequence ID: MBU3827836.1 Length: 322
+Range 1: 1 to 320
+
+Score:303 bits(775), Expect:3e-98, 
+Method:Compositional matrix adjust., 
+Identities:151/320(47%), Positives:219/320(68%), Gaps:1/320(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L LI+ L+ + +G +LS IQS+EADQLL+ +G+SNNT YF  N  + I +FLT
+Sbjct  1    MNWKKISLILIVFLTFLATGFMLSNIQSREADQLLDAHGMSNNTHYFYTNKKQNIGEFLT  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL  R+ K  IQ+H DN+ E +QVLVWAN  I + PT+ G+YFS DDF GQ+   VLGPD
+Sbjct  61   YLRMRFPKDHIQVHLDNQKEKEQVLVWANYKIQSLPTQKGQYFSPDDFKGQISFAVLGPD  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+ E+QGN+Y+     YY+VIGEFKNYHQ EQ  YYLTTGI Q T+  KLK+++III
+Sbjct  121  TKNNVVELQGNQYVIYKKHYYSVIGEFKNYHQTEQKKYYLTTGIKQATSKEKLKNFKIII  180
+
+Query  181  DAP-EHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIY  239
+            D+P  ++I+ V + YH ++ +P FV +H+  R S +KEI LI L  +IGI+ NI +A I 
+Sbjct  181  DSPNRNVIKTVGEKYHAKLEIPAFVKSHQYLRLSVLKEIFLILLFWIIGIICNIFIALIE  240
+
+Query  240  WRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEF  299
+            WRQ K  HL+     NW++NR +R IL E LLA+   ++L W AF++   H   + +  +
+Sbjct  241  WRQVKLAHLKRKFFVNWLINRGLRLILIETLLAIIALVILQWTAFFNKSFHLLEIIVVNW  300
+
+Query  300  ILFMVSYVLTYLYLSRKGIK  319
+            +L + +Y+++++ +++K  K
+Sbjct  301  LLVLFTYIISWIIINKKEKK  320
+
+
+
+
+>ABC transporter permease [Lactobacillus crispatus]
+Sequence ID: WP_005719699.1 Length: 320
+Range 1: 18 to 314
+
+Score:302 bits(774), Expect:4e-98, 
+Method:Compositional matrix adjust., 
+Identities:143/302(47%), Positives:201/302(66%), Gaps:5/302(1%)
+
+Query  18   GSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDN  77
+            G GT+LS I+S  AD+LLE +GL+NNTRYF  +S+ +I  FL YLD  Y    IQ+H DN
+Sbjct  18   GIGTMLSNIESNYADELLEAHGLTNNTRYFRTDSDDKISTFLKYLDKNYANHQIQLHLDN  77
+
+Query  78   KYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLD  137
+             YE  QVLVWAN+ +   PTE+GRYFS DDF GQV  VVLGP    N+ +VQ N+Y+ L 
+Sbjct  78   NYEKKQVLVWANHAVTGLPTESGRYFSPDDFKGQVSFVVLGPTVKLNLLDVQNNKYVILG  137
+
+Query  138  DRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQ  197
+              YY+VIGEFK+Y Q+E D YYL+TGI+QPTA  +LK+YRI++DA   +I  +AKHYH  
+Sbjct  138  KNYYSVIGEFKDYPQVEMDKYYLSTGIDQPTAKDQLKNYRIVVDATPAVIEKIAKHYHAS  197
+
+Query  198  MYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWI  257
+            +++P FV  H  +R S + +I+++ + +L+G++ N+L+A    RQ + T L DDLLRNW+
+Sbjct  198  LHIPSFVQEHHRDRLSVVPDILMLVVCLLVGMITNMLLAIGIKRQARLTRLHDDLLRNWV  257
+
+Query  258  MNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKG  317
+            +NRS+R     +  A+  Y  L W AFYS  G   +  +  +++ ++++     YL RK 
+Sbjct  258  INRSVR-----LFFALATYFFLRWHAFYSTYGSLIVTLIASWVVIVLAFCGMVYYLVRKD  312
+
+Query  318  IK  319
+             K
+Sbjct  313  RK  314
+
+
+
+
+>hypothetical protein [Lactobacillus panisapium]
+Sequence ID: WP_220219675.1 Length: 321
+Range 1: 1 to 290
+
+Score:300 bits(767), Expect:4e-97, 
+Method:Compositional matrix adjust., 
+Identities:138/290(48%), Positives:201/290(69%), Gaps:0/290(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K+FL  II L+++G G++LS IQS EA+QLLE YGLSNNTRY  I +++ I  F+ 
+Sbjct  1    MKFKKIFLLFIIFLAMLGMGSMLSNIQSDEANQLLEAYGLSNNTRYIKIKNDQNISTFVR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL+ ++ K  IQ+H  +  +  Q L+W+N +++T PTE GRYF+ DDF G+V   VLG +
+Sbjct  61   YLEQKFPKNKIQLHLASNRKDKQTLIWSNKDVLTLPTEAGRYFTSDDFKGRVSFGVLGLN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +     + QGN+Y+ L+++YYTVIG  K+Y Q++Q+ YYLTTG  QPT   KL++Y III
+Sbjct  121  ANVKQYKTQGNQYIVLNNKYYTVIGTLKHYRQMKQNGYYLTTGSKQPTGQFKLRNYVIII  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +IR +A HY  ++  P FV +H++++FS IKEI+LI + +LI  ++N+++A + W
+Sbjct  181  DSSTRVIRQIAAHYGVKVKTPSFVKSHQSHQFSVIKEILLIGVFILIAGISNLILAFLDW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGH  290
+            +  K THL   LLRNW++N  IR IL E+LL  G Y  L WRAF+S P H
+Sbjct  241  QTVKQTHLSGGLLRNWLLNHGIRTILTEILLVFGAYFFLCWRAFFSKPDH  290
+
+
+
+
+>MULTISPECIES: hypothetical protein [unclassified Lactobacillus]
+Sequence ID: WP_122018222.1 Length: 321
+Range 1: 20 to 316
+
+Score:300 bits(767), Expect:5e-97, 
+Method:Compositional matrix adjust., 
+Identities:152/298(51%), Positives:198/298(66%), Gaps:2/298(0%)
+
+Query  20   GTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKY  79
+            G+ILS IQS+EADQLLE YGLSNNTRYF+I + + +  FL YL  +Y K  IQ+H  NK 
+Sbjct  20   GSILSSIQSQEADQLLEAYGLSNNTRYFEIKNKQTVSAFLNYLQEKYPKNKIQLHLANKN  79
+
+Query  80   EADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDR  139
+            E +Q LVW+N N++  PTE+GRYFS+DDF  +V   VLG +S A   + QGN+YLKL++ 
+Sbjct  80   ETNQTLVWSNYNVINLPTESGRYFSVDDFKSRVTFAVLGLNSKAATLKTQGNQYLKLNNN  139
+
+Query  140  YYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMY  199
+            YY+VIG  K+Y Q++Q  YYLTTG  QPT   KLK+Y IIID+   +IRH+A HYH ++ 
+Sbjct  140  YYSVIGTLKHYRQMKQTGYYLTTGPEQPTGQFKLKNYVIIIDSSNKVIRHLASHYHVKVK  199
+
+Query  200  VPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMN  259
+            +P FV  H+ +RFS IKEI+ +     I ++ N+L+A I W  GK THL   LL N + N
+Sbjct  200  IPSFVKKHQIHRFSVIKEIIFMIFFGFIIMLCNVLLAIIEWSTGKQTHLSGHLLNNLLFN  259
+
+Query  260  RSIRYILFEVLLAVGVYILLSWRAFYSYPGH-FAILSLFEFILFMVSYVLTYLYLSRK  316
+            R IR IL E+LL    Y  L+WR F S   H F +LS+   + F +SY  T  YL RK
+Sbjct  260  RGIRIILMELLLTFSAYFFLNWRTFISKQQHLFWLLSICWLVAF-ISYCYTLFYLWRK  316
+
+
+
+
+>hypothetical protein [Lactobacillus bombicola]
+Sequence ID: WP_090091971.1 Length: 321
+Range 1: 1 to 321
+
+Score:295 bits(756), Expect:2e-95, 
+Method:Compositional matrix adjust., 
+Identities:146/321(45%), Positives:202/321(62%), Gaps:0/321(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K+ + + I LSL+G G++LS IQS+EADQLLE YGLSNNTRY ++ +N+ I  FLT
+Sbjct  1    MKFKKIIIFVTIFLSLLGIGSMLSNIQSREADQLLEAYGLSNNTRYIEVKNNQTISSFLT  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL   Y K  IQ+HF +K +  Q L+WAN+N++T PTE+GRYF+ DDF G+V   VL  +
+Sbjct  61   YLQKNYAKYKIQLHFKSKIDPKQTLIWANHNVITLPTESGRYFTADDFQGRVSFAVLSLN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +       QGN Y+ LD+ YY+VIG  K+YHQ++Q+ YYL+TG  QPT   KL +Y III
+Sbjct  121  AKVQTLATQGNEYVVLDNSYYSVIGTLKHYHQMKQNGYYLSTGPKQPTGKAKLTNYIIII  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +I  +A  Y  ++  P FV  H+ ++FS I+EI L+ +  +I +  N L+A   W
+Sbjct  181  DSSSKMINKLASRYKVKIKTPIFVKNHQIHKFSIIREISLVIVFTIIAMSCNTLLALFDW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+               K+T L   LL NW+ NR +R IL E  L +G Y+ LSWRAF S P    +L L  + 
+Sbjct  241  SVVKNTALTGQLLHNWLFNRGVRTILLESALVLGAYLFLSWRAFISKPQQMILLLLLSWF  300
+
+Query  301  LFMVSYVLTYLYLSRKGIKRG  321
+            L + +Y  T L   RK  K  
+Sbjct  301  LIIAAYSFTILQHLRKEKKHA  321
+
+
+
+
+>ABC transporter permease [Lactobacillus kitasatonis]
+Sequence ID: WP_304228568.1 Length: 327
+Range 1: 1 to 316
+
+Score:293 bits(749), Expect:3e-94, 
+Method:Compositional matrix adjust., 
+Identities:145/316(46%), Positives:209/316(66%), Gaps:0/316(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+FL LI +L+ +G GT+LS I S  AD+LLE +GL+NNTRYF  ++ + I  FL 
+Sbjct  1    MNFKKIFLLLIPLLAFLGMGTMLSNIDSGHADELLEAHGLTNNTRYFRTSNKQSISSFLH  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD  Y    +Q+H D+ YE  QVLVWAN+ + + PTE GRYFS DDF G+V   VLGP 
+Sbjct  61   YLDKYYANHQLQLHLDSNYEKKQVLVWANHTVKSLPTEEGRYFSPDDFKGKVSFAVLGPA  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+ +VQ N+Y+ L   YY+VIGEFK+Y Q+E D YYL+TGI+QPTA  +L++YR++I
+Sbjct  121  TNVNLLDVQNNKYVVLGQNYYSVIGEFKDYPQVEMDKYYLSTGIDQPTAEDQLRNYRVVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D   +II  +A+HYH +++ P FV  H  +R+S + +I+L+ + +L G   N+L+A +  
+Sbjct  181  DGAPNIIEKIARHYHAKLHTPSFVKEHHRDRWSVVPDILLLLVAMLFGAGGNVLLAILIE  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            RQ K THL   LLRNW++N+S+R  + E +L +  YI L   AFYS         +  +I
+Sbjct  241  RQAKLTHLHGVLLRNWVINQSVRLFMIEGVLGIFTYIFLRCHAFYSTYSSLIFTLIAAWI  300
+
+Query  301  LFMVSYVLTYLYLSRK  316
+            +F+  + +T   L RK
+Sbjct  301  IFIAVFCITIYSLVRK  316
+
+
+
+
+>ABC transporter permease [Lactobacillus xylocopicola]
+Sequence ID: WP_317638216.1 Length: 321
+Range 1: 1 to 317
+
+Score:291 bits(746), Expect:7e-94, 
+Method:Compositional matrix adjust., 
+Identities:145/317(46%), Positives:208/317(65%), Gaps:0/317(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M ++K  L +I+ LS +G G++LS IQS +ADQLLE YGLSNNTRYF + S + +  FL 
+Sbjct  1    MKVKKFILIIILFLSFLGIGSMLSNIQSNQADQLLEAYGLSNNTRYFKVQSKQTVGAFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            +L  +Y K  IQIH  +++E +Q L+W+N+++VT PTENGRYF+ DDF G+V   VLG +
+Sbjct  61   FLQKKYPKRKIQIHLASQHERNQTLIWSNHDVVTLPTENGRYFTRDDFKGKVSFAVLGQN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +     +VQ N+Y+ L ++YYTVIG FK+Y Q++Q+ YYLTTG  QPT   KL++Y III
+Sbjct  121  ARVKTLQVQNNQYVDLGNKYYTVIGTFKHYRQMKQNEYYLTTGPQQPTGRFKLQNYVIII  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   I R +A HY  ++  P FV  H+N +FS +KEI+L   +++     N  +A I W
+Sbjct  181  DSSVKISRQLAAHYGAKLKTPPFVKKHQNRKFSVVKEILLAIGLIIFAGSCNFFLALIDW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+               K THL   LL NW++NR IR +L E+LLA+  Y  L WRAF+S   H   L L  ++
+Sbjct  241  ETVKKTHLNGKLLLNWLVNRGIRIMLIELLLALAAYFFLCWRAFFSNTQHLLGLLLACWL  300
+
+Query  301  LFMVSYVLTYLYLSRKG  317
+            L  +++  +  YL+R+ 
+Sbjct  301  LVSIAFTSSIFYLTRRS  317
+
+
+
+
+>hypothetical protein [Lactobacillus sp. wkB8]
+Sequence ID: WP_038522665.1 Length: 324
+Range 1: 14 to 319
+
+Score:290 bits(743), Expect:2e-93, 
+Method:Compositional matrix adjust., 
+Identities:139/306(45%), Positives:202/306(66%), Gaps:0/306(0%)
+
+Query  14   LSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQI  73
+            LSL+G G++LS +QS+EADQLLE YGLSNNTRY ++ +N+ +  F+TYL   Y K  IQ+
+Sbjct  14   LSLLGIGSMLSNVQSREADQLLEAYGLSNNTRYINVKNNQNVGSFITYLQKNYPKNKIQV  73
+
+Query  74   HFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRY  133
+            H  +K + +Q LVW+N+ +VT PTE+GRYF+ DDF G+V   VLG ++     +VQ N+Y
+Sbjct  74   HLASKSKDNQTLVWSNHEVVTLPTESGRYFTADDFKGRVSFAVLGLNAKVPTLKVQDNQY  133
+
+Query  134  LKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKH  193
+            + L+  YY+VIG  K+Y Q++Q+ YYLTTG  QPT   KLK+Y II+D+    IR +AKH
+Sbjct  134  VHLNQTYYSVIGILKHYRQMKQNGYYLTTGPKQPTGKFKLKNYIIIVDSSSKTIRQIAKH  193
+
+Query  194  YHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLL  253
+            YH ++  P FV  H+ ++FS ++EI LIA+ ++I  ++N+L+A + W+  K THL   LL
+Sbjct  194  YHAKVKTPLFVKNHQIHQFSFLREIALIAVFLIIAFLSNLLLAYMDWQTVKQTHLNGALL  253
+
+Query  254  RNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYL  313
+            RNW++N  IR +L E+ +  G Y  LSWR F S   H   L    +++   +Y    ++ 
+Sbjct  254  RNWLINHGIRILLIELAVTFGAYFFLSWRIFISNKQHLIWLLALSWLIIAAAYSFCVIHQ  313
+
+Query  314  SRKGIK  319
+             RK  K
+Sbjct  314  LRKDQK  319
+
+
+
+
+>hypothetical protein [Lactobacillus sp. ESL0785]
+Sequence ID: WP_277163804.1 Length: 321
+Range 1: 20 to 316
+
+Score:289 bits(739), Expect:7e-93, 
+Method:Compositional matrix adjust., 
+Identities:142/297(48%), Positives:199/297(67%), Gaps:0/297(0%)
+
+Query  20   GTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKY  79
+            G++LS +QS+EADQLLE YGLSN+TRY ++N  +++  FL YL   Y    IQ+H   K 
+Sbjct  20   GSMLSNVQSREADQLLEAYGLSNSTRYIEVNQKQKVSTFLHYLTKNYPHNNIQVHLAKKG  79
+
+Query  80   EADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDR  139
+             + Q L+WAN+ I+  PTE+GRYFS DDF GQV   VLG ++     + QGN+Y+ L  +
+Sbjct  80   HSSQTLIWANHTIINLPTESGRYFSTDDFQGQVSFAVLGLNAKVKTLKTQGNQYVILGQK  139
+
+Query  140  YYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMY  199
+            YY+VIG  K+Y Q++QD YYLTTG  QPT   KLK+Y+IIIDA + ++  +A HYH +  
+Sbjct  140  YYSVIGILKHYRQMKQDGYYLTTGPQQPTGRFKLKNYQIIIDASDKVMHKIAMHYHVKEK  199
+
+Query  200  VPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMN  259
+             P FV  H+ ++FS I+EI+LI L ++  I  N L+A + W+  K T+L  +LLRNW++N
+Sbjct  200  TPLFVKKHQIHQFSVIREILLIILFLIAAISCNFLLAVVDWQTVKRTNLSGNLLRNWLIN  259
+
+Query  260  RSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRK  316
+            R IR IL E+L+ VG Y+ L WRAFYS P H   L    +++ ++ Y  + +YLSRK
+Sbjct  260  RGIRIILTEILVTVGAYLFLRWRAFYSKPEHLIWLLAASWLVIVIGYTCSIVYLSRK  316
+
+
+
+
+>hypothetical protein [Lactobacillus apis]
+Sequence ID: WP_278952081.1 Length: 321
+Range 1: 18 to 316
+
+Score:286 bits(733), Expect:7e-92, 
+Method:Compositional matrix adjust., 
+Identities:136/299(45%), Positives:199/299(66%), Gaps:0/299(0%)
+
+Query  18   GSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDN  77
+            G+GT+LS +QS+EA+QLLE YGLSNNTR F+I +++ + DFL YL+  + +  IQ+H  +
+Sbjct  18   GTGTMLSNVQSQEANQLLEAYGLSNNTRSFEIKNSQSVSDFLKYLEKTFPQNKIQLHLTS  77
+
+Query  78   KYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLD  137
+            K + +Q LVW+N++++T PTE+GRYF+ DDF G+V   VLG ++     + Q N Y+ L+
+Sbjct  78   KRKDNQTLVWSNHDVLTLPTESGRYFTSDDFKGRVSFGVLGLNAKVPTLKTQNNEYINLN  137
+
+Query  138  DRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQ  197
+            + YY+VIG  K+Y +++Q+ YYLTTG  QPT   KLKDY IIID+   +IR +A+HY  +
+Sbjct  138  NTYYSVIGILKHYRRMKQNGYYLTTGTKQPTGKFKLKDYTIIIDSSNKVIRKIARHYDVK  197
+
+Query  198  MYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWI  257
+            +  P FV  H+  + S IKE++ I L+V +  +AN+++A + W+  K+THL+  LLRNW+
+Sbjct  198  VKTPVFVRKHQKRQLSVIKELLFIILLVFVATIANLILAYLDWQTVKATHLKGSLLRNWL  257
+
+Query  258  MNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRK  316
+             N   R IL E+LL++G Y  L WRAFYS   H  IL L  + +  V Y        RK
+Sbjct  258  ANHGFRIILVELLLSLGAYFFLCWRAFYSNREHLLILLLGSWGVVAVVYSFFIFLCWRK  316
+
+
+
+
+>hypothetical protein [Lactobacillus sp. ESL0684]
+Sequence ID: WP_277140317.1 Length: 326
+Range 1: 1 to 322
+
+Score:284 bits(726), Expect:8e-91, 
+Method:Compositional matrix adjust., 
+Identities:142/322(44%), Positives:211/322(65%), Gaps:1/322(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K  L +II LS +G G++LS IQS+EADQLLE YGLSNNTR   IN+++++ D + 
+Sbjct  1    MKFKKTGLIIIIFLSFLGIGSMLSNIQSREADQLLEAYGLSNNTRTIKINNSQRVSDLID  60
+
+Query  61   YLDNRYEKATIQIHF-DNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGP  119
+            YL  ++ ++ IQ+H  +   +++Q LVWAN+N+V+ PTE+GRYF++D+F GQV   VLG 
+Sbjct  61   YLQKKHPRSAIQVHLVEQDKQSNQTLVWANHNVVSLPTESGRYFTLDNFKGQVSFAVLGL  120
+
+Query  120  DSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRII  179
+            +      + QGN+Y+ L  +YY+VIG  K+Y Q++QD YYLTTG NQPT   KLK+Y+I+
+Sbjct  121  NCPIATLKTQGNQYVILHKQYYSVIGTLKHYRQMKQDGYYLTTGSNQPTGQFKLKNYQIM  180
+
+Query  180  IDAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIY  239
+            ID+   +I+ +A HY  +   P FV  H+ ++FS +KE+V I L  L     N+L+A + 
+Sbjct  181  IDSSPKVIKQIANHYQVKAKTPVFVRKHQIHQFSILKELVAIMLFSLAAACCNLLLALLD  240
+
+Query  240  WRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEF  299
+            W+  K T L   LLRNW++NR IR +L E+L+ +   + L+WRAFYS P     L +  +
+Sbjct  241  WQLVKKTSLSGKLLRNWLLNRGIRNMLLELLVTLAANLFLNWRAFYSRPLALVWLLMISW  300
+
+Query  300  ILFMVSYVLTYLYLSRKGIKRG  321
+            +  +  Y ++ +YL RK   R 
+Sbjct  301  VFIIAIYAVSLVYLLRKDQHRA  322
+
+
+
+
+>MULTISPECIES: hypothetical protein [Lactobacillus]
+Sequence ID: WP_198179215.1 Length: 324
+Range 1: 1 to 316
+
+Score:282 bits(721), Expect:4e-90, 
+Method:Compositional matrix adjust., 
+Identities:137/316(43%), Positives:209/316(66%), Gaps:0/316(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K  L  II LS +G G++LS +QS+EA+QLLE YGLSNNTRY ++ ++++++ FL 
+Sbjct  1    MKFKKTILIFIIFLSFLGIGSMLSNVQSREANQLLEAYGLSNNTRYIEVKNDQEVRSFLI  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL  ++    IQ+H  +K + +Q LVW+N++++  PTE+GRYF+ DDF G V   VLG +
+Sbjct  61   YLKKKFPHNKIQVHMTSKAKKNQTLVWSNHDVLKLPTESGRYFTKDDFKGHVSFAVLGLN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +     + QGN Y+ ++ +YYTVIG  K+Y Q++Q+ YYLTT   QPT   KL+DY+III
+Sbjct  121  AEVPTLKTQGNEYIYINQKYYTVIGTLKHYRQMKQNGYYLTTSPKQPTGKFKLRDYQIII  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D+   +I+ +AKHY  +   P FV  H+ ++FS I+EI+ I L +LI   +NIL+A + W
+Sbjct  181  DSSNKVIQQIAKHYKVKAKTPVFVKNHQIHQFSIIREILFILLFLLIAAASNILLAFMDW  240
+
+Query  241  RQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFI  300
+            +  K T+L+  LLRNW++N  +R +L E+++  G Y+ L WR F S P H   L +  +I
+Sbjct  241  KTVKQTNLKGSLLRNWLINHGVRILLIELVITFGAYLFLIWRKFISKPQHLIWLLMISWI  300
+
+Query  301  LFMVSYVLTYLYLSRK  316
+            +  + Y +  L+L RK
+Sbjct  301  IISILYGIGILHLLRK  316
+
+
+
+
+>MULTISPECIES: hypothetical protein [Lactobacillus]
+Sequence ID: WP_281827933.1 Length: 301
+Range 1: 1 to 301
+
+Score:275 bits(702), Expect:1e-87, 
+Method:Compositional matrix adjust., 
+Identities:147/301(49%), Positives:205/301(68%), Gaps:1/301(0%)
+
+Query  22   ILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEA  81
+            +LS +QS+EADQLLE +G+ NNTRYF  N N +I  FL YL  +Y K  IQ+H DN+ + 
+Sbjct  1    MLSNVQSREADQLLEAHGMDNNTRYFYTNKNEKISAFLKYLKKKYPKEHIQLHLDNRIDK  60
+
+Query  82   DQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYY  141
+             Q+LVW+N+++ + PT++G YF  DDF GQVP  VLGPD+  N+ E QGNRY+    RYY
+Sbjct  61   QQILVWSNHSLRSLPTQSGCYFQADDFEGQVPFAVLGPDTKKNVIERQGNRYILYHKRYY  120
+
+Query  142  TVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPE-HIIRHVAKHYHTQMYV  200
+            +VIGEFKNYHQ +Q  YYLTTG+NQPTA   LK+YRI+IDA     ++ +AK Y+ ++ +
+Sbjct  121  SVIGEFKNYHQSQQTQYYLTTGVNQPTANANLKNYRIVIDATHLSAVKKIAKQYNGKITM  180
+
+Query  201  PKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNR  260
+            P FV  H+  RFS I+EI+LI L+ L+ + AN+L+A +  +Q K THL+  L +NW++NR
+Sbjct  181  PTFVKKHQLYRFSVIREIILIILLWLVAMGANLLIALMQHKQVKLTHLKGSLYKNWLVNR  240
+
+Query  261  SIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKGIKR  320
+             +R IL E LLA+  YILL +  F+S   H  +L    ++  + +YV T L+L  K  +R
+Sbjct  241  ELRLILIESLLAIVAYILLRYLGFFSKVNHLILLLFLNWLAAIFAYVFTGLFLHWKEHRR  300
+
+Query  321  G  321
+             
+Sbjct  301  A  301
+
+
+
+
+>ABC transporter permease [Lactobacillus amylovorus]
+Sequence ID: MDF9461995.1 Length: 254
+Range 1: 1 to 254
+
+Score:271 bits(692), Expect:9e-87, 
+Method:Compositional matrix adjust., 
+Identities:128/254(50%), Positives:172/254(67%), Gaps:0/254(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L  I +L+ +G GT+LS I S  AD+LLE +GL+NNTRYF  NS   I  FL 
+Sbjct  1    MNFKKILLLFIPLLAFLGMGTMLSNIDSGHADELLEAHGLTNNTRYFRTNSKESISSFLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YLD  Y    +Q+H D+ YE  QVLVWAN+ + + PTE GRYFS DDF G+V   VLGP 
+Sbjct  61   YLDKDYANHQLQLHLDSNYEKKQVLVWANHTVKSLPTEEGRYFSPDDFKGKVSFAVLGPA  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +  N+  VQ N+Y+ L   YY+VIGEFK+Y Q+E D YYL+TGI+QPTA  +L++YRI+I
+Sbjct  121  TEVNLLNVQNNKYVVLGQNYYSVIGEFKDYPQVEMDKYYLSTGIDQPTAKDQLRNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYW  240
+            D   +++  +AKHYH Q++VP FV  H  +R+S I  I+L+ +  L GI  N+L+A +  
+Sbjct  181  DGAPNVLDRIAKHYHAQLHVPSFVKEHHRDRWSVIPYILLLLVAELFGIGGNVLLAILIK  240
+
+Query  241  RQGKSTHLRDDLLR  254
+            RQ K T L  +LLR
+Sbjct  241  RQAKLTRLHGELLR  254
+
+
+
+
+>hypothetical protein [uncultured Lactobacillus sp.]
+Sequence ID: WP_294759575.1 Length: 324
+Range 1: 18 to 316
+
+Score:269 bits(688), Expect:5e-85, 
+Method:Compositional matrix adjust., 
+Identities:131/299(44%), Positives:199/299(66%), Gaps:0/299(0%)
+
+Query  18   GSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDN  77
+            G G++LS +QS+EA+QLLE YGLSNNTRY ++ +N++++ FLTYL  RY    IQ+H  +
+Sbjct  18   GIGSMLSNVQSREANQLLEAYGLSNNTRYIEVKNNQEVRTFLTYLKKRYPHNKIQVHMTS  77
+
+Query  78   KYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLD  137
+            K + +Q LVW+N+N++  PTE+GRYF+ DDF GQV   VLG ++     + QGN Y+ ++
+Sbjct  78   KAKKNQTLVWSNHNVLKLPTESGRYFTKDDFKGQVSFAVLGLNAKVPTLKAQGNEYVYIN  137
+
+Query  138  DRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQ  197
+             +YYTVIG  K+Y Q++Q+ YYLT    QPT   KL+DY+IIID+   +I+ +AKHY  +
+Sbjct  138  KKYYTVIGTLKHYRQMKQNGYYLTASPKQPTGKFKLRDYQIIIDSSNKVIQQIAKHYGVK  197
+
+Query  198  MYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWI  257
+               P FV  H+ ++FS I+EI+ I + +LI   +NI++A + W+  + T+L+  LL NW+
+Sbjct  198  AKTPVFVKNHQIHQFSIIREILFILIFLLIASASNIILAFMDWKTVQQTNLKGSLLHNWL  257
+
+Query  258  MNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRK  316
+            +N  IR +L E+++  G Y  L  R F S P H   L +  +++  + Y L+ L+L RK
+Sbjct  258  INHGIRILLVELVVTFGSYFFLISRKFVSKPQHLIWLLMTSWVIISIFYALSILHLLRK  316
+
+
+
+
+>hypothetical protein DM466_10050, partial [Lactobacillus helveticus]
+Sequence ID: PXZ35464.1 Length: 241
+Range 1: 1 to 241
+
+Score:264 bits(674), Expect:4e-84, 
+Method:Compositional matrix adjust., 
+Identities:118/241(49%), Positives:167/241(69%), Gaps:0/241(0%)
+
+Query  46   YFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSI  105
+            YF  +S+  I  FL YL+  Y    IQ+HFD+ YE  QVLVW N+ + + PTE GRYFS 
+Sbjct  1    YFRTDSDESISSFLRYLNKNYAHHQIQLHFDSNYEKKQVLVWTNHMVKSLPTETGRYFSP  60
+
+Query  106  DDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGIN  165
+            DDF G+V   VLGP +  N+ EVQ N+Y+ L   YY+VIG FKNY Q+E D YYL+TG++
+Sbjct  61   DDFKGKVSFAVLGPTAKINVLEVQNNKYVVLGRNYYSVIGTFKNYPQVEMDKYYLSTGVD  120
+
+Query  166  QPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMV  225
+            QPTA  +L++YRI+ID+  ++I  +AKHYH ++++P FV  H  +R S +  I+++   V
+Sbjct  121  QPTAQDQLRNYRIVIDSTPYVINKIAKHYHAKLHIPSFVQEHHRDRLSVLPNILMLVACV  180
+
+Query  226  LIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFY  285
+            +IGI++N+++A +  RQ + THLR DLLRNW++NRS+R ++ E + A   YI L W AFY
+Sbjct  181  IIGILSNVVLAILMKRQARLTHLRGDLLRNWVINRSVRTLMVEGVCAFLAYIFLRWHAFY  240
+
+Query  286  S  286
+            S
+Sbjct  241  S  241
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: NMB32308.1 Length: 255
+Range 1: 1 to 249
+
+Score:254 bits(649), Expect:3e-80, 
+Method:Compositional matrix adjust., 
+Identities:114/249(46%), Positives:170/249(68%), Gaps:0/249(0%)
+
+Query  71   IQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQG  130
+            IQ+HFD+ YE  QVLVW+N+ + + PTE GRYFS DDF G+V   VLGP +  N+ E Q 
+Sbjct  1    IQLHFDSNYEKKQVLVWSNHVVKSLPTETGRYFSPDDFEGKVSFAVLGPTAKINVLEAQN  60
+
+Query  131  NRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHV  190
+            N+Y+ L   YY+VIG FKNY Q+E D YYL+TG+NQPTA  +L++YRI+ID+  ++I  +
+Sbjct  61   NKYVVLGRNYYSVIGTFKNYPQVEMDKYYLSTGVNQPTARDQLRNYRIVIDSTPYVISKI  120
+
+Query  191  AKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRD  250
+            AKHYH ++++P FV  H  +R S +  I+++ + +++G+V NI++A +  RQ K THL  
+Sbjct  121  AKHYHAKLHIPSFVQEHHRDRLSVLPNILMLIICMILGVVTNIVLAILMMRQAKLTHLHG  180
+
+Query  251  DLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTY  310
+            DL RNW++NRS R ++ E +  +  YI L W AFYS     +I+ L  +++ +V++ +T 
+Sbjct  181  DLFRNWVINRSARTLMVEGVCGLLAYIFLRWHAFYSVASVLSIVLLMAWLMNVVAFCITL  240
+
+Query  311  LYLSRKGIK  319
+             +L RK  K
+Sbjct  241  YHLIRKDKK  249
+
+
+
+
+>ABC transporter permease [Lactobacillus crispatus]
+Sequence ID: MCT7873341.1 Length: 239
+Range 1: 18 to 236
+
+Score:251 bits(640), Expect:4e-79, 
+Method:Compositional matrix adjust., 
+Identities:114/219(52%), Positives:157/219(71%), Gaps:0/219(0%)
+
+Query  18   GSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDN  77
+            G GT+LS I+S  AD+LLE +GL+NNTRYF  +S+ +I  FL YLD  Y    IQ+H DN
+Sbjct  18   GIGTMLSNIESNYADELLEAHGLTNNTRYFRTDSDDKISTFLKYLDKNYANHQIQLHLDN  77
+
+Query  78   KYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLD  137
+             YE  QVLVWAN+ +   PTE+GRYFS DDF GQV  VVLGP    N+ +VQ N+Y+ L 
+Sbjct  78   NYEKKQVLVWANHAVTGLPTESGRYFSPDDFKGQVSFVVLGPTVKLNLLDVQNNKYVILG  137
+
+Query  138  DRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQ  197
+              YY+VIGEFK+Y Q+E D YYL+TGI+QPTA  +LK+YRI++DA   +I  +AKHYH  
+Sbjct  138  KNYYSVIGEFKDYPQVEMDKYYLSTGIDQPTAKDQLKNYRIVVDATPAVIEKIAKHYHAS  197
+
+Query  198  MYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVA  236
+            +++P FV  H  +R S + +I+++ + +L+G++ N+L+A
+Sbjct  198  LHIPSFVQEHHRDRLSVVPDILMLVVCLLVGMITNMLLA  236
+
+
+
+
+>hypothetical protein [Lactobacillus acetotolerans]
+Sequence ID: HBQ42992.1 Length: 197
+Range 1: 1 to 197
+
+Score:232 bits(591), Expect:3e-72, 
+Method:Compositional matrix adjust., 
+Identities:109/197(55%), Positives:144/197(73%), Gaps:1/197(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L  II L+ +G+G++LS +QS+EADQLLE +GLSNNTR    +S   +K+FL 
+Sbjct  1    MNYKKILLIFIIFLTFLGTGSMLSNVQSREADQLLEAHGLSNNTRDIRTDSKETVKNFLQ  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL+  Y    IQ+H DN YE +Q+LVWAN+NI+  PTE+GRYFS DDF GQV   VLGP+
+Sbjct  61   YLNKNYPHKKIQLHLDNNYEKNQILVWANHNIIGLPTESGRYFSPDDFQGQVSFAVLGPN  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            +     ++Q N+Y+   ++YY+VIG  K+YHQIEQ+ YYLTTGINQPTA  KL +YRI+I
+Sbjct  121  AEVGTAKMQNNQYVIWGNQYYSVIGTLKHYHQIEQNKYYLTTGINQPTAQSKLNNYRIVI  180
+
+Query  181  DAPEHIIRHVAKHY-HT  196
+            D+   +I  VAKHY HT
+Sbjct  181  DSSNKVIHRVAKHYRHT  197
+
+
+
+
+>hypothetical protein [Lactobacillus corticis]
+Sequence ID: WP_212780734.1 Length: 297
+Range 1: 1 to 291
+
+Score:224 bits(570), Expect:9e-68, 
+Method:Compositional matrix adjust., 
+Identities:121/297(41%), Positives:179/297(60%), Gaps:7/297(2%)
+
+Query  22   ILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEA  81
+            ++S +QS++AD LLE +G+SNNTRY  I+SN+++  FL Y+D  Y+   +QIHF+++Y  
+Sbjct  1    MISNVQSRQADDLLEAHGMSNNTRYITIDSNKKVAIFLKYIDENYK--NVQIHFEDRYTQ  58
+
+Query  82   DQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYY  141
+             +VLVWAN  +   PT  GRYFS DDF G+V V V+   S+ N  EVQ N+YL     YY
+Sbjct  59   GKVLVWANQTVTPLPTYVGRYFSKDDFKGRVSVAVVEYGSSLNTEEVQNNKYLINGQTYY  118
+
+Query  142  TVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYVP  201
+            +VIG+ K    +  + ++L+TGINQPTA   L +YRI++DA    I  ++KHYH ++  P
+Sbjct  119  SVIGQLKRNKSVPSNMFFLSTGINQPTAQTALSNYRIVLDAAPKTIAKISKHYHAEVKTP  178
+
+Query  202  KFVTTHRNNRF-STIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNR  260
+             FV  H  +     I EI++  LM++I      + A +   Q K + L+  LL NWI+NR
+Sbjct  179  VFVKRHHQHYLIYIIPEIIVALLMIIILASLAWIAAKLLVAQAKISGLKGRLLTNWIINR  238
+
+Query  261  SIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKG  317
+            S+R IL   L+ +   + L+  AFYS     + +   EF L  V++++T     RKG
+Sbjct  239  SLRLILVIGLIMIISLVFLNTHAFYSNRTVLSWIVGLEFCLQFVTFLVT----CRKG  291
+
+
+
+
+>hypothetical protein [Lactobacillus equicursoris]
+Sequence ID: WP_008460660.1 Length: 328
+Range 1: 1 to 318
+
+Score:207 bits(527), Expect:9e-61, 
+Method:Compositional matrix adjust., 
+Identities:106/318(33%), Positives:180/318(56%), Gaps:2/318(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  RK+ + + I L  +G GT+ S +QS+ ADQ+L++ G+S  +R      +++I  F+ 
+Sbjct  1    MKWRKLLVLIGIFLLFLGVGTVCSNMQSQLADQILQSRGMSMESRIVKAKKSQKISTFIK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANN-NIVTQPTENGRYFSIDDFAGQVPVVVLGP  119
+            +L+  Y K +IQ+   NK  ++Q+L+WA N ++   P  +GR+FS DDF  +V +  +  
+Sbjct  61   WLEKEYPKESIQLQLKNKQNSNQILIWAQNRDLAYFPVSSGRFFSADDFTSRVTLAAISS  120
+
+Query  120  DSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRII  179
+             + A++   QGN YL LDD YY+V+G  K         YYLTTG  Q TA G LK+Y I 
+Sbjct  121  ATEASVIRTQGNSYLNLDDSYYSVVGTLKAVPYQNSKDYYLTTGEKQATANGNLKNYTIY  180
+
+Query  180  IDAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTI-KEIVLIALMVLIGIVANILVAAI  238
+            +DA    I  +A H  +  Y P +V  +R  R + +  E +LI  M+  GI+   L A +
+Sbjct  181  VDASSATISKIASHLGSYSYWPDYVKRNRQRRLTLLMPEAILITFMLGFGILLVSLYAYL  240
+
+Query  239  YWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFE  298
+             ++  + +H++ +LL N ++N+S R+I+F +L ++G Y  L W+A++       ++    
+Sbjct  241  TFKGAEMSHVKGELLTNLVLNKSGRFIVFLILESLGAYYFLIWKAYFGNRMALGLILAGT  300
+
+Query  299  FILFMVSYVLTYLYLSRK  316
+             ++ +++Y    +Y  RK
+Sbjct  301  TVIELITYTALLVYFIRK  318
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: MDN6029252.1 Length: 295
+Range 1: 1 to 263
+
+Score:203 bits(517), Expect:1e-59, 
+Method:Compositional matrix adjust., 
+Identities:101/265(38%), Positives:157/265(59%), Gaps:2/265(0%)
+
+Query  22   ILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEA  81
+            +LS IQS  AD LLE +GLSNN+RY +++S + +  FL  L  +  +  IQ+H +N+YE 
+Sbjct  1    MLSNIQSLLADDLLEAHGLSNNSRYLELSSRKSVSSFLRTL--KPYRTAIQVHLENQYER  58
+
+Query  82   DQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYY  141
+             QVLVW+N ++ + PT  G YF+ DDF G V   V+   S  N  EVQGN+YL +   YY
+Sbjct  59   GQVLVWSNQSVTSMPTYVGHYFTSDDFQGMVSFAVVEYGSRLNTKEVQGNKYLIVGRTYY  118
+
+Query  142  TVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYVP  201
+             VIG+ K    +  + Y+L+TG +QPT    + +YR++ID+   +I  +AK YH ++  P
+Sbjct  119  AVIGQLKPLKAVSANQYFLSTGFDQPTGKTTIANYRVLIDSSNRVISKIAKQYHAKVTSP  178
+
+Query  202  KFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNRS  261
+             FV  H+++R+S   E ++IA+++L+G+  +  +A   WR+             + +   
+Sbjct  179  AFVKAHQHHRWSFAGEFMVIAVLILLGLAIHYWLANQNWRRSNRLGQSPQDCWQYFVRAG  238
+
+Query  262  IRYILFEVLLAVGVYILLSWRAFYS  286
+            +R+ L   LLA+  Y  LS+ AFYS
+Sbjct  239  MRFGLLTALLAIISYFFLSFHAFYS  263
+
+
+
+
+>hypothetical protein [Lactobacillus nasalidis]
+Sequence ID: WP_201330596.1 Length: 327
+Range 1: 1 to 315
+
+Score:199 bits(505), Expect:2e-57, 
+Method:Compositional matrix adjust., 
+Identities:104/315(33%), Positives:174/315(55%), Gaps:2/315(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M   K+F+        I  G + S +QS+ A+Q+L++ G+S  TR      N  +  F+ 
+Sbjct  1    MKRHKLFVIFSTFFLFILIGIVCSNMQSQLANQILQSQGMSMQTRIVKPKKNMTVSSFIK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANN-NIVTQPTENGRYFSIDDFAGQVPVVVLGP  119
+            ++   Y K +IQ+ F +K +  Q+LVWA N ++   P  +GR+F+ DDF GQ+ +  +  
+Sbjct  61   WVKKEYPKESIQMQFKSKSDKHQILVWAQNRDLDYFPVSSGRFFTEDDFKGQITIAAVSS  120
+
+Query  120  DSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRII  179
+             + A   + QGN YL L+  YYTV+G  K+        YYLTTG NQ T   ++  + + 
+Sbjct  121  ATQATQIKTQGNSYLYLNGLYYTVVGNLKSVPYQSSKDYYLTTGENQATGKKQISRFTLY  180
+
+Query  180  IDAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTI-KEIVLIALMVLIGIVANILVAAI  238
+            +DA    I  +AKH  ++ Y P+FV  +R  R + +  E +LI  +  +GI    L+A +
+Sbjct  181  VDASSATIGKIAKHLSSETYWPEFVKRNRQRRLTLLMPEALLILFLTGVGIALMGLIAWV  240
+
+Query  239  YWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFE  298
+             W++ + +HL+ +LL N ++NRS R+I+  V  A+G Y LL W+A++   G  A+L L  
+Sbjct  241  AWKEAELSHLKGELLANLLLNRSGRFIVLMVAEAIGAYFLLVWKAYFGNRGILALLLLGV  300
+
+Query  299  FILFMVSYVLTYLYL  313
+             ++ +  Y+   +Y+
+Sbjct  301  TVVELAVYISMMIYM  315
+
+
+
+
+>hypothetical protein [Lactobacillus porci]
+Sequence ID: WP_154547345.1 Length: 325
+Range 1: 1 to 321
+
+Score:197 bits(501), Expect:5e-57, 
+Method:Compositional matrix adjust., 
+Identities:109/321(34%), Positives:175/321(54%), Gaps:2/321(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M   ++ ++L   L LI  G + S +QS+ A+Q+L+  G+S   R      + +IK  L 
+Sbjct  1    MKRHRLTVSLFSFLMLILIGIVCSNMQSQLANQILQARGMSMEARIVKPKKDVEIKTVLR  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANN-NIVTQPTENGRYFSIDDFAGQVPVVVLGP  119
+            ++  +Y   ++Q+   NKYE  +VL+WA N N+   P   GR+F+  DF G+V    L  
+Sbjct  61   WIKKKYPHDSVQMQLQNKYEKKEVLIWAQNRNLHYFPVTQGRFFTSADFTGRVTFAALAA  120
+
+Query  120  DSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRII  179
+             +       QGN Y+ L   YY+V+G  K        ++YLTTG NQ TA   + DY + 
+Sbjct  121  SAEVPKLTTQGNTYVVLGGHYYSVVGTLKRVPYQGVKTFYLTTGPNQETAKDSISDYVVY  180
+
+Query  180  IDAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTI-KEIVLIALMVLIGIVANILVAAI  238
+            +D  +  I H+A +  ++ + P FV  +R  R + +  E +LI  + LI + A  L A +
+Sbjct  181  VDGSKSAISHIATYLQSKTWWPDFVKRNRQRRLTLLMPEALLILFLTLIAMAAMALDAWL  240
+
+Query  239  YWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFE  298
+             + + + TH+  DLL N+I+N+S R++ F+VL  VG YILL WRA+  + G  A+L +  
+Sbjct  241  LYLESRRTHITGDLLTNFILNKSGRFLFFQVLEGVGAYILLVWRAYIGHRGMLAMLLIGV  300
+
+Query  299  FILFMVSYVLTYLYLSRKGIK  319
+             +L + +Y+ T LY+   G K
+Sbjct  301  VLLEVCAYIGTLLYIYNHGEK  321
+
+
+
+
+>hypothetical protein [Lactobacillus sp. R2/2]
+Sequence ID: MEB3365318.1 Length: 177
+Range 1: 14 to 174
+
+Score:184 bits(466), Expect:1e-53, 
+Method:Compositional matrix adjust., 
+Identities:86/161(53%), Positives:117/161(72%), Gaps:0/161(0%)
+
+Query  14   LSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQI  73
+            LSL+G G++LS +QS+EADQLLE YGLSNNTR+ ++ SN+ +  F+TYL   Y K  IQ+
+Sbjct  14   LSLLGIGSMLSNVQSREADQLLEAYGLSNNTRFINVKSNQNVGSFITYLQKNYPKNKIQV  73
+
+Query  74   HFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRY  133
+            H  +K + +Q LVW+N+ +VT PTE+GRYF+ DDF G+V   VLG ++     +VQGN+Y
+Sbjct  74   HLASKSKDNQTLVWSNHEVVTLPTESGRYFTADDFKGKVSFAVLGLNAKVPTLKVQGNQY  133
+
+Query  134  LKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLK  174
+            + LD  YY+VIG  K+Y Q++Q+ YYLTTG  QPT   KLK
+Sbjct  134  VHLDQTYYSVIGILKHYRQMKQNGYYLTTGPKQPTGKLKLK  174
+
+
+
+
+>hypothetical protein [Lactobacillus mulieris]
+Sequence ID: WP_167801735.1 Length: 322
+Range 1: 1 to 318
+
+Score:188 bits(477), Expect:2e-53, 
+Method:Compositional matrix adjust., 
+Identities:104/319(33%), Positives:177/319(55%), Gaps:4/319(1%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M I+K+FL + ++   + +G ++S IQS  ADQ+L   GLS+ +R    NS  +I+  L 
+Sbjct  1    MKIKKIFLGIFLLACFLVAGVLVSNIQSISADQVLTASGLSSYSRNLKTNSKVEIRTLLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL  +Y    I +  +NKY+ DQVL+W+N      P   GRYF+ ++F G V   ++ P 
+Sbjct  61   YLTKKYPNEKITLELNNKYDQDQVLIWSNYQNELLPVAKGRYFNPEEFEGVVSFGIVSPT  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            S   +   Q N+Y+ L++RY +V+G  K      Q  YYLTTGINQ  +  +L ++ III
+Sbjct  121  SNIQLLNTQDNKYIVLNNRYISVVGTLKEVSDNIQTKYYLTTGINQANSKARLNNFDIII  180
+
+Query  181  DAPEH-IIRHVAKHYHTQMYVPKFVTTHRNNRF--STIKEIVLIALMVLIGIVANILVAA  237
+            D P + +++ V+K+ + Q+   + V+THR   F  +T   I+L  +++  G+VA    A 
+Sbjct  181  DTPSNRVVQGVSKYLNGQVTFSELVSTHRRTHFIRATAFSILLGIIVLFAGLVAGA-CAI  239
+
+Query  238  IYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLF  297
+            I     +   +   L + +I ++  R++   +L+ +  Y LL+WR +++   +  IL + 
+Sbjct  240  INHIHSQMDKIERPLKKYFIASKLGRFVFVNILMGLAAYFLLTWRLYFTSLSYLIILFVL  299
+
+Query  298  EFILFMVSYVLTYLYLSRK  316
+               L +V Y+L   +L+RK
+Sbjct  300  MMTLNVVIYMLVVFFLNRK  318
+
+
+
+
+>hypothetical protein [Lactobacillus sp. 23-2]
+Sequence ID: WP_404539892.1 Length: 325
+Range 1: 14 to 315
+
+Score:187 bits(474), Expect:7e-53, 
+Method:Compositional matrix adjust., 
+Identities:104/304(34%), Positives:171/304(56%), Gaps:4/304(1%)
+
+Query  12   IILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATI  71
+            +IL+LIG   + S +QS+ A+Q+L+  G+S   R         I   L +++ +Y K ++
+Sbjct  14   LILTLIG--IVCSNMQSQLANQVLQARGMSMEARIVKPQKQADIATVLKWIERKYPKDSV  71
+
+Query  72   QIHFDNKYEADQVLVWANN-NIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQG  130
+            Q+   NKYE ++VL+WA N N+   P   GR+F+  DF G+V    L   +       QG
+Sbjct  72   QMQLQNKYEKNEVLIWAQNRNLQYFPVTKGRFFASADFKGRVTFAALSASAEVPTITTQG  131
+
+Query  131  NRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHV  190
+            N Y+ L   YY+V+G  K     +  +YYLTTG  Q TA   + +Y I +D  +  I H+
+Sbjct  132  NSYVTLGGHYYSVVGTLKKVPYQDSKTYYLTTGPKQETAQESISNYVIFVDGSKDAISHI  191
+
+Query  191  AKHYHTQMYVPKFVTTHRNNRFSTI-KEIVLIALMVLIGIVANILVAAIYWRQGKSTHLR  249
+            A + +++ + P+FV  +R  R + +  E +LIA + +  + A    A + WR+G+ T ++
+Sbjct  192  ASYLNSKTWWPEFVKRNRQRRLTLLMPEALLIAALAIAAMAAMAFDAWLLWREGQRTRIQ  251
+
+Query  250  DDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLT  309
+             DLL N+I+N+S R++LF++L  V  Y LL WRA+    G  A+L     +L +V+Y+ T
+Sbjct  252  GDLLTNFILNKSGRFVLFQILEGVAAYTLLVWRAYIGDRGMLAMLLAGAVLLEIVTYIST  311
+
+Query  310  YLYL  313
+             +Y+
+Sbjct  312  LIYI  315
+
+
+
+
+>hypothetical protein [Lactobacillus crispatus]
+Sequence ID: MCT7795384.1 Length: 185
+Range 1: 1 to 179
+
+Score:173 bits(438), Expect:2e-49, 
+Method:Compositional matrix adjust., 
+Identities:77/179(43%), Positives:119/179(66%), Gaps:0/179(0%)
+
+Query  141  YTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYV  200
+            Y+VIGEFK+Y Q+E D YYL+TGI+QPTA  +LK+YRI++DA   +I  +AKHYH  +++
+Sbjct  1    YSVIGEFKDYPQVEMDKYYLSTGIDQPTAKDQLKNYRIVVDATPAVIEKIAKHYHASLHI  60
+
+Query  201  PKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNR  260
+            P FV  H  +R S + +I+++ + +L+G++ N+L+A    RQ + T L DDLLRNW++NR
+Sbjct  61   PSFVQEHHRDRLSVVPDILMLVVCLLVGMITNMLLAIGIKRQARLTRLHDDLLRNWVINR  120
+
+Query  261  SIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKGIK  319
+            S+R  L E + A+  Y  L W AFYS  G   +  +  +++ ++++     YL RK  K
+Sbjct  121  SVRLFLIEAIFALATYFFLRWHAFYSTYGSLIVTLIASWVVIVLAFCGMVYYLVRKDRK  179
+
+
+
+
+>hypothetical protein [Lactobacillus delbrueckii]
+Sequence ID: WP_236159206.1 Length: 327
+Range 1: 5 to 322
+
+Score:175 bits(443), Expect:3e-48, 
+Method:Compositional matrix adjust., 
+Identities:107/318(34%), Positives:172/318(54%), Gaps:5/318(1%)
+
+Query  5    KVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDN  64
+            K+F+ L      I  G + S +QS+ ADQ+L+  G+S   R         I  FL ++  
+Sbjct  5    KLFVILSTFFLFIMIGIVYSNMQSQLADQILQAQGMSMEARIVKPKKTMTIASFLKWIKK  64
+
+Query  65   RYEKATIQIHFDNKYEADQVLVWANNNIVTQ-PTENGRYFSIDDFAGQVPVVVLGPDSTA  123
+             + K +IQ+ F +K + +QVL+W+ N  +   P  +GR+FS DDF GQV +  + P S A
+Sbjct  65   EFPKESIQMQFKSKEDKNQVLIWSQNRDLNYFPVSSGRFFSEDDFKGQVTIAAVSPSSAA  124
+
+Query  124  NITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAP  183
+               + QGN YL  + +YY+V+G  K        +YYLTTG+ Q T   ++  + + +DA 
+Sbjct  125  AQIKTQGNTYLIANGQYYSVVGSLKAVPYQSSKAYYLTTGVKQETGQSRINHFTLYVDAS  184
+
+Query  184  EHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTI-KEIVLIALMVLIGIVANILVAAIYWRQ  242
+               I  +A H  ++ Y P FV   R  R + +  E +LI  ++ +G++   L+A + W++
+Sbjct  185  SQTIGKIASHLKSETYWPDFVKRGRQRRLTLLMPEALLILFLLGVGVLLMGLIAWLTWKE  244
+
+Query  243  GKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVY---ILLSWRAFYSYPGHFAILSLFEF  299
+               +H++ DLL N ++NRS R+I+F VL A   Y    LL W+A+YS      +L L   
+Sbjct  245  TDLSHVKGDLLPNLLLNRSGRFIVFMVLEAFASYFLLFLLVWKAYYSNQSILGLLLLGTV  304
+
+Query  300  ILFMVSYVLTYLYLSRKG  317
+            ++ +  YV   +Y+ RKG
+Sbjct  305  VVELAVYVGMMVYMYRKG  322
+
+
+
+
+>hypothetical protein [Lactobacillus jensenii]
+Sequence ID: WP_240400647.1 Length: 323
+Range 1: 1 to 323
+
+Score:174 bits(441), Expect:5e-48, 
+Method:Compositional matrix adjust., 
+Identities:104/325(32%), Positives:176/325(54%), Gaps:6/325(1%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M I+K FL + ++   + +G ++S IQS  ADQ+L   GLS+ +R     S  +I+  L 
+Sbjct  1    MKIKKTFLGIFLLACFLIAGVLVSNIQSISADQVLTASGLSSYSRNLKTKSKIEIRTLLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            Y+  +Y    I +   NKY+ DQVL+W+N      P   GRYF+ ++F G V   ++ P 
+Sbjct  61   YITEKYPNEKITLELTNKYDQDQVLIWSNYQNELLPVARGRYFNPEEFDGVVTFGIVSPT  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            S   +   Q N+Y+ LD+RY +V+G  K      Q  YYLTTG+NQ  +  +L ++ III
+Sbjct  121  SNIQMLTTQDNKYIVLDNRYISVVGTLKEVSDNIQTKYYLTTGLNQANSKNRLNNFDIII  180
+
+Query  181  DAPEH-IIRHVAKHYHTQMYVPKFVTTHRNNRF-STIKEIVLIALMVLI-GIVANILVAA  237
+            D+P + +I+ ++K+ + Q+   + V+THR   F   I   +L+ ++VL  G+VA     A
+Sbjct  181  DSPSNRVIQGISKYLNGQVTFSELVSTHRRTHFIRAIAFSILLGIIVLFAGLVAG--ACA  238
+
+Query  238  IYWRQGKSTHLRDDLLRNWIMNRSI-RYILFEVLLAVGVYILLSWRAFYSYPGHFAILSL  296
+            I     K     D  L+ + +   + R+    +++    YILL+WR +++   +  IL  
+Sbjct  239  IINHTYKQMDGIDRPLKKYFIATKLGRFAFINLIMGFVSYILLTWRLYFTSLDYLIILMT  298
+
+Query  297  FEFILFMVSYVLTYLYLSRKGIKRG  321
+               +L +V Y+L  ++L+++  K G
+Sbjct  299  LMIVLNIVIYMLVVVFLNKRKEKIG  323
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: MCH3990153.1 Length: 319
+Range 1: 1 to 314
+
+Score:172 bits(437), Expect:1e-47, 
+Method:Compositional matrix adjust., 
+Identities:105/319(33%), Positives:175/319(54%), Gaps:9/319(2%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K  + +   L L+     +S +QS  ADQ+L   GLS +TR F  + + +++  L 
+Sbjct  1    MNFKKAIVLVCSFLLLLALAFPVSNLQSLTADQILSENGLSQSTRQFTPHRHVRVRTLLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+             LD       +Q+H  ++ +  +VLVW+N+N+ T P  +GRYF  DDF GQV   V+ P+
+Sbjct  61   RLD---AGPKVQVHLADRSQPSRVLVWSNSNLKTMPVISGRYFDRDDFKGQVTFAVVTPN  117
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+             T+ +   Q NRY++   RY++VIG  KN  Q ++  YYL+TGI Q  +   L  Y++ I
+Sbjct  118  VTSKLLVTQNNRYVEDGSRYWSVIGVLKNNQQAQKTRYYLSTGIKQDNSRDWLNHYQLTI  177
+
+Query  181  DA-PEHIIRHVAKHYHTQMYVPKFVTT--HRNNRFSTIKEIVLIALMVLIGIVANILVAA  237
+            D    + I  ++ + H    VP FV+   HR+  +  ++ +     +V + ++ N  + A
+Sbjct  178  DGLNRNQINRLSSYLHASPQVPSFVSQFRHRHRAYRALQWV--FGAVVCLLLMGNAALYA  235
+
+Query  238  IYWRQG-KSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSL  296
+             + R+G + + +   LL NW++NRS R+ L +   AV  Y L+S R F+S    +A L +
+Sbjct  236  YFNREGARLSKIHGALLTNWLVNRSFRFGLLQACFAVIAYWLMSARVFFSAGKVYAWLLI  295
+
+Query  297  FEFILFMVSYVLTYLYLSR  315
+               IL +V+Y+L   + +R
+Sbjct  296  AGCILEIVTYILAMRHFNR  314
+
+
+
+
+>NOL1/NOP2/sun family putative RNA methylase [Lactobacillus jensenii 27-2-CHN]
+Sequence ID: EEU21419.2 Length: 781
+Range 1: 1 to 318
+
+Score:181 bits(459), Expect:2e-47, 
+Method:Compositional matrix adjust., 
+Identities:103/319(32%), Positives:175/319(54%), Gaps:4/319(1%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M I+K+FL + +    + +G ++S IQS  ADQ+L   GLS+ +R    NS  +I+  L 
+Sbjct  1    MKIKKIFLGIFLFACFLVAGVLVSNIQSISADQVLTASGLSSYSRNLKTNSKVEIRTLLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL  +Y    I +  +NKY+ DQVL+W+N      P   GRYF+ ++F G V   ++ P 
+Sbjct  61   YLTKKYPNEKITLELNNKYDQDQVLIWSNYQNELLPVAKGRYFNPEEFEGVVSFGIVSPT  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+            S   +   Q N+Y+ L++RY +V+G  K      Q  YYLTTGINQ  +  +L ++ III
+Sbjct  121  SNIQLLNTQDNKYIVLNNRYISVVGTLKEVSDNIQTKYYLTTGINQGNSKARLNNFDIII  180
+
+Query  181  DAPEH-IIRHVAKHYHTQMYVPKFVTTHRNNRF-STIKEIVLIALMVLI-GIVANILVAA  237
+            D P + +++ V+K+ + Q+   + V+THR   F   +   +L+ ++VL  G+VA    A 
+Sbjct  181  DTPSNRVVQGVSKYLNGQVTFSELVSTHRRTHFIRAMAFSILLGIIVLFAGLVAGA-CAI  239
+
+Query  238  IYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLF  297
+            I     +   +   L + +I ++  R++   +L+ +  Y  L+WR +++   +  IL + 
+Sbjct  240  INHIHSQMDKIERPLKKYFIASKLGRFVFINILMGLAAYFFLTWRLYFTSLSYLIILFVL  299
+
+Query  298  EFILFMVSYVLTYLYLSRK  316
+               L +V Y+L   +L+RK
+Sbjct  300  MMTLNVVIYMLVVFFLNRK  318
+
+
+
+
+>hypothetical protein, partial [Lactobacillus delbrueckii]
+Sequence ID: WP_236160242.1 Length: 294
+Range 1: 1 to 289
+
+Score:170 bits(431), Expect:7e-47, 
+Method:Compositional matrix adjust., 
+Identities:99/289(34%), Positives:160/289(55%), Gaps:2/289(0%)
+
+Query  31   ADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEADQVLVWANN  90
+            ADQ+L+  G+S   R         I  FL ++   + K +IQ+ F +K + +QVL+W+ N
+Sbjct  1    ADQILQAQGMSMEARIVKPKKTMTIASFLKWIKKEFPKESIQMQFKSKEDKNQVLIWSQN  60
+
+Query  91   NIVTQ-PTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYYTVIGEFKN  149
+              +   P  +GR+FS DDF GQV +  + P S A+  + QGN YL  + +YY+V+G  K 
+Sbjct  61   RDLNYFPVSSGRFFSEDDFKGQVTIAAVSPSSAASQIKTQGNTYLIANGQYYSVVGSLKA  120
+
+Query  150  YHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYVPKFVTTHRN  209
+                   +YYLTTG+ Q T   ++  + + +DA    I  +A H  ++ Y P FV   R 
+Sbjct  121  VPYQSSKAYYLTTGVKQETGQSRINHFTLYVDASSQTIGKIASHLKSETYWPDFVKRGRQ  180
+
+Query  210  NRFSTI-KEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFE  268
+             R + +  E +LI  ++ +G++   L+A + W++   +H++ DLL N ++NRS R+I+F 
+Sbjct  181  RRLTLLMPEALLILFLLGVGVLLMGLIAWLTWKETDLSHVKGDLLPNLLLNRSGRFIVFM  240
+
+Query  269  VLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKG  317
+            VL A   Y LL W+A+YS      +L L   ++ +  YV   +Y+ RKG
+Sbjct  241  VLEAFASYFLLVWKAYYSNQSILGLLLLGTVVVELAVYVGMMVYMYRKG  289
+
+
+
+
+>hypothetical protein [Lactobacillus crispatus]
+Sequence ID: MBI1697752.1 Length: 151
+Range 1: 1 to 150
+
+Score:162 bits(411), Expect:1e-45, 
+Method:Compositional matrix adjust., 
+Identities:70/150(47%), Positives:105/150(70%), Gaps:0/150(0%)
+
+Query  130  GNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRH  189
+             N+Y+ L   YY+VIGEFK+Y Q+E D YYL+TGI+QPTA  +LK+YRI++DA   +I  
+Sbjct  1    NNKYVILGKNYYSVIGEFKDYPQVEMDKYYLSTGIDQPTAKDQLKNYRIVVDATPAVIEK  60
+
+Query  190  VAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLR  249
+            +AKHYH  +++P FV  H  +R S + +I+++ + +L+G++ N+L+A    RQ + T L 
+Sbjct  61   IAKHYHASLHIPSFVQEHHRDRLSVVPDILMLVVCLLVGMITNMLLAIGIKRQARLTRLH  120
+
+Query  250  DDLLRNWIMNRSIRYILFEVLLAVGVYILL  279
+            DDLLRNW++NRS+R  L E + A+  Y  L
+Sbjct  121  DDLLRNWVINRSVRLFLIEAIFALATYFFL  150
+
+
+
+
+>hypothetical protein [Lactobacillus rodentium]
+Sequence ID: WP_117118648.1 Length: 326
+Range 1: 1 to 325
+
+Score:165 bits(418), Expect:1e-44, 
+Method:Compositional matrix adjust., 
+Identities:102/329(31%), Positives:171/329(51%), Gaps:14/329(4%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M IR   +TLI +   IG G  LS+ QS+ ADQ+L   GLS+    ++   ++ IK F+ 
+Sbjct  1    MKIRNFIITLISLFCFIGIGLSLSRQQSQRADQVLNNNGLSSPYYVYNSKKHQSIKSFIK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQP--TENGRYFSIDDFAGQVPVVVLG  118
+            YL+  +    +Q+HF +KY +DQ+L+WAN N+ +QP    N RYF+  DF G +P  V+ 
+Sbjct  61   YLNKNWSGERLQVHFRSKYNSDQILIWANYNLKSQPMANSNSRYFNKSDFQGTIPFAVIS  120
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQ--IEQDSYYLTTGINQPTATGKLKDY  176
+             ++  N+  +Q NRYL  ++ Y++VIG+ K   +    Q +YYLTTG  Q T    L ++
+Sbjct  121  AETKENLFTMQNNRYLSENNHYFSVIGQLKKNTESPYRQTAYYLTTGEKQTTGKAALNNF  180
+
+Query  177  RIIIDA-PEHIIRHVAKHY-----HTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIV  230
+             I+ID  P++  + VA HY      T  Y  K+   H     S  K+ V     +++G++
+Sbjct  181  YIVIDGLPKNDKQKVA-HYLRASTRTVNYAGKYNKRH---GISPTKKFVFTCFCIIVGLI  236
+
+Query  231  ANILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGH  290
+             + + A I         ++  +L     N  +R+ L   +L +G  ++L    FYS    
+Sbjct  237  NSGIWATIVISPVSKFKIKSQILTKLFTNSFVRFFLVNTILFLGTGLILPLFNFYSDISQ  296
+
+Query  291  FAILSLFEFILFMVSYVLTYLYLSRKGIK  319
+              +L  F +++   ++++  L   R+ I+
+Sbjct  297  LFVLLGFLWLMENFTFIIVLLLSRRRRIE  325
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: WP_290626060.1 Length: 324
+Range 1: 1 to 311
+
+Score:162 bits(411), Expect:1e-43, 
+Method:Compositional matrix adjust., 
+Identities:97/312(31%), Positives:169/312(54%), Gaps:7/312(2%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M ++K+ + +I IL  +G G  LS  QS++ADQ+L   GLS     + +  N ++KD L 
+Sbjct  1    MKLKKLIIFVISILCFVGLGITLSIQQSQQADQILNNNGLSAKYYVYTVKKNEKVKDLLI  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTE--NGRYFSIDDFAGQVPVVVLG  118
+            YL  +     IQ+H  ++Y+++++L+WAN +I +QP    + RYF+  DF GQ+ + V+ 
+Sbjct  61   YLK-KLNNKHIQVHLKSEYDSNRILIWANYDIPSQPLARVSSRYFTKSDFDGQIQLAVIS  119
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIE--QDSYYLTTGINQPTATGKLKDY  176
+              +   I   QG+ YLK ++RY TVIG+ K   + E  Q  YYLTTGINQPTA   L +Y
+Sbjct  120  SQTKEGIVTFQGHHYLKENNRYITVIGQLKGNSESENSQKVYYLTTGINQPTANESLINY  179
+
+Query  177  RIIIDA-PEHIIRHVAKHYHTQMYVPKFVTTH-RNNRFSTIKEIVLIALMVLIGIVANIL  234
+            +++ID         V K    +  V  F  T+ R +  +  K+ +   L V+I ++++  
+Sbjct  180  KVLIDGLTGKQATSVKKFLGGKQEVVDFAKTYNRQHGINPTKKFIFAILCVIIALISSAF  239
+
+Query  235  VAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAIL  294
+            ++ +  +  K    R   ++  I + + +Y+   +++ + ++I+L +  F+S       L
+Sbjct  240  ISILDSKNSKLAFSRKGFIKYLIKSNAFKYVFLNLIMILVIFIVLQFTNFFSNKLQLFNL  299
+
+Query  295  SLFEFILFMVSY  306
+                FIL  ++Y
+Sbjct  300  YAIIFILQCLTY  311
+
+
+
+
+>hypothetical protein [Lactobacillus psittaci]
+Sequence ID: WP_236692236.1 Length: 303
+Range 1: 1 to 301
+
+Score:161 bits(408), Expect:2e-43, 
+Method:Compositional matrix adjust., 
+Identities:90/301(30%), Positives:159/301(52%), Gaps:2/301(0%)
+
+Query  22   ILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEA  81
+            ++S +QS  ADQ+L   GLS N+R         ++  L Y + ++ K  I   F NKY+ 
+Sbjct  1    MVSNLQSLSADQVLTANGLSANSRNLTTKRKISLRTLLQYTEKKFSKEKITFEFYNKYDT  60
+
+Query  82   DQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYY  141
+            DQVL+W+N      P   G+YF+ D F G+V   +  P S     +VQ N+Y+ L++ Y 
+Sbjct  61   DQVLIWSNYENTLLPVAKGKYFTPDQFEGRVSFALTSPTSNVKTLKVQDNQYIVLNNNYI  120
+
+Query  142  TVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIID-APEHIIRHVAKHYHTQMYV  200
+            +V+G  K+     Q  Y++TTG+ Q  +   L +++II+D +   ++  ++ + + ++  
+Sbjct  121  SVVGNLKSVDDSVQTKYFITTGVKQANSKINLSNFKIIVDTSSNRVVEELSSYLNGKVST  180
+
+Query  201  PKFVTTHRNNRF-STIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMN  259
+            P  V++HR       I   V+I  ++L   +++ LVA I  R  +   ++ +L + ++  
+Sbjct  181  PAIVSSHRTTHVRRAIAYSVIIIFIMLSMALSSFLVAIINHRTTQMDKIKYELHKFYLRA  240
+
+Query  260  RSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKGIK  319
+            R  R+ L+ +  A+  YI+L   AF++       L LF  +L ++ Y+ T LYL RK  +
+Sbjct  241  RISRFNLYNIFAAIVSYIVLCNHAFFTNENMLIYLDLFAIVLMLIGYLATILYLKRKEEQ  300
+
+Query  320  R  320
+            R
+Sbjct  301  R  301
+
+
+
+
+>hypothetical protein [Lactobacillus johnsonii]
+Sequence ID: WP_023599549.1 Length: 325
+Range 1: 1 to 325
+
+Score:160 bits(405), Expect:1e-42, 
+Method:Compositional matrix adjust., 
+Identities:103/325(32%), Positives:174/325(53%), Gaps:6/325(1%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M I+++ L +I  L+ +G G ILS+ QS++ADQ+L   GLS+    F+      IK FLT
+Sbjct  1    MKIKRLILLIISFLAFLGLGLILSRQQSQKADQVLSNNGLSSTYYVFNPKKKHNIKQFLT  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENG--RYFSIDDFAGQVPVVVLG  118
+            Y++ ++    +QIHF++ Y  D+VL+WAN N+ +QP   G  RYFS +DF G +P  V+ 
+Sbjct  61   YVNKKFSHDKVQIHFESDYIPDRVLIWANYNLKSQPLAKGSSRYFSKNDFDGTIPFAVIS  120
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDY  176
+             D+   +  +Q N YLK ++ Y T+IGE K  N  Q  +  YYL+TGINQPTA   + +Y
+Sbjct  121  SDTKDRVVTLQNNHYLKENNDYVTIIGELKKNNESQNGEAVYYLSTGINQPTAKESITNY  180
+
+Query  177  RIIIDAPEHIIRHVAKHY-HTQMYVPKFVTTH-RNNRFSTIKEIVLIALMVLIGIVANIL  234
+            ++++D       +  +HY    M +  F  T+ R +  S  K+++     V+I ++   +
+Sbjct  181  KVVVDGLNKNEANALQHYLRGSMQIKDFSKTYNRQHGISPTKKLIGAIFCVVIALIVAAI  240
+
+Query  235  VAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAIL  294
+             A +        ++   +  + + +  +R+ L   ++ +   + L    FYS      +L
+Sbjct  241  AAVLAENPVNLKYVSSKIWAHLLADSGLRFFLANGIIVILTSLGLQTWNFYSNHSQLYVL  300
+
+Query  295  SLFEFILFMVSYVLTYLYLSRKGIK  319
+             L  F + +++YVL  L +  K  K
+Sbjct  301  FLVVFAMQIITYVLMLLLIKIKKEK  325
+
+
+
+
+>hypothetical protein [Lactobacillus paragasseri]
+Sequence ID: WP_260511884.1 Length: 319
+Range 1: 1 to 319
+
+Score:159 bits(401), Expect:3e-42, 
+Method:Compositional matrix adjust., 
+Identities:111/332(33%), Positives:176/332(53%), Gaps:26/332(7%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M ++++ L +I  ++ +G G ILS+ QS+ ADQ+L   GLS+    F       IK  L 
+Sbjct  1    MKLKRLILLIISFVAFLGLGMILSRQQSQRADQVLNNNGLSSTYYVFKSKKKHNIKQLLN  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENG--RYFSIDDFAGQVPVVVLG  118
+            Y++  +    +QIHF++ Y  D+VL+WAN N+ +QP   G  RYF+  DF G +P  V+ 
+Sbjct  61   YVNKNFAHDKVQIHFESDYIPDRVLIWANYNLKSQPLAKGSSRYFTKSDFDGSIPFAVIS  120
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDY  176
+             D+ + +  +Q N YLK ++ Y T+IGE K  N  Q  Q  YYL+TGINQPTA   + +Y
+Sbjct  121  ADTKSKVVTLQNNHYLKENNDYVTIIGELKRNNESQNGQAVYYLSTGINQPTAKESITNY  180
+
+Query  177  RIIIDA-PEHIIRHVAKHYHTQMYVPKFVTTH-RNNRFSTIKEIVLIALMVLIGIVANIL  234
+            +I++D   ++    +  +    M    F  T+ R +  S  K+++   L V+I +V    
+Sbjct  181  KIVVDGLNKNEANSIHAYLKGNMQTKDFSKTYNRQHGISPTKKLIAAILCVVIALV----  236
+
+Query  235  VAA-----IYWRQGK--STHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSY  287
+            VAA     + +  GK  +  L D  LR ++ N      +  +L ++G   L +W+ FYS 
+Sbjct  237  VAAENPVNLKFVPGKIWAHLLADSGLRFFLANG-----IVVLLTSLG---LQTWK-FYSN  287
+
+Query  288  PGHFAILSLFEFILFMVSYVLTYLYLSRKGIK  319
+                 IL L  F + +++YVL  L +  K  K
+Sbjct  288  HSQLYILFLVVFAMQIITYVLMLLAIKIKKEK  319
+
+
+
+
+>hypothetical protein [Lactobacillus sp. PV012]
+Sequence ID: WP_265486502.1 Length: 329
+Range 1: 2 to 318
+
+Score:157 bits(398), Expect:1e-41, 
+Method:Compositional matrix adjust., 
+Identities:105/320(33%), Positives:175/320(54%), Gaps:7/320(2%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            +NI+KVFL +I +L+L+G G  LS  QS++AD++L   GLS     + +++N+ IK+ +T
+Sbjct  2    INIKKVFLLVINLLALVGIGLSLSLQQSQQADRILNNNGLSPKYNVYKVSNNKTIKELIT  61
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENG--RYFSIDDFAGQVPVVVLG  118
+             L N+Y    IQ+H  +KY+ D+VL+WAN    + P E    RYFS  DF  QVP+ V+G
+Sbjct  62   DL-NKYPNNQIQVHLKSKYDTDRVLIWANYTPSSLPLEKSSDRYFSKSDFTNQVPLAVVG  120
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRI  178
+              +  N+   Q + YLKLD++Y +VIG+FKN    +   YYL TG+N PTA  KLK+Y I
+Sbjct  121  EAAKNNVITYQNHPYLKLDNQYISVIGQFKN--SAKAKGYYLITGVNLPTANEKLKNYII  178
+
+Query  179  IIDA-PEHIIRHVAKHYHTQMYVPKFVTTH-RNNRFSTIKEIVLIALMVLIGIVANILVA  236
+             +D         +AK       V  + TT+ R +  +  K+ +   L V++ + ++ +  
+Sbjct  179  SVDGLSNKQATTLAKQLKASHKVVDYATTYNRQHGINPTKKFIFTLLCVVVILCSSWIWG  238
+
+Query  237  AIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSL  296
+             I   Q +   ++ D+++  + N   R+++  ++L    Y+ +    F+        L  
+Sbjct  239  MIDSNQNRRLLVKRDIIQFLVKNNIFRFVMENLVLIGFTYLAIQALCFFLNKQSLLGLYF  298
+
+Query  297  FEFILFMVSYVLTYLYLSRK  316
+              ++L   +Y L+ L+  RK
+Sbjct  299  IIYLLECATYGLSLLFNQRK  318
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: MCI1290228.1 Length: 319
+Range 1: 1 to 293
+
+Score:157 bits(397), Expect:1e-41, 
+Method:Compositional matrix adjust., 
+Identities:98/298(33%), Positives:157/298(52%), Gaps:9/298(3%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            MN +K+ L     L L+G    +S +QS  ADQ+L   G S NT+ F  + + +IK  L 
+Sbjct  1    MNWKKILLIACSFLLLLGLAFPVSNLQSLSADQILTENGFSPNTKQFTPHRHVRIKTLLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            ++      + +Q+H  ++    +VLVW+N N+   P   GRYF  +DF GQV   V+ P+
+Sbjct  61   HIQG---WSRVQLHLADQNLPHRVLVWSNYNLRAMPVTTGRYFDSNDFKGQVTFAVVTPN  117
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIII  180
+               N+   QGNRY++  +RY +VIG  KN  + E+  YYLTTG+ Q  +   L +Y + I
+Sbjct  118  VANNLLTTQGNRYVQEGERYISVIGILKNNQENERTRYYLTTGLKQANSRDWLSNYTLTI  177
+
+Query  181  DA-PEHIIRHVAKHYHTQMYVPKFVTT--HRNNRFSTIKEIVLIALMVLIGIVANILVAA  237
+            D    + +  ++   H Q   P FV+   HR+  +  ++       ++LI +  N  ++A
+Sbjct  178  DGLSRNQLNQLSSDLHAQPKTPNFVSQFRHRHRAYRALQW--FFGAILLIVLFLNAGLSA  235
+
+Query  238  IYWRQGKS-THLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAIL  294
+               R+  S   +   LL NW++NRS R+ L + +L V  Y L+S + F+S    +A L
+Sbjct  236  FLDRERTSLGKIHGPLLTNWLVNRSFRFGLLQAVLGVIAYWLMSAKVFFSAGKVYAWL  293
+
+
+
+
+>hypothetical protein [Lactobacillus colini]
+Sequence ID: WP_209685548.1 Length: 323
+Range 1: 1 to 321
+
+Score:155 bits(393), Expect:5e-41, 
+Method:Compositional matrix adjust., 
+Identities:98/322(30%), Positives:172/322(53%), Gaps:7/322(2%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M ++KV + LI +L  IG G  LS  QS++ADQ+L   GLS     + +    ++K+ L 
+Sbjct  1    MKLKKVIIFLISLLCFIGLGITLSIQQSQQADQVLNNNGLSTKYYVYTVKKQIKVKNLLD  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQP--TENGRYFSIDDFAGQVPVVVLG  118
+            +L+  + K  +Q+H  +KY++ ++L+WAN +I +QP  T   RYF+  DF  Q+P+ V+ 
+Sbjct  61   FLNKTHNKH-LQVHLKSKYDSSRILIWANYDIPSQPLATTTSRYFTKSDFDSQIPLAVIS  119
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIE--QDSYYLTTGINQPTATGKLKDY  176
+              +  +I   QG+RYLK D+ Y T+IG+ K+  + E  Q  YYLTTGI QPTA   L DY
+Sbjct  120  AQTQEDIVTFQGHRYLKEDNDYITIIGQLKSNSESENSQKVYYLTTGIYQPTADEFLGDY  179
+
+Query  177  RIIIDAPEHI-IRHVAKHYHTQMYVPKFVTTH-RNNRFSTIKEIVLIALMVLIGIVANIL  234
+             + ID   +    +V K    +  +  F  T+ R +  +  K+ +   L V+I + ++++
+Sbjct  180  LVSIDGLNNKQATNVRKFLGGKQEIVDFAKTYNRQHGINPTKKFLFALLCVIIILGSSVV  239
+
+Query  235  VAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAIL  294
+            +  +  +  K    +  L +  I + + +YI   ++  + ++++L +  F+S       L
+Sbjct  240  IGILDSKNSKIAFAKKRLFKYLIKSNTFKYIFANIIAILAIFLVLQFTNFFSNNLQLFNL  299
+
+Query  295  SLFEFILFMVSYVLTYLYLSRK  316
+                F+L   +Y    ++  RK
+Sbjct  300  YAIIFVLQCCTYSGVMMFKQRK  321
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: WP_298491085.1 Length: 325
+Range 1: 1 to 325
+
+Score:155 bits(393), Expect:6e-41, 
+Method:Compositional matrix adjust., 
+Identities:108/326(33%), Positives:172/326(52%), Gaps:8/326(2%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M I+++ L +I  L+ +G G ILS+ QS+ ADQ+L   GLS+    F       +K  LT
+Sbjct  1    MKIKRLILLVISFLAFLGLGIILSRQQSQRADQVLNNNGLSSTYYVFKPKRKHNVKQLLT  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENG--RYFSIDDFAGQVPVVVLG  118
+            +++  +    +QIHF++ Y  D+VL+WAN N+ +QP   G  RYF+  DF G +P  V+ 
+Sbjct  61   HVNKNFSHDKVQIHFESDYIPDRVLIWANYNLKSQPLAKGSSRYFNKKDFEGSIPFAVIS  120
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDY  176
+             D+ + +  +Q N YLK ++ Y T+IGE K  N  Q  Q  YYL+TGINQPTA   + +Y
+Sbjct  121  ADTRSKVVTLQNNHYLKENNSYVTIIGELKKNNESQNGQAVYYLSTGINQPTAKESITNY  180
+
+Query  177  RIIIDAPEHIIRHVAKHY-HTQMYVPKFVTTH-RNNRFSTIKEIVLIALMVLIGIVANIL  234
+            R+++D       +   HY    M V  F  T+ R +  S  K++V   + V+I +   ++
+Sbjct  181  RVVVDGLNKNDANSLHHYLGGSMKVVDFSKTYNRQHGISPTKKLVGAIVCVVIALAVAVI  240
+
+Query  235  VAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYI-LLSWRAFYSYPGHFAI  293
+             A           +   +  + + +  +R+ L   L+AV   + L +WR FYS      I
+Sbjct  241  AAIFAENPVNLKFVPKKIGAHLLADSGLRFFLANGLIAVLTTLGLQTWR-FYSNHSQLYI  299
+
+Query  294  LSLFEFILFMVSYVLTYLYLSRKGIK  319
+            L    F++ +++YVL  L +  K  K
+Sbjct  300  LFSIVFVMQIITYVLMLLLIKIKKEK  325
+
+
+
+
+>hypothetical protein [Lactobacillus gallinarum]
+Sequence ID: MDM8281832.1 Length: 171
+Range 1: 1 to 165
+
+Score:150 bits(378), Expect:1e-40, 
+Method:Compositional matrix adjust., 
+Identities:67/165(41%), Positives:109/165(66%), Gaps:0/165(0%)
+
+Query  155  QDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFST  214
+             D YYL+TG+NQPTA  +L++YRI+ID+  ++I  +AKHYH ++++P FV  H  +R S 
+Sbjct  1    MDKYYLSTGVNQPTARDQLRNYRIVIDSTPYVISKIAKHYHAKLHIPSFVQEHHRDRLSV  60
+
+Query  215  IKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVG  274
+            +  I+++   +++G+V NI++A +  RQ K THL  DL RNW++NRS R ++ E +  + 
+Sbjct  61   LPNILMLVTCMILGVVTNIVLAILMMRQAKLTHLHGDLFRNWVINRSARTLMVEGVCGLL  120
+
+Query  275  VYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKGIK  319
+             YI L W AFYS     +I+ L  +++ +V++ +T  +L RK  K
+Sbjct  121  AYIFLRWHAFYSVASVLSIVLLVAWLMNVVAFCITLYHLIRKDKK  165
+
+
+
+
+>hypothetical protein [Lactobacillus helsingborgensis]
+Sequence ID: MCT6811542.1 Length: 181
+Range 1: 1 to 176
+
+Score:147 bits(370), Expect:3e-39, 
+Method:Compositional matrix adjust., 
+Identities:73/176(41%), Positives:106/176(60%), Gaps:0/176(0%)
+
+Query  144  IGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHYHTQMYVPKF  203
+            IG  K+Y Q++Q+ YYLTTG  QPT   KLK+Y II+D     IR +AKHYH ++  P F
+Sbjct  1    IGILKHYRQMKQNGYYLTTGPKQPTGKFKLKNYIIIVDGSSKTIRQIAKHYHAKVKTPLF  60
+
+Query  204  VTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNRSIR  263
+            V  H+ ++FS ++EI LIA+ + I  ++N+L+A + W+  K THL   LLRNW++N  IR
+Sbjct  61   VKNHQIHQFSFLREIALIAVFLFIAFLSNLLLAYMDWQTVKQTHLNGALLRNWLINHGIR  120
+
+Query  264  YILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKGIK  319
+             +L E+ +  G Y  LSWR F S   H   L    +++   +Y    ++  RK  K
+Sbjct  121  ILLIELAVTFGAYFFLSWRTFISNKQHLIWLLALSWLIIAAAYSFCVIHQLRKDQK  176
+
+
+
+
+>hypothetical protein [Lactobacillus sp. PV034]
+Sequence ID: WP_265489188.1 Length: 326
+Range 1: 1 to 322
+
+Score:150 bits(379), Expect:8e-39, 
+Method:Compositional matrix adjust., 
+Identities:97/325(30%), Positives:168/325(51%), Gaps:12/325(3%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M +R   +TLI ++  IG G  LS+ QS+ ADQ+L   GLS+    FD  S++ I+  + 
+Sbjct  1    MKLRNFIVTLISLICFIGVGLSLSRQQSQRADQVLNNSGLSSPYYVFDPKSHQTIQQVIH  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTEN--GRYFSIDDFAGQVPVVVLG  118
+            YL+  +    +Q+HF +KY+++Q+L+WAN N+ +QP  N   RYF+  DF G +P  V+ 
+Sbjct  61   YLNKEWPHTNLQVHFRSKYDSNQILIWANYNLKSQPMANSSSRYFNKSDFKGSIPFAVIS  120
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQ--IEQDSYYLTTGINQPTATGKLKDY  176
+             ++  N+  +Q NRYL  +  Y++VIG+ K   +    Q +YYLTTG  Q T   K++++
+Sbjct  121  SETKENLVTLQNNRYLNENGHYFSVIGQLKRNSESPYRQTAYYLTTGEKQVTGKAKVENF  180
+
+Query  177  RIIIDA-PEH----IIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVA  231
+             ++ID  P++    + RH+     T  Y  K+   H     S  K+ +   + ++I +V 
+Sbjct  181  YVVIDGLPKNNKNKVARHLNASTQTVNYANKYNKRH---GISPTKKFIFTCICIIIALVN  237
+
+Query  232  NILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHF  291
+            + + A I         ++  +L     N   R+ +    L +   I+L    FYS     
+Sbjct  238  SGVWATIAIAPVTKFRIKSPILTKIFTNSFFRFFVINTFLLIVSSIVLPLFNFYSNLSQL  297
+
+Query  292  AILSLFEFILFMVSYVLTYLYLSRK  316
+              L  F +I+  +++++  + L  K
+Sbjct  298  YQLLGFLWIMESLTFIIVLILLRSK  322
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: MCT6903010.1 Length: 137
+Range 1: 1 to 137
+
+Score:144 bits(362), Expect:1e-38, 
+Method:Compositional matrix adjust., 
+Identities:65/137(47%), Positives:96/137(70%), Gaps:0/137(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K+ L +II LS +G G++LS +QS+EADQLLE YGLSNNTRY +I + + ++ FL 
+Sbjct  1    MKFKKIILVIIIFLSFLGIGSMLSNVQSREADQLLEAYGLSNNTRYIEIKNKQNVRSFLL  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL  +Y +  IQ+H   K + +Q LVW+N++++  PTE+GRYF+ DDF G+V   VLG +
+Sbjct  61   YLQKKYPRNKIQVHMTCKSKKNQTLVWSNHDVLNLPTESGRYFTKDDFKGRVSFAVLGLN  120
+
+Query  121  STANITEVQGNRYLKLD  137
+            +     +VQGN Y+ L+
+Sbjct  121  AKVPTYKVQGNEYVYLN  137
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: MFC2694509.1 Length: 317
+Range 1: 23 to 292
+
+Score:148 bits(374), Expect:3e-38, 
+Method:Compositional matrix adjust., 
+Identities:92/276(33%), Positives:148/276(53%), Gaps:10/276(3%)
+
+Query  23   LSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDNKYEAD  82
+            +SK QS  ADQ+L   GLS ++R   I   R+++  L  L  +     +Q+HF ++ +  
+Sbjct  23   VSKWQSLAADQVLVENGLSQDSR--TITPQRRVR--LRTLLKKMPDQHVQLHFVDRSQPQ  78
+
+Query  83   QVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLDDRYYT  142
+            +VLVWAN N+   P   GRYF  +DFA  V + V+ P + ++I + Q N Y+  +DRYY+
+Sbjct  79   RVLVWANYNLKRMPITAGRYFDKEDFASPVTLAVITPSAHSDILKTQNNLYVMDNDRYYS  138
+
+Query  143  VIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAKHY-HTQMYVP  201
+            V+G  KN +++E+  Y+LTTG+ Q  +   L  Y +++D   H   +   HY        
+Sbjct  139  VVGTLKNSNRLERTRYFLTTGLQQHNSLSLLTHYDLVVDGLNHAQLNALGHYLKADWRTS  198
+
+Query  202  KFVTTHRNNRFSTIKEIVLIALMVLIGI-VANILVAAIYWRQGKS--THLRDDLLRNWIM  258
+            +FV   R+      +  VLI L++   + V + L+A  Y   G+     +   LL N I 
+Sbjct  199  RFVDVFRHQHRLFKRLQVLIVLLIFAAVLVVDFLLA--YPASGRRHLAKVHGSLLNNLIS  256
+
+Query  259  NRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAIL  294
+            NR  R+ L EV+L +G + L++WR F+S    + +L
+Sbjct  257  NRWARFALLEVVLTIGAFALMNWRVFFSNASIYGLL  292
+
+
+
+
+>hypothetical protein [Lactobacillus taiwanensis]
+Sequence ID: WP_256979022.1 Length: 284
+Range 1: 14 to 280
+
+Score:147 bits(371), Expect:4e-38, 
+Method:Compositional matrix adjust., 
+Identities:86/267(32%), Positives:145/267(54%), Gaps:6/267(2%)
+
+Query  14   LSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQI  73
+            L+ +G G ILS+ QS+ ADQ+L   GLS+    F+      IK  LT+++ +Y +  +QI
+Sbjct  14   LTFLGLGLILSRHQSQRADQVLNNNGLSSTYYVFNPKKKHNIKQLLTHVNEKYFRDKVQI  73
+
+Query  74   HFDNKYEADQVLVWANNNIVTQPTENG--RYFSIDDFAGQVPVVVLGPDSTANITEVQGN  131
+            HF++ Y  D+VL+WAN N+ +QP   G  RYF+  DF G +P  V+  D+ + +  +Q N
+Sbjct  74   HFESDYIPDRVLIWANYNLKSQPLAKGSSRYFTKSDFTGSIPFAVISADTKSRVVILQNN  133
+
+Query  132  RYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRH  189
+             YLK ++ Y T+IGE K  N  Q  Q  YYL+TGINQPTA   + +Y++++D       +
+Sbjct  134  HYLKENNDYVTIIGELKKNNESQNGQAVYYLSTGINQPTAKESILNYKVVVDGLNRNEAN  193
+
+Query  190  VAKHY-HTQMYVPKFVTTH-RNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTH  247
+               HY   +M V  F  T+ + +  S  K+++      ++ ++   L A +         
+Sbjct  194  SLHHYLGGKMQVVDFSKTYNKQHGISPTKKLIGAIFCAVVALIVAALEAILAENPVNLKF  253
+
+Query  248  LRDDLLRNWIMNRSIRYILFEVLLAVG  274
+            +   +  N + +  +R+ L + ++ +G
+Sbjct  254  VPGKIWTNLLADTGLRFFLADGIIVLG  280
+
+
+
+
+>hypothetical protein FC28_GL001025 [Lactobacillus crispatus DSM 20584 = JCM 1185 = ATCC 33820]
+Sequence ID: KRK33681.1 Length: 142
+Range 1: 18 to 142
+
+Score:141 bits(355), Expect:2e-37, 
+Method:Compositional matrix adjust., 
+Identities:69/125(55%), Positives:86/125(68%), Gaps:0/125(0%)
+
+Query  18   GSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDN  77
+            G GT+LS I+S  AD+LLE +GL+NNTRYF  +S+ +I  FL YLD  Y    IQ+H DN
+Sbjct  18   GIGTMLSNIESSYADELLEAHGLTNNTRYFRTDSDEKISIFLKYLDKNYANHQIQLHLDN  77
+
+Query  78   KYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTANITEVQGNRYLKLD  137
+             YE  QVLVWAN+ +   PTE+GRYFS DDF GQV  VVLGP    N+ +VQ N+Y+ L 
+Sbjct  78   NYEKKQVLVWANHAVTGLPTESGRYFSPDDFKGQVSFVVLGPTVKLNLLDVQNNKYVILG  137
+
+Query  138  DRYYT  142
+              YY+
+Sbjct  138  KNYYS  142
+
+
+
+
+>hypothetical protein [Lactobacillus hominis]
+Sequence ID: WP_008471691.1 Length: 330
+Range 1: 1 to 321
+
+Score:146 bits(368), Expect:3e-37, 
+Method:Compositional matrix adjust., 
+Identities:103/327(31%), Positives:163/327(49%), Gaps:17/327(5%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M  +K  + L+ +L  IG    LS  QS+ ADQ+L   GLS+            IK FLT
+Sbjct  1    MKFKKFIVILVSLLCFIGLAVTLSIQQSQRADQVLNNNGLSSPYYILSPRKKMTIKHFLT  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENG--RYFSIDDFAGQVPVVVLG  118
+            YLD R   A +Q+HF + Y+  ++L+WAN N+ +QP   G  RYFS  DF G +P  V+ 
+Sbjct  61   YLD-RQNDAHLQVHFKSPYDKRRILIWANYNLKSQPMSKGESRYFSKSDFTGSIPFAVIS  119
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIE--QDSYYLTTGINQPTATGKLKDY  176
+              +  N+   Q N+Y+K    YY+VIGE K   +    Q  YYLT GINQPT    +K++
+Sbjct  120  AQTHDNLVTSQNNKYIKEGRHYYSVIGELKQNSENPNGQTPYYLTAGINQPTGLENIKNF  179
+
+Query  177  RIIIDA-PEHIIRHVAKHYHTQMYVPKFVTTH-RNNRFSTIKEIVLIALMVLIGIVANIL  234
+             I ID   +  ++ VA+     +    +  ++ R +  S  K+ +     V++       
+Sbjct  180  NITIDGINKKDVQQVARFSKATVKTVDYTKSYNRKHGISPTKKFIFATFCVIVAA-----  234
+
+Query  235  VAAIYWRQGKSTHLRDDLLRNWIMNR-----SIRYILFEVLLAVGVYILLSWRAFYSYPG  289
+            V A  W    S  LR +  +N ++ +      +R++L +++L + VY +L    FYS   
+Sbjct  235  VDAFIWALLDSVPLRRNYFKNVVLAKLLRSSGMRFLLVDLVLFLLVYGVLPLMMFYSNHE  294
+
+Query  290  HFAILSLFEFILFMVSYVLTYLYLSRK  316
+                L L  F L   ++ +T L++ ++
+Sbjct  295  QLFTLLLAVFALQCFTFGMTMLFIKKR  321
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: MDO4912264.1 Length: 292
+Range 1: 2 to 202
+
+Score:144 bits(362), Expect:9e-37, 
+Method:Compositional matrix adjust., 
+Identities:76/210(36%), Positives:130/210(61%), Gaps:11/210(5%)
+
+Query  1    MNIRKVFLTLIIILSLIG-SGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQ-IKDF  58
+            + I++ +  L  +  L+   G ++SKI++ +A++L++ YGLS +TRYF  + N   I+ F
+Sbjct  2    LKIKRRYSFLFYLFCLMALCGIMVSKIETHQANELIKAYGLSPDTRYFQTDDNETTIRQF  61
+
+Query  59   LTYLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLG  118
+            +  + NRY+   +Q++F N Y     L+WAN  I   PT +GRYFS+D+F+G+V V  + 
+Sbjct  62   IKKV-NRYK--NVQLYFSNIYNKHAKLIWANKEIRQMPTYSGRYFSLDEFSGRVTVAAVE  118
+
+Query  119  PDSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRI  178
+              +  N  ++QGN+YL  ++ YY VIGE K     + ++YYLTTG+ Q T+   L +Y +
+Sbjct  119  YGAKLNTRQLQGNKYLIANNTYYPVIGEIKP----KSNNYYLTTGLKQATSLDLLSNYTV  174
+
+Query  179  IIDAPEHIIRHVAKHYHTQMYVPKFVTTHR  208
+             +D P+ ++++++K Y  Q  VP FV  ++
+Sbjct  175  YVDGPKKLLKNLSKQYKLQ--VPNFVKNYQ  202
+
+
+
+
+>hypothetical protein [Lactobacillus taiwanensis]
+Sequence ID: WP_290085568.1 Length: 326
+Range 1: 14 to 325
+
+Score:144 bits(364), Expect:1e-36, 
+Method:Compositional matrix adjust., 
+Identities:103/328(31%), Positives:164/328(50%), Gaps:36/328(10%)
+
+Query  14   LSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQI  73
+            L+ +G G ILS+ QS+ ADQ+L   GLS+    F+      IK  LT+++ +Y +  +QI
+Sbjct  14   LTFLGLGLILSRHQSQRADQVLNNNGLSSTYYVFNPKKKHNIKQLLTHVNEKYFRDKVQI  73
+
+Query  74   HFDNKYEADQVLVWANNNIVTQPTENG--RYFSIDDFAGQVPVVVLGPDSTANITEVQGN  131
+            HF++ Y  D+VL+WAN N+ +QP   G  RYF+  DF G +P  V+  D+ + +   Q N
+Sbjct  74   HFESDYIPDRVLIWANYNLKSQPLAKGSSRYFTKSDFTGSIPFAVISADTKSRVVIFQNN  133
+
+Query  132  RYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRH  189
+             YLK ++ Y T+IGE K  N  Q  Q  YYL+TGINQPTA   + +Y++++D       +
+Sbjct  134  HYLKENNDYVTIIGELKKNNESQNGQAVYYLSTGINQPTAKESILNYKVVVDGLNRNEAN  193
+
+Query  190  VAKHY-HTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLI---------------GIVANI  233
+               HY   +M V  F  T+      +  + +++A+   +                +    
+Sbjct  194  SLHHYLGGKMQVVDFSKTYNKQHGISPTKKLIVAIFCAVVALIVAALAAVLAENPVNLKF  253
+
+Query  234  LVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAI  293
+            + A   W     THL  D          +R+ L + L+ +   + L    FYS      I
+Sbjct  254  VPAGKIW-----THLLAD--------SGLRFFLADGLIVLVTTLGLQTWKFYSNHSQLYI  300
+
+Query  294  LSLFEFILFMVSYVLTYLYLSRKGIKRG  321
+            L    F++ +++YVL  L+L +  IK+G
+Sbjct  301  LFSIIFVMQILTYVLM-LFLIK--IKKG  325
+
+
+
+
+>hypothetical protein [Lactobacillus delbrueckii subsp. lactis]
+Sequence ID: MCD5430522.1 Length: 251
+Range 1: 1 to 251
+
+Score:136 bits(343), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:80/251(32%), Positives:133/251(52%), Gaps:2/251(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M   K+F+ L      I  G + S +QS+ ADQ+L+  G+S   R         I  FL 
+Sbjct  1    MKRYKLFVILSTFFLFIMIGIVYSNMQSQLADQILQAQGMSMEARIVKPKKTMTIASFLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQ-PTENGRYFSIDDFAGQVPVVVLGP  119
+            ++   + K +IQ+ F +K + +QVL+W+ N  +   P  +GR+FS DDF GQV +  + P
+Sbjct  61   WIKKEFPKESIQMQFKSKEDKNQVLIWSQNRDLNYFPVSSGRFFSEDDFKGQVTIAAVSP  120
+
+Query  120  DSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQPTATGKLKDYRII  179
+             S A   + QGN YL  + +YY+V+G  K        +YYLTTG+ Q T   ++  + + 
+Sbjct  121  SSAAAQIKTQGNTYLIANGQYYSVVGSLKAVPYQSSKAYYLTTGVKQETGQSRINYFTLY  180
+
+Query  180  IDAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTI-KEIVLIALMVLIGIVANILVAAI  238
+            +DA    I  +A H  ++ Y P FV   R  R + +  E +LI  ++ +G++   L+A +
+Sbjct  181  VDASRQTIGKIASHLKSETYWPDFVKRGRQRRLTLLMPEALLILFLLGVGVLLMGLIAWL  240
+
+Query  239  YWRQGKSTHLR  249
+             W++   +H++
+Sbjct  241  TWKETDLSHVK  251
+
+
+
+
+>hypothetical protein [Lactobacillus iners]
+Sequence ID: MCT7856056.1 Length: 237
+Range 1: 5 to 190
+
+Score:130 bits(326), Expect:4e-32, 
+Method:Compositional matrix adjust., 
+Identities:71/186(38%), Positives:109/186(58%), Gaps:5/186(2%)
+
+Query  2    NIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTY  61
+            N++K  L + I L+ +G    +S  QS+ AD +L   GLS++   +  N   +I+  L Y
+Sbjct  5    NMKKFLLIVTIFLAFVGLAFTISIKQSQNADIILTNNGLSSSYCVYQPNLKLKIRKLLQY  64
+
+Query  62   LDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPT--ENGRYFSIDDFAGQVPVVVLGP  119
+            LD   + + +Q+   +KY+ D++LVWAN NI  QP   +N RYF+  +F G V   V+  
+Sbjct  65   LDKNCKSSKLQVQLKSKYDTDEILVWANYNIKGQPVIGDNARYFNKAEFQGNVTFAVISA  124
+
+Query  120  DS-TANITEVQGNRYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDY  176
+             +  ANI   Q NRYLK + +Y ++IG+ K  +  +I+Q +YYLTTGI Q T    L +Y
+Sbjct  125  HTPVANIVTSQNNRYLKYEGQYISIIGQLKANDQSEIQQSAYYLTTGIQQQTGNNTLNNY  184
+
+Query  177  RIIIDA  182
+            +II+D 
+Sbjct  185  KIIVDG  190
+
+
+
+
+>hypothetical protein [Lactobacillus iners]
+Sequence ID: WP_240401855.1 Length: 328
+Range 1: 5 to 245
+
+Score:132 bits(331), Expect:7e-32, 
+Method:Compositional matrix adjust., 
+Identities:82/241(34%), Positives:132/241(54%), Gaps:9/241(3%)
+
+Query  2    NIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTY  61
+            N++K  L + I L+ +G    +S  QS+ AD +L   GLS++   +  N   +I+  L Y
+Sbjct  5    NMKKFLLIVTIFLAFVGLAFTISIKQSQNADIILTNNGLSSSYCVYQPNLKLKIRKLLQY  64
+
+Query  62   LDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPT--ENGRYFSIDDFAGQVPVVVLGP  119
+            LD   + + +Q+   +KY+ D++LVWAN NI  QP   +N RYF+  +F G V   V+  
+Sbjct  65   LDKNCKSSKLQVQLKSKYDTDEILVWANYNIKGQPVIGDNARYFNKAEFQGNVTFAVISA  124
+
+Query  120  DS-TANITEVQGNRYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDY  176
+             +  ANI   Q NRYLK + +Y ++IG+ K  +  +I+Q +YYLTTGI Q T    L +Y
+Sbjct  125  HTPVANIVTSQNNRYLKYEGQYISIIGQLKANDQSEIQQSAYYLTTGIQQQTGNNTLNNY  184
+
+Query  177  RIIIDAPEHIIRHVAKHY--HTQMYVPKFVTTHRNNRFSTIKEIV--LIALMVLIGIVAN  232
+            +II+D           H+     ++V    T +  +R +  K++V  +I ++ + GI A 
+Sbjct  185  KIIVDGLNKKQAKKVGHFLKAKAIWVNFAQTYNLKHRINPTKKLVFGIICILFIWGISAM  244
+
+Query  233  I  233
+            I
+Sbjct  245  I  245
+
+
+
+
+>hypothetical protein [Lactobacillus mulieris]
+Sequence ID: WP_391489005.1 Length: 178
+Range 1: 1 to 166
+
+Score:126 bits(316), Expect:3e-31, 
+Method:Compositional matrix adjust., 
+Identities:64/166(39%), Positives:95/166(57%), Gaps:0/166(0%)
+
+Query  1    MNIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLT  60
+            M I+K+FL + +    + +G ++S IQS  ADQ+L   GLS+ +R    NS  +I+  L 
+Sbjct  1    MKIKKIFLGIFLFACFLVAGVLVSNIQSISADQVLTASGLSSYSRNLKTNSKVEIRTLLK  60
+
+Query  61   YLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPD  120
+            YL  +Y    I +  +NKY+ DQVL+W+N      P   GRYF+ ++F G V   ++ P 
+Sbjct  61   YLTKKYPNEKITLELNNKYDQDQVLIWSNYQNELLPVAKGRYFNPEEFEGVVSFGIVSPT  120
+
+Query  121  STANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSYYLTTGINQ  166
+            S   +   Q N+Y+ L++RY +V+G  K      Q  YYLTTGINQ
+Sbjct  121  SNIQLLNTQDNKYIVLNNRYISVVGTLKEVSDNIQTKYYLTTGINQ  166
+
+
+
+
+>hypothetical protein [Lactobacillus crispatus]
+Sequence ID: MCT7870976.1 Length: 154
+Range 1: 1 to 148
+
+Score:124 bits(310), Expect:1e-30, 
+Method:Compositional matrix adjust., 
+Identities:56/148(38%), Positives:93/148(62%), Gaps:0/148(0%)
+
+Query  172  KLKDYRIIIDAPEHIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVA  231
+            +LK+YRI++DA   +I  +AKHYH  +++P FV  H  +R S + +I+++ + +L+G++ 
+Sbjct  1    QLKNYRIVVDATPAVIEKIAKHYHASLHIPSFVQEHHRDRLSVVPDILMLVVCLLVGMIT  60
+
+Query  232  NILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHF  291
+            N+L+A    RQ + T L DDLLRNW++NRS+R  L E + A+  Y  L W AFYS  G  
+Sbjct  61   NMLLAIGIKRQARLTRLHDDLLRNWVINRSVRLFLIEAIFALATYFFLRWHAFYSTYGSL  120
+
+Query  292  AILSLFEFILFMVSYVLTYLYLSRKGIK  319
+             +  +  +++ ++++     YL RK  K
+Sbjct  121  IVTLIASWVVIVLAFCGMVYYLVRKDRK  148
+
+
+
+
+>hypothetical protein [Lactobacillus iners]
+Sequence ID: MCT7869220.1 Length: 291
+Range 1: 5 to 245
+
+Score:127 bits(319), Expect:2e-30, 
+Method:Compositional matrix adjust., 
+Identities:83/241(34%), Positives:133/241(55%), Gaps:9/241(3%)
+
+Query  2    NIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTY  61
+            N++K  L + I L+ +G    +S  QS+ AD +L   GLS++   +      +I+  L Y
+Sbjct  5    NMKKFLLIVTIFLAFVGLAFTISIKQSQNADIILTNNGLSSSYCVYQPKLKLKIRKLLQY  64
+
+Query  62   LDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPT--ENGRYFSIDDFAGQVPVVVLGP  119
+            LD   + + +Q+ F +KY+AD++LVWAN NI  QP   +N RYF+  +F G V   V+  
+Sbjct  65   LDKNCKSSKLQVQFKSKYDADEILVWANYNIKGQPVIGDNARYFNKAEFKGNVTFAVISA  124
+
+Query  120  DST-ANITEVQGNRYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDY  176
+             +  ANI   Q NRYLK + +Y ++IG+ K  +  +I+Q +YYLTTGI Q T    L +Y
+Sbjct  125  HTPLANIVTSQNNRYLKYEGQYISIIGQLKANDQSEIQQSAYYLTTGIQQQTGNNNLNNY  184
+
+Query  177  RIIIDAPEHIIRHVAKHY--HTQMYVPKFVTTHRNNRFSTIKEIV--LIALMVLIGIVAN  232
+            +II+D           H+     ++V    T +  +R +  K++V  +I ++ + GI A 
+Sbjct  185  KIIVDGLNKKQAKKVGHFLKAKAIWVNFAQTYNLKHRINPTKKLVFGIICILFIWGISAM  244
+
+Query  233  I  233
+            I
+Sbjct  245  I  245
+
+
+
+
+>hypothetical protein FOF76_07105, partial [Lactobacillus gasseri]
+Sequence ID: TVU94263.1 Length: 275
+Range 1: 3 to 275
+
+Score:125 bits(315), Expect:5e-30, 
+Method:Compositional matrix adjust., 
+Identities:92/282(33%), Positives:145/282(51%), Gaps:24/282(8%)
+
+Query  53   RQIKDFLTYLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENG--RYFSIDDFAG  110
+            R IK  L Y++  +    +QIHF++ Y  D+VL+WAN N+ +QP   G  RYF+  DF G
+Sbjct  3    RSIKQLLNYVNRNFAHDKVQIHFESNYIPDRVLIWANYNLKSQPLAKGSSRYFTKSDFEG  62
+
+Query  111  QVPVVVLGPDSTANITEVQGNRYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPT  168
+             +P  V+  D+ + +  +Q N YLK ++ Y T+IGE K  N  Q  Q  YYL+TGINQPT
+Sbjct  63   SIPFAVISADTESKVITLQNNHYLKENNDYVTIIGELKRNNESQNGQAVYYLSTGINQPT  122
+
+Query  169  ATGKLKDYRIIIDAPEHIIRHVAKHYHT----QMYVPKFVTTH-RNNRFSTIKEIVLIAL  223
+            A   + +Y+I++D    + ++ A   HT     M    F  T+ R +  S  K+++   L
+Sbjct  123  AKESINNYKIVVDG---LKKNEANSMHTFLKGNMQTKDFSKTYNRQHGISPTKKLIAAIL  179
+
+Query  224  MVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILL----  279
+             V+I +V   + A +         +   +  + + +  +R+      LA G+ ILL    
+Sbjct  180  CVVIALVVAAIAAVLAENPVNVKFVPGKIWAHLLADSGLRF-----FLANGIVILLTSLG  234
+
+Query  280  --SWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKGIK  319
+              +W+ FYS      IL L  F + +++YVL  L +  K  K
+Sbjct  235  LQTWK-FYSNHSQLYILFLVVFAMQVITYVLMLLVIKIKKEK  275
+
+
+
+
+>ABC transporter permease, partial [Escherichia coli]
+Sequence ID: WP_458928417.1 Length: 102
+Range 1: 1 to 102
+
+Score:119 bits(298), Expect:1e-29, 
+Method:Compositional matrix adjust., 
+Identities:57/102(56%), Positives:68/102(66%), Gaps:0/102(0%)
+
+Query  55   IKDFLTYLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPV  114
+            I  FL YLD  Y    IQ+H DN YE  QVLVWAN+ +   PTE+GRYFS DDF GQV  
+Sbjct  1    ISTFLKYLDKNYANHQIQLHLDNNYEKKQVLVWANHAVTVLPTESGRYFSPDDFKGQVSF  60
+
+Query  115  VVLGPDSTANITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQD  156
+            VVLGP    N+ +VQ N+Y+ L   YY+VIGEFK+Y  +E D
+Sbjct  61   VVLGPTVKLNLLDVQNNKYVILGKNYYSVIGEFKDYPHVEMD  102
+
+
+
+
+>hypothetical protein [Lactobacillus crispatus]
+Sequence ID: MDM8291415.1 Length: 108
+Range 1: 18 to 108
+
+Score:110 bits(276), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:53/91(58%), Positives:65/91(71%), Gaps:0/91(0%)
+
+Query  18   GSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLDNRYEKATIQIHFDN  77
+            G GT+LS I+S  AD+LLE +GL+NNTRYF  +S+ +I  FL YLD  Y    IQ+H DN
+Sbjct  18   GIGTMLSNIESSYADELLEAHGLTNNTRYFRTDSDDKISTFLKYLDKNYANHQIQLHLDN  77
+
+Query  78   KYEADQVLVWANNNIVTQPTENGRYFSIDDF  108
+             YE  QVLVWAN+ +   PTE+GRYFS DDF
+Sbjct  78   NYEKKQVLVWANHAVTGLPTESGRYFSPDDF  108
+
+
+
+
+>hypothetical protein HMPREF9211_0339 [Lactobacillus iners LactinV 01V1-a]
+Sequence ID: EFO71289.1 Length: 279
+Range 1: 10 to 198
+
+Score:115 bits(287), Expect:5e-26, 
+Method:Compositional matrix adjust., 
+Identities:69/189(37%), Positives:107/189(56%), Gaps:9/189(4%)
+
+Query  54   QIKDFLTYLDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPT--ENGRYFSIDDFAGQ  111
+            +I+  L YLD   + + +Q+ F +KY+AD++LVWAN NI  QP   +N RYF+  +F G 
+Sbjct  10   KIRKLLQYLDKNCKSSKLQVQFKSKYDADEILVWANYNIKGQPVIGDNARYFNKAEFQGN  69
+
+Query  112  VPVVVLGPDST-ANITEVQGNRYLKLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPT  168
+            V   V+   +  ANI   Q NRYLK + +Y ++IG+ K  +  +I+Q +YYLTTGI Q T
+Sbjct  70   VTFAVISAHTPLANIVTSQNNRYLKYEGQYISIIGQLKANDQSEIQQSAYYLTTGIQQQT  129
+
+Query  169  ATGKLKDYRIIIDAPEHIIRHVAKHY--HTQMYVPKFVTTHRNNRFSTIKEIV--LIALM  224
+                L +Y+IIID           H+     ++V    T +  +R +  K++V  +I ++
+Sbjct  130  GNNNLNNYKIIIDGLNKKQAKKVGHFLKAKAIWVNFAQTYNLKHRINPTKKLVFGIICIL  189
+
+Query  225  VLIGIVANI  233
+             + GI A I
+Sbjct  190  FIWGISAMI  198
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: MDN6653436.1 Length: 141
+Range 1: 1 to 133
+
+Score:106 bits(264), Expect:5e-24, 
+Method:Compositional matrix adjust., 
+Identities:50/133(38%), Positives:84/133(63%), Gaps:0/133(0%)
+
+Query  187  IRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKST  246
+            I  +AKHYH ++++  FV  H  +R S +  I+++   V+IGI++N+++A +  +Q + T
+Sbjct  1    INKIAKHYHAKLHISSFVQEHHRDRLSVLPNILMLVACVIIGILSNVVLAILMKQQARLT  60
+
+Query  247  HLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSY  306
+            HLRDDLLRNW++NRS R ++ E + A   YI L W AFYS     +I  L  +++ ++++
+Sbjct  61   HLRDDLLRNWVINRSARTLMVEGVCAFLAYIFLRWHAFYSAYSSLSIALLIAWLINVIAF  120
+
+Query  307  VLTYLYLSRKGIK  319
+             +   +L RK  K
+Sbjct  121  CIMLYHLMRKDKK  133
+
+
+
+
+>hypothetical protein [Lactobacillus iners]
+Sequence ID: MCT7851186.1 Length: 248
+Range 1: 3 to 167
+
+Score:98.2 bits(243), Expect:7e-20, 
+Method:Compositional matrix adjust., 
+Identities:61/165(37%), Positives:93/165(56%), Gaps:9/165(5%)
+
+Query  78   KYEADQVLVWANNNIVTQPT--ENGRYFSIDDFAGQVPVVVLGPDST-ANITEVQGNRYL  134
+            KY+AD++LVWAN NI  QP   +N RYF+  +F G V   V+   +  ANI   Q NRYL
+Sbjct  3    KYDADEILVWANYNIKGQPVIGDNARYFNKAEFQGNVTFAVISAHTPLANIVTSQNNRYL  62
+
+Query  135  KLDDRYYTVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDAPEHIIRHVAK  192
+            K + +Y ++IG+ K  +  +I+Q +YYLTTGI Q T    L +Y+II+D           
+Sbjct  63   KYEGQYISIIGQLKANDQSEIQQSAYYLTTGIQQQTGNNNLNNYKIIVDGLNKKQAKKVG  122
+
+Query  193  HY--HTQMYVPKFVTTHRNNRFSTIKEIV--LIALMVLIGIVANI  233
+            H+     ++V    T +  +R +  K++V  +I ++ + GI A I
+Sbjct  123  HFLKAKAIWVNFAQTYNLKHRINPTKKLVFGIICILFIWGISAMI  167
+
+
+
+
+>hypothetical protein [Companilactobacillus sp. HBUAS59544]
+Sequence ID: WP_334332768.1 Length: 324
+Range 1: 1 to 307
+
+Score:98.6 bits(244), Expect:2e-19, 
+Method:Compositional matrix adjust., 
+Identities:82/317(26%), Positives:148/317(46%), Gaps:21/317(6%)
+
+Query  3    IRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYL  62
+            ++KV  +++I L ++ +G  +SK  S + +  +   G+S+        S + +K  +T L
+Sbjct  1    MKKVISSIVIFLIVLLTGVAISKSDSIKYNNTMNRLGMSDQALVLKTKSKKNLKTVVTQL  60
+
+Query  63   DNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDST  122
+                + ++ Q+ F +K  +D   ++++      P  +GRYFS DDF  Q+P  + G +S 
+Sbjct  61   SETKKLSSYQLIFFDKGNSDLGYIYSHKKFTKLPITSGRYFSEDDFISQIPFAIQGKNSQ  120
+
+Query  123  ANITEVQGNRYLKLDDRYYTVIGEFK-NYHQIEQDSYYLTTGINQPTATGKLKDYRIIID  181
+                + QG  Y+KLDDRY +VIG    +   I      ++   NQP +   L +   ++D
+Sbjct  121  LEAYKPQGQAYIKLDDRYISVIGNVGFDGADILNSQTLVSLSPNQPKSKFHLNEVTTVLD  180
+
+Query  182  APE-------HIIRHVAKHYHTQMYVPK---FVTTHRNNRFSTIKEIVLIALMVLIGIVA  231
+                        I+ + K   T  YVP+   F      N    +  + ++ L VLI IV 
+Sbjct  181  GNALSNKDTLAKIKKIMKVKSTHKYVPQTDDFTNVETTNN-GEMYLVGIVFLFVLILIVD  239
+
+Query  232  NILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHF  291
+              ++  + +   +S HL  DL  N+     +RY+++ ++  V  Y  ++W+         
+Sbjct  240  FYILVPLKYDLSRS-HLTGDLKNNYRNGLMVRYLIYTLVPFVLGYFAVNWK--------I  290
+
+Query  292  AILSLFEFILFMVSYVL  308
+            AI+S   F LF++  VL
+Sbjct  291  AIISQNTFNLFILVSVL  307
+
+
+
+
+>hypothetical protein [Companilactobacillus nuruki]
+Sequence ID: WP_102196086.1 Length: 324
+Range 1: 1 to 311
+
+Score:93.6 bits(231), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:82/321(26%), Positives:151/321(47%), Gaps:22/321(6%)
+
+Query  3    IRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYL  62
+            ++K+  +++I L ++ +G  +SK  S + +  +   G+S++       S + +   +  L
+Sbjct  1    MKKIISSIVIFLVVLLTGVAISKSDSIKYNNTMNRLGMSDDAIVLQTKSKKNLVTAVKDL  60
+
+Query  63   DNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDST  122
+            +N+ + A+ QI F  K  +D   ++++N I   P   GRYFS+DDF  Q+P  V G  S 
+Sbjct  61   NNKKKIASYQIIFFEKRNSDIGYIYSHNKINKLPITTGRYFSLDDFTSQIPFAVQGKTSD  120
+
+Query  123  ANITEVQGNRYLKLDDRYYTVIGEFK-NYHQIEQDSYYLTTGINQPTATGKLKDYRIIID  181
+                + Q   YLK+D+RY +VIG    +   I      ++   NQP +   L     +ID
+Sbjct  121  LKAYKPQSQTYLKVDNRYISVIGNIGFDGADILNAQTLVSLSPNQPKSKYHLNQVTTVID  180
+
+Query  182  APE-------HIIRHVAKHYHTQMYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANI-  233
+                      + I+ V     T  YVP+      N   S   E+ L+ +++L  ++  + 
+Sbjct  181  GRAVSNRESLNKIKRVLHVKSTHKYVPQ-TDDFTNVETSNNGELYLVGIVLLFFLIVAVD  239
+
+Query  234  --LVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHF  291
+              ++  + +   +S +L  DL  N+     IRY+++ ++  V  + ++ WR         
+Sbjct  240  FYILIPLKYDLSRS-NLTGDLKNNYRNGLMIRYLIYTLVPYVVAFAVVKWR--------I  290
+
+Query  292  AILSLFEFILFM-VSYVLTYL  311
+             I+S   F LFM +S ++T L
+Sbjct  291  VIISHSTFNLFMTISVIITIL  311
+
+
+
+
+>hypothetical protein [Companilactobacillus halodurans]
+Sequence ID: WP_153385799.1 Length: 324
+Range 1: 1 to 308
+
+Score:92.0 bits(227), Expect:3e-17, 
+Method:Compositional matrix adjust., 
+Identities:79/320(25%), Positives:146/320(45%), Gaps:25/320(7%)
+
+Query  3    IRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYL  62
+            ++K+  +++I L ++ +G  +SK  S + +  +   G+S+        S + +   +  L
+Sbjct  1    MKKIISSIVIFLIVLLTGVAISKSDSIKYNNTMNRLGMSDEAVVLHTKSKKNLITAVKDL  60
+
+Query  63   DNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDST  122
+            D + + ++ Q+ F +K  +D   ++++  I   P  +GRYFS+DDF  Q+P  V G +S 
+Sbjct  61   DKQKKMSSYQLIFFDKGNSDMGYMYSHGKISKLPITSGRYFSLDDFTSQIPFAVQGKNSE  120
+
+Query  123  ANITEVQGNRYLKLDDRYYTVIGEFK-NYHQIEQDSYYLTTGINQPTATGKLKDYRIIID  181
+                + Q   Y+K+++RY +VIG    +  +I      ++   NQP +   L     ++D
+Sbjct  121  IESYKPQSQSYIKVNNRYISVIGNVGFDGAEILNSQTLVSLSPNQPKSKFHLNQVTTVLD  180
+
+Query  182  APE-------HIIRHVAKHYHTQMYVPKF-----VTTHRNNRFSTIKEIVLIALMVLIGI  229
+                      + I+ +     T  YVP+      V T  N     +  ++L  L+V +  
+Sbjct  181  GKALTNKDSLNKIKSILHVKSTHKYVPQSDDFTNVETSNNGELYMVGIVLLFFLIVAVNF  240
+
+Query  230  VANILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPG  289
+               ILV   Y      +HL  DL  N+     IRY+L+ ++  +  +I++ WR       
+Sbjct  241  Y--ILVPLKY--DLSRSHLTGDLKNNYRNGLMIRYLLYTLVPNILGFIIVHWR-------  289
+
+Query  290  HFAILSLFEFILFMVSYVLT  309
+               I+S   F LFM   +L 
+Sbjct  290  -IVIISHNTFNLFMTVSILC  308
+
+
+
+
+>hypothetical protein [Lactobacillus sp. R2/2]
+Sequence ID: MEB3365317.1 Length: 137
+Range 1: 1 to 122
+
+Score:86.3 bits(212), Expect:1e-16, 
+Method:Compositional matrix adjust., 
+Identities:44/122(36%), Positives:70/122(57%), Gaps:0/122(0%)
+
+Query  198  MYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANILVAAIYWRQGKSTHLRDDLLRNWI  257
+            M  P FV  H+ ++FS ++EI LI + ++I +++N+L+A + W+  K THL   LLRNW+
+Sbjct  1    MKTPLFVKNHQIHQFSFLREIALITVFLIIALLSNLLLAYMDWQTVKQTHLNGPLLRNWL  60
+
+Query  258  MNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHFAILSLFEFILFMVSYVLTYLYLSRKG  317
+            +N  IR +L E+ +  G Y  LSWR F S   H   L    +++   +Y    ++  RK 
+Sbjct  61   INHGIRILLIELTVTFGAYFFLSWRTFISNKQHLIWLLALSWLIIAAAYSFCVIHQLRKD  120
+
+Query  318  IK  319
+             K
+Sbjct  121  QK  122
+
+
+
+
+>hypothetical protein [Bombilactobacillus bombi]
+Sequence ID: WP_118901722.1 Length: 326
+Range 1: 3 to 273
+
+Score:88.6 bits(218), Expect:6e-16, 
+Method:Compositional matrix adjust., 
+Identities:72/277(26%), Positives:138/277(49%), Gaps:18/277(6%)
+
+Query  4    RKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYLD  63
+            + V + L++I+ L+ +G ++SK   +   +L++   + +    F   S + I   L  + 
+Sbjct  3    KNVLINLVVIIVLLVAGLLVSKNDMRNYQRLMDRGNIQDGALIFPSRSQQSIPTALRKMQ  62
+
+Query  64   NRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDSTA  123
+              +     QI+F  K   D   V+ + ++   P  +GRYFS +DFA  +P VVLG D   
+Sbjct  63   -AHNLHDFQIYFIQKKNPDLSYVYMSKHLTKVPMNSGRYFSENDFASPIPFVVLGKDVYK  121
+
+Query  124  NITEVQGNRYLKLDDRYYTVIGEFKNYHQIEQDSY-YLTTGINQPTATGKLKDYRIIIDA  182
+            N  + Q   Y ++D+ YY+VIG     +  + + + +++T  NQ   T +LK Y+I++D 
+Sbjct  122  NTYKPQTQPYFQMDNNYYSVIGSVGMTNTKKLNRHIFISTSPNQYDKT-QLKHYQIVVDG  180
+
+Query  183  -----PEHI--IRHVAKHYHTQMYVPKFVTTHRNNRFS---TIKEIVLIALMVLI-GIVA  231
+                 P+H+  ++H+ K +H      K    H+        T+ +++ +A++V+I    A
+Sbjct  181  NILHHPQHLKQMQHILKAHHLYRSANKINNIHQTWWIRWGVTLFDLLALAIVVIILCWFA  240
+
+Query  232  NILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFE  268
+             + +  +     K+T LR DLL ++ +    ++ L E
+Sbjct  241  QVPMIQLL----KNTPLRGDLLADFQLGNWFKFFLTE  273
+
+
+
+
+>hypothetical protein HMPREF9212_1193 [Lactobacillus iners LactinV 03V1-b]
+Sequence ID: EFO69551.1 Length: 140
+Range 1: 1 to 103
+
+Score:84.3 bits(207), Expect:7e-16, 
+Method:Compositional matrix adjust., 
+Identities:46/103(45%), Positives:63/103(61%), Gaps:5/103(4%)
+
+Query  85   LVWANNNIVTQPT--ENGRYFSIDDFAGQVPVVVLGPDST-ANITEVQGNRYLKLDDRYY  141
+            +VWAN NI  QP   +N RYF+  +F G V   V+   +  ANI   Q NRYLK + +Y 
+Sbjct  1    MVWANYNIKGQPVIGDNARYFNKAEFKGNVTFAVISAHTPVANIVTSQNNRYLKYEGQYI  60
+
+Query  142  TVIGEFK--NYHQIEQDSYYLTTGINQPTATGKLKDYRIIIDA  182
+            ++IG+ K  +  +I+Q +YYLTTGI Q T    L +Y+IIID 
+Sbjct  61   SIIGQLKANDQSEIQQSAYYLTTGIQQQTGNNNLNNYKIIIDG  103
+
+
+
+
+>hypothetical protein [Companilactobacillus alimentarius]
+Sequence ID: WP_057739701.1 Length: 325
+Range 1: 1 to 307
+
+Score:88.6 bits(218), Expect:7e-16, 
+Method:Compositional matrix adjust., 
+Identities:80/319(25%), Positives:145/319(45%), Gaps:25/319(7%)
+
+Query  3    IRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYL  62
+            ++KV  +++I L ++ +G  +SK  S + +  +   G+S         S + +K  ++ L
+Sbjct  1    MKKVISSIVIFLIVMLAGVAISKSDSIKYNNTMNRLGMSEQALVLHTKSKKNLKTAVSNL  60
+
+Query  63   DNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDST  122
+                + ++ QI F  K  +D   ++++  +   P  +GRYFS DDF  Q+P  V G  S 
+Sbjct  61   SETKKLSSYQIIFFEKSNSDLGYIYSHKKVNKLPITSGRYFSQDDFISQIPFAVQGKTSQ  120
+
+Query  123  ANITEVQGNRYLKLDDRYYTVIGEFK-NYHQIEQDSYYLTTGINQPTATGKLKDYRIIID  181
+                + Q   Y+K++DRY +VIG    +   I      ++   NQP +   L     +ID
+Sbjct  121  LEAYKPQEQAYIKMNDRYISVIGNIGFDGADILNSQTLISLSPNQPKSKYHLNQVTTVID  180
+
+Query  182  AP----EHIIRHVAKHYH---TQMYVPKF-----VTTHRNNRFSTIKEIVLIALMVLIGI  229
+                  +  +  + K  H   T  YVP+        T  N     +  ++L  L+V+I  
+Sbjct  181  GDAVNNKDSLVKIKKVLHVSSTHRYVPQTDDFTNAETSNNGEMYLVGIVLLFILLVIIDF  240
+
+Query  230  VANILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPG  289
+               ILV   +      +HL  DL  N+     +RY+++ ++  +  Y+L++W+       
+Sbjct  241  Y--ILVPLKF--DLSHSHLTGDLKNNYRNGLMVRYLIYTLIPFIVGYLLVNWK-------  289
+
+Query  290  HFAILSLFEFILFMVSYVL  308
+              AI+S   F +F++  VL
+Sbjct  290  -IAIISYSTFNMFILVSVL  307
+
+
+
+
+>hypothetical protein [Companilactobacillus paralimentarius]
+Sequence ID: WP_404327167.1 Length: 325
+Range 1: 1 to 311
+
+Score:86.7 bits(213), Expect:3e-15, 
+Method:Compositional matrix adjust., 
+Identities:85/322(26%), Positives:147/322(45%), Gaps:24/322(7%)
+
+Query  3    IRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYL  62
+            ++KV  +++I L ++ +G  +SK  S + +  +   G+S         S + +   +  L
+Sbjct  1    MKKVISSIVIFLIVLLTGVAISKSDSIKYNNTMNRLGMSEQAIVLHTKSKKNLVTAVQEL  60
+
+Query  63   DNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDST  122
+              + + ++ Q+ F  K  +D   ++ +N I   P  +GRYFS DDF  Q+P  V G  S 
+Sbjct  61   SKKKKVSSYQLIFFEKSNSDLGYIYGHNKINKLPITSGRYFSQDDFISQIPFAVQGKSSQ  120
+
+Query  123  ANITEVQGNRYLKLDDRYYTVIGEFK-NYHQIEQDSYYLTTGINQPTATGKLKDYRIIID  181
+                + QG  Y+++ DRY +VIG    +   I      ++   NQP +   L     ++D
+Sbjct  121  LESYKPQGQAYIQMGDRYISVIGNIGFDGADILNGQTLISLSPNQPKSKLHLNQVTTVLD  180
+
+Query  182  A-----PEHI--IRHVAKHYHTQMYVPK---FVTTHR-NNRFSTIKEIVLIALMVLIGIV  230
+                   E +  I+ V     +  YVP+   F      NN    +  IVL  L VLI IV
+Sbjct  181  GNALSNKESLSKIKSVLHAKSSHKYVPQTDDFTNAETVNNGEMYLVGIVL--LFVLIVIV  238
+
+Query  231  ANILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGH  290
+               ++  + +   +S HL  DL  N+     IRY+++ ++  +  Y  ++W         
+Sbjct  239  DFYILVPLKYDLSRS-HLTGDLKNNYQNGLMIRYLIYTLVPFIAGYAAVNWT--------  289
+
+Query  291  FAILSLFEFILF-MVSYVLTYL  311
+             AI+S   F +F +VS ++T L
+Sbjct  290  IAIISHNTFNMFILVSVLITIL  311
+
+
+
+
+>hypothetical protein [Companilactobacillus kimchiensis]
+Sequence ID: WP_057879805.1 Length: 324
+Range 1: 1 to 310
+
+Score:86.3 bits(212), Expect:4e-15, 
+Method:Compositional matrix adjust., 
+Identities:73/320(23%), Positives:148/320(46%), Gaps:21/320(6%)
+
+Query  3    IRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYL  62
+            ++K+  +++I L ++ +G  +SK  S + +  +   G+S         S + + + +  L
+Sbjct  1    MKKIISSIVIFLVVLLTGVAISKSDSIKYNNTMNRLGMSEEAVVLRTKSKKNLVNVVKKL  60
+
+Query  63   DNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDST  122
+            DN  + ++ Q+ F  K  +D   ++++  I   P  +GRYFS DDF  Q+P  + G  S 
+Sbjct  61   DNTKKISSYQLIFFEKSNSDIGYIYSHGKINKLPITSGRYFSTDDFTSQIPFAIQGKTSE  120
+
+Query  123  ANITEVQGNRYLKLDDRYYTVIGEFK-NYHQIEQDSYYLTTGINQPTATGKLKDYRIIID  181
+                + Q   Y+K+D+RY +VIG    +   I      ++   NQP +   L     ++D
+Sbjct  121  IEPYKPQSQPYIKVDNRYISVIGNVGFDGADILNSQTLVSLSPNQPQSKYHLNQVTTVLD  180
+
+Query  182  A----PEHIIRHVAKHYHTQ---MYVPKFVTTHRNNRFSTIKEIVLIALMVLIGIVANI-  233
+                  +  +  + K  H +    Y+P+      N   S   E+ L+ +++L  ++  + 
+Sbjct  181  GRATYNKESLNKIKKVLHVKSMHKYIPQ-TDDFANVETSNNGELYLVGIVLLFFLIMAVD  239
+
+Query  234  --LVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHF  291
+              ++  + +   +S +L  DL  N+     IRY+++ ++     +  ++W+         
+Sbjct  240  FYILVPLKFDLSRS-NLTGDLKNNYRNGLMIRYLIYTLVPFAAGFAAVNWK--------I  290
+
+Query  292  AILSLFEFILFMVSYVLTYL  311
+            AI+S   F LFM+  +LT +
+Sbjct  291  AIISHSTFNLFMIISILTTM  310
+
+
+
+
+>hypothetical protein [Lactobacillus iners]
+Sequence ID: MCT7787352.1 Length: 126
+Range 1: 5 to 124
+
+Score:79.3 bits(194), Expect:4e-14, 
+Method:Compositional matrix adjust., 
+Identities:42/120(35%), Positives:67/120(55%), Gaps:2/120(1%)
+
+Query  2    NIRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTY  61
+            N++K  L + I L+ +G    +S  QS+ AD +L   GLS++   +  N   +I+  L Y
+Sbjct  5    NMKKFLLIVTIFLAFVGLAFTISIKQSQNADIILTNNGLSSSYCVYQPNLKLKIRKLLQY  64
+
+Query  62   LDNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPT--ENGRYFSIDDFAGQVPVVVLGP  119
+            LD   + + +Q+   +KY+ D++LVWAN NI  QP   +N RYF+  +F G V   V+  
+Sbjct  65   LDKNCKSSKLQVQLKSKYDTDEILVWANYNIKGQPVIGDNARYFNKAEFQGNVTFAVISA  124
+
+
+
+
+>hypothetical protein [Companilactobacillus mindensis]
+Sequence ID: WP_057887064.1 Length: 324
+Range 1: 1 to 311
+
+Score:82.4 bits(202), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:79/321(25%), Positives:146/321(45%), Gaps:22/321(6%)
+
+Query  3    IRKVFLTLIIILSLIGSGTILSKIQSKEADQLLETYGLSNNTRYFDINSNRQIKDFLTYL  62
+            ++K+  +++I L ++ +G  +SK  S + +  +   G+S         S + +   +  L
+Sbjct  1    MKKIISSIVIFLVVLLTGVAISKSDSIKYNNTMNRLGMSEEAVVLHTKSKKNLVTAVQQL  60
+
+Query  63   DNRYEKATIQIHFDNKYEADQVLVWANNNIVTQPTENGRYFSIDDFAGQVPVVVLGPDST  122
+            D++ + A+ Q+ F  K  +D   ++++N I   P  +GRYFS DDF  Q+P  + G  S 
+Sbjct  61   DSKKKLASYQLVFFEKSNSDIGYIYSHNKINKLPITSGRYFSADDFTSQIPFAIQGKTSE  120
+
+Query  123  ANITEVQGNRYLKLDDRYYTVIGEFK-NYHQIEQDSYYLTTGINQPTATGKLKDYRIIID  181
+                + Q   Y+K+D+RY +VIG    +   I      ++   NQP +   L     ++D
+Sbjct  121  IEPYKPQSQAYIKVDNRYISVIGNVGFDGADILNSQTLVSLSPNQPKSKYHLNQVTTVLD  180
+
+Query  182  APE-------HIIRHVAKHYHTQMYVPK---FVTTHRNNRFSTIKEIVLIALMVLIGIVA  231
+                      + I+ V        YVP+   F     +N        +++ L V++ +  
+Sbjct  181  GRALSNKESLNKIKSVLHVKSMHKYVPQTDDFTNAETSNNGELYLVGIVLLLFVVVAVDF  240
+
+Query  232  NILVAAIYWRQGKSTHLRDDLLRNWIMNRSIRYILFEVLLAVGVYILLSWRAFYSYPGHF  291
+             IL+   Y      +HL  DL  N+     IRY+++ ++     +  ++W+         
+Sbjct  241  YILIPLKY--DLSRSHLTGDLKNNYRNGLLIRYLIYTLIPYAAGFAAVNWK--------I  290
+
+Query  292  AILSLFEFILFM-VSYVLTYL  311
+            AI+S   F LFM VS +LT++
+Sbjct  291  AIISHNTFNLFMIVSILLTFV  311
+
+
+
+
+
+
+
+		
+
+

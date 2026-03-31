@@ -1,0 +1,1631 @@
+RID: T8UPWJC3016	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: lcl|Query_9367670 Length: 61
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E   Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value Ident  Len        Accession        
+LBP_cg2779 family protein [Lactobacillus gigeriorum]              1          1          Lactobacillu... firmicutes      1203069    127    127   100%  5e-37 100.00 61         WP_008474184.1   
+hypothetical protein [Candidatus Lactobacillus pullistercoris]    1          1          Candidatus L... firmicutes      2838636    99.4   99.4  98%   1e-25 73.33  62         MBU3827839.1     
+LBP_cg2779 family protein [Lactobacillus agrestimuris]            1          1          Lactobacillu... firmicutes      2941328    96.3   96.3  98%   1e-24 78.33  62         WP_251717372.1   
+LBP_cg2779 family protein [Lactobacillus huangpiensis]            11         8          Lactobacillus   firmicutes      1578       96.3   96.3  90%   2e-24 80.00  63         WP_223896562.1   
+hypothetical protein [Lactobacillus sp. XV13L]                    1          1          Lactobacillu... firmicutes      2507074    95.5   95.5  89%   3e-24 75.93  63         MBA1393174.1     
+MULTISPECIES: LBP_cg2779 family protein [unclassified...          1          1          unclassified... firmicutes      2620435    95.1   95.1  90%   4e-24 78.18  63         WP_277126471.1   
+LBP_cg2779 family protein [Lactobacillus pasteurii]               1          1          Lactobacillu... firmicutes      872327     95.1   95.1  98%   4e-24 75.00  62         WP_009560143.1   
+LBP_cg2779 family protein [Lactobacillus sp. ESL0785]             1          1          Lactobacillu... firmicutes      2983232    95.1   95.1  90%   4e-24 76.36  63         WP_277163810.1   
+MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]           2          2          Lactobacillus   firmicutes      1578       93.6   93.6  90%   2e-23 74.55  63         WP_103751643.1   
+LBP_cg2779 family protein [Lactobacillus kalixensis]              4          3          Lactobacillus   firmicutes      1578       93.2   93.2  98%   2e-23 70.00  62         WP_057798052.1   
+LBP_cg2779 family protein [Lactobacillus crispatus]               3          1          Lactobacillu... firmicutes      47770      92.8   92.8  98%   4e-23 68.33  62         WP_319425622.1   
+MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]           3          2          Lactobacillus   firmicutes      1578       90.5   90.5  93%   2e-22 70.18  63         WP_046306912.1   
+LBP_cg2779 family protein [Lactobacillus amylovorus]              5          3          Lactobacillus   firmicutes      1578       90.5   90.5  92%   2e-22 71.43  63         WP_136860304.1   
+MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]           18         10         Lactobacillus   firmicutes      1578       90.1   90.1  92%   4e-22 73.21  63         WP_003627439.1   
+MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]           3          2          Lactobacillus   firmicutes      1578       90.1   90.1  90%   5e-22 72.73  63         WP_090091976.1   
+MULTISPECIES: LBP_cg2779 family protein [unclassified...          1          1          unclassified... firmicutes      2620435    89.7   89.7  93%   6e-22 70.18  63         WP_122018225.1   
+LBP_cg2779 family protein [Lactobacillus intestinalis]            3          1          Lactobacillu... firmicutes      151781     89.4   89.4  95%   7e-22 68.97  62         WP_369907145.1   
+MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]           1          1          Lactobacillus   firmicutes      1578       88.6   88.6  92%   1e-21 69.64  61         WP_103661211.1   
+hypothetical protein [Lactobacillus sp.]                          1          1          Lactobacillu... firmicutes      1591       88.6   88.6  98%   2e-21 66.67  62         MBC9720333.1     
+LBP_cg2779 family protein [Lactobacillus helveticus]              1          1          Lactobacillu... firmicutes      1587       89.0   89.0  90%   2e-21 72.73  73         WP_201724915.1   
+LBP_cg2779 family protein [Lactobacillus acidophilus]             1          1          Lactobacillu... firmicutes      1579       88.2   88.2  90%   3e-21 72.73  65         UTH90917.1       
+LBP_cg2779 family protein [Lactobacillus jensenii]                2          2          Lactobacillus   firmicutes      1578       87.8   87.8  92%   3e-21 73.21  61         WP_006584795.1   
+LBP_cg2779 family protein [Lactobacillus sp. LL6]                 2          2          unclassified... firmicutes      2620435    87.8   87.8  92%   3e-21 67.86  61         WP_144355312.1   
+LBP_cg2779 family protein [Lactobacillus psittaci]                1          1          Lactobacillu... firmicutes      116089     86.3   86.3  92%   2e-20 71.43  61         WP_027825611.1   
+LBP_cg2779 family protein [Lactobacillus sp.]                     2          1          Lactobacillu... firmicutes      1591       85.1   85.1  90%   4e-20 69.09  62         MGO2952352.1     
+LBP_cg2779 family protein [Lactobacillus mulieris]                1          1          Lactobacillu... firmicutes      2508708    84.3   84.3  89%   9e-20 72.22  71         WP_391486809.1   
+LBP_cg2779 family protein [Lactobacillus delbrueckii]             2          1          Lactobacillu... firmicutes      1584       84.3   84.3  93%   1e-19 68.42  67         WP_215472452.1   
+LBP_cg2779 family protein [Lactobacillus delbrueckii]             28         6          Lactobacillus   firmicutes      1578       83.6   83.6  92%   1e-19 69.64  59         WP_414222453.1   
+LBP_cg2779 family protein [Lactobacillus xylocopicola]            1          1          Lactobacillu... firmicutes      2976676    83.2   83.2  93%   2e-19 68.42  63         WP_317636781.1   
+LBP_cg2779 family protein [Lactobacillus equicursoris]            2          2          Lactobacillus   firmicutes      1578       82.0   82.0  92%   6e-19 67.86  61         WP_154487197.1   
+LBP_cg2779 family protein, partial [Lactobacillus helveticus]     2          2          Lactobacillus   firmicutes      1578       81.3   81.3  85%   1e-18 69.23  54         WP_172985921.1   
+LBP_cg2779 family protein [Lactobacillus corticis]                1          1          Lactobacillu... firmicutes      2201249    80.1   80.1  92%   4e-18 58.93  61         WP_212780737.1   
+LBP_cg2779 family protein [Lactobacillus porci]                   4          3          Lactobacillus   firmicutes      1578       79.7   79.7  92%   5e-18 66.07  61         WP_412128983.1   
+hypothetical protein FC20_GL001773 [Lactobacillus equicursoris... 1          1          Lactobacillu... firmicutes      1293597    80.1   80.1  92%   6e-18 66.07  74         KRL02947.1       
+hypothetical protein [Lactobacillus delbrueckii subsp....         1          1          Lactobacillu... firmicutes      1585       78.6   78.6  93%   1e-17 63.93  67         MBT8848201.1     
+LBP_cg2779 family protein [uncultured Lactobacillus sp.]          2          2          Lactobacillus   firmicutes      1578       78.6   78.6  92%   2e-17 67.86  61         WP_297820500.1   
+MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]           16         7          Lactobacillus   firmicutes      1578       77.4   77.4  92%   4e-17 64.29  61         WP_004895065.1   
+LBP_cg2779 family protein [Lactobacillus sp.]                     2          1          Lactobacillu... firmicutes      1591       77.0   77.0  92%   7e-17 60.71  61         MCI1290225.1     
+LBP_cg2779 family protein [Lactobacillus sp.]                     3          2          Lactobacillus   firmicutes      1578       74.3   74.3  92%   7e-16 64.29  62         WP_290626054.1   
+LBP_cg2779 family protein, partial [Lactobacillus jensenii]       1          1          Lactobacillu... firmicutes      109790     72.8   72.8  74%   2e-15 73.33  47         WP_310652513.1   
+LBP_cg2779 family protein [Lactobacillus sp.]                     1          1          Lactobacillu... firmicutes      1591       72.4   72.4  93%   4e-15 56.14  61         MFC2694506.1     
+MULTISPECIES: LBP_cg2779 family protein [unclassified...          1          1          unclassified... firmicutes      2620435    71.2   71.2  92%   1e-14 60.71  60         WP_265484469.1   
+LBP_cg2779 family protein, partial [Lactobacillus gallinarum]     1          1          Lactobacillu... firmicutes      52242      68.2   68.2  66%   2e-13 77.50  46         WP_191451645.1   
+LBP_cg2779 family protein [Lactobacillus sp. PV034]               2          2          Lactobacillus   firmicutes      1578       67.8   67.8  92%   3e-13 53.57  61         WP_265489185.1   
+LBP_cg2779 family protein, partial [Lactobacillus taiwanensis]    1          1          Lactobacillu... firmicutes      508451     66.6   66.6  82%   7e-13 60.00  52         WP_281510431.1   
+hypothetical protein AT236_01190 [Lactobacillus delbrueckii...    2          1          Lactobacillu... firmicutes      1585       65.9   65.9  69%   9e-13 69.05  43         ALT47578.1       
+MULTISPECIES: LBP_cg2779 family protein [Amylolactobacillus]      1          1          Amylolactoba... firmicutes      2767876    59.3   59.3  87%   7e-10 50.94  60         WP_054745028.1   
+LBP_cg2779 family protein [Xylocopilactobacillus apis]            1          1          Xylocopilact... firmicutes      2932183    56.6   56.6  95%   7e-09 43.10  62         WP_317697516.1   
+LBP_cg2779 family protein [Ligilactobacillus sp. LYQ135]          1          1                                          3469971    56.6   56.6  90%   1e-08 41.82  72         WP_454544901.1   
+MULTISPECIES: LBP_cg2779 family protein [unclassified...          2          2          Ligilactobac... firmicutes      2767887    55.5   55.5  84%   2e-08 43.14  60         WP_405024276.1   
+LBP_cg2779 family protein [Xylocopilactobacillus apicola]         1          1          Xylocopilact... firmicutes      2932184    55.1   55.1  95%   3e-08 43.10  61         WP_317634851.1   
+LBP_cg2779 family protein [Pediococcus argentinicus]              1          1          Pediococcus ... firmicutes      480391     55.1   55.1  98%   3e-08 41.67  62         WP_057800476.1   
+LBP_cg2779 family protein, partial [Lactobacillus crispatus]      1          1          Lactobacillu... firmicutes      47770      54.3   54.3  56%   3e-08 76.47  34         WP_240722095.1   
+LBP_cg2779 family protein [Lacticaseibacillus pabuli]             1          1          Lacticaseiba... firmicutes      3025672    53.9   53.9  95%   1e-07 43.10  68         WP_274260124.1   
+LBP_cg2779 family protein [Lactiplantibacillus pentosus]          22         8          Lactiplantib... firmicutes      2767842    53.5   53.5  93%   1e-07 42.11  65         WP_209041659.1   
+LBP_cg2779 family protein [Salmonella enterica subsp. enterica... 1          1          Salmonella e... enterobacteria  90371      53.1   53.1  93%   3e-07 40.35  74         MFO5399102.1     
+MULTISPECIES: LBP_cg2779 family protein [Lactiplantibacillus]     3          2          Lactiplantib... firmicutes      2767842    52.8   52.8  93%   3e-07 45.61  65         WP_057705508.1   
+LBP_cg2779 family protein [Lactobacillus sp. CBA3605]             2          2          unclassified... firmicutes      2620435    52.4   52.4  93%   3e-07 42.11  65         WP_105451838.1   
+LBP_cg2779 family protein [Ligilactobacillus araffinosus]         2          2          Ligilactobac... firmicutes      2767887    52.4   52.4  93%   4e-07 38.60  72         WP_057907218.1   
+LBP_cg2779 family protein [Lactobacillus gasseri]                 1          1          Lactobacillu... firmicutes      1596       51.6   51.6  62%   4e-07 60.53  40         MCT7895402.1     
+LBP_cg2779 family protein [Companilactobacillus versmoldensis]    4          3          Companilacto... firmicutes      2767879    52.0   52.0  87%   5e-07 45.28  61         WP_010623542.1   
+LBP_cg2779 family protein [Lactobacillaceae bacterium]            1          1          Lactobacilla... firmicutes      2291323    52.0   52.0  93%   5e-07 42.11  61         MGL5900157.1     
+LBP_cg2779 family protein [Lactiplantibacillus plantarum]         1          1          Lactiplantib... firmicutes      1590       51.6   51.6  77%   5e-07 48.94  54         WCJ49644.1       
+LBP_cg2779 family protein [Lactiplantibacillus herbarum]          1          1          Lactiplantib... firmicutes      1670446    51.6   51.6  93%   8e-07 38.60  65         WP_048001032.1   
+LBP_cg2779 family protein [Bombilactobacillus thymidiniphilus]    1          1          Bombilactoba... firmicutes      2923363    51.2   51.2  85%   1e-06 46.15  60         WP_249512778.1   
+LBP_cg2779 family protein [Ligilactobacillus cholophilus]         1          1          Ligilactobac... firmicutes      3050131    51.2   51.2  85%   1e-06 36.54  72         WP_290033500.1   
+LBP_cg2779 family protein [Bombilactobacillus mellifer]           1          1          Bombilactoba... firmicutes      1218492    50.8   50.8  92%   1e-06 42.86  64         WP_046316392.1   
+LBP_cg2779 family protein [Paucilactobacillus suebicus]           1          1          Paucilactoba... firmicutes      152335     50.8   50.8  98%   1e-06 36.67  61         WP_010621223.1   
+LBP_cg2779 family protein [Lactiplantibacillus nangangensis]      4          4          Lactiplantib... firmicutes      2767842    50.8   50.8  93%   2e-06 40.35  65         WP_137614886.1   
+hypothetical protein [Candidatus Ligilactobacillus...             1          1          Candidatus L... firmicutes      2838641    49.3   49.3  85%   7e-06 36.54  72         HIX02159.1       
+LBP_cg2779 family protein [Ligilactobacillus salitolerans]        1          1          Ligilactobac... firmicutes      1808352    48.9   48.9  95%   1e-05 40.68  69         WP_229717933.1   
+LBP_cg2779 family protein [Ligilactobacillus pobuzihii]           2          1          Ligilactobac... firmicutes      449659     48.5   48.5  95%   1e-05 42.37  69         WP_206462484.1   
+LBP_cg2779 family protein [Lapidilactobacillus luobeiensis]       2          2          Lapidilactob... firmicutes      2767884    48.1   48.1  95%   2e-05 39.66  61         WP_261805585.1   
+LBP_cg2779 family protein [Paucilactobacillus sp. N302-9]         1          1          Paucilactoba... firmicutes      3447171    47.4   47.4  97%   3e-05 35.59  61         WP_461240049.1   
+LBP_cg2779 family protein [Ligilactobacillus agilis]              5          1          Ligilactobac... firmicutes      1601       47.0   47.0  64%   5e-05 51.28  65         WP_278745403.1   
+LBP_cg2779 family protein [Ligilactobacillus agilis]              1          1          Ligilactobac... firmicutes      1601       47.4   47.4  61%   6e-05 54.05  90         WP_302046981.1   
+hypothetical protein [Candidatus Paralactobacillus...             1          1          Candidatus P... firmicutes      2838724    46.6   46.6  70%   6e-05 53.49  62         MBU3851102.1     
+LBP_cg2779 family protein [Ligilactobacillus ubinensis]           1          1          Ligilactobac... firmicutes      2876789    46.6   46.6  84%   7e-05 43.14  71         WP_253361043.1   
+LBP_cg2779 family protein [Ligilactobacillus acidipiscis]         4          2          Ligilactobac... firmicutes      89059      45.8   45.8  79%   2e-04 43.75  69         WP_405075843.1   
+LBP_cg2779 family protein, partial [Lacticaseibacillus paracasei] 2          1          Lacticaseiba... firmicutes      1597       45.8   45.8  61%   2e-04 56.76  78         WP_369596107.1   
+hypothetical protein [Ligilactobacillus salivarius]               1          1          Ligilactobac... firmicutes      1624       45.1   45.1  84%   2e-04 39.22  57         MSE05966.1       
+LBP_cg2779 family protein, partial [Lacticaseibacillus paracasei] 11         6          Bacillati       Terrabacteri... 1783272    45.1   45.1  56%   3e-04 61.76  66         WP_347071564.1   
+LBP_cg2779 family protein [Lacticaseibacillus paracasei]          1          1          Lacticaseiba... firmicutes      1597       45.1   45.1  56%   3e-04 61.76  60         MFR7698827.1     
+hypothetical protein [Lacticaseibacillus paracasei]               7          5          Lacticaseiba... firmicutes      2759736    45.8   45.8  61%   3e-04 56.76  91         MBB1167631.1     
+LBP_cg2779 family protein, partial [Lacticaseibacillus paracasei] 1          1          Lacticaseiba... firmicutes      1597       45.8   45.8  54%   3e-04 63.64  106        WP_369596124.1   
+LBP_cg2779 family protein [Lactobacillus delbrueckii]             1          1          Lactobacillu... firmicutes      1584       44.3   44.3  44%   3e-04 66.67  28         MGO2790295.1     
+MULTISPECIES: LBP_cg2779 family protein [Ligilactobacillus]       8          2          Ligilactobac... firmicutes      2767887    44.7   44.7  84%   4e-04 39.22  66         WP_081537767.1   
+hypothetical protein N507_1986 [Lacticaseibacillus rhamnosus D... 4          4          Lacticaseiba... firmicutes      2759736    45.1   45.1  56%   6e-04 61.76  104        ASY49160.1       
+LBP_cg2779 family protein [Ligilactobacillus pabuli]              1          1          Ligilactobac... firmicutes      2886039    44.3   44.3  82%   6e-04 43.14  64         WP_244056364.1   
+LBP_cg2779 family protein [Philodulcilactobacillus myokoensis]    1          1          Philodulcila... firmicutes      2929573    42.7   42.7  64%   0.002 48.72  66         WP_286136020.1   
+LBP_cg2779 family protein [Limosilactobacillus gastricus]         2          1          Limosilactob... firmicutes      227942     42.7   42.7  100%  0.002 35.48  64         WP_056937804.1   
+LBP_cg2779 family protein [Liquorilactobacillus vini]             3          2          Liquorilacto... firmicutes      2767888    42.7   42.7  61%   0.003 48.65  67         WP_010579919.1   
+LBP_cg2779 family protein [Lentilactobacillus kribbianus]         1          1          Lentilactoba... firmicutes      2729622    42.4   42.4  87%   0.003 39.62  60         WP_172187635.1   
+LBP_cg2779 family protein [Liquorilactobacillus ghanensis]        1          1          Liquorilacto... firmicutes      399370     42.7   42.7  62%   0.003 47.37  66         WP_057870647.1   
+LBP_cg2779 family protein, partial [Lactobacillus taiwanensis]    1          1          Lactobacillu... firmicutes      508451     41.6   41.6  46%   0.003 67.86  31         WP_285818167.1   
+LBP_cg2779 family protein [Secundilactobacillus kimchicus]        1          1          Secundilacto... firmicutes      528209     42.0   42.0  85%   0.004 36.54  60         WP_054659236.1   
+hypothetical protein FC56_GL000907 [Lentilactobacillus seniori... 1          1          Lentilactoba... firmicutes      1423802    42.0   42.0  87%   0.005 37.74  68         KRM93242.1       
+LBP_cg2779 family protein [Liquorilactobacillus nagelii]          2          1          Liquorilacto... firmicutes      82688      41.6   41.6  90%   0.007 36.36  66         WP_278750992.1   
+LBP_cg2779 family protein [Lactobacillus sp. Sy-1]                2          2          Lactobacilla... firmicutes      33958      41.6   41.6  97%   0.007 35.59  66         WP_219054132.1   
+LBP_cg2779 family protein [Lacticaseibacillus paracasei]          1          1          Lacticaseiba... firmicutes      1597       40.8   40.8  49%   0.008 63.33  39         MFK5284117.1     
+
+
+Alignments:
+
+>LBP_cg2779 family protein [Lactobacillus gigeriorum]
+Sequence ID: WP_008474184.1 Length: 61
+Range 1: 1 to 61
+
+Score:127 bits(319), Expect:5e-37, 
+Method:Compositional matrix adjust., 
+Identities:61/61(100%), Positives:61/61(100%), Gaps:0/61(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS
+Sbjct  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+
+Query  61  Y  61
+           Y
+Sbjct  61  Y  61
+
+
+
+
+>hypothetical protein [Candidatus Lactobacillus pullistercoris]
+Sequence ID: MBU3827839.1 Length: 62
+Range 1: 1 to 60
+
+Score:99.4 bits(246), Expect:1e-25, 
+Method:Compositional matrix adjust., 
+Identities:44/60(73%), Positives:54/60(90%), Gaps:0/60(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           MN  EELSDAIID+QVK+H+ DTD+AFAS+LSVEK+HAMK G GSFTPEE+NQ+YDY+ +
+Sbjct  1   MNEFEELSDAIIDYQVKHHVNDTDLAFASHLSVEKVHAMKTGDGSFTPEEVNQLYDYMAA  60
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus agrestimuris]
+Sequence ID: WP_251717372.1 Length: 62
+Range 1: 1 to 60
+
+Score:96.3 bits(238), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:47/60(78%), Positives:52/60(86%), Gaps:0/60(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           MN  EELSDAIIDFQVK+H++DTDMAF S+LSVEKIHAMK GSG FT EEINQ+ DYI S
+Sbjct  1   MNQQEELSDAIIDFQVKHHISDTDMAFGSHLSVEKIHAMKTGSGVFTDEEINQLLDYISS  60
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus huangpiensis]
+Sequence ID: WP_223896562.1 Length: 63
+Range 1: 5 to 59
+
+Score:96.3 bits(238), Expect:2e-24, 
+Method:Compositional matrix adjust., 
+Identities:44/55(80%), Positives:51/55(92%), Gaps:0/55(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           LEELSDAIIDFQVK+H+TDTD+AFAS+LSVEKIH+MK G G FTP EINQ+YDY+
+Sbjct  5   LEELSDAIIDFQVKHHVTDTDLAFASHLSVEKIHSMKTGDGEFTPGEINQLYDYL  59
+
+
+
+
+>hypothetical protein [Lactobacillus sp. XV13L]
+Sequence ID: MBA1393174.1 Length: 63
+Range 1: 6 to 59
+
+Score:95.5 bits(236), Expect:3e-24, 
+Method:Compositional matrix adjust., 
+Identities:41/54(76%), Positives:51/54(94%), Gaps:0/54(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           EELS+AIID+QVK+H+TDTD+AFA +LSVEKIHAMK+G G FTPEE+NQ+YDY+
+Sbjct  6   EELSNAIIDYQVKHHVTDTDLAFACHLSVEKIHAMKVGEGEFTPEEVNQLYDYL  59
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [unclassified Lactobacillus]
+Sequence ID: WP_277126471.1 Length: 63
+Range 1: 5 to 59
+
+Score:95.1 bits(235), Expect:4e-24, 
+Method:Compositional matrix adjust., 
+Identities:43/55(78%), Positives:50/55(90%), Gaps:0/55(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           L+ELSDAIID+QVK+H +DTD+AFAS+LSVEKIHAMK G G FTPEEINQ+YDY 
+Sbjct  5   LQELSDAIIDYQVKHHASDTDLAFASHLSVEKIHAMKTGDGEFTPEEINQLYDYF  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus pasteurii]
+Sequence ID: WP_009560143.1 Length: 62
+Range 1: 1 to 60
+
+Score:95.1 bits(235), Expect:4e-24, 
+Method:Compositional matrix adjust., 
+Identities:45/60(75%), Positives:52/60(86%), Gaps:0/60(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           MN  EELS+ IIDF+VKNHMTDTD+AFAS+LSVEKIHAMK G G FT EEI+Q+YDYI +
+Sbjct  1   MNEQEELSNQIIDFEVKNHMTDTDLAFASHLSVEKIHAMKAGRGIFTAEEISQIYDYISA  60
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus sp. ESL0785]
+Sequence ID: WP_277163810.1 Length: 63
+Range 1: 5 to 59
+
+Score:95.1 bits(235), Expect:4e-24, 
+Method:Compositional matrix adjust., 
+Identities:42/55(76%), Positives:52/55(94%), Gaps:0/55(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           LEELSDAII++QV++H+ DTD+AFAS+LSVEKIHAMK+G G FTPEEINQ+YDY+
+Sbjct  5   LEELSDAIINYQVQHHVNDTDLAFASHLSVEKIHAMKVGEGEFTPEEINQLYDYM  59
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]
+Sequence ID: WP_103751643.1 Length: 63
+Range 1: 5 to 59
+
+Score:93.6 bits(231), Expect:2e-23, 
+Method:Compositional matrix adjust., 
+Identities:41/55(75%), Positives:51/55(92%), Gaps:0/55(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           LEELS +II++Q+K+H+TDTD+AFAS+LSVEKIHAMK G G FTPEEINQ+YDY+
+Sbjct  5   LEELSSSIINYQIKHHITDTDLAFASHLSVEKIHAMKTGEGEFTPEEINQLYDYL  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus kalixensis]
+Sequence ID: WP_057798052.1 Length: 62
+Range 1: 1 to 60
+
+Score:93.2 bits(230), Expect:2e-23, 
+Method:Compositional matrix adjust., 
+Identities:42/60(70%), Positives:53/60(88%), Gaps:0/60(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           MN  E+L+DAIIDFQVK+H+ DTD+AFAS+LSVEK+HAMK G G+FT EEINQ+YDY+ +
+Sbjct  1   MNEQEQLADAIIDFQVKHHVNDTDLAFASHLSVEKVHAMKTGDGNFTAEEINQLYDYMAA  60
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus crispatus]
+Sequence ID: WP_319425622.1 Length: 62
+Range 1: 1 to 60
+
+Score:92.8 bits(229), Expect:4e-23, 
+Method:Compositional matrix adjust., 
+Identities:41/60(68%), Positives:53/60(88%), Gaps:0/60(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           MN  EELSDAII+FQVK+H+ +TD+AFAS+LSVEK+HAMK+G G FT EE+NQ+YDY+ +
+Sbjct  1   MNEQEELSDAIINFQVKHHVNNTDLAFASHLSVEKVHAMKVGDGQFTAEEVNQLYDYMSA  60
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]
+Sequence ID: WP_046306912.1 Length: 63
+Range 1: 5 to 61
+
+Score:90.5 bits(223), Expect:2e-22, 
+Method:Compositional matrix adjust., 
+Identities:40/57(70%), Positives:50/57(87%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           +EELSDAII +Q ++H TDTD+AFAS+LSVEKIHAMK G G FTPEEINQ+YD++ +
+Sbjct  5   IEELSDAIITYQTEHHTTDTDLAFASHLSVEKIHAMKAGKGEFTPEEINQLYDFLAT  61
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus amylovorus]
+Sequence ID: WP_136860304.1 Length: 63
+Range 1: 6 to 61
+
+Score:90.5 bits(223), Expect:2e-22, 
+Method:Compositional matrix adjust., 
+Identities:40/56(71%), Positives:50/56(89%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EEL+DAIIDFQVK+H+ DTD+AFAS+LSVEK+HAMK G  SFT EE+NQ+YDY+ +
+Sbjct  6   EELTDAIIDFQVKHHVNDTDLAFASHLSVEKVHAMKTGEDSFTAEEVNQIYDYMSA  61
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]
+Sequence ID: WP_003627439.1 Length: 63
+Range 1: 6 to 61
+
+Score:90.1 bits(222), Expect:4e-22, 
+Method:Compositional matrix adjust., 
+Identities:41/56(73%), Positives:50/56(89%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EELS+AIIDFQVK+H+ DTD+AFAS+LSVEK+HAMK G G FT EEINQ+YDY+ +
+Sbjct  6   EELSNAIIDFQVKHHVNDTDLAFASHLSVEKVHAMKTGDGEFTNEEINQLYDYMSA  61
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]
+Sequence ID: WP_090091976.1 Length: 63
+Range 1: 5 to 59
+
+Score:90.1 bits(222), Expect:5e-22, 
+Method:Compositional matrix adjust., 
+Identities:40/55(73%), Positives:50/55(90%), Gaps:0/55(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           LEELSD II++QVK+H+TDTD+AFAS+LSVEKIH+MK G G FT EEI+Q+YDY+
+Sbjct  5   LEELSDTIINYQVKHHVTDTDLAFASHLSVEKIHSMKTGKGEFTAEEISQLYDYL  59
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [unclassified Lactobacillus]
+Sequence ID: WP_122018225.1 Length: 63
+Range 1: 5 to 61
+
+Score:89.7 bits(221), Expect:6e-22, 
+Method:Compositional matrix adjust., 
+Identities:40/57(70%), Positives:52/57(91%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           LEELS AII+++VK+H+TDTD+AFAS+LSVEKIHAMK G+G+ T EEINQ+YDY+ +
+Sbjct  5   LEELSGAIINYEVKHHVTDTDLAFASHLSVEKIHAMKAGTGACTTEEINQIYDYLAT  61
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus intestinalis]
+Sequence ID: WP_369907145.1 Length: 62
+Range 1: 1 to 58
+
+Score:89.4 bits(220), Expect:7e-22, 
+Method:Compositional matrix adjust., 
+Identities:40/58(69%), Positives:50/58(86%), Gaps:0/58(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           MN  EELS+AIID+QVK+H+ DTD+AFAS+LSVEK+H MK G G FT EE+NQ+YDY+
+Sbjct  1   MNQQEELSNAIIDYQVKHHVNDTDLAFASHLSVEKVHVMKTGEGYFTNEEVNQIYDYM  58
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]
+Sequence ID: WP_103661211.1 Length: 61
+Range 1: 4 to 59
+
+Score:88.6 bits(218), Expect:1e-21, 
+Method:Compositional matrix adjust., 
+Identities:39/56(70%), Positives:50/56(89%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           E+LSDAIID+QVK+H+ DTD+AFAS+LSVEK+HAMK G G FT EE+NQ+YDY+ +
+Sbjct  4   EDLSDAIIDYQVKHHINDTDLAFASHLSVEKVHAMKTGDGMFTDEEVNQIYDYMSA  59
+
+
+
+
+>hypothetical protein [Lactobacillus sp.]
+Sequence ID: MBC9720333.1 Length: 62
+Range 1: 1 to 60
+
+Score:88.6 bits(218), Expect:2e-21, 
+Method:Compositional matrix adjust., 
+Identities:40/60(67%), Positives:51/60(85%), Gaps:0/60(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           MN   ELSDAIIDFQVK+ + DTD+AFAS+LSVEK+HAMK G G++T EE+NQ+YDY+ +
+Sbjct  1   MNEQNELSDAIIDFQVKHQVNDTDLAFASHLSVEKVHAMKTGDGNYTAEEVNQLYDYMSA  60
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus helveticus]
+Sequence ID: WP_201724915.1 Length: 73
+Range 1: 17 to 71
+
+Score:89.0 bits(219), Expect:2e-21, 
+Method:Compositional matrix adjust., 
+Identities:40/55(73%), Positives:49/55(89%), Gaps:0/55(0%)
+
+Query  6   ELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           ELS+AIIDFQVK+H+ DTD+AFAS+LSVEK+HAMK G G FT EEINQ+YDY+ +
+Sbjct  17  ELSNAIIDFQVKHHVNDTDLAFASHLSVEKVHAMKTGDGEFTNEEINQLYDYMSA  71
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus acidophilus]
+Sequence ID: UTH90917.1 Length: 65
+Range 1: 1 to 55
+
+Score:88.2 bits(217), Expect:3e-21, 
+Method:Compositional matrix adjust., 
+Identities:40/55(73%), Positives:48/55(87%), Gaps:0/55(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVY  55
+           MN   ELSDAIIDFQVKNH+ DTD+AFAS+LSVEK+HAMK G G++T EE+NQ+Y
+Sbjct  1   MNEQNELSDAIIDFQVKNHVNDTDLAFASHLSVEKVHAMKTGDGNYTAEEVNQLY  55
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus jensenii]
+Sequence ID: WP_006584795.1 Length: 61
+Range 1: 4 to 59
+
+Score:87.8 bits(216), Expect:3e-21, 
+Method:Compositional matrix adjust., 
+Identities:41/56(73%), Positives:49/56(87%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EELSD II +QVK+H+ DT++AFAS+LSVEKIHAMK G GSFT EEINQ+ +YIQS
+Sbjct  4   EELSDVIITYQVKHHVNDTELAFASHLSVEKIHAMKTGDGSFTSEEINQILEYIQS  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus sp. LL6]
+Sequence ID: WP_144355312.1 Length: 61
+Range 1: 4 to 59
+
+Score:87.8 bits(216), Expect:3e-21, 
+Method:Compositional matrix adjust., 
+Identities:38/56(68%), Positives:51/56(91%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           E+LS+AIID+QVK+H+ DTD+AFAS+LSVEK+H+MK+G G FT EEINQ+YDY+ +
+Sbjct  4   EDLSNAIIDYQVKHHVNDTDLAFASHLSVEKVHSMKVGDGEFTAEEINQLYDYMAA  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus psittaci]
+Sequence ID: WP_027825611.1 Length: 61
+Range 1: 4 to 59
+
+Score:86.3 bits(212), Expect:2e-20, 
+Method:Compositional matrix adjust., 
+Identities:40/56(71%), Positives:49/56(87%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           +ELS+ IIDFQV++H+ DT++AFA +LSVEKIHAMKIG G FT EEINQV +YIQS
+Sbjct  4   DELSNTIIDFQVEHHVNDTELAFACHLSVEKIHAMKIGEGEFTGEEINQVLEYIQS  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus sp.]
+Sequence ID: MGO2952352.1 Length: 62
+Range 1: 5 to 59
+
+Score:85.1 bits(209), Expect:4e-20, 
+Method:Compositional matrix adjust., 
+Identities:38/55(69%), Positives:49/55(89%), Gaps:0/55(0%)
+
+Query  6   ELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           +LSDAII+F+VK H+TDTD+AFAS+LSV+KIHAMKI  G FT +EINQ+YDY+ +
+Sbjct  5   DLSDAIINFEVKQHLTDTDLAFASHLSVDKIHAMKIQRGDFTDDEINQLYDYLSA  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus mulieris]
+Sequence ID: WP_391486809.1 Length: 71
+Range 1: 4 to 57
+
+Score:84.3 bits(207), Expect:9e-20, 
+Method:Compositional matrix adjust., 
+Identities:39/54(72%), Positives:47/54(87%), Gaps:0/54(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           EELSD II +QVK+H+ DT++AFAS+LSVEKIHAMK G GSFT EEINQ+ +YI
+Sbjct  4   EELSDVIITYQVKHHVNDTELAFASHLSVEKIHAMKTGDGSFTGEEINQILEYI  57
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus delbrueckii]
+Sequence ID: WP_215472452.1 Length: 67
+Range 1: 4 to 60
+
+Score:84.3 bits(207), Expect:1e-19, 
+Method:Compositional matrix adjust., 
+Identities:39/57(68%), Positives:50/57(87%), Gaps:0/57(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQSY  61
+           EELSDAII+FQ K+ ++DT +AFAS+LSVEK+HAMK G G+FT +EINQ+ DY+QSY
+Sbjct  4   EELSDAIIEFQSKHAVSDTTLAFASHLSVEKVHAMKQGRGNFTSDEINQMLDYLQSY  60
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus delbrueckii]
+Sequence ID: WP_414222453.1 Length: 59
+Range 1: 4 to 59
+
+Score:83.6 bits(205), Expect:1e-19, 
+Method:Compositional matrix adjust., 
+Identities:39/56(70%), Positives:49/56(87%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EELSDAII+FQ K+ M+DT +AFAS+LSVEK+HAMK G G+FT +EINQ+ DY+QS
+Sbjct  4   EELSDAIIEFQSKHAMSDTTLAFASHLSVEKVHAMKRGRGNFTSDEINQMLDYLQS  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus xylocopicola]
+Sequence ID: WP_317636781.1 Length: 63
+Range 1: 5 to 61
+
+Score:83.2 bits(204), Expect:2e-19, 
+Method:Compositional matrix adjust., 
+Identities:39/57(68%), Positives:47/57(82%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           LEELS AII +QVK+ +TDT +AFA +LSVEKIHAMK G G FT EEINQ+YDY+ +
+Sbjct  5   LEELSAAIIAYQVKHQITDTGLAFACHLSVEKIHAMKAGVGEFTSEEINQLYDYMAA  61
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus equicursoris]
+Sequence ID: WP_154487197.1 Length: 61
+Range 1: 4 to 59
+
+Score:82.0 bits(201), Expect:6e-19, 
+Method:Compositional matrix adjust., 
+Identities:38/56(68%), Positives:48/56(85%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EELSD II+FQ KN ++DT +AFAS+LSVEK+HAMK G G+FT +E+NQ+ DYIQS
+Sbjct  4   EELSDTIIEFQSKNDVSDTSLAFASHLSVEKVHAMKQGRGNFTSDEVNQMLDYIQS  59
+
+
+
+
+>LBP_cg2779 family protein, partial [Lactobacillus helveticus]
+Sequence ID: WP_172985921.1 Length: 54
+Range 1: 1 to 52
+
+Score:81.3 bits(199), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:36/52(69%), Positives:45/52(86%), Gaps:0/52(0%)
+
+Query  9   DAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           +AIIDFQVK+H+ DTD+AF S+LSVEK+HAMK G G FT EEINQ+YDY+ +
+Sbjct  1   NAIIDFQVKHHVNDTDLAFTSHLSVEKVHAMKTGDGEFTNEEINQLYDYMSA  52
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus corticis]
+Sequence ID: WP_212780737.1 Length: 61
+Range 1: 4 to 59
+
+Score:80.1 bits(196), Expect:4e-18, 
+Method:Compositional matrix adjust., 
+Identities:33/56(59%), Positives:50/56(89%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           ++L++AII++Q+K+H+TDTD+AFAS+LSVEK+HAMK+G    T +EINQ+YDY+ +
+Sbjct  4   KDLANAIIEYQIKHHVTDTDLAFASHLSVEKVHAMKLGKSGITDDEINQLYDYLAT  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus porci]
+Sequence ID: WP_412128983.1 Length: 61
+Range 1: 4 to 59
+
+Score:79.7 bits(195), Expect:5e-18, 
+Method:Compositional matrix adjust., 
+Identities:37/56(66%), Positives:49/56(87%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EELSDAII+FQ K+ ++DT +AF+S+LSVEK+HAMK G G+FT +E+NQ+ DYIQS
+Sbjct  4   EELSDAIIEFQSKHSVSDTALAFSSHLSVEKVHAMKAGHGNFTNDEVNQMLDYIQS  59
+
+
+
+
+>hypothetical protein FC20_GL001773 [Lactobacillus equicursoris DSM 19284 = JCM 14600 = CIP 110162]
+Sequence ID: KRL02947.1 Length: 74
+Range 1: 17 to 72
+
+Score:80.1 bits(196), Expect:6e-18, 
+Method:Compositional matrix adjust., 
+Identities:37/56(66%), Positives:48/56(85%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EELSD II+FQ K+ ++DT +AFAS+LSVEK+HAMK G G+FT +E+NQ+ DYIQS
+Sbjct  17  EELSDTIIEFQSKHDVSDTSLAFASHLSVEKVHAMKQGRGNFTSDEVNQMLDYIQS  72
+
+
+
+
+>hypothetical protein [Lactobacillus delbrueckii subsp. bulgaricus]
+Sequence ID: MBT8848201.1 Length: 67
+Range 1: 4 to 64
+
+Score:78.6 bits(192), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:39/61(64%), Positives:50/61(81%), Gaps:4/61(6%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK----IGSGSFTPEEINQVYDYIQS  60
+           EELSDAII+FQ K+ ++DT +AFAS+LSVEK+HAMK     G G+FT +EINQ+ DY+QS
+Sbjct  4   EELSDAIIEFQSKHAVSDTTLAFASHLSVEKVHAMKQGRGKGRGNFTSDEINQMLDYLQS  63
+
+Query  61  Y  61
+           Y
+Sbjct  64  Y  64
+
+
+
+
+>LBP_cg2779 family protein [uncultured Lactobacillus sp.]
+Sequence ID: WP_297820500.1 Length: 61
+Range 1: 4 to 59
+
+Score:78.6 bits(192), Expect:2e-17, 
+Method:Compositional matrix adjust., 
+Identities:38/56(68%), Positives:46/56(82%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           +ELSDAIIDF+VKN++ DT +AF+S+LSVEKIHAMK G   FT EE  QV DYIQ+
+Sbjct  4   QELSDAIIDFEVKNNVNDTALAFSSHLSVEKIHAMKSGEEKFTTEEAEQVLDYIQA  59
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [Lactobacillus]
+Sequence ID: WP_004895065.1 Length: 61
+Range 1: 4 to 59
+
+Score:77.4 bits(189), Expect:4e-17, 
+Method:Compositional matrix adjust., 
+Identities:36/56(64%), Positives:46/56(82%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EELSDAII+F+VKN++ DT +AF+S+LSVEK+HAMK G   +T EE  QV DYIQ+
+Sbjct  4   EELSDAIIEFEVKNNVNDTALAFSSHLSVEKLHAMKTGEAKYTVEEAEQVLDYIQA  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus sp.]
+Sequence ID: MCI1290225.1 Length: 61
+Range 1: 4 to 59
+
+Score:77.0 bits(188), Expect:7e-17, 
+Method:Compositional matrix adjust., 
+Identities:34/56(61%), Positives:48/56(85%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EEL+DAII+F+ K++ TD  +AF S+LSVEK+HAMK G+GS++PEE NQ+ D+IQ+
+Sbjct  4   EELADAIINFETKHNATDNTLAFDSHLSVEKVHAMKSGNGSYSPEEANQLLDFIQT  59
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus sp.]
+Sequence ID: WP_290626054.1 Length: 62
+Range 1: 4 to 59
+
+Score:74.3 bits(181), Expect:7e-16, 
+Method:Compositional matrix adjust., 
+Identities:36/56(64%), Positives:46/56(82%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           EEL++AIIDF+VK+ + DT +AF+S+LSVEKIHAMK G  ++T EE  QV DYIQS
+Sbjct  4   EELTNAIIDFEVKHGVNDTALAFSSHLSVEKIHAMKAGEETYTLEEAEQVLDYIQS  59
+
+
+
+
+>LBP_cg2779 family protein, partial [Lactobacillus jensenii]
+Sequence ID: WP_310652513.1 Length: 47
+Range 1: 1 to 45
+
+Score:72.8 bits(177), Expect:2e-15, 
+Method:Compositional matrix adjust., 
+Identities:33/45(73%), Positives:40/45(88%), Gaps:0/45(0%)
+
+Query  16  VKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           VK+H+ DT++AFAS+LSVEKIHAMK G GSFT EEINQ+ +YIQS
+Sbjct  1   VKHHVNDTELAFASHLSVEKIHAMKTGDGSFTSEEINQILEYIQS  45
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus sp.]
+Sequence ID: MFC2694506.1 Length: 61
+Range 1: 3 to 59
+
+Score:72.4 bits(176), Expect:4e-15, 
+Method:Compositional matrix adjust., 
+Identities:32/57(56%), Positives:48/57(84%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           L E++DAIIDF+ K++++D D+AFAS+LSVEK+HAMK G+GS++ EE  Q+ DY+ +
+Sbjct  3   LTEIADAIIDFETKHNVSDNDLAFASHLSVEKVHAMKSGNGSYSDEEAAQLLDYMTT  59
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [unclassified Lactobacillus]
+Sequence ID: WP_265484469.1 Length: 60
+Range 1: 5 to 60
+
+Score:71.2 bits(173), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:34/56(61%), Positives:44/56(78%), Gaps:0/56(0%)
+
+Query  6   ELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQSY  61
+           +L DAIID++VKN + DT +AF S+LSVEKIHAMK G  +FT EE+ QV  YIQ++
+Sbjct  5   DLMDAIIDYEVKNGINDTALAFGSHLSVEKIHAMKSGQDNFTNEEVEQVLSYIQTH  60
+
+
+
+
+>LBP_cg2779 family protein, partial [Lactobacillus gallinarum]
+Sequence ID: WP_191451645.1 Length: 46
+Range 1: 6 to 45
+
+Score:68.2 bits(165), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:31/40(78%), Positives:37/40(92%), Gaps:0/40(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSG  44
+           EELS+AIIDFQVK+H+ DTD+AFAS+LSVEK+HAMK G G
+Sbjct  6   EELSNAIIDFQVKHHVNDTDLAFASHLSVEKVHAMKTGDG  45
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus sp. PV034]
+Sequence ID: WP_265489185.1 Length: 61
+Range 1: 4 to 59
+
+Score:67.8 bits(164), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/56(54%), Positives:45/56(80%), Gaps:0/56(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           +ELS+ II+F+ KN +TD+ +AFAS+LSVEKIHAMK    ++T EE+ ++ +YIQ+
+Sbjct  4   DELSNKIIEFEAKNDVTDSALAFASHLSVEKIHAMKQAKNNYTTEEVERILEYIQT  59
+
+
+
+
+>LBP_cg2779 family protein, partial [Lactobacillus taiwanensis]
+Sequence ID: WP_281510431.1 Length: 52
+Range 1: 1 to 50
+
+Score:66.6 bits(161), Expect:7e-13, 
+Method:Compositional matrix adjust., 
+Identities:30/50(60%), Positives:40/50(80%), Gaps:0/50(0%)
+
+Query  11  IIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           II+F+VKN++ DT +AF+S+LSVEK+HAMK G   +T EE  QV DYIQ+
+Sbjct  1   IIEFEVKNNVNDTALAFSSHLSVEKLHAMKTGEAKYTMEEAEQVLDYIQA  50
+
+
+
+
+>hypothetical protein AT236_01190 [Lactobacillus delbrueckii subsp. bulgaricus]
+Sequence ID: ALT47578.1 Length: 43
+Range 1: 1 to 42
+
+Score:65.9 bits(159), Expect:9e-13, 
+Method:Compositional matrix adjust., 
+Identities:29/42(69%), Positives:37/42(88%), Gaps:0/42(0%)
+
+Query  20  MTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQSY  61
+           M+DT +AFAS+LSVEK+HAMK G G+FT +EINQ+ DY+QSY
+Sbjct  1   MSDTTLAFASHLSVEKVHAMKQGRGNFTSDEINQMLDYLQSY  42
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [Amylolactobacillus]
+Sequence ID: WP_054745028.1 Length: 60
+Range 1: 6 to 58
+
+Score:59.3 bits(142), Expect:7e-10, 
+Method:Compositional matrix adjust., 
+Identities:27/53(51%), Positives:38/53(71%), Gaps:0/53(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQ  59
+           LSD I+++Q K+ M D  +AFAS+L+VEKIH MK G    +  EI+Q+ D+IQ
+Sbjct  6   LSDLIVEYQRKHSMNDAGLAFASHLAVEKIHGMKTGEADASEAEISQLLDFIQ  58
+
+
+
+
+>LBP_cg2779 family protein [Xylocopilactobacillus apis]
+Sequence ID: WP_317697516.1 Length: 62
+Range 1: 1 to 58
+
+Score:56.6 bits(135), Expect:7e-09, 
+Method:Compositional matrix adjust., 
+Identities:25/58(43%), Positives:42/58(72%), Gaps:0/58(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           M+G+  L + II+F+ +++MTD+D+AFAS++SVE IHA K G G   P+ +N +  ++
+Sbjct  1   MDGVSPLVEKIINFEKEHNMTDSDLAFASHISVEHIHAAKAGIGQIDPQILNDIMKFL  58
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus sp. LYQ135]
+Sequence ID: WP_454544901.1 Length: 72
+Range 1: 6 to 60
+
+Score:56.6 bits(135), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:23/55(42%), Positives:38/55(69%), Gaps:0/55(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           L  L++A++ +Q K H+TD+++A  S+ SVEKIHA+K G    TPEE  ++ + +
+Sbjct  6   LGRLAEAVVKYQEKYHLTDSELALTSHFSVEKIHAIKTGQTKLTPEEYQELQELL  60
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [unclassified Ligilactobacillus]
+Sequence ID: WP_405024276.1 Length: 60
+Range 1: 3 to 53
+
+Score:55.5 bits(132), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:22/51(43%), Positives:38/51(74%), Gaps:0/51(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQV  54
+           + +L+ AII+++ ++H TD D + AS+L VEK+H++K+G G  TP+E+  V
+Sbjct  3   MNKLARAIIEYEDQHHWTDADFSLASHLPVEKVHSLKMGRGEPTPDEVKNV  53
+
+
+
+
+>LBP_cg2779 family protein [Xylocopilactobacillus apicola]
+Sequence ID: WP_317634851.1 Length: 61
+Range 1: 1 to 58
+
+Score:55.1 bits(131), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:25/58(43%), Positives:42/58(72%), Gaps:0/58(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           M+G+  + + II+F+ +++MTD+D+AFAS++SVE IHAMK G G    E +N +  ++
+Sbjct  1   MDGVSPVVEKIINFEKEHNMTDSDLAFASHISVEHIHAMKAGIGKVDQEVLNDLLKFL  58
+
+
+
+
+>LBP_cg2779 family protein [Pediococcus argentinicus]
+Sequence ID: WP_057800476.1 Length: 62
+Range 1: 1 to 60
+
+Score:55.1 bits(131), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:25/60(42%), Positives:43/60(71%), Gaps:0/60(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           M  L +L++ I+ +Q KN MTD D+AF ++LSVEKIH +K  S + T +++ ++ +Y+Q+
+Sbjct  1   MADLTKLAEEIVTYQKKNDMTDADLAFGTHLSVEKIHRVKNNSYTPTEDDLRRIKEYMQN  60
+
+
+
+
+>LBP_cg2779 family protein, partial [Lactobacillus crispatus]
+Sequence ID: WP_240722095.1 Length: 34
+Range 1: 1 to 34
+
+Score:54.3 bits(129), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:26/34(76%), Positives:31/34(91%), Gaps:0/34(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVE  34
+           MN  EELSDAII+FQVK+H+ DTD+AFAS+LSVE
+Sbjct  1   MNEQEELSDAIINFQVKHHVNDTDLAFASHLSVE  34
+
+
+
+
+>LBP_cg2779 family protein [Lacticaseibacillus pabuli]
+Sequence ID: WP_274260124.1 Length: 68
+Range 1: 5 to 62
+
+Score:53.9 bits(128), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:25/58(43%), Positives:38/58(65%), Gaps:0/58(0%)
+
+Query  2   NGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQ  59
+           N +   ++ IIDFQ +NH+TDTDMA  S++SVE IH +K    +  PE I+ +  Y++
+Sbjct  5   NQISAFAEEIIDFQRRNHLTDTDMALNSHVSVEHIHNIKAMRETAEPEVISALRSYME  62
+
+
+
+
+>LBP_cg2779 family protein [Lactiplantibacillus pentosus]
+Sequence ID: WP_209041659.1 Length: 65
+Range 1: 5 to 61
+
+Score:53.5 bits(127), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:24/57(42%), Positives:39/57(68%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           L +LS+ +I F+ ++H+TD D+AF S LSVE+IH +K G  + T EE+  +  ++ S
+Sbjct  5   LSQLSEKLIGFEREHHLTDNDIAFGSQLSVERIHNIKSGEATPTQEELQLLKKFMNS  61
+
+
+
+
+>LBP_cg2779 family protein [Salmonella enterica subsp. enterica serovar Typhimurium]
+Sequence ID: MFO5399102.1 Length: 74
+Range 1: 14 to 70
+
+Score:53.1 bits(126), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:23/57(40%), Positives:38/57(66%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           L +L + +I F+ ++H+TD D+AF S LSVE+IH +K G  + T EE+  +  ++ S
+Sbjct  14  LSQLPEKLISFEREHHLTDNDLAFGSQLSVERIHNIKSGEATPTQEELQLLKKFMNS  70
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [Lactiplantibacillus]
+Sequence ID: WP_057705508.1 Length: 65
+Range 1: 5 to 61
+
+Score:52.8 bits(125), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:26/57(46%), Positives:37/57(64%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           L +LS+ II F+  +H TD D+AF S LSVE+IH +K G  + T EE+  +  +I S
+Sbjct  5   LSQLSEKIIAFERDHHFTDNDLAFGSQLSVERIHNIKSGEVTPTQEELQLLKKFINS  61
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus sp. CBA3605]
+Sequence ID: WP_105451838.1 Length: 65
+Range 1: 5 to 61
+
+Score:52.4 bits(124), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:24/57(42%), Positives:39/57(68%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           L +LS+ +I+F+ ++H+TD D+AF S LSVE+IH +K G  + T  EI  +  ++ S
+Sbjct  5   LSQLSEKVIEFERQHHLTDGDLAFGSQLSVERIHNIKSGEVTPTQAEIQLLKKFMNS  61
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus araffinosus]
+Sequence ID: WP_057907218.1 Length: 72
+Range 1: 4 to 60
+
+Score:52.4 bits(124), Expect:4e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/57(39%), Positives:36/57(63%), Gaps:0/57(0%)
+
+Query  2   NGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+             LE L++ I+ +Q K H+TD ++A  S+ SVE+IHA+K G     PEE  ++ + +
+Sbjct  4   KKLEHLAEEIVKYQEKYHLTDAELALTSHFSVERIHAIKAGQVEVRPEEYGELQELL  60
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus gasseri]
+Sequence ID: MCT7895402.1 Length: 40
+Range 1: 1 to 38
+
+Score:51.6 bits(122), Expect:4e-07, 
+Method:Compositional matrix adjust., 
+Identities:23/38(61%), Positives:29/38(76%), Gaps:0/38(0%)
+
+Query  23  TDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           T +AF+S+LSVEK+HAMK G   +T EE  QV DYIQ+
+Sbjct  1   TALAFSSHLSVEKLHAMKTGEAKYTMEEAEQVLDYIQA  38
+
+
+
+
+>LBP_cg2779 family protein [Companilactobacillus versmoldensis]
+Sequence ID: WP_010623542.1 Length: 61
+Range 1: 6 to 58
+
+Score:52.0 bits(123), Expect:5e-07, 
+Method:Compositional matrix adjust., 
+Identities:24/53(45%), Positives:36/53(67%), Gaps:0/53(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQ  59
+           +S+AII ++   +M DT  AF S+LSVE++H +K G    TP+EI  V +YI+
+Sbjct  6   ISEAIIQYEKDKNMNDTQFAFESHLSVERVHNLKSGEYEATPDEIKTVLEYIK  58
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillaceae bacterium]
+Sequence ID: MGL5900157.1 Length: 61
+Range 1: 1 to 57
+
+Score:52.0 bits(123), Expect:5e-07, 
+Method:Compositional matrix adjust., 
+Identities:24/57(42%), Positives:39/57(68%), Gaps:0/57(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDY  57
+           M  +  + + II F+  ++MTD+D+AFAS++SVE IHA+K G G   PE +N + ++
+Sbjct  1   MEDVSPIVEKIIQFEKDHNMTDSDLAFASHISVEHIHAIKAGIGHIEPEILNDLQNF  57
+
+
+
+
+>LBP_cg2779 family protein [Lactiplantibacillus plantarum]
+Sequence ID: WCJ49644.1 Length: 54
+Range 1: 5 to 51
+
+Score:51.6 bits(122), Expect:5e-07, 
+Method:Compositional matrix adjust., 
+Identities:23/47(49%), Positives:34/47(72%), Gaps:0/47(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEE  50
+           L +LS+ +I F+ ++H+TD D+AF S LSVE+IH +K G  + T EE
+Sbjct  5   LSQLSEKLISFEREHHLTDNDLAFGSQLSVERIHNIKSGEATPTQEE  51
+
+
+
+
+>LBP_cg2779 family protein [Lactiplantibacillus herbarum]
+Sequence ID: WP_048001032.1 Length: 65
+Range 1: 5 to 61
+
+Score:51.6 bits(122), Expect:8e-07, 
+Method:Compositional matrix adjust., 
+Identities:22/57(39%), Positives:39/57(68%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           L +LS+ +I F+ ++H+TD D+AF S L+VE+IH +K G  + T +E+  +  ++ S
+Sbjct  5   LSQLSETLISFERQHHLTDNDLAFGSQLAVERIHNIKSGEQTPTQDEVQLLKKFMNS  61
+
+
+
+
+>LBP_cg2779 family protein [Bombilactobacillus thymidiniphilus]
+Sequence ID: WP_249512778.1 Length: 60
+Range 1: 5 to 56
+
+Score:51.2 bits(121), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/52(46%), Positives:33/52(63%), Gaps:0/52(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           LS+ II +Q K +  D   AF S+  VEKIHA+K G  S+TP+E  ++  YI
+Sbjct  5   LSELIIQYQKKTNKNDAQFAFESHFPVEKIHAIKTGKISYTPDEEKRIIRYI  56
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus cholophilus]
+Sequence ID: WP_290033500.1 Length: 72
+Range 1: 9 to 60
+
+Score:51.2 bits(121), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:19/52(37%), Positives:35/52(67%), Gaps:0/52(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           L++ I+ +Q K H+TD ++A  S+ SVE+IHA+K+G     P+E  ++ + +
+Sbjct  9   LAEEIVKYQEKYHLTDAELALTSHFSVERIHAIKVGQAQVNPQEYEELQELL  60
+
+
+
+
+>LBP_cg2779 family protein [Bombilactobacillus mellifer]
+Sequence ID: WP_046316392.1 Length: 64
+Range 1: 4 to 59
+
+Score:50.8 bits(120), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/56(43%), Positives:35/56(62%), Gaps:0/56(0%)
+
+Query  6   ELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQSY  61
+           +L+  IID+Q K    D  MAF S+ SVEKIH +K G  ++TP+E  ++  YI  +
+Sbjct  4   KLAALIIDYQKKTDKNDAQMAFESHFSVEKIHDIKAGKSAYTPDEEKRLVQYINDH  59
+
+
+
+
+>LBP_cg2779 family protein [Paucilactobacillus suebicus]
+Sequence ID: WP_010621223.1 Length: 61
+Range 1: 1 to 60
+
+Score:50.8 bits(120), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:22/60(37%), Positives:41/60(68%), Gaps:0/60(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           M+ L +L++ IIDF+ K HM D D+AF S LSVE++H +K  + + + +E+  +  ++++
+Sbjct  1   MDNLSKLAEEIIDFEKKKHMADNDIAFGSQLSVEQVHNIKSMTTTPSDQEVQALRRFMKN  60
+
+
+
+
+>LBP_cg2779 family protein [Lactiplantibacillus nangangensis]
+Sequence ID: WP_137614886.1 Length: 65
+Range 1: 5 to 61
+
+Score:50.8 bits(120), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:23/57(40%), Positives:39/57(68%), Gaps:0/57(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           L +LS+ +I F+ ++H+TD D+AF S +SVE+IH +K G  + T +E+  +  Y+ S
+Sbjct  5   LSQLSEKLIAFERQHHLTDGDLAFGSQISVERIHNIKSGEVTPTQDELQLLKKYMNS  61
+
+
+
+
+>hypothetical protein [Candidatus Ligilactobacillus excrementigallinarum]
+Sequence ID: HIX02159.1 Length: 72
+Range 1: 9 to 60
+
+Score:49.3 bits(116), Expect:7e-06, 
+Method:Compositional matrix adjust., 
+Identities:19/52(37%), Positives:36/52(69%), Gaps:0/52(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           L++ I+ +Q K H+TD ++A  S+ SVE+IHA+K G    +P+E +++ + +
+Sbjct  9   LAEEIVKYQEKYHLTDAELALTSHFSVERIHAIKAGQVQISPQEYDELQELL  60
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus salitolerans]
+Sequence ID: WP_229717933.1 Length: 69
+Range 1: 6 to 64
+
+Score:48.9 bits(115), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:24/59(41%), Positives:38/59(64%), Gaps:1/59(1%)
+
+Query  3   GLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSF-TPEEINQVYDYIQS  60
+           GL  +++ II FQ K H+TD + A AS+ +VEKIH  K  +G+  T EE + +  +++S
+Sbjct  6   GLNNIAEKIITFQSKQHLTDAEFALASHFTVEKIHGFKSMTGAVPTKEEEDALLKFMRS  64
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus pobuzihii]
+Sequence ID: WP_206462484.1 Length: 69
+Range 1: 6 to 64
+
+Score:48.5 bits(114), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:25/59(42%), Positives:38/59(64%), Gaps:1/59(1%)
+
+Query  3   GLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSG-SFTPEEINQVYDYIQS  60
+           G + ++  IID+Q K+HM+D   A AS+ +VEKIH  K  +G S TPEE  ++  ++ S
+Sbjct  6   GFDNIALKIIDYQGKHHMSDAQFALASHFTVEKIHGFKSMTGNSPTPEEEKELLKFMGS  64
+
+
+
+
+>LBP_cg2779 family protein [Lapidilactobacillus luobeiensis]
+Sequence ID: WP_261805585.1 Length: 61
+Range 1: 2 to 59
+
+Score:48.1 bits(113), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:23/58(40%), Positives:34/58(58%), Gaps:0/58(0%)
+
+Query  3   GLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+            L  +  A+IDFQ +  +TDT +AF S+ +VEKIH +K G    T +E  ++  Y  S
+Sbjct  2   ALSTIGQALIDFQKQKELTDTQIAFESHFTVEKIHQIKAGESEPTDDEAKRLTAYFAS  59
+
+
+
+
+>LBP_cg2779 family protein [Paucilactobacillus sp. N302-9]
+Sequence ID: WP_461240049.1 Length: 61
+Range 1: 1 to 59
+
+Score:47.4 bits(111), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:21/59(36%), Positives:38/59(64%), Gaps:0/59(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQ  59
+           M+ L +L+  II F+ K H+TD D+AF S LSVE++H +K    + + +E+  +  +++
+Sbjct  1   MDDLSKLAQEIIAFEKKKHLTDNDIAFGSQLSVERVHNIKSMESAPSDDEVRLLRRFMK  59
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus agilis]
+Sequence ID: WP_278745403.1 Length: 65
+Range 1: 5 to 43
+
+Score:47.0 bits(110), Expect:5e-05, 
+Method:Compositional matrix adjust., 
+Identities:20/39(51%), Positives:29/39(74%), Gaps:0/39(0%)
+
+Query  2   NGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+           + L +LS  I++F+ K+H+ DTD A  S LSVEK+HA+K
+Sbjct  5   SQLSQLSKRIVEFEKKHHLNDTDFALLSRLSVEKVHALK  43
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus agilis]
+Sequence ID: WP_302046981.1 Length: 90
+Range 1: 7 to 43
+
+Score:47.4 bits(111), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:20/37(54%), Positives:28/37(75%), Gaps:0/37(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+           L +LS  I++F+ K+H+ DTD A  S LSVEK+HA+K
+Sbjct  7   LSQLSKRIVEFEKKHHLNDTDFALLSRLSVEKVHALK  43
+
+
+
+
+>hypothetical protein [Candidatus Paralactobacillus gallistercoris]
+Sequence ID: MBU3851102.1 Length: 62
+Range 1: 9 to 51
+
+Score:46.6 bits(109), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:23/43(53%), Positives:30/43(69%), Gaps:0/43(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPE  49
+           L + II F+ KN +TDTDMA AS++SVEKIH +K  +    PE
+Sbjct  9   LPEEIIQFEKKNGLTDTDMALASHISVEKIHNIKSMAEEADPE  51
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus ubinensis]
+Sequence ID: WP_253361043.1 Length: 71
+Range 1: 4 to 54
+
+Score:46.6 bits(109), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:22/51(43%), Positives:34/51(66%), Gaps:0/51(0%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEI  51
+           ++ L EL+  I++F+ ++ + DTD A  S LSVEK+HA+K    + T EEI
+Sbjct  4   ISQLNELAQKIVEFEKEHRLNDTDFALLSRLSVEKVHALKAMYATPTEEEI  54
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus acidipiscis]
+Sequence ID: WP_405075843.1 Length: 69
+Range 1: 6 to 53
+
+Score:45.8 bits(107), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:21/48(44%), Positives:32/48(66%), Gaps:0/48(0%)
+
+Query  3   GLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEE  50
+           G + ++  IID+Q K+HMTD + A AS+ +VEKIH  K  +G+   +E
+Sbjct  6   GFDNIALKIIDYQEKHHMTDAEFALASHFTVEKIHGFKSMTGAAPTQE  53
+
+
+
+
+>LBP_cg2779 family protein, partial [Lacticaseibacillus paracasei]
+Sequence ID: WP_369596107.1 Length: 78
+Range 1: 31 to 67
+
+Score:45.8 bits(107), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:21/37(57%), Positives:27/37(72%), Gaps:0/37(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+           +   S  IIDFQ KNH+TDT+MA  S++SVE IH +K
+Sbjct  31  ISAFSREIIDFQRKNHLTDTEMALNSHVSVEHIHNIK  67
+
+
+
+
+>hypothetical protein [Ligilactobacillus salivarius]
+Sequence ID: MSE05966.1 Length: 57
+Range 1: 6 to 56
+
+Score:45.1 bits(105), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:20/51(39%), Positives:32/51(62%), Gaps:0/51(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQV  54
+           L   + +II++Q KNH+TD D +  S+ SVE+IHA+K      T +E  ++
+Sbjct  6   LSPFAKSIIEYQEKNHLTDADFSLESHRSVERIHALKTMEAEPTNDEYREI  56
+
+
+
+
+>LBP_cg2779 family protein, partial [Lacticaseibacillus paracasei]
+Sequence ID: WP_347071564.1 Length: 66
+Range 1: 10 to 43
+
+Score:45.1 bits(105), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:21/34(62%), Positives:26/34(76%), Gaps:0/34(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+            S  IIDFQ KNH+TDT+MA  S++SVE IH +K
+Sbjct  10  FSREIIDFQRKNHLTDTEMALNSHVSVEHIHNIK  43
+
+
+
+
+>LBP_cg2779 family protein [Lacticaseibacillus paracasei]
+Sequence ID: MFR7698827.1 Length: 60
+Range 1: 10 to 43
+
+Score:45.1 bits(105), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:21/34(62%), Positives:26/34(76%), Gaps:0/34(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+            S  IIDFQ KNH+TDT+MA  S++SVE IH +K
+Sbjct  10  FSREIIDFQRKNHLTDTEMALNSHVSVEHIHNIK  43
+
+
+
+
+>hypothetical protein [Lacticaseibacillus paracasei]
+Sequence ID: MBB1167631.1 Length: 91
+Range 1: 30 to 66
+
+Score:45.8 bits(107), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:21/37(57%), Positives:27/37(72%), Gaps:0/37(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+           +   S  IIDFQ KNH+TDT+MA  S++SVE IH +K
+Sbjct  30  ISAFSREIIDFQRKNHLTDTEMALNSHVSVEHIHNIK  66
+
+
+
+
+>LBP_cg2779 family protein, partial [Lacticaseibacillus paracasei]
+Sequence ID: WP_369596124.1 Length: 106
+Range 1: 66 to 98
+
+Score:45.8 bits(107), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:21/33(64%), Positives:26/33(78%), Gaps:0/33(0%)
+
+Query  8   SDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+           S  IIDFQ KNH+TDT+MA  S++SVE IH +K
+Sbjct  66  SREIIDFQRKNHLTDTEMALNSHVSVEHIHNIK  98
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus delbrueckii]
+Sequence ID: MGO2790295.1 Length: 28
+Range 1: 1 to 27
+
+Score:44.3 bits(103), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:18/27(67%), Positives:23/27(85%), Gaps:0/27(0%)
+
+Query  35  KIHAMKIGSGSFTPEEINQVYDYIQSY  61
+           K+HAMK G G+FT +EINQ+ DY+QSY
+Sbjct  1   KVHAMKQGRGNFTSDEINQMLDYLQSY  27
+
+
+
+
+>MULTISPECIES: LBP_cg2779 family protein [Ligilactobacillus]
+Sequence ID: WP_081537767.1 Length: 66
+Range 1: 6 to 56
+
+Score:44.7 bits(104), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:20/51(39%), Positives:32/51(62%), Gaps:0/51(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQV  54
+           L   + +II++Q KNH+TD D +  S+ SVE+IHA+K      T +E  ++
+Sbjct  6   LSPFAKSIIEYQEKNHLTDADFSLESHRSVERIHALKTMEAEPTNDEYREI  56
+
+
+
+
+>hypothetical protein N507_1986 [Lacticaseibacillus rhamnosus DSM 14870]
+Sequence ID: ASY49160.1 Length: 104
+Range 1: 46 to 79
+
+Score:45.1 bits(105), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:21/34(62%), Positives:26/34(76%), Gaps:0/34(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+            S  IIDFQ KNH+TDT+MA  S++SVE IH +K
+Sbjct  46  FSREIIDFQRKNHLTDTEMALNSHVSVEHIHNIK  79
+
+
+
+
+>LBP_cg2779 family protein [Ligilactobacillus pabuli]
+Sequence ID: WP_244056364.1 Length: 64
+Range 1: 14 to 64
+
+Score:44.3 bits(103), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:22/51(43%), Positives:36/51(70%), Gaps:1/51(1%)
+
+Query  11  IIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSF-TPEEINQVYDYIQS  60
+           IID+Q K+H+TD + A AS+ +VEKIH  K  +G+  T EE + + ++++S
+Sbjct  14  IIDYQEKHHLTDAEFALASHFTVEKIHGFKSLTGNAPTAEEKHDLKNFMKS  64
+
+
+
+
+>LBP_cg2779 family protein [Philodulcilactobacillus myokoensis]
+Sequence ID: WP_286136020.1 Length: 66
+Range 1: 4 to 42
+
+Score:42.7 bits(99), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:19/39(49%), Positives:29/39(74%), Gaps:0/39(0%)
+
+Query  2   NGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+           NG  +++  IID++ K  +TDT MAF ++LSVE+IH +K
+Sbjct  4   NGFSKVAKNIIDYEKKMDLTDTQMAFDTHLSVERIHGIK  42
+
+
+
+
+>LBP_cg2779 family protein [Limosilactobacillus gastricus]
+Sequence ID: WP_056937804.1 Length: 64
+Range 1: 1 to 62
+
+Score:42.7 bits(99), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:22/62(35%), Positives:37/62(59%), Gaps:1/62(1%)
+
+Query  1   MNGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGS-FTPEEINQVYDYIQ  59
+           M    EL+  +IDF+ ++ + D ++A  S LSVE++H +K  S +  T EE   +  ++Q
+Sbjct  1   MTNFTELALELIDFEKEHQLNDNEVALGSQLSVERVHDIKSSSSAQATEEETGLLRRFMQ  60
+
+Query  60  SY  61
+           SY
+Sbjct  61  SY  62
+
+
+
+
+>LBP_cg2779 family protein [Liquorilactobacillus vini]
+Sequence ID: WP_010579919.1 Length: 67
+Range 1: 6 to 42
+
+Score:42.7 bits(99), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:18/37(49%), Positives:28/37(75%), Gaps:0/37(0%)
+
+Query  4   LEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+           +E L++ I+ FQ K H+TDT+++  S+L VEKIH +K
+Sbjct  6   VESLAEKIVIFQEKFHLTDTELSLKSHLPVEKIHGIK  42
+
+
+
+
+>LBP_cg2779 family protein [Lentilactobacillus kribbianus]
+Sequence ID: WP_172187635.1 Length: 60
+Range 1: 8 to 60
+
+Score:42.4 bits(98), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:21/53(40%), Positives:35/53(66%), Gaps:0/53(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQ  59
+           L++ IIDFQ K+ +TDT +AF  ++SVE++H +K    + T EE   +  Y++
+Sbjct  8   LAEEIIDFQKKHDLTDTQLAFNIHMSVERLHDIKSMEVNPTKEEQQSIEAYVR  60
+
+
+
+
+>LBP_cg2779 family protein [Liquorilactobacillus ghanensis]
+Sequence ID: WP_057870647.1 Length: 66
+Range 1: 5 to 42
+
+Score:42.7 bits(99), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:18/38(47%), Positives:28/38(73%), Gaps:0/38(0%)
+
+Query  3   GLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMK  40
+            ++ L++ I+ FQ K H+TDT+M+  S+L VEKIH +K
+Sbjct  5   SVDSLAEKIVTFQEKFHLTDTEMSLKSHLPVEKIHGIK  42
+
+
+
+
+>LBP_cg2779 family protein, partial [Lactobacillus taiwanensis]
+Sequence ID: WP_285818167.1 Length: 31
+Range 1: 4 to 31
+
+Score:41.6 bits(96), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:19/28(68%), Positives:26/28(92%), Gaps:0/28(0%)
+
+Query  5   EELSDAIIDFQVKNHMTDTDMAFASNLS  32
+           EELSDAII+F+VKN++ DT +AF+S+LS
+Sbjct  4   EELSDAIIEFEVKNNVNDTALAFSSHLS  31
+
+
+
+
+>LBP_cg2779 family protein [Secundilactobacillus kimchicus]
+Sequence ID: WP_054659236.1 Length: 60
+Range 1: 8 to 59
+
+Score:42.0 bits(97), Expect:0.004, 
+Method:Compositional matrix adjust., 
+Identities:19/52(37%), Positives:33/52(63%), Gaps:0/52(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYI  58
+           +++ II +Q K+ MTD D+A   + ++EK+H +K      TPEE+ Q+  +I
+Sbjct  8   IAEEIIQYQKKHEMTDGDLALNIHTTIEKLHDIKSMEYQPTPEEVAQLRKFI  59
+
+
+
+
+>hypothetical protein FC56_GL000907 [Lentilactobacillus senioris DSM 24302 = JCM 17472]
+Sequence ID: KRM93242.1 Length: 68
+Range 1: 16 to 68
+
+Score:42.0 bits(97), Expect:0.005, 
+Method:Compositional matrix adjust., 
+Identities:20/53(38%), Positives:33/53(62%), Gaps:0/53(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQ  59
+           L++ IIDFQ K+ + DT +AF  ++SVE++H +K      T EE   +  Y++
+Sbjct  16  LAEEIIDFQKKHELADTQLAFNLHMSVERLHDIKSMEVKPTAEETANITSYVR  68
+
+
+
+
+>LBP_cg2779 family protein [Liquorilactobacillus nagelii]
+Sequence ID: WP_278750992.1 Length: 66
+Range 1: 9 to 63
+
+Score:41.6 bits(96), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:20/55(36%), Positives:34/55(61%), Gaps:0/55(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQSY  61
+           L++ I+ FQ K H+TD +M+  S+L VEKIH +K        +E  ++ ++I +Y
+Sbjct  9   LAEKIVTFQEKYHLTDAEMSLKSHLPVEKIHGIKQQIYQPQTDEKQELLNFITNY  63
+
+
+
+
+>LBP_cg2779 family protein [Lactobacillus sp. Sy-1]
+Sequence ID: WP_219054132.1 Length: 66
+Range 1: 3 to 61
+
+Score:41.6 bits(96), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:21/59(36%), Positives:35/59(59%), Gaps:0/59(0%)
+
+Query  2   NGLEELSDAIIDFQVKNHMTDTDMAFASNLSVEKIHAMKIGSGSFTPEEINQVYDYIQS  60
+           NG+  +S  IIDFQ +    DT +AF  ++SVE++H +K      T EE   + ++I++
+Sbjct  3   NGISTISKEIIDFQKRTAWPDTQLAFNLHISVERLHDIKSMEKQPTNEEKELIENFIEN  61
+
+
+
+
+>LBP_cg2779 family protein [Lacticaseibacillus paracasei]
+Sequence ID: MFK5284117.1 Length: 39
+Range 1: 10 to 39
+
+Score:40.8 bits(94), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:19/30(63%), Positives:23/30(76%), Gaps:0/30(0%)
+
+Query  7   LSDAIIDFQVKNHMTDTDMAFASNLSVEKI  36
+            S  IIDFQ KNH+TDT+MA  S++SVE I
+Sbjct  10  FSREIIDFQRKNHLTDTEMALNSHVSVEHI  39
+
+
+
+
+
+
+
+		
+
+

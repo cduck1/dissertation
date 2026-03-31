@@ -1,0 +1,1895 @@
+RID: T6JJREZP014	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: lcl|Query_11089871 Length: 82
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E   Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value Ident  Len        Accession        
+type II toxin-antitoxin system PemI/MazE family antitoxin,...     3          3          Bacilli         firmicutes      91061      166    166   99%   6e-52 100.00 81         WP_342095073.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      5          5          Limosilactob... firmicutes      2742598    146    146   100%  7e-44 84.15  82         WP_272207375.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      7          5          Bacilli         firmicutes      91061      143    143   100%  2e-42 79.27  82         WP_057809052.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      3          3          Limosilactob... firmicutes      2742598    137    137   100%  3e-40 78.05  82         WP_283620911.1   
+hypothetical protein [Lactobacillaceae bacterium]                 1          1          Lactobacilla... firmicutes      2291323    137    137   100%  3e-40 76.83  82         MDD6432510.1     
+MULTISPECIES: type II toxin-antitoxin system PemI/MazE family...  3          2          Lactobacillus   firmicutes      1578       136    136   100%  6e-40 75.61  82         WP_006586801.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          1          Limosilactob... firmicutes      1598       135    135   100%  3e-39 75.61  82         WP_152704290.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      2773925    132    132   100%  2e-38 76.83  82         WP_367341642.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      1598       130    130   100%  1e-37 73.17  82         WP_072574943.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      1633       129    129   100%  4e-37 71.95  82         WP_283586456.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Pediococcus ... firmicutes      480391     128    128   96%   3e-36 73.42  107        WP_353989499.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      1598       124    124   100%  3e-35 74.39  82         WP_229396787.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      1598       122    122   100%  4e-34 67.07  82         WP_458721899.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      2773925    121    121   93%   1e-33 71.05  93         WP_373842956.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      227942     117    117   100%  2e-32 65.85  82         WP_040467985.1   
+hypothetical protein HMPREF0534_1807, partial...                  2          2          Limosilactob... firmicutes      1598       113    113   99%   1e-30 62.96  91         EEI64857.1       
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          1          Lactobacillu... firmicutes      2201249    109    109   100%  4e-29 59.76  82         WP_212779963.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      4          2          Levilactobac... firmicutes      380393     108    108   96%   1e-28 59.49  83         WP_056943994.1   
+MULTISPECIES: type II toxin-antitoxin system PemI/MazE family...  1          1          Limosilactob... firmicutes      2742598    107    107   88%   3e-28 69.44  72         WP_152704021.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      3          3          Companilacto... firmicutes      2767879    107    107   96%   3e-28 59.49  83         WP_334352551.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      31         5          Lactobacilla... firmicutes      33958      104    104   99%   3e-27 59.26  82         WP_182588336.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          1          Pediococcus ... firmicutes      1254       104    104   96%   4e-27 58.23  83         WP_002831720.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          1          Limosilactob... firmicutes      1598       103    103   100%  6e-27 58.54  88         WP_229269967.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      2773925    103    103   88%   7e-27 65.28  74         WP_291976586.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Latilactobac... firmicutes      2814244    101    101   96%   5e-26 59.49  81         WP_208423025.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Lactobacillu... firmicutes      2983234    98.2   98.2  90%   1e-24 60.81  77         WP_277146944.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      2759755    97.4   97.4  71%   2e-24 77.59  77         WP_182596405.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          2          Levilactobac... firmicutes      2767886    97.1   97.1  96%   3e-24 51.90  81         WP_287707925.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Companilacto... firmicutes      2486006    95.5   95.5  96%   1e-23 54.43  81         WP_125590170.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      5          3          Limosilactob... firmicutes      2742598    92.8   92.8  83%   1e-22 61.76  68         WP_231823148.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Ligilactobac... firmicutes      1808352    91.7   91.7  85%   3e-22 58.57  74         WP_124977540.1   
+hypothetical protein LFYK43_17890 [Ligilactobacillus...           1          1          Ligilactobac... firmicutes      1808352    91.3   91.3  85%   6e-22 58.57  85         GBG95330.1       
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Limosilactob... firmicutes      47493      89.7   89.7  66%   1e-21 81.48  55         WP_289560403.1   
+hypothetical protein [Pediococcus stilesii]                       2          1          Pediococcus ... firmicutes      331679     89.4   89.4  98%   3e-21 51.25  81         WP_138474986.1   
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Loigolactoba... firmicutes      1607       89.0   89.0  99%   5e-21 50.62  83         WP_057905508.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          1          Companilacto... firmicutes      1847728    80.1   80.1  96%   1e-17 45.57  81         WP_083685918.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      3          3          Lactobacilla... firmicutes      33958      79.3   79.3  67%   2e-17 67.27  55         WP_259409238.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Weissella ko... firmicutes      165096     64.3   64.3  96%   2e-11 42.50  82         WP_006845408.1   
+hypothetical protein [Limosilactobacillus antri]                  2          2          Limosilactob... firmicutes      2742598    62.0   62.0  52%   9e-11 60.47  43         WP_007124544.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          2          Streptococcus   firmicutes      1301       58.2   58.2  56%   9e-09 56.52  93         WP_354363810.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      4          1          Ligilactobac... firmicutes      1624       57.4   57.4  85%   1e-08 45.71  78         WP_172413045.1   
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Sterolibacte... b-proteobact... 2819261    55.1   55.1  96%   1e-07 34.94  83         MFA7280195.1     
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Clostridiale... firmicutes      1898207    53.5   53.5  93%   5e-07 37.80  95         MDR3121064.1     
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Streptococcu... firmicutes      661498     52.8   52.8  59%   7e-07 54.17  71         WP_447454299.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      3          2          Streptococcus   firmicutes      1301       52.4   52.4  59%   9e-07 50.00  70         WP_067062698.1   
+hypothetical protein [Pediococcus argentinicus]                   1          1          Pediococcus ... firmicutes      480391     52.0   52.0  41%   9e-07 58.82  54         WP_157059333.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Enterococcus... firmicutes      44008      52.8   52.8  68%   1e-06 41.38  93         WP_431830975.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Loigolactoba... firmicutes      1267156    52.0   52.0  55%   1e-06 53.33  74         WP_191983359.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          2          Listeria        firmicutes      1637       51.6   51.6  98%   2e-06 38.75  75         WP_167630110.1   
+AbrB family toxin-antitoxin system antitoxin [Ligilactobacillu... 2          1          Ligilactobac... firmicutes      1624       52.0   52.0  99%   2e-06 34.12  86         MSE06797.1       
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Loigolactoba... firmicutes      1610       51.2   51.2  55%   3e-06 44.44  74         WP_146990361.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      4          1          Ligilactobac... firmicutes      1601       51.2   51.2  52%   4e-06 46.51  88         WP_172579371.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Loigolactoba... firmicutes      375175     50.1   50.1  55%   6e-06 53.33  66         WP_271289926.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Loigolactoba... firmicutes      375175     50.1   50.1  55%   6e-06 53.33  54         WP_068278973.1   
+ChpB-ChpS toxin-antitoxin system antitoxin [Gammaproteobacteri... 3          3          Gammaproteob... g-proteobact... 1236       50.8   50.8  96%   6e-06 33.33  86         MBP7900697.1     
+hypothetical protein [Pseudomonadota bacterium]                   1          1          Pseudomonado... proteobacteria  1977087    50.4   50.4  96%   7e-06 34.94  83         MEN9763202.1     
+ChpB-ChpS toxin-antitoxin system antitoxin [Betaproteobacteria... 1          1          Betaproteoba... b-proteobact... 1891241    50.4   50.4  96%   7e-06 32.53  83         MEI7739252.1     
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Stagnimonas sp. g-proteobact... 2689599    50.4   50.4  96%   8e-06 30.12  83         MDP3857635.1     
+ChpB-ChpS toxin-antitoxin system antitoxin [Alphaproteobacteri... 2          1          Alphaproteob... a-proteobact... 1913988    50.1   50.1  93%   9e-06 30.00  83         MBM3480820.1     
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Alkalibacter... firmicutes      2081965    49.7   49.7  52%   1e-05 46.51  73         WP_161879295.1   
+ChpB-ChpS toxin-antitoxin system antitoxin [Gammaproteobacteri... 1          1          Gammaproteob... g-proteobact... 1913989    50.1   50.1  96%   1e-05 32.14  96         MCL4555899.1     
+type II toxin-antitoxin system PemI/MazE family antitoxin...      3          3          Streptococcus   firmicutes      1301       49.7   49.7  59%   1e-05 43.75  71         WP_019769148.1   
+AbrB family transcriptional regulator [Tetragenococcus koreensis] 1          1          Tetragenococ... firmicutes      290335     49.3   49.3  83%   2e-05 40.00  69         MDN6363784.1     
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Betaproteoba... b-proteobact... 1891241    49.7   49.7  96%   2e-05 32.53  83         MBI2293670.1     
+type II toxin-antitoxin system PemI/MazE family antitoxin...      4          1          Tetragenococ... firmicutes      290335     49.3   49.3  83%   2e-05 40.00  77         WP_234752825.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          2          Loigolactoba... firmicutes      2767889    48.9   48.9  55%   3e-05 44.44  74         WP_367297923.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Xylocopilact... firmicutes      2932184    48.9   48.9  49%   3e-05 57.50  76         WP_317635416.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Alkalibacter... firmicutes      290589     48.9   48.9  100%  3e-05 35.29  76         WP_343753492.1   
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   2          2          Gammaproteob... g-proteobact... 1236       48.9   48.9  93%   3e-05 33.75  83         WP_339398614.1   
+ChpB-ChpS toxin-antitoxin system antitoxin [Burkholderiaceae...   1          1          Burkholderia... b-proteobact... 2030806    48.9   48.9  93%   3e-05 31.25  93         MCD6679146.1     
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Streptococcu... firmicutes      1547447    48.5   48.5  59%   4e-05 47.92  71         WP_209626684.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Enterococcus... firmicutes      762845     48.1   48.1  65%   4e-05 49.06  70         WP_069697496.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Enterococcus... firmicutes      762845     48.5   48.5  52%   7e-05 53.49  109        WP_245676907.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Streptococcu... firmicutes      1335       47.4   47.4  59%   7e-05 45.83  70         WP_074482116.1   
+hypothetical protein [Pseudomonadota bacterium]                   1          1          Pseudomonado... proteobacteria  1977087    47.8   47.8  88%   9e-05 34.21  85         MEY4448016.1     
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          2          Streptococcus   firmicutes      1301       47.4   47.4  66%   9e-05 45.45  70         WP_268732041.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Lentilactoba... firmicutes      481719     47.4   47.4  55%   9e-05 51.11  70         WP_070366838.1   
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   2          2          Aeromonas       g-proteobact... 642        47.4   47.4  91%   1e-04 34.18  83         QLI60524.1       
+MAG: ChpB-ChpS toxin-antitoxin system antitoxin [Burkholderial... 1          1          Burkholderia... b-proteobact... 1891238    47.0   47.0  96%   2e-04 31.33  83         KAB2843213.1     
+MULTISPECIES: type II toxin-antitoxin system PemI/MazE family...  3          2          Streptococcus   firmicutes      1301       46.6   46.6  59%   2e-04 43.75  70         WP_014620101.1   
+ChpB-ChpS toxin-antitoxin system antitoxin [Oxalobacteraceae...   3          2          Burkholderiales b-proteobact... 80840      46.6   46.6  96%   3e-04 32.53  83         MCE2860047.1     
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Burkholderia... b-proteobact... 2030806    46.6   46.6  96%   3e-04 31.33  97         MFZ9238698.1     
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Clostridiale... firmicutes      1898207    46.2   46.2  88%   3e-04 31.58  84         MDR3091161.1     
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Lactiplantib... firmicutes      2559920    46.6   46.6  54%   3e-04 47.73  89         WP_137635864.1   
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Eoetvoesiell... b-proteobact... 1966355    46.2   46.2  96%   3e-04 32.53  83         WP_325587870.1   
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Lachnospirac... firmicutes      1898203    45.8   45.8  94%   4e-04 41.03  73         MDR1018286.1     
+ChpB-ChpS toxin-antitoxin system antitoxin [Burkholderiales...    1          1          Burkholderia... b-proteobact... 1891238    46.2   46.2  96%   4e-04 31.33  83         MCI4430461.1     
+ChpB-ChpS toxin-antitoxin system antitoxin [Gammaproteobacteri... 1          1          Gammaproteob... g-proteobact... 1913989    45.8   45.8  96%   4e-04 28.92  83         MBM4230200.1     
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          uncultured C... b-proteobact... 647907     45.8   45.8  96%   4e-04 31.33  83         WP_298014327.1   
+ChpB-ChpS toxin-antitoxin system antitoxin [Gammaproteobacteri... 1          1          Gammaproteob... g-proteobact... 1913989    46.2   46.2  96%   5e-04 28.92  94         MFM8481577.1     
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   1          1          Steroidobact... g-proteobact... 2689616    45.8   45.8  96%   5e-04 30.12  83         MGO9512391.1     
+type II toxin-antitoxin system PemI/MazE family antitoxin...      3          2          Lentilactoba... firmicutes      2767893    45.4   45.4  95%   6e-04 38.46  70         WP_057824657.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Lapidilactob... firmicutes      2485999    45.4   45.4  55%   6e-04 42.22  74         WP_191986405.1   
+AbrB/MazE/SpoVT family DNA-binding domain-containing protein...   3          1          Levilactobac... firmicutes      380393     45.4   45.4  88%   6e-04 34.21  87         WP_304057602.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      2          2          Limosilactob... firmicutes      2742598    45.1   45.1  55%   7e-04 42.22  74         WP_295747185.1   
+type II toxin-antitoxin system PemI/MazE family antitoxin...      1          1          Streptococcu... firmicutes      1562651    45.1   45.1  60%   7e-04 44.90  70         WP_146566442.1   
+PbsX family transcriptional regulator [Minisyncoccota bacterium]  1          1          Minisyncocco... bacteria        2053589    45.1   45.1  89%   8e-04 36.49  78         MDI9408892.1     
+ChpB-ChpS toxin-antitoxin system antitoxin [Betaproteobacteria... 3          1          Betaproteoba... b-proteobact... 1891241    45.1   45.1  89%   0.001 29.87  83         NBT80003.1       
+MULTISPECIES: type II toxin-antitoxin system PemI/MazE family...  4          3          Lactiplantib... firmicutes      2767842    44.7   44.7  55%   0.001 42.22  72         WP_033611254.1   
+MULTISPECIES: AbrB/MazE/SpoVT family DNA-binding...               1          1          Enterococcus    firmicutes      1350       44.7   44.7  57%   0.001 44.68  86         WP_207110609.1   
+
+
+Alignments:
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin, partial [Lactobacillus amylovorus]
+Sequence ID: WP_342095073.1 Length: 81
+Range 1: 1 to 81
+
+Score:166 bits(421), Expect:6e-52, 
+Method:Compositional matrix adjust., 
+Identities:81/81(100%), Positives:81/81(100%), Gaps:0/81(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG
+Sbjct  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEEL  81
+           KYQTPDDLKDWDNAKPVGEEL
+Sbjct  61  KYQTPDDLKDWDNAKPVGEEL  81
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus mucosae]
+Sequence ID: WP_272207375.1 Length: 82
+Range 1: 1 to 82
+
+Score:146 bits(369), Expect:7e-44, 
+Method:Compositional matrix adjust., 
+Identities:69/82(84%), Positives:74/82(90%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  VKARIQGNATVVTIPKSFNVKPGTE+RF KGK GTLIL+P+KKVP T+EELFK+WHG
+Sbjct  1   MDTVKARIQGNATVVTIPKSFNVKPGTEYRFAKGKGGTLILTPAKKVPSTIEELFKDWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           KYQ PDDLKDW NAKP GEELW
+Sbjct  61  KYQMPDDLKDWQNAKPEGEELW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Lactobacillus intestinalis]
+Sequence ID: WP_057809052.1 Length: 82
+Range 1: 1 to 82
+
+Score:143 bits(360), Expect:2e-42, 
+Method:Compositional matrix adjust., 
+Identities:65/82(79%), Positives:75/82(91%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           MS+VKARIQGNATVVTIPKSFNVKPGTEF+FKKGKNG LILSPSKKVPD++EELFKNWHG
+Sbjct  1   MSIVKARIQGNATVVTIPKSFNVKPGTEFKFKKGKNGNLILSPSKKVPDSIEELFKNWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           KY+  D++++WD  KP G E+W
+Sbjct  61  KYEVSDEMREWDEMKPEGREIW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus avium]
+Sequence ID: WP_283620911.1 Length: 82
+Range 1: 1 to 82
+
+Score:137 bits(345), Expect:3e-40, 
+Method:Compositional matrix adjust., 
+Identities:64/82(78%), Positives:71/82(86%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  VKARIQGNATVVTIPKSF+VKPGTE+RF +GK G L L+P+KKVP T+EELFKNWHG
+Sbjct  1   MDTVKARIQGNATVVTIPKSFDVKPGTEYRFSQGKGGVLTLTPTKKVPSTIEELFKNWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           +YQ PDDLK W NAKP GEELW
+Sbjct  61  EYQMPDDLKVWQNAKPEGEELW  82
+
+
+
+
+>hypothetical protein [Lactobacillaceae bacterium]
+Sequence ID: MDD6432510.1 Length: 82
+Range 1: 1 to 82
+
+Score:137 bits(345), Expect:3e-40, 
+Method:Compositional matrix adjust., 
+Identities:63/82(77%), Positives:73/82(89%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  VKARIQGNATVVTIPK+FNVKPGTEF FKK KNG L+L+P+KKVPD+M+ELFK+WHG
+Sbjct  1   MDTVKARIQGNATVVTIPKAFNVKPGTEFHFKKEKNGALLLTPAKKVPDSMKELFKDWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           KYQ P+DL++W  AKP GEELW
+Sbjct  61  KYQMPEDLEEWQTAKPKGEELW  82
+
+
+
+
+>MULTISPECIES: type II toxin-antitoxin system PemI/MazE family antitoxin [Lactobacillus]
+Sequence ID: WP_006586801.1 Length: 82
+Range 1: 1 to 82
+
+Score:136 bits(343), Expect:6e-40, 
+Method:Compositional matrix adjust., 
+Identities:62/82(76%), Positives:71/82(86%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  VKARIQGNATVVTIPKSFNVKPGTE+RF KGK G L L+P+K+VP ++EELFK+WHG
+Sbjct  1   MDTVKARIQGNATVVTIPKSFNVKPGTEYRFTKGKGGVLTLTPAKRVPSSIEELFKDWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           +YQ PDDLK+W N KP GEELW
+Sbjct  61  EYQVPDDLKEWQNVKPEGEELW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus reuteri]
+Sequence ID: WP_152704290.1 Length: 82
+Range 1: 1 to 82
+
+Score:135 bits(339), Expect:3e-39, 
+Method:Compositional matrix adjust., 
+Identities:62/82(76%), Positives:69/82(84%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  VK R+Q NATVVTIPK FNVKPGTE+RF KGK GTLIL+P+KKVP T+EELFK+WHG
+Sbjct  1   MDTVKVRVQDNATVVTIPKLFNVKPGTEYRFAKGKYGTLILTPTKKVPATIEELFKDWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           +YQ PDDLK W N KP GEELW
+Sbjct  61  QYQVPDDLKQWQNVKPAGEELW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus sp.]
+Sequence ID: WP_367341642.1 Length: 82
+Range 1: 1 to 82
+
+Score:132 bits(333), Expect:2e-38, 
+Method:Compositional matrix adjust., 
+Identities:63/82(77%), Positives:68/82(82%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M+ VKARIQGNA VVTIPK+ NVKPGTEF+FKKGKNG L L P  K P T+EELFK+WHG
+Sbjct  1   MNKVKARIQGNALVVTIPKALNVKPGTEFKFKKGKNGLLTLIPISKEPQTLEELFKDWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+            YQ PDDLKDWDN KP GEELW
+Sbjct  61  DYQMPDDLKDWDNTKPTGEELW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus reuteri]
+Sequence ID: WP_072574943.1 Length: 82
+Range 1: 1 to 82
+
+Score:130 bits(328), Expect:1e-37, 
+Method:Compositional matrix adjust., 
+Identities:60/82(73%), Positives:71/82(86%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  VK RIQGNATVVTIPK FN+KPGTE+RF KGK+GTLIL+P+KKVP T+E+LFK+WHG
+Sbjct  1   MDTVKVRIQGNATVVTIPKPFNIKPGTEYRFVKGKSGTLILTPTKKVPSTIEDLFKDWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           +YQ P+DLK W N KP G+ELW
+Sbjct  61  EYQMPEDLKGWQNVKPKGKELW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus vaginalis]
+Sequence ID: WP_283586456.1 Length: 82
+Range 1: 1 to 82
+
+Score:129 bits(325), Expect:4e-37, 
+Method:Compositional matrix adjust., 
+Identities:59/82(72%), Positives:71/82(86%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  VKARIQGNA VVTIPKS  VKPGT++RF+K  +GTL L+P++KVPD+MEELF++WHG
+Sbjct  1   MGTVKARIQGNAVVVTIPKSMGVKPGTKYRFQKENDGTLKLTPTRKVPDSMEELFEDWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           KY+TPDDLKDWDN +  GEELW
+Sbjct  61  KYETPDDLKDWDNNQTEGEELW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Pediococcus argentinicus]
+Sequence ID: WP_353989499.1 Length: 107
+Range 1: 29 to 107
+
+Score:128 bits(321), Expect:3e-36, 
+Method:Compositional matrix adjust., 
+Identities:58/79(73%), Positives:68/79(86%), Gaps:0/79(0%)
+
+Query  4    VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+            VKARIQGNA VVTIPKSFNV+PGTEF F+  K+G LIL P++K P TM++LFKNWHGKY+
+Sbjct  29   VKARIQGNAVVVTIPKSFNVEPGTEFEFESAKDGALILRPTQKNPKTMKDLFKNWHGKYE  88
+
+Query  64   TPDDLKDWDNAKPVGEELW  82
+            TPD LKDW++ KP GEELW
+Sbjct  89   TPDSLKDWNDIKPTGEELW  107
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus reuteri]
+Sequence ID: WP_229396787.1 Length: 82
+Range 1: 1 to 82
+
+Score:124 bits(312), Expect:3e-35, 
+Method:Compositional matrix adjust., 
+Identities:61/82(74%), Positives:64/82(78%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M   KARIQGNA VVTIPKSF VKPGTEFRF K   G L L P+KK+P TMEELFKNW+ 
+Sbjct  1   MQKTKARIQGNAVVVTIPKSFGVKPGTEFRFTKDDGGALKLIPTKKIPTTMEELFKNWND  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+            YQTPDDLK WDN KP GEELW
+Sbjct  61  NYQTPDDLKGWDNEKPEGEELW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus reuteri]
+Sequence ID: WP_458721899.1 Length: 82
+Range 1: 1 to 82
+
+Score:122 bits(305), Expect:4e-34, 
+Method:Compositional matrix adjust., 
+Identities:55/82(67%), Positives:65/82(79%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M   KARIQGNA VVTIPKS  V+PGTE+RF K  +G+L L+P+KKVP+TM ELFK WHG
+Sbjct  1   MDTTKARIQGNAVVVTIPKSLGVEPGTEYRFSKESDGSLKLTPTKKVPETMAELFKGWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           KY+TP D +DWD+  P GEELW
+Sbjct  61  KYETPTDSQDWDSHDPAGEELW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus sp.]
+Sequence ID: WP_373842956.1 Length: 93
+Range 1: 1 to 76
+
+Score:121 bits(303), Expect:1e-33, 
+Method:Compositional matrix adjust., 
+Identities:54/76(71%), Positives:65/76(85%), Gaps:0/76(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M+ VKARIQGNA VVTIPK+F+V+PGTEF+FKKGKNG L+L+P+KKVP +M+ELFK+WHG
+Sbjct  1   MNKVKARIQGNAIVVTIPKAFHVQPGTEFQFKKGKNGALLLTPTKKVPASMKELFKDWHG  60
+
+Query  61  KYQTPDDLKDWDNAKP  76
+            YQ PDDL DW    P
+Sbjct  61  TYQQPDDLADWQETTP  76
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus gastricus]
+Sequence ID: WP_040467985.1 Length: 82
+Range 1: 1 to 82
+
+Score:117 bits(294), Expect:2e-32, 
+Method:Compositional matrix adjust., 
+Identities:54/82(66%), Positives:64/82(78%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M   KARIQGNA VVTIPKSF VKPG EFRF K +NG L L+P+K+VP+TM+ELFK+W G
+Sbjct  1   MKKTKARIQGNAVVVTIPKSFGVKPGAEFRFTKEENGILKLTPTKQVPETMDELFKDWDG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           +YQ P DL +W+   P GEELW
+Sbjct  61  EYQMPSDLAEWNQENPTGEELW  82
+
+
+
+
+>hypothetical protein HMPREF0534_1807, partial [Limosilactobacillus reuteri CF48-3A]
+Sequence ID: EEI64857.1 Length: 91
+Range 1: 11 to 91
+
+Score:113 bits(282), Expect:1e-30, 
+Method:Compositional matrix adjust., 
+Identities:51/81(63%), Positives:62/81(76%), Gaps:0/81(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M   KARIQ NA VVT+PKS  V PGTE++F K  +G+L L+P+KKVP+TM ELFK WHG
+Sbjct  11  MDTTKARIQRNAVVVTVPKSLGVVPGTEYQFSKESDGSLKLTPTKKVPETMAELFKGWHG  70
+
+Query  61  KYQTPDDLKDWDNAKPVGEEL  81
+           KY+TP D +DWD+  P GEEL
+Sbjct  71  KYETPTDFQDWDSHDPAGEEL  91
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Lactobacillus corticis]
+Sequence ID: WP_212779963.1 Length: 82
+Range 1: 1 to 82
+
+Score:109 bits(272), Expect:4e-29, 
+Method:Compositional matrix adjust., 
+Identities:49/82(60%), Positives:64/82(78%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           MS VKARIQGNA VVTIPK   VK GTE+ F   KNGTL  +P+K+ P ++++L K+WHG
+Sbjct  1   MSTVKARIQGNALVVTIPKFSKVKAGTEYNFNISKNGTLTFTPTKEEPTSLKDLLKDWHG  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           +Y  P+DL+DW ++KPVGEE+W
+Sbjct  61  EYSLPEDLEDWQDSKPVGEEIW  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Levilactobacillus namurensis]
+Sequence ID: WP_056943994.1 Length: 83
+Range 1: 5 to 83
+
+Score:108 bits(269), Expect:1e-28, 
+Method:Compositional matrix adjust., 
+Identities:47/79(59%), Positives:62/79(78%), Gaps:0/79(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           VKAR QGN+ VVTIP +  V PGT++R +K +NG LIL PSK++  ++++LF++WHG YQ
+Sbjct  5   VKARKQGNSIVVTIPSNLAVTPGTKYRVEKRENGDLILKPSKQIATSLDDLFRDWHGTYQ  64
+
+Query  64  TPDDLKDWDNAKPVGEELW  82
+             DDL DW+N KPVGEELW
+Sbjct  65  RADDLNDWENTKPVGEELW  83
+
+
+
+
+>MULTISPECIES: type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus]
+Sequence ID: WP_152704021.1 Length: 72
+Range 1: 1 to 72
+
+Score:107 bits(266), Expect:3e-28, 
+Method:Compositional matrix adjust., 
+Identities:50/72(69%), Positives:60/72(83%), Gaps:0/72(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M+  KARIQGNA VVTIPKSF VKPGTE+RF K  +GTL L+P+KKVP+TMEELFK W+ 
+Sbjct  1   MNTTKARIQGNAVVVTIPKSFGVKPGTEYRFSKESDGTLKLTPTKKVPETMEELFKGWNK  60
+
+Query  61  KYQTPDDLKDWD  72
+           KY TP+DL+ W+
+Sbjct  61  KYITPNDLQSWN  72
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Companilactobacillus sp. HBUAS56257]
+Sequence ID: WP_334352551.1 Length: 83
+Range 1: 5 to 83
+
+Score:107 bits(266), Expect:3e-28, 
+Method:Compositional matrix adjust., 
+Identities:47/79(59%), Positives:61/79(77%), Gaps:0/79(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           VKAR QGN+ VVTIP +  V PGT+++ +K  NG LIL PSKK+  ++++LF++WHG YQ
+Sbjct  5   VKARKQGNSIVVTIPSNLAVAPGTQYKVEKKDNGELILKPSKKMATSLDDLFEDWHGSYQ  64
+
+Query  64  TPDDLKDWDNAKPVGEELW  82
+             DDL DW+N KPVGEELW
+Sbjct  65  RADDLNDWENTKPVGEELW  83
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus balticus]
+Sequence ID: WP_182588336.1 Length: 82
+Range 1: 1 to 81
+
+Score:104 bits(260), Expect:3e-27, 
+Method:Compositional matrix adjust., 
+Identities:48/81(59%), Positives:60/81(74%), Gaps:0/81(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M   KARIQG A VVTIPKS  V+PGTE+RF K  +G+L L+P++KVP+TM ELFK WH 
+Sbjct  1   MDTTKARIQGKAVVVTIPKSLGVEPGTEYRFSKESDGSLKLTPTRKVPETMAELFKGWHR  60
+
+Query  61  KYQTPDDLKDWDNAKPVGEEL  81
+           KY+ P DL+ W++    GEEL
+Sbjct  61  KYEIPTDLQGWNSHDSEGEEL  81
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Pediococcus acidilactici]
+Sequence ID: WP_002831720.1 Length: 83
+Range 1: 5 to 83
+
+Score:104 bits(259), Expect:4e-27, 
+Method:Compositional matrix adjust., 
+Identities:46/79(58%), Positives:61/79(77%), Gaps:0/79(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           VKAR QGN+ VVTIP +  V PGT+++ +K +NG +IL PS+K P +++ELFK WHG Y+
+Sbjct  5   VKARKQGNSIVVTIPSNLAVIPGTKYKVEKMENGEIILKPSQKTPTSLDELFKGWHGNYR  64
+
+Query  64  TPDDLKDWDNAKPVGEELW  82
+              DL+DW+N KPVGEELW
+Sbjct  65  RASDLEDWENTKPVGEELW  83
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus reuteri]
+Sequence ID: WP_229269967.1 Length: 88
+Range 1: 7 to 88
+
+Score:103 bits(258), Expect:6e-27, 
+Method:Compositional matrix adjust., 
+Identities:48/82(59%), Positives:59/82(71%), Gaps:0/82(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M   KARI GNA VVTIPKS  V  GT++ F K  +G+L L+P+KKVP+TM ELFK WH 
+Sbjct  7   MDTTKARIPGNAVVVTIPKSLGVVSGTKYHFSKESDGSLKLTPTKKVPETMAELFKGWHD  66
+
+Query  61  KYQTPDDLKDWDNAKPVGEELW  82
+           KY+T  DL+DW++    GEELW
+Sbjct  67  KYETSTDLQDWNSHDSAGEELW  88
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus sp.]
+Sequence ID: WP_291976586.1 Length: 74
+Range 1: 1 to 72
+
+Score:103 bits(257), Expect:7e-27, 
+Method:Compositional matrix adjust., 
+Identities:47/72(65%), Positives:57/72(79%), Gaps:0/72(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  VK  +QGN TVV IPKSF V+PGTEFR  KG +GTL L P+K+ P T+E+LFK+WHG
+Sbjct  1   METVKVELQGNETVVPIPKSFQVQPGTEFRIIKGNDGTLTLIPTKQSPATIEKLFKDWHG  60
+
+Query  61  KYQTPDDLKDWD  72
+           KYQ PDDLK+W+
+Sbjct  61  KYQMPDDLKEWE  72
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Latilactobacillus fragifolii]
+Sequence ID: WP_208423025.1 Length: 81
+Range 1: 3 to 81
+
+Score:101 bits(252), Expect:5e-26, 
+Method:Compositional matrix adjust., 
+Identities:47/79(59%), Positives:60/79(75%), Gaps:0/79(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           VKARIQGNA VVT+PK+F ++ GT F  +  ++G + L P+K VPDT+EELFK+W GKY+
+Sbjct  3   VKARIQGNAVVVTLPKAFKIEAGTVFEPRIDEHGVVTLIPTKPVPDTIEELFKDWKGKYK  62
+
+Query  64  TPDDLKDWDNAKPVGEELW  82
+            PDDL  W + K VGEELW
+Sbjct  63  MPDDLMAWSSEKTVGEELW  81
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Lactobacillus sp. ESL0791]
+Sequence ID: WP_277146944.1 Length: 77
+Range 1: 3 to 76
+
+Score:98.2 bits(243), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:45/74(61%), Positives:54/74(72%), Gaps:0/74(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           VKARIQGN  V T+PKS NVKPGT +  K    G +  +P+K   +T+E+LFK+WHG YQ
+Sbjct  3   VKARIQGNTAVATLPKSLNVKPGTLYNPKINSKGVITFTPTKNALNTIEKLFKDWHGNYQ  62
+
+Query  64  TPDDLKDWDNAKPV  77
+           TPDDLKDWD  KPV
+Sbjct  63  TPDDLKDWDTIKPV  76
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus rudii]
+Sequence ID: WP_182596405.1 Length: 77
+Range 1: 1 to 58
+
+Score:97.4 bits(241), Expect:2e-24, 
+Method:Compositional matrix adjust., 
+Identities:45/58(78%), Positives:52/58(89%), Gaps:0/58(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNW  58
+           M  VK RIQGNATVVTIPKSFNVKPGTE+ F KGK+GTLIL+P+KKVP T+EELFK++
+Sbjct  1   MDTVKVRIQGNATVVTIPKSFNVKPGTEYYFAKGKDGTLILTPTKKVPATIEELFKDY  58
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Levilactobacillus sp.]
+Sequence ID: WP_287707925.1 Length: 81
+Range 1: 3 to 81
+
+Score:97.1 bits(240), Expect:3e-24, 
+Method:Compositional matrix adjust., 
+Identities:41/79(52%), Positives:61/79(77%), Gaps:0/79(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           VKAR QGN+ ++T+PK  N++ GT F  +K  +GT+ L P K++P +M+ELFK+WHGKY+
+Sbjct  3   VKARKQGNSLMITLPKYLNIEEGTTFDVRKSTDGTIELIPFKEIPSSMDELFKDWHGKYK  62
+
+Query  64  TPDDLKDWDNAKPVGEELW  82
+           T  ++KDWD A+P G+E+W
+Sbjct  63  TDSEMKDWDVARPEGKEIW  81
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Companilactobacillus jidongensis]
+Sequence ID: WP_125590170.1 Length: 81
+Range 1: 3 to 81
+
+Score:95.5 bits(236), Expect:1e-23, 
+Method:Compositional matrix adjust., 
+Identities:43/79(54%), Positives:59/79(74%), Gaps:0/79(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           VKAR QGN+ +VT+P+   V+ GT F  +K KNGT+ L P+KK P +MEELFK+WHG+Y 
+Sbjct  3   VKARKQGNSLMVTLPRYLEVEEGTSFTARKLKNGTIELIPAKKKPASMEELFKDWHGEYN  62
+
+Query  64  TPDDLKDWDNAKPVGEELW  82
+           +  ++K+WDN KP G E+W
+Sbjct  63  SDPEMKEWDNVKPEGNEIW  81
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus agrestis]
+Sequence ID: WP_231823148.1 Length: 68
+Range 1: 1 to 68
+
+Score:92.8 bits(229), Expect:1e-22, 
+Method:Compositional matrix adjust., 
+Identities:42/68(62%), Positives:51/68(75%), Gaps:0/68(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M   K RI+GN  VVTI KS  V+PGTE+RF K  +G+L L+P+KKVP+TM ELFK WH 
+Sbjct  1   MDTTKTRIKGNTVVVTIAKSLGVEPGTEYRFSKESDGSLKLTPTKKVPETMAELFKGWHS  60
+
+Query  61  KYQTPDDL  68
+           KY+TP DL
+Sbjct  61  KYETPTDL  68
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Ligilactobacillus salitolerans]
+Sequence ID: WP_124977540.1 Length: 74
+Range 1: 3 to 72
+
+Score:91.7 bits(226), Expect:3e-22, 
+Method:Compositional matrix adjust., 
+Identities:41/70(59%), Positives:52/70(74%), Gaps:0/70(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           V ARIQGNA V+T+PKS NV+PGT+F      +GT+IL P  +VPDT+EEL   W+ KY 
+Sbjct  3   VTARIQGNAVVITLPKSLNVEPGTKFDTINNPDGTIILKPIAEVPDTLEELLAGWNEKYA  62
+
+Query  64  TPDDLKDWDN  73
+           TP DL+DWD+
+Sbjct  63  TPADLEDWDD  72
+
+
+
+
+>hypothetical protein LFYK43_17890 [Ligilactobacillus salitolerans]
+Sequence ID: GBG95330.1 Length: 85
+Range 1: 14 to 83
+
+Score:91.3 bits(225), Expect:6e-22, 
+Method:Compositional matrix adjust., 
+Identities:41/70(59%), Positives:52/70(74%), Gaps:0/70(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           V ARIQGNA V+T+PKS NV+PGT+F      +GT+IL P  +VPDT+EEL   W+ KY 
+Sbjct  14  VTARIQGNAVVITLPKSLNVEPGTKFDTINNPDGTIILKPIAEVPDTLEELLAGWNEKYA  73
+
+Query  64  TPDDLKDWDN  73
+           TP DL+DWD+
+Sbjct  74  TPADLEDWDD  83
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus panis]
+Sequence ID: WP_289560403.1 Length: 55
+Range 1: 1 to 54
+
+Score:89.7 bits(221), Expect:1e-21, 
+Method:Compositional matrix adjust., 
+Identities:44/54(81%), Positives:48/54(88%), Gaps:0/54(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEEL  54
+           M  VKARIQGNATVVTI KSFNVKPGTE+RF KGK GTLIL+P+KKVP T+EEL
+Sbjct  1   MDTVKARIQGNATVVTISKSFNVKPGTEYRFTKGKVGTLILTPAKKVPSTIEEL  54
+
+
+
+
+>hypothetical protein [Pediococcus stilesii]
+Sequence ID: WP_138474986.1 Length: 81
+Range 1: 2 to 81
+
+Score:89.4 bits(220), Expect:3e-21, 
+Method:Compositional matrix adjust., 
+Identities:41/80(51%), Positives:53/80(66%), Gaps:0/80(0%)
+
+Query  3   LVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKY  62
+           +VK  +Q    VV +PK+F +K GT F  K   +G + L+P+  VPDTMEEL K+W G Y
+Sbjct  2   IVKTELQNGQIVVPLPKNFGIKTGTIFEAKINMHGIITLTPTNFVPDTMEELLKDWEGPY  61
+
+Query  63  QTPDDLKDWDNAKPVGEELW  82
+             P DLK+WD  KPVG+ELW
+Sbjct  62  HYPKDLKEWDGIKPVGDELW  81
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Loigolactobacillus bifermentans]
+Sequence ID: WP_057905508.1 Length: 83
+Range 1: 3 to 83
+
+Score:89.0 bits(219), Expect:5e-21, 
+Method:Compositional matrix adjust., 
+Identities:41/81(51%), Positives:53/81(65%), Gaps:0/81(0%)
+
+Query  2   SLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGK  61
+           S V+ + Q NA V  IP +  V PGT ++ +K  NG  IL PSKK  + +++LFKNWHG 
+Sbjct  3   SDVRVQKQDNAIVAIIPSNLAVTPGTRYKVEKKANGEFILKPSKKTINRLDDLFKNWHGC  62
+
+Query  62  YQTPDDLKDWDNAKPVGEELW  82
+           YQ   DL  W+N KPVG+ELW
+Sbjct  63  YQRATDLNVWENTKPVGKELW  83
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Companilactobacillus allii]
+Sequence ID: WP_083685918.1 Length: 81
+Range 1: 2 to 80
+
+Score:80.1 bits(196), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:36/79(46%), Positives:53/79(67%), Gaps:0/79(0%)
+
+Query  3   LVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKY  62
+           ++KA  QGN+ ++T+P    V+ GT F  +  +NGT+ L P+ K P +M+ELFKNW+GKY
+Sbjct  2   IIKAHKQGNSMMITLPSFLKVEEGTSFEPRMLENGTIELVPTTKNPSSMKELFKNWNGKY  61
+
+Query  63  QTPDDLKDWDNAKPVGEEL  81
+               ++KDWDN  P G E+
+Sbjct  62  NPDPEMKDWDNINPSGNEI  80
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Limosilactobacillus balticus]
+Sequence ID: WP_259409238.1 Length: 55
+Range 1: 1 to 55
+
+Score:79.3 bits(194), Expect:2e-17, 
+Method:Compositional matrix adjust., 
+Identities:37/55(67%), Positives:44/55(80%), Gaps:0/55(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELF  55
+           M   KARIQGNA VVTIPKS  V+PGTE+RF K  +G+L L+P+KKVP+TM ELF
+Sbjct  1   MDTTKARIQGNAVVVTIPKSLGVEPGTEYRFSKESDGSLKLTPTKKVPETMAELF  55
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Weissella koreensis]
+Sequence ID: WP_006845408.1 Length: 82
+Range 1: 3 to 82
+
+Score:64.3 bits(155), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:34/80(43%), Positives:48/80(60%), Gaps:1/80(1%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           VKARIQGNA  +T+PK  NV+ G +F     + G + L+P KK   +MEELF +W    +
+Sbjct  3   VKARIQGNAVTITLPKKLNVEAGQKFDVDMDEKGIIRLTPEKKSQISMEELFSDWDVSNE  62
+
+Query  64  TP-DDLKDWDNAKPVGEELW  82
+            P ++L   D    VG+E+W
+Sbjct  63  YPGENLWGNDADSKVGQEIW  82
+
+
+
+
+>hypothetical protein [Limosilactobacillus antri]
+Sequence ID: WP_007124544.1 Length: 43
+Range 1: 1 to 43
+
+Score:62.0 bits(149), Expect:9e-11, 
+Method:Compositional matrix adjust., 
+Identities:26/43(60%), Positives:34/43(79%), Gaps:0/43(0%)
+
+Query  40  ILSPSKKVPDTMEELFKNWHGKYQTPDDLKDWDNAKPVGEELW  82
+           + +P++KVP T+EELF+NWHGKYQ P DLK W +   VG+ELW
+Sbjct  1   MANPTEKVPATIEELFENWHGKYQMPTDLKGWQSMGAVGKELW  43
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Streptococcus rupicaprae]
+Sequence ID: WP_354363810.1 Length: 93
+Range 1: 1 to 46
+
+Score:58.2 bits(139), Expect:9e-09, 
+Method:Compositional matrix adjust., 
+Identities:26/46(57%), Positives:35/46(76%), Gaps:0/46(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKK  46
+           M+LVK R  GN+T +TIPK F++  GTE+   KG +GTL+LSPSK+
+Sbjct  1   MNLVKTRRVGNSTTITIPKEFDIPTGTEYSVYKGSDGTLLLSPSKE  46
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Ligilactobacillus salivarius]
+Sequence ID: WP_172413045.1 Length: 78
+Range 1: 1 to 68
+
+Score:57.4 bits(137), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:32/70(46%), Positives:40/70(57%), Gaps:2/70(2%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  V AR QGNA  +TI K FNV PG  +   K +NGT+IL P  KVPD  E +  N + 
+Sbjct  1   METVIARKQGNAVAITIAKKFNVNPGETYLISKQENGTIILVP--KVPDIFENVELNEYF  58
+
+Query  61  KYQTPDDLKD  70
+              T + +KD
+Sbjct  59  DADTDNLVKD  68
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Sterolibacterium sp.]
+Sequence ID: MFA7280195.1 Length: 83
+Range 1: 3 to 83
+
+Score:55.1 bits(131), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:29/83(35%), Positives:42/83(50%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV+ +P    K   +K G         +G + L+P ++   T+ EL     
+Sbjct  3   VVLRKYGNSTVLALPPAVLKDLGLKAGQSMTLDSTPDGRITLAPKRRY--TLSELLAQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   P DL  WDNA+PVG+E+W
+Sbjct  61  QKAAPPADLALWDNARPVGQEVW  83
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Clostridiales bacterium]
+Sequence ID: MDR3121064.1 Length: 95
+Range 1: 14 to 94
+
+Score:53.5 bits(127), Expect:5e-07, 
+Method:Compositional matrix adjust., 
+Identities:31/82(38%), Positives:44/82(53%), Gaps:7/82(8%)
+
+Query  6   ARIQ--GNATVVTIPKSF----NVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           ARI   GN+  + IPK+F     +K   E       N  LI   ++K P T+E+L   W 
+Sbjct  14  ARITPWGNSQGLRIPKAFLDLAQMKENDEVELIPQDNAILIRRCTQKKP-TLEQLLAEWD  72
+
+Query  60  GKYQTPDDLKDWDNAKPVGEEL  81
+           G+Y   D+LK+W+ A P+G EL
+Sbjct  73  GEYSVSDELKEWEQASPIGSEL  94
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Streptococcus fryi]
+Sequence ID: WP_447454299.1 Length: 71
+Range 1: 1 to 48
+
+Score:52.8 bits(125), Expect:7e-07, 
+Method:Compositional matrix adjust., 
+Identities:26/48(54%), Positives:32/48(66%), Gaps:0/48(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           M LVKAR  GN+  VT+PK F ++ G EF  +KGKN  LIL+P  K P
+Sbjct  1   MVLVKARKVGNSVSVTLPKEFGIETGQEFVIEKGKNNVLILAPRLKNP  48
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Streptococcus pantholopis]
+Sequence ID: WP_067062698.1 Length: 70
+Range 1: 1 to 48
+
+Score:52.4 bits(124), Expect:9e-07, 
+Method:Compositional matrix adjust., 
+Identities:24/48(50%), Positives:34/48(70%), Gaps:0/48(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           M  VKAR  GN+ +VT+PK+F++K GTEF   KG +G L+L+P  + P
+Sbjct  1   MVTVKARKVGNSMIVTLPKTFDIKAGTEFFVYKGVDGALVLAPKIENP  48
+
+
+
+
+>hypothetical protein [Pediococcus argentinicus]
+Sequence ID: WP_157059333.1 Length: 54
+Range 1: 20 to 53
+
+Score:52.0 bits(123), Expect:9e-07, 
+Method:Compositional matrix adjust., 
+Identities:20/34(59%), Positives:28/34(82%), Gaps:0/34(0%)
+
+Query  48  PDTMEELFKNWHGKYQTPDDLKDWDNAKPVGEEL  81
+           P T+++LFKNWHG Y+TP+DL+ W++ KP G EL
+Sbjct  20  PKTLKDLFKNWHGTYKTPEDLRGWNDIKPTGREL  53
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Enterococcus cecorum]
+Sequence ID: WP_431830975.1 Length: 93
+Range 1: 1 to 58
+
+Score:52.8 bits(125), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/58(41%), Positives:37/58(63%), Gaps:2/58(3%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKK--VPDTMEELFK  56
+           M+ +K R  GN+  +T+PK  NV  G E+   KGK+GT++LSP KK  + D  +E+ +
+Sbjct  1   MNYIKTRKVGNSVTITLPKELNVTVGEEYSVYKGKDGTILLSPGKKDLLSDATDEMIR  58
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Loigolactobacillus iwatensis]
+Sequence ID: WP_191983359.1 Length: 74
+Range 1: 3 to 47
+
+Score:52.0 bits(123), Expect:1e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/45(53%), Positives:32/45(71%), Gaps:0/45(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           +KAR  GN+TV+TIPK FNVK GTEF  K+  +G++I  P  + P
+Sbjct  3   IKARKVGNSTVLTIPKEFNVKKGTEFEVKQRNDGSIIFKPKYRNP  47
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Listeria valentina]
+Sequence ID: WP_167630110.1 Length: 75
+Range 1: 1 to 73
+
+Score:51.6 bits(122), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:31/80(39%), Positives:41/80(51%), Gaps:7/80(8%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  VKAR QGNA +VTIP +  V  G EF   + KNGTL+      +P       +   G
+Sbjct  1   MRTVKARKQGNAIMVTIPSTLEVAMGEEFYVLQKKNGTLLF-----IPKVQNHFDQTEEG  55
+
+Query  61  KYQTPDDLKDWDNAKPVGEE  80
+           ++ TPD   +W   +P G E
+Sbjct  56  EFYTPD--LNWAYEEPKGRE  73
+
+
+
+
+>AbrB family toxin-antitoxin system antitoxin [Ligilactobacillus salivarius]
+Sequence ID: MSE06797.1 Length: 86
+Range 1: 1 to 85
+
+Score:52.0 bits(123), Expect:2e-06, 
+Method:Compositional matrix adjust., 
+Identities:29/85(34%), Positives:48/85(56%), Gaps:4/85(4%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M+ VKAR QGN+TV+TIP SFNV  G EF   +  +G+++  P +      ++   ++  
+Sbjct  1   MNTVKARNQGNSTVLTIPMSFNVSQGAEFTVTRQADGSILYQPKEGYDIWSDKTLDSFDY  60
+
+Query  61  KYQTPDDLKDWD----NAKPVGEEL  81
+           + +  ++ +D        KPVG+EL
+Sbjct  61  EKELQEEYRDLGYNPREVKPVGKEL  85
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Loigolactobacillus coryniformis]
+Sequence ID: WP_146990361.1 Length: 74
+Range 1: 3 to 47
+
+Score:51.2 bits(121), Expect:3e-06, 
+Method:Compositional matrix adjust., 
+Identities:20/45(44%), Positives:31/45(68%), Gaps:0/45(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           VK R  GN+T +TIPK+FN+ PGTEF   + ++G+++  P  + P
+Sbjct  3   VKVRTVGNSTTLTIPKAFNIAPGTEFEVDQQRDGSIVFKPKHRNP  47
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Ligilactobacillus agilis]
+Sequence ID: WP_172579371.1 Length: 88
+Range 1: 1 to 43
+
+Score:51.2 bits(121), Expect:4e-06, 
+Method:Compositional matrix adjust., 
+Identities:20/43(47%), Positives:31/43(72%), Gaps:0/43(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSP  43
+           M  VKAR+QGN+ V+T+PK+FNV  GTE+   +  +G+++  P
+Sbjct  1   METVKARVQGNSVVLTVPKAFNVNTGTEYTVVRQSDGSILYQP  43
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Loigolactobacillus backii]
+Sequence ID: WP_271289926.1 Length: 66
+Range 1: 15 to 59
+
+Score:50.1 bits(118), Expect:6e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/45(53%), Positives:31/45(68%), Gaps:0/45(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           +KAR  GN TV+TIPK FNVK GTEF  K+  +G++I  P  + P
+Sbjct  15  IKARKVGNLTVLTIPKEFNVKKGTEFEVKQRNDGSIIFKPKHRNP  59
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Loigolactobacillus backii]
+Sequence ID: WP_068278973.1 Length: 54
+Range 1: 3 to 47
+
+Score:50.1 bits(118), Expect:6e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/45(53%), Positives:31/45(68%), Gaps:0/45(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           +KAR  GN TV+TIPK FNVK GTEF  K+  +G++I  P  + P
+Sbjct  3   IKARKVGNLTVLTIPKEFNVKKGTEFEVKQRNDGSIIFKPKHRNP  47
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Gammaproteobacteria bacterium]
+Sequence ID: MBP7900697.1 Length: 86
+Range 1: 3 to 86
+
+Score:50.8 bits(120), Expect:6e-06, 
+Method:Compositional matrix adjust., 
+Identities:28/84(33%), Positives:42/84(50%), Gaps:5/84(5%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILS-PSKKVPDTMEELFKNW  58
+           V  R  GN+TV  +P    K+  +  G         +G ++LS  S+    T+EEL    
+Sbjct  3   VTLRKYGNSTVAVMPPMVLKALKLSAGQAMTLDTTDDGKIVLSKTSQPTKYTLEELLAQC  62
+
+Query  59  HGKYQTPDDLKDWDNAKPVGEELW  82
+                 P++L++WDN KPVG E+W
+Sbjct  63  DLSAPQPEELREWDNMKPVGNEVW  86
+
+
+
+
+>hypothetical protein [Pseudomonadota bacterium]
+Sequence ID: MEN9763202.1 Length: 83
+Range 1: 3 to 83
+
+Score:50.4 bits(119), Expect:7e-06, 
+Method:Compositional matrix adjust., 
+Identities:29/83(35%), Positives:40/83(48%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV  +P    K   +K G        + G ++L+P KK    + +L     
+Sbjct  3   VVLRRYGNSTVAVLPPAVLKDLGLKAGQAMTLDTTERGEIVLAPKKKY--VLADLIAQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   P DL  WD AKPVG+E+W
+Sbjct  61  PKAPPPADLTLWDIAKPVGQEVW  83
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Betaproteobacteria bacterium]
+Sequence ID: MEI7739252.1 Length: 83
+Range 1: 3 to 83
+
+Score:50.4 bits(119), Expect:7e-06, 
+Method:Compositional matrix adjust., 
+Identities:27/83(33%), Positives:43/83(51%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV  IP    K+  +  G     +   +G ++LS  K+   ++ EL     
+Sbjct  3   VVLRKYGNSTVAVIPPNVLKAIGLMAGQPMSLETTSDGKIVLSAKKRY--SLSELMSQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+              + P DL+ WDN+KP+G+E+W
+Sbjct  61  LTAKPPKDLEIWDNSKPIGQEVW  83
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Stagnimonas sp.]
+Sequence ID: MDP3857635.1 Length: 83
+Range 1: 3 to 83
+
+Score:50.4 bits(119), Expect:8e-06, 
+Method:Compositional matrix adjust., 
+Identities:25/83(30%), Positives:41/83(49%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV  +P    K+  +  G     +   +G ++L+P +K   T+  +    +
+Sbjct  3   VVLRKYGNSTVAVLPPAVLKNLGISAGQSMTLETSSDGKIVLAPKRKY--TLASMLAECN  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   P DL  WD A+P G+E+W
+Sbjct  61  PKAPAPVDLALWDAARPAGQEVW  83
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Alphaproteobacteria bacterium]
+Sequence ID: MBM3480820.1 Length: 83
+Range 1: 6 to 83
+
+Score:50.1 bits(118), Expect:9e-06, 
+Method:Compositional matrix adjust., 
+Identities:24/80(30%), Positives:37/80(46%), Gaps:6/80(7%)
+
+Query  7   RIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKY  62
+           R  GN+TV  +P    ++  +  G          G ++L+P ++    + EL      K 
+Sbjct  6   RRYGNSTVAVLPPAVLRALGLAAGQAMTLSTSPEGGIVLAPRRR--HALAELVAQCDTKA  63
+
+Query  63  QTPDDLKDWDNAKPVGEELW  82
+             P DL  WD+A+PVG E W
+Sbjct  64  PPPADLAAWDDARPVGREAW  83
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Alkalibacterium sp. MB6]
+Sequence ID: WP_161879295.1 Length: 73
+Range 1: 1 to 43
+
+Score:49.7 bits(117), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:20/43(47%), Positives:30/43(69%), Gaps:0/43(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKK  46
+           +KAR QGN+  +TIPK F V+ G EFR  +G++G +I  P ++
+Sbjct  1   MKARKQGNSMAITIPKKFEVREGQEFRAYRGRDGAIIFLPKER  43
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Gammaproteobacteria bacterium]
+Sequence ID: MCL4555899.1 Length: 96
+Range 1: 13 to 96
+
+Score:50.1 bits(118), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:27/84(32%), Positives:42/84(50%), Gaps:5/84(5%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSP-SKKVPDTMEELFKNW  58
+           V  R  GN+TV  +P    K+  +  G         +G ++LS  S+    T+EEL    
+Sbjct  13  VTLRKYGNSTVAVMPPMVLKALKLSAGQSMTLDTTDDGKIVLSKVSQPTKYTLEELLAQC  72
+
+Query  59  HGKYQTPDDLKDWDNAKPVGEELW  82
+                 P++L++WDN +PVG E+W
+Sbjct  73  DLSAPQPEELREWDNIRPVGNEIW  96
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Streptococcus sobrinus]
+Sequence ID: WP_019769148.1 Length: 71
+Range 1: 1 to 48
+
+Score:49.7 bits(117), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:21/48(44%), Positives:32/48(66%), Gaps:0/48(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           M+ +KAR  GN+  VT+PK   V+ G EF  ++G+NG ++L+P  K P
+Sbjct  1   MATIKARKVGNSVTVTLPKDLQVETGQEFIIERGRNGVILLAPKIKNP  48
+
+
+
+
+>AbrB family transcriptional regulator [Tetragenococcus koreensis]
+Sequence ID: MDN6363784.1 Length: 69
+Range 1: 1 to 64
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:28/70(40%), Positives:38/70(54%), Gaps:8/70(11%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH-  59
+           M   KAR QGNA  +T+PK FNV  G EF   + K+G ++L+P       +E+ F N   
+Sbjct  1   MDKTKARKQGNAVTITLPKKFNVSEGQEFYITQEKDGIILLTPK------IEDYFANVEK  54
+
+Query  60  -GKYQTPDDL  68
+            G   T D+L
+Sbjct  55  GGFVDTEDEL  64
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Betaproteobacteria bacterium]
+Sequence ID: MBI2293670.1 Length: 83
+Range 1: 3 to 83
+
+Score:49.7 bits(117), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:27/83(33%), Positives:39/83(46%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV  +P    K   +K G         +G ++LSP +K    + +L     
+Sbjct  3   VTLRKYGNSTVAVLPPAVLKDLGIKAGQSMSLHTTADGKIMLSPKRKF--RLADLLAQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   P DL  W+NA+P G E+W
+Sbjct  61  LKAAPPADLVLWENARPAGREVW  83
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Tetragenococcus koreensis]
+Sequence ID: WP_234752825.1 Length: 77
+Range 1: 1 to 64
+
+Score:49.3 bits(116), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:28/70(40%), Positives:38/70(54%), Gaps:8/70(11%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH-  59
+           M   KAR QGNA  +T+PK FNV  G EF   + K+G ++L+P       +E+ F N   
+Sbjct  1   MDKTKARKQGNAVTITLPKKFNVSEGQEFYITQEKDGIILLTPK------IEDYFANVEK  54
+
+Query  60  -GKYQTPDDL  68
+            G   T D+L
+Sbjct  55  GGFVDTEDEL  64
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Loigolactobacillus coryniformis]
+Sequence ID: WP_367297923.1 Length: 74
+Range 1: 3 to 47
+
+Score:48.9 bits(115), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:20/45(44%), Positives:29/45(64%), Gaps:0/45(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           VK R  GNA ++TIPK+FNV PG EF  ++  +G ++  P  + P
+Sbjct  3   VKVRTVGNANILTIPKAFNVTPGIEFEVEQQSDGMIVFKPRHRNP  47
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Xylocopilactobacillus apicola]
+Sequence ID: WP_317635416.1 Length: 76
+Range 1: 3 to 42
+
+Score:48.9 bits(115), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:23/40(58%), Positives:29/40(72%), Gaps:0/40(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSP  43
+           VK RI GN+  VTIPK+FNV   TEF  K+ KNG++I +P
+Sbjct  3   VKTRIVGNSKTVTIPKAFNVAKDTEFTVKQLKNGSIIYTP  42
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Alkalibacterium iburiense]
+Sequence ID: WP_343753492.1 Length: 76
+Range 1: 1 to 76
+
+Score:48.9 bits(115), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:30/85(35%), Positives:40/85(47%), Gaps:12/85(14%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHG  60
+           M  +K R QGNA  VT+PKS NV+ G E+   KG  G     P +K           +H 
+Sbjct  1   MRTIKTRKQGNAITVTVPKSLNVEAGEEYIVIKGDGGAFTYIPKEK---------NIFHE  51
+
+Query  61  KYQTPDDLKDWDNAK---PVGEELW  82
+            Y+   DL+  D  +   P+G EL 
+Sbjct  52  AYERGVDLRVEDEIEEDYPLGRELL  76
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Denitratimonas sp. CY0512]
+Sequence ID: WP_339398614.1 Length: 83
+Range 1: 6 to 83
+
+Score:48.9 bits(115), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:27/80(34%), Positives:37/80(46%), Gaps:6/80(7%)
+
+Query  7   RIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKY  62
+           R  GN+TV  +P    +  N+  G          G ++LSP  K   T+ +L      K 
+Sbjct  6   RKYGNSTVAVLPPAVLRELNLAAGQTMTLGTTAEGDIVLSPRHKY--TLADLIAQCDPKA  63
+
+Query  63  QTPDDLKDWDNAKPVGEELW  82
+             P DL  WD A+PVG E+W
+Sbjct  64  PPPADLALWDAARPVGGEVW  83
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Burkholderiaceae bacterium]
+Sequence ID: MCD6679146.1 Length: 93
+Range 1: 16 to 93
+
+Score:48.9 bits(115), Expect:3e-05, 
+Method:Compositional matrix adjust., 
+Identities:25/80(31%), Positives:38/80(47%), Gaps:6/80(7%)
+
+Query  7   RIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKY  62
+           R  GN+TV  +P    K   +  G +      + G ++L+P +K    + +L      K 
+Sbjct  16  RKYGNSTVAVLPPAVLKDLGLSAGQQMTLATTREGAIVLAPRRKY--VLADLIARCDPKA  73
+
+Query  63  QTPDDLKDWDNAKPVGEELW  82
+             P DL  W++AKPVG E W
+Sbjct  74  APPADLAPWESAKPVGNEAW  93
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Streptococcus oricebi]
+Sequence ID: WP_209626684.1 Length: 71
+Range 1: 1 to 48
+
+Score:48.5 bits(114), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:23/48(48%), Positives:31/48(64%), Gaps:0/48(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           M+ VK R  GN+  VT+PK F +  G EF  +KG+  TLIL+P +K P
+Sbjct  1   MTTVKTRKVGNSVTVTLPKEFGIPIGQEFIIEKGRGDTLILAPKRKNP  48
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Enterococcus rivorum]
+Sequence ID: WP_069697496.1 Length: 70
+Range 1: 1 to 51
+
+Score:48.1 bits(113), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:26/53(49%), Positives:34/53(64%), Gaps:2/53(3%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFK  56
+           +KAR QGNA V+TIP  F V+P TEF   KG+NG++   P  K+ +  EE  K
+Sbjct  1   MKARQQGNALVLTIPTKFQVEPNTEFVAIKGENGSITYVP--KLKNVFEEAAK  51
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Enterococcus rivorum]
+Sequence ID: WP_245676907.1 Length: 109
+Range 1: 40 to 82
+
+Score:48.5 bits(114), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:23/43(53%), Positives:29/43(67%), Gaps:0/43(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKK  46
+           +KAR QGNA V+TIP  F V+P TEF   KG+NG++   P  K
+Sbjct  40  MKARQQGNALVLTIPTKFQVEPNTEFVAIKGENGSITYVPKLK  82
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Streptococcus equinus]
+Sequence ID: WP_074482116.1 Length: 70
+Range 1: 1 to 48
+
+Score:47.4 bits(111), Expect:7e-05, 
+Method:Compositional matrix adjust., 
+Identities:22/48(46%), Positives:29/48(60%), Gaps:0/48(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           MSLVKAR  GN+  +T+PK   V  G EF  +KG+N  ++L P    P
+Sbjct  1   MSLVKARKVGNSITITLPKDLGVSIGEEFTIEKGRNNVIMLVPKMTNP  48
+
+
+
+
+>hypothetical protein [Pseudomonadota bacterium]
+Sequence ID: MEY4448016.1 Length: 85
+Range 1: 11 to 84
+
+Score:47.8 bits(112), Expect:9e-05, 
+Method:Compositional matrix adjust., 
+Identities:26/76(34%), Positives:37/76(48%), Gaps:6/76(7%)
+
+Query  10  GNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQTP  65
+           GN+T    P    K   +K G         +G ++LSP +K   T+ EL      K + P
+Sbjct  11  GNSTGAAFPPSVLKDLGLKAGQSLTMDTTADGKIVLSPKRKY--TLAELVAQCDRKAKPP  68
+
+Query  66  DDLKDWDNAKPVGEEL  81
+            D+  WD A+PVG+EL
+Sbjct  69  ADMAAWDAARPVGQEL  84
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Streptococcus gallolyticus]
+Sequence ID: WP_268732041.1 Length: 70
+Range 1: 1 to 55
+
+Score:47.4 bits(111), Expect:9e-05, 
+Method:Compositional matrix adjust., 
+Identities:25/55(45%), Positives:33/55(60%), Gaps:1/55(1%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP-DTMEEL  54
+           MS VKA   GN+  +T+PK   V  G EF  KKG+NG +IL P    P D++ +L
+Sbjct  1   MSTVKATKVGNSITITLPKELGVNIGEEFTVKKGRNGAIILVPKMTNPFDSISDL  55
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Lentilactobacillus sunkii]
+Sequence ID: WP_070366838.1 Length: 70
+Range 1: 1 to 45
+
+Score:47.4 bits(111), Expect:9e-05, 
+Method:Compositional matrix adjust., 
+Identities:23/45(51%), Positives:29/45(64%), Gaps:0/45(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           +K R QGN+ VVT+PK F +KPGTE    KGK+G+    P  K P
+Sbjct  1   MKVRKQGNSLVVTVPKKFGIKPGTEVIAVKGKDGSFTYIPKMKSP  45
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Aeromonas caviae]
+Sequence ID: QLI60524.1 Length: 83
+Range 1: 6 to 83
+
+Score:47.4 bits(111), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:27/79(34%), Positives:38/79(48%), Gaps:5/79(6%)
+
+Query  7   RIQGNATVVTIPKSF----NVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKY  62
+           R  GN+    IP S     N+  G +    +  +G LIL+PS+K   T+ EL        
+Sbjct  6   RAIGNSKGAVIPASLLRELNLNVGDQLN-ARAVDGALILTPSRKPKYTLAELLAQCDASA  64
+
+Query  63  QTPDDLKDWDNAKPVGEEL  81
+             P  L DWD+ +PVG E+
+Sbjct  65  PMPVGLADWDSMEPVGNEI  83
+
+
+
+
+>MAG: ChpB-ChpS toxin-antitoxin system antitoxin [Burkholderiales bacterium]
+Sequence ID: KAB2843213.1 Length: 83
+Range 1: 3 to 83
+
+Score:47.0 bits(110), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:26/83(31%), Positives:39/83(46%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV  +P    K   +  G         +G ++L+  +K    + +L     
+Sbjct  3   VILRRYGNSTVAVLPPPVLKDLGLAAGQSMSLDTTPDGKIVLARKQKF--RLADLIAQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K + P D+KDWD AKP+G E W
+Sbjct  61  LKAKPPADMKDWDAAKPIGREAW  83
+
+
+
+
+>MULTISPECIES: type II toxin-antitoxin system PemI/MazE family antitoxin [Streptococcus]
+Sequence ID: WP_014620101.1 Length: 70
+Range 1: 1 to 48
+
+Score:46.6 bits(109), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:21/48(44%), Positives:29/48(60%), Gaps:0/48(0%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           MS+VKAR  GN+  +T+PK   V  G EF  +KG+N  ++L P    P
+Sbjct  1   MSIVKARKVGNSITITLPKELGVNIGEEFTLEKGRNNVIMLVPKMTNP  48
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Oxalobacteraceae bacterium]
+Sequence ID: MCE2860047.1 Length: 83
+Range 1: 3 to 83
+
+Score:46.6 bits(109), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:27/83(33%), Positives:39/83(46%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV  +P    +   +  G         NG ++LS  +K    + +L     
+Sbjct  3   VILRKYGNSTVAVLPPAVLRDLGLSVGQIMTLDTTNNGQIVLSKKRKY--ALADLIAQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   P DL  WD+AKPVG+E+W
+Sbjct  61  PKAPPPADLALWDSAKPVGQEVW  83
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Burkholderiaceae bacterium]
+Sequence ID: MFZ9238698.1 Length: 97
+Range 1: 17 to 97
+
+Score:46.6 bits(109), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:26/83(31%), Positives:39/83(46%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV  +P    +   +  G         NG ++L+  +K    + +L     
+Sbjct  17  VILRKYGNSTVAVLPPAVLRDLGLSAGQTMTLDTTNNGQIVLAKKRKY--ILADLIAQCD  74
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   P DL  WD+AKPVG+E+W
+Sbjct  75  PKAPLPADLDLWDSAKPVGQEVW  97
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Clostridiales bacterium]
+Sequence ID: MDR3091161.1 Length: 84
+Range 1: 9 to 83
+
+Score:46.2 bits(108), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:24/76(32%), Positives:38/76(50%), Gaps:5/76(6%)
+
+Query  10  GNATVVTIPKSF----NVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQTP  65
+           G++  + IPK+F     +K   E       N  LI    +  P T+E+L  +W G+Y   
+Sbjct  9   GDSQGLRIPKAFLDLAQMKENDEVELIPQDNAILIRRCVRNKP-TLEQLLDDWDGEYSVS  67
+
+Query  66  DDLKDWDNAKPVGEEL  81
+           D+L++W+   P G EL
+Sbjct  68  DELREWEQMPPAGREL  83
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Lactiplantibacillus songbeiensis]
+Sequence ID: WP_137635864.1 Length: 89
+Range 1: 2 to 45
+
+Score:46.6 bits(109), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:21/44(48%), Positives:28/44(63%), Gaps:0/44(0%)
+
+Query  3   LVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKK  46
+           +VKAR QGN+T++TIPKS  V   TEF   +  NG ++  P  K
+Sbjct  2   VVKARHQGNSTILTIPKSIKVSTDTEFNVYQDGNGNIVYEPVNK  45
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Eoetvoesiella sp.]
+Sequence ID: WP_325587870.1 Length: 83
+Range 1: 3 to 83
+
+Score:46.2 bits(108), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:27/83(33%), Positives:39/83(46%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           +  R  GN+TV  +P    K  ++  G         +G +I+S  +K   T+ EL     
+Sbjct  3   ITLRRYGNSTVAVLPPALLKELHLAVGQSMAVDTTADGKIIMSKKRKY--TLSELVAQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+                P D++ WDNAKPVG E W
+Sbjct  61  TSAPPPADIELWDNAKPVGGESW  83
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Lachnospiraceae bacterium]
+Sequence ID: MDR1018286.1 Length: 73
+Range 1: 1 to 70
+
+Score:45.8 bits(107), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:32/78(41%), Positives:43/78(55%), Gaps:9/78(11%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           +K R QGN+  +TIP SF+ K G EF     +NG++IL P  K+P+  E   K     YQ
+Sbjct  1   MKLRKQGNSLTITIPASFHKKEGDEFLMHLEENGSIILIP--KIPNMFEG--KEDFSMYQ  56
+
+Query  64  TPDDLKDW-DNAKPVGEE  80
+           T    ++W D  KP G E
+Sbjct  57  T----EEWKDLYKPTGRE  70
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Burkholderiales bacterium]
+Sequence ID: MCI4430461.1 Length: 83
+Range 1: 3 to 83
+
+Score:46.2 bits(108), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:26/83(31%), Positives:38/83(45%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV+ +P    K    K G         +G + L+P ++    + +L     
+Sbjct  3   VVLRKYGNSTVLALPPAVLKELGFKAGQSMTLDCTPDGRITLAPRRR--HRLVDLIAQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   P DL  WDNA+P G+E W
+Sbjct  61  PKAPPPADLALWDNARPAGQEAW  83
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Gammaproteobacteria bacterium]
+Sequence ID: MBM4230200.1 Length: 83
+Range 1: 3 to 83
+
+Score:45.8 bits(107), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:24/83(29%), Positives:40/83(48%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           +  R  GN+TV  +P    K+  +  G     +  + G ++L+   K    + +L     
+Sbjct  3   ITLRKYGNSTVAVLPPAVLKNLGLAAGQPMTLQTTEQGEIVLARRHK--HRLSDLIAECD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   PDDL+ W++AKP+G E W
+Sbjct  61  LKASAPDDLQLWESAKPIGREAW  83
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [uncultured Castellaniella sp.]
+Sequence ID: WP_298014327.1 Length: 83
+Range 1: 3 to 83
+
+Score:45.8 bits(107), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:26/83(31%), Positives:40/83(48%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           +  R  GN+TVV +P    K  ++  G         +G ++LS  KK   T+E+L     
+Sbjct  3   ITLRKYGNSTVVVLPPALLKELDIAAGQPMTLDTTTDGKIVLS--KKTKYTLEDLVAQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            +     D++ WD AK +G ELW
+Sbjct  61  MRAPKASDIEIWDAAKAIGTELW  83
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Gammaproteobacteria bacterium]
+Sequence ID: MFM8481577.1 Length: 94
+Range 1: 14 to 94
+
+Score:46.2 bits(108), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:24/83(29%), Positives:40/83(48%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           +  R  GN+TV  +P    K+  +  G     +  + G ++L+   K    + +L     
+Sbjct  14  ITLRKYGNSTVAVLPPAVLKNLGLAAGQPMTLQTTEQGEIVLARRHK--HRLSDLIAECD  71
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   PDDL+ W++AKP+G E W
+Sbjct  72  LKASAPDDLQLWESAKPIGREAW  94
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Steroidobacteraceae bacterium]
+Sequence ID: MGO9512391.1 Length: 83
+Range 1: 3 to 83
+
+Score:45.8 bits(107), Expect:5e-04, 
+Method:Compositional matrix adjust., 
+Identities:25/83(30%), Positives:40/83(48%), Gaps:6/83(7%)
+
+Query  4   VKARIQGNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWH  59
+           V  R  GN+TV+ +P    K   +K G         +G + L+P ++    + +L     
+Sbjct  3   VVLRKYGNSTVLALPPAVLKELGLKAGQAMTLDSTSDGRITLAPKRR--PKLADLIAQCD  60
+
+Query  60  GKYQTPDDLKDWDNAKPVGEELW  82
+            K   P DL+ W+ A+PVG E+W
+Sbjct  61  PKAPPPADLELWNRARPVGHEVW  83
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Lentilactobacillus sunkii]
+Sequence ID: WP_057824657.1 Length: 70
+Range 1: 1 to 70
+
+Score:45.4 bits(106), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:30/78(38%), Positives:43/78(55%), Gaps:8/78(10%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQ  63
+           +K R QGN+ VVT+PK F +K GTE    KGK+G+    P  K P T     KN H ++ 
+Sbjct  1   MKVREQGNSLVVTVPKKFGIKSGTEVIAVKGKDGSFTYIPKMKNPFTD----KNVHFEH-  55
+
+Query  64  TPDDLKDWDNAKPVGEEL  81
+              D +++D+     EE+
+Sbjct  56  ---DHEEFDDDTTGREEI  70
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Lapidilactobacillus mulanensis]
+Sequence ID: WP_191986405.1 Length: 74
+Range 1: 3 to 47
+
+Score:45.4 bits(106), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:19/45(42%), Positives:29/45(64%), Gaps:0/45(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           VK R  GN+T +TIPK F V+ GTEF  ++  +G+++  P  + P
+Sbjct  3   VKVRTVGNSTTLTIPKEFKVEKGTEFEAEQHSDGSIVFKPKHRNP  47
+
+
+
+
+>AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Levilactobacillus namurensis]
+Sequence ID: WP_304057602.1 Length: 87
+Range 1: 14 to 85
+
+Score:45.4 bits(106), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:26/76(34%), Positives:43/76(56%), Gaps:8/76(10%)
+
+Query  10  GNATVVTIPKS----FNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQTP  65
+           GN+  V IP++     N+    E      K+G+++L+P+ K+P+T+++LF +WH      
+Sbjct  14  GNSQAVRIPQAIVQELNLTGHEELTISV-KDGSIVLTPTNKIPNTIQDLFADWHDD-GNR  71
+
+Query  66  DDLKDWDNAKPVGEEL  81
+           D   DW   +PVG EL
+Sbjct  72  DSEYDW--GEPVGREL  85
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [uncultured Limosilactobacillus sp.]
+Sequence ID: WP_295747185.1 Length: 74
+Range 1: 3 to 47
+
+Score:45.1 bits(105), Expect:7e-04, 
+Method:Compositional matrix adjust., 
+Identities:19/45(42%), Positives:30/45(66%), Gaps:0/45(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           +K R  GN+  +TIPKSFNV PGT+F+ +   +G+++  P  + P
+Sbjct  3   IKVRRVGNSATLTIPKSFNVAPGTKFKAELKPDGSIVYRPEHRNP  47
+
+
+
+
+>type II toxin-antitoxin system PemI/MazE family antitoxin [Streptococcus cuniculipharyngis]
+Sequence ID: WP_146566442.1 Length: 70
+Range 1: 1 to 47
+
+Score:45.1 bits(105), Expect:7e-04, 
+Method:Compositional matrix adjust., 
+Identities:22/49(45%), Positives:31/49(63%), Gaps:2/49(4%)
+
+Query  1   MSLVKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPD  49
+           M+LVK R  GN+  VT+PK   +  G EF  +KG+N  +IL P  K+P+
+Sbjct  1   MNLVKTRKVGNSITVTLPKDLGITTGQEFLIEKGRNDVIILVP--KIPN  47
+
+
+
+
+>PbsX family transcriptional regulator [Minisyncoccota bacterium]
+Sequence ID: MDI9408892.1 Length: 78
+Range 1: 9 to 78
+
+Score:45.1 bits(105), Expect:8e-04, 
+Method:Compositional matrix adjust., 
+Identities:27/74(36%), Positives:35/74(47%), Gaps:5/74(6%)
+
+Query  10  GNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFK-NWHGKYQTPDDL  68
+           GN+TV  +P  F  +    F    G   T+    + K  D M  L   N       P+D+
+Sbjct  9   GNSTVAVLPPEFLAR----FHLAAGSEVTVSPRSAGKSLDDMIALCDLNGLNSDDMPNDI  64
+
+Query  69  KDWDNAKPVGEELW  82
+           KDWDN KPVG E+W
+Sbjct  65  KDWDNMKPVGNEIW  78
+
+
+
+
+>ChpB-ChpS toxin-antitoxin system antitoxin [Betaproteobacteria bacterium]
+Sequence ID: NBT80003.1 Length: 83
+Range 1: 9 to 83
+
+Score:45.1 bits(105), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:23/77(30%), Positives:37/77(48%), Gaps:6/77(7%)
+
+Query  10  GNATVVTIP----KSFNVKPGTEFRFKKGKNGTLILSPSKKVPDTMEELFKNWHGKYQTP  65
+           GN+TV  +P    ++  +  G        + G ++L+P +K    + +L          P
+Sbjct  9   GNSTVAVLPPGVLRNLGLSAGQTMTLDTNEQGQIVLAPKRKY--VLADLIAKCDLAAPPP  66
+
+Query  66  DDLKDWDNAKPVGEELW  82
+            DL  WD AKPVG+E+W
+Sbjct  67  ADLALWDLAKPVGQEVW  83
+
+
+
+
+>MULTISPECIES: type II toxin-antitoxin system PemI/MazE family antitoxin [Lactiplantibacillus]
+Sequence ID: WP_033611254.1 Length: 72
+Range 1: 1 to 45
+
+Score:44.7 bits(104), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:19/45(42%), Positives:30/45(66%), Gaps:0/45(0%)
+
+Query  4   VKARIQGNATVVTIPKSFNVKPGTEFRFKKGKNGTLILSPSKKVP  48
+           +KAR+ GN+T +TIPK FNV  GTEF  ++  +G+++     + P
+Sbjct  1   MKARLVGNSTTLTIPKKFNVANGTEFEAEQLDDGSILFKLKHRNP  45
+
+
+
+
+>MULTISPECIES: AbrB/MazE/SpoVT family DNA-binding domain-containing protein [Enterococcus]
+Sequence ID: WP_207110609.1 Length: 86
+Range 1: 41 to 85
+
+Score:44.7 bits(104), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:21/47(45%), Positives:31/47(65%), Gaps:2/47(4%)
+
+Query  35  KNGTLILSPSKKVPDTMEELFKNWHGKYQTPDDLKDWDNAKPVGEEL  81
+           +NG +IL+P K  P+T+EELF ++ G   +  D  +WD  +PVG EL
+Sbjct  41  ENGKIILTPKKSYPETIEELFADYDGTVLSEQDRYEWD--EPVGREL  85
+
+
+
+
+
+
+
+		
+
+

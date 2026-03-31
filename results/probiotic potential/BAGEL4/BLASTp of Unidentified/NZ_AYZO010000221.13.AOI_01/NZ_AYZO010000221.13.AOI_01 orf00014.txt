@@ -1,0 +1,151 @@
+RID: T6JTJGNT014	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: lcl|Query_9002918 Length: 217
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E    Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value  Ident  Len        Accession        
+hypothetical protein [Lactobacillus gigeriorum]                   1          1          Lactobacillu... firmicutes      1203069    435    435   100%  7e-154 100.00 217        WP_008472477.1   
+hypothetical protein [uncultured Lactobacillus sp.]               1          1          uncultured L... firmicutes      153152     55.5   55.5  49%   1e-05  32.31  181        WP_297952577.1   
+hypothetical protein [Lactobacillus crispatus]                    3          1          Lactobacillu... firmicutes      47770      52.0   52.0  65%   2e-04  27.01  181        WP_060462802.1   
+hypothetical protein [Lactobacillus intestinalis]                 8          1          Lactobacillu... firmicutes      151781     51.2   51.2  99%   8e-04  24.71  256        WP_154881442.1   
+hypothetical protein [Lactobacillus crispatus]                    1          1          Lactobacillu... firmicutes      47770      45.1   45.1  50%   0.046  27.87  153        MCT7823924.1     
+
+
+Alignments:
+
+>hypothetical protein [Lactobacillus gigeriorum]
+Sequence ID: WP_008472477.1 Length: 217
+Range 1: 1 to 217
+
+Score:435 bits(1119), Expect:7e-154, 
+Method:Compositional matrix adjust., 
+Identities:217/217(100%), Positives:217/217(100%), Gaps:0/217(0%)
+
+Query  1    MNKKIISILAATIMTGTLAATNVSVASAATNKIIYHAIKGSNKKLVTVTKRIPYYQYSKK  60
+            MNKKIISILAATIMTGTLAATNVSVASAATNKIIYHAIKGSNKKLVTVTKRIPYYQYSKK
+Sbjct  1    MNKKIISILAATIMTGTLAATNVSVASAATNKIIYHAIKGSNKKLVTVTKRIPYYQYSKK  60
+
+Query  61   GKLLSKKYLTVGTQVYVKKGNKNSWIIFLSPTSKKALVVKKHNGWFENAKASTNATSSAS  120
+            GKLLSKKYLTVGTQVYVKKGNKNSWIIFLSPTSKKALVVKKHNGWFENAKASTNATSSAS
+Sbjct  61   GKLLSKKYLTVGTQVYVKKGNKNSWIIFLSPTSKKALVVKKHNGWFENAKASTNATSSAS  120
+
+Query  121  TTQTQTETSPSTSTQNVVNTTSEPAFSGFPAGAGYLEKWDIVKSLTGAARDQAERALMSE  180
+            TTQTQTETSPSTSTQNVVNTTSEPAFSGFPAGAGYLEKWDIVKSLTGAARDQAERALMSE
+Sbjct  121  TTQTQTETSPSTSTQNVVNTTSEPAFSGFPAGAGYLEKWDIVKSLTGAARDQAERALMSE  180
+
+Query  181  LGITTSSGTPLVSSQAFENQFNKISNAAQSIGDYIQQ  217
+            LGITTSSGTPLVSSQAFENQFNKISNAAQSIGDYIQQ
+Sbjct  181  LGITTSSGTPLVSSQAFENQFNKISNAAQSIGDYIQQ  217
+
+
+
+
+>hypothetical protein [uncultured Lactobacillus sp.]
+Sequence ID: WP_297952577.1 Length: 181
+Range 1: 1 to 130
+
+Score:55.5 bits(132), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:42/130(32%), Positives:63/130(48%), Gaps:24/130(18%)
+
+Query  1    MNKKIISILA-ATIMTGTLAATNVSVASAATN--------------------KIIYHAIK  39
+            MNKKI+S+LA  T + G L+A   +V +  T                     K+ Y A+ 
+Sbjct  1    MNKKILSLLAVGTTLCGVLSAPTSTVFAVHTKSVKVAKKHRHAKIRVAHKKFKVPYKALA  60
+
+Query  40   GSNKKLVTVTKRIPYYQYSKKGKLLSKKYLTVGTQVYVKKGNKNSWIIF---LSPTSKKA  96
+            G+    V VTKRI  ++Y+ + K + K+ L+ G  V   + N N+WII        +K +
+Sbjct  61   GAQPTEVVVTKRIKMFEYNPRLKRILKQDLSSGQVVTATQANNNAWIITHLGYGAVNKGS  120
+
+Query  97   LVVKKHNGWF  106
+            + V K NGWF
+Sbjct  121  ICVVKGNGWF  130
+
+
+
+
+>hypothetical protein [Lactobacillus crispatus]
+Sequence ID: WP_060462802.1 Length: 181
+Range 1: 1 to 169
+
+Score:52.0 bits(123), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:47/174(27%), Positives:79/174(45%), Gaps:39/174(22%)
+
+Query  1    MNKKIISILA-ATIMTGTLAATNVSVASAATN--------------------KIIYHAIK  39
+            MNKKI+S+LA    + G L+A   +V ++ T                     K+ Y A+ 
+Sbjct  1    MNKKILSLLAVGATLGGVLSAPTSTVFASRTKSAKVARKHARAKKRATHKKFKVPYKALV  60
+
+Query  40   GSNKKLVTVTKRIPYYQYSKKGKLLSKKYLTVGTQVYVKKGNKNSWIIF---LSPTSKKA  96
+            G+    V +TKR+  ++Y+ + K + K+ L+ G  V   + N N+WII        +K +
+Sbjct  61   GAQPTEVVITKRVKMFEYNPRLKRIYKQNLSSGRVVTATQANNNAWIITHLGAGEVNKGS  120
+
+Query  97   LVVKKHNGWF----------ENAKASTNATSSASTTQTQTETSPSTSTQNVVNT  140
+            + V K NGWF          ENA+   N     S+ + Q  +    + +N +N+
+Sbjct  121  ICVVKGNGWFMTKAEQDRRLENARRRFN-----SSLENQVGSQEYNAMRNELNS  169
+
+
+
+
+>hypothetical protein [Lactobacillus intestinalis]
+Sequence ID: WP_154881442.1 Length: 256
+Range 1: 1 to 253
+
+Score:51.2 bits(121), Expect:8e-04, 
+Method:Compositional matrix adjust., 
+Identities:64/259(25%), Positives:113/259(43%), Gaps:50/259(19%)
+
+Query  1    MNKKIISILAATI---MTGTLAATNVSVASAATNKIIYHAIKGSNKKLVTVTKRIPYYQY  57
+            M KK I+IL A +   + GT +  +V  ++ + N   +      N+K++ VT+ +  Y+ 
+Sbjct  1    MKKKWIAILLALVSLVVCGTTSTQSVKASTPSINSSYWK----RNRKVI-VTRNVKIYKM  55
+
+Query  58   SKKGKLLSK---KYLTVGTQVYVKKGNKNSWIIF-----LSPTSKKA---LVVKKHNGWF  106
+                + + K   K L  GT V++ +     WI       +   S K    + V+ ++ W 
+Sbjct  56   RTATRQVIKSNSKTLRKGTIVFITRNKSKVWIFRGRIPSIGAASLKGYTWVAVQNNSKWI  115
+
+Query  107  -----ENAKASTNATSSASTTQTQTE-----------TSPSTSTQNV---------VNTT  141
+                  N K  T  + ++S T    E           T P  + +++             
+Sbjct  116  ATYSKSNVKKYTKKSVTSSKTVAYDEDNQGDEEDNQATGPEPTLEDLKKLYPDRYKTQEL  175
+
+Query  142  SEPAFSGFPAGAGYLEKWDIVKSLTGAARDQAERALMSELGI---TTSSGT--PLVSSQA  196
+            S+   +   +    ++KW IVKSL+G  R QAE+ LM  +G+       GT  PL+S Q 
+Sbjct  176  SDDIINQLNSNISLMQKWQIVKSLSGNDRTQAEQILMKNMGMIKNVAGGGTWSPLLSGQ-  234
+
+Query  197  FENQFNKISNAAQSIGDYI  215
+            FE Q +++++A+Q   + I
+Sbjct  235  FEQQMDRVTSASQRSANLI  253
+
+
+
+
+>hypothetical protein [Lactobacillus crispatus]
+Sequence ID: MCT7823924.1 Length: 153
+Range 1: 25 to 141
+
+Score:45.1 bits(105), Expect:0.046, 
+Method:Compositional matrix adjust., 
+Identities:34/122(28%), Positives:59/122(48%), Gaps:18/122(14%)
+
+Query  32   KIIYHAIKGSNKKLVTVTKRIPYYQYSKKGKLLSKKYLTVGTQVYVKKGNKNSWIIF---  88
+            K+ Y A+ G+    V +TKR+  ++Y+ + K + K+ L+ G  V   + N N+WII    
+Sbjct  25   KVPYKALVGAQPTEVVITKRVKMFEYNPRLKRIYKQNLSSGRVVTATQANNNAWIITHLG  84
+
+Query  89   LSPTSKKALVVKKHNGWF----------ENAKASTNATSSASTTQTQTETSPSTSTQNVV  138
+                +K ++ V K NGWF          ENA+   N     S+ + Q  +    + +N +
+Sbjct  85   AGEVNKGSICVVKGNGWFMTKAEQDRRLENARRRFN-----SSLENQVGSQEYNAMRNEL  139
+
+Query  139  NT  140
+            N+
+Sbjct  140  NS  141
+
+
+
+
+
+
+
+		
+
+

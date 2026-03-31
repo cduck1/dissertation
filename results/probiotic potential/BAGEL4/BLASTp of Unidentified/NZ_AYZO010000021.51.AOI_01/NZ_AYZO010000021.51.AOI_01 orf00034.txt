@@ -1,0 +1,3027 @@
+RID: T8UPZ2ZT016	
+Job Title:Protein Sequence				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1:  Query ID: lcl|Query_9370340 Length: 248
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E   Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value Ident  Len        Accession        
+hypothetical protein [Lactobacillus gigeriorum]                   1          1          Lactobacillu... firmicutes      1203069    509    509   100%  0.0   100.00 248        WP_008474181.1   
+MULTISPECIES: SAM-dependent methyltransferase [unclassified...    3          3          unclassified... firmicutes      2620435    299    299   100%  4e-99 55.87  250        WP_277141990.1   
+SAM-dependent methyltransferase [Lactobacillus sp. ESL0680]       3          3          unclassified... firmicutes      2620435    295    295   100%  2e-97 54.84  250        WP_277140414.1   
+SAM-dependent methyltransferase [Lactobacillus acetotolerans]     6          2          Lactobacillu... firmicutes      1600       288    288   100%  7e-95 53.63  250        WP_278390551.1   
+SAM-dependent methyltransferase [Lactobacillus sp. ESL0785]       1          1          Lactobacillu... firmicutes      2983232    288    288   100%  8e-95 53.23  250        WP_277163806.1   
+MULTISPECIES: SAM-dependent methyltransferase [Lactobacillus]     1          1          Lactobacillus   firmicutes      1578       284    284   99%   4e-93 51.63  247        WP_103661209.1   
+SAM-dependent methyltransferase [Lactobacillus panisapium]        13         6          Lactobacillus   firmicutes      1578       282    282   100%  2e-92 51.61  250        WP_103751640.1   
+MULTISPECIES: SAM-dependent methyltransferase [unclassified...    1          1          unclassified... firmicutes      2620435    279    279   100%  3e-91 50.40  250        WP_122018223.1   
+methyltransferase domain-containing protein [Lactobacillus...     1          1          Lactobacillu... firmicutes      872327     277    277   100%  2e-90 49.39  247        WP_009560141.1   
+SAM-dependent methyltransferase [Lactobacillus gallinarum]        17         4          Lactobacillus   firmicutes      1578       276    276   99%   3e-90 51.63  250        WP_283111716.1   
+SAM-dependent methyltransferase [Lactobacillus amylolyticus]      4          2          Lactobacillus   firmicutes      1578       276    276   100%  7e-90 52.42  248        WP_127345604.1   
+SAM-dependent methyltransferase [Lactobacillus sp. ESL0230]       9          6          Lactobacillus   firmicutes      1578       275    275   100%  2e-89 51.21  250        WP_122021678.1   
+hypothetical protein [Lactobacillus helveticus]                   31         5          Lactobacillus   firmicutes      1578       273    273   99%   6e-89 50.81  250        WP_012211961.1   
+hypothetical protein [Lactobacillus hamsteri]                     1          1          Lactobacillu... firmicutes      96565      273    273   100%  1e-88 50.00  249        WP_025080493.1   
+SAM-dependent methyltransferase [uncultured Lactobacillus sp.]    1          1          uncultured L... firmicutes      153152     272    272   99%   2e-88 52.85  250        WP_297950033.1   
+SAM-dependent methyltransferase [Lactobacillus kefiranofaciens]   3          2          Lactobacillu... firmicutes      267818     271    271   99%   5e-88 52.03  250        WP_280593315.1   
+SAM-dependent methyltransferase [Lactobacillus xylocopicola]      1          1          Lactobacillu... firmicutes      2976676    270    270   100%  2e-87 51.01  254        WP_317636780.1   
+SAM-dependent methyltransferase [Lactobacillus sp. ESL0791]       1          1          Lactobacillu... firmicutes      2983234    267    267   100%  2e-86 51.42  248        WP_277148701.1   
+SAM-dependent methyltransferase [Lactobacillus crispatus]         20         2          Lactobacillus   firmicutes      1578       264    264   100%  3e-85 52.23  250        WP_269256670.1   
+SAM-dependent methyltransferase [Lactobacillus amylovorus]        17         3          Lactobacillus   firmicutes      1578       264    264   100%  3e-85 50.20  247        WP_271892133.1   
+SAM-dependent methyltransferase [Lactobacillus sp. PSON]          1          1          Lactobacillu... firmicutes      3455454    264    264   100%  4e-85 49.60  246        WP_445353426.1   
+hypothetical protein [Lactobacillus acidophilus]                  3          1          Lactobacillu... firmicutes      1579       263    263   99%   1e-84 50.81  250        WP_011254372.1   
+SAM-dependent methyltransferase [uncultured Lactobacillus sp.]    1          1          uncultured L... firmicutes      153152     262    262   99%   2e-84 50.00  250        WP_308555564.1   
+SAM-dependent methyltransferase [uncultured Lactobacillus sp.]    5          2          Lactobacillus   firmicutes      1578       261    261   99%   3e-84 51.63  250        WP_288557270.1   
+SAM-dependent methyltransferase [Lactobacillus apis]              17         5          Lactobacillus   firmicutes      1578       261    261   100%  4e-84 48.39  250        WP_278955352.1   
+hypothetical protein [Lactobacillus ultunensis]                   2          2          Lactobacillu... firmicutes      227945     259    259   99%   2e-83 50.00  250        WP_040529697.1   
+MULTISPECIES: SAM-dependent methyltransferase [Lactobacillus]     3          3          Lactobacillus   firmicutes      1578       258    258   99%   5e-83 50.00  250        WP_198179214.1   
+SAM-dependent methyltransferase [Lactobacillus agrestimuris]      2          2          Lactobacillus   firmicutes      1578       258    258   100%  1e-82 47.58  249        WP_251717371.1   
+SAM-dependent methyltransferase [Lactobacillus sp. LL6]           1          1          Lactobacillu... firmicutes      2596827    257    257   100%  1e-82 49.60  245        WP_144355310.1   
+SAM-dependent methyltransferase [Lactobacillus intestinalis]      5          1          Lactobacillu... firmicutes      151781     256    256   100%  2e-82 48.39  249        WP_242367686.1   
+SAM-dependent methyltransferase [Lactobacillus porci]             1          1          Lactobacillu... firmicutes      2012477    256    256   100%  3e-82 48.58  248        WP_154547343.1   
+hypothetical protein [Lactobacillus kimbladii]                    3          1          Lactobacillu... firmicutes      1218506    256    256   99%   5e-82 49.59  250        WP_046332124.1   
+SAM-dependent methyltransferase [Lactobacillus sp. ESL0681]       2          2          unclassified... firmicutes      2620435    254    254   100%  2e-81 50.40  248        WP_277126469.1   
+SAM-dependent methyltransferase [Candidatus Lactobacillus...      1          1          Candidatus L... firmicutes      2838636    253    253   100%  5e-81 50.00  253        MBU3827837.1     
+SAM-dependent methyltransferase [uncultured Lactobacillus sp.]    18         8          Lactobacillus   firmicutes      1578       252    252   99%   2e-80 49.19  252        WP_294891248.1   
+hypothetical protein [Lactobacillus sp. wkB10]                    9          7          Lactobacillus   firmicutes      1578       251    251   99%   2e-80 47.56  250        WP_034979090.1   
+SAM-dependent methyltransferase [Lactobacillus sp.]               1          1          Lactobacillu... firmicutes      1591       250    250   100%  9e-80 48.79  244        MFC2694508.1     
+class I SAM-dependent methyltransferase [Lactobacillus porci]     5          5          Lactobacilla... firmicutes      33958      248    248   100%  3e-79 47.58  248        WP_412128760.1   
+SAM-dependent methyltransferase [Lactobacillus helsingborgensis]  9          4          Lactobacillus   firmicutes      1578       244    244   99%   2e-77 47.56  250        WP_267270824.1   
+hypothetical protein [Lactobacillus equicursoris]                 4          2          Lactobacillus   firmicutes      1578       241    241   100%  2e-76 47.18  248        WP_009558741.1   
+SAM-dependent methyltransferase [Lactobacillus sp. PV034]         1          1          Lactobacillu... firmicutes      2594495    240    240   100%  6e-76 45.56  247        WP_265489187.1   
+SAM-dependent methyltransferase [Lactobacillus gallinarum]        1          1          Lactobacillu... firmicutes      52242      233    233   86%   2e-73 50.93  216        WP_289221836.1   
+SAM-dependent methyltransferase [Lactobacillus sp.]               2          1          Lactobacillu... firmicutes      1591       233    233   100%  5e-73 45.97  243        MDN6029251.1     
+SAM-dependent methyltransferase [Lactobacillus sp. PV037]         2          2          unclassified... firmicutes      2620435    233    233   100%  6e-73 43.95  248        WP_265484471.1   
+SAM-dependent methyltransferase [Lactobacillus sp.]               1          1          Lactobacillu... firmicutes      1591       232    232   100%  1e-72 42.11  247        WP_290626058.1   
+SAM-dependent methyltransferase [Lactobacillus nasalidis]         2          1          Lactobacillu... firmicutes      2797258    231    231   100%  2e-72 46.56  246        WP_201330597.1   
+SAM-dependent methyltransferase [Lactobacillus rodentium]         1          1          Lactobacillu... firmicutes      947835     231    231   100%  2e-72 43.95  247        WP_117118649.1   
+SAM-dependent methyltransferase [Lactobacillus sp.]               1          1          Lactobacillu... firmicutes      1591       228    228   99%   6e-71 46.75  246        WP_439774661.1   
+SAM-dependent methyltransferase [Lactobacillus colini]            1          1          Lactobacillu... firmicutes      1819254    226    226   100%  2e-70 41.30  247        WP_209685547.1   
+SAM-dependent methyltransferase [Lactobacillus corticis]          1          1          Lactobacillu... firmicutes      2201249    224    224   100%  1e-69 46.37  245        WP_212780735.1   
+SAM-dependent methyltransferase [Lactobacillus taiwanensis]       14         1          Lactobacillu... firmicutes      508451     223    223   100%  4e-69 46.22  242        WP_304682457.1   
+SAM-dependent methyltransferase [Lactobacillus johnsonii]         37         3          Lactobacillus   firmicutes      1578       221    221   100%  2e-68 43.72  242        WP_180873913.1   
+hypothetical protein [Lactobacillus hominis]                      1          1          Lactobacillu... firmicutes      1203033    216    216   100%  2e-66 43.78  249        WP_008471692.1   
+hypothetical protein [Lactobacillus iners]                        37         3          Lactobacillu... firmicutes      147802     214    214   100%  1e-65 42.34  248        WP_006731501.1   
+SAM-dependent methyltransferase [Lactobacillus isalae]            2          2          Lactobacillus   firmicutes      1578       213    213   100%  2e-65 43.95  242        WP_282806013.1   
+hypothetical protein [Lactobacillus jensenii]                     2          1          Lactobacillu... firmicutes      109790     213    213   100%  2e-65 40.73  240        WP_006584794.1   
+SAM-dependent methyltransferase, partial [Lactobacillus...        3          1          Lactobacillu... firmicutes      1587       211    211   75%   2e-65 50.81  189        WP_254259072.1   
+SAM-dependent methyltransferase [Lactobacillus crispatus]         1          1          Lactobacillu... firmicutes      47770      210    210   74%   5e-65 55.43  188        MCT7791184.1     
+SAM-dependent methyltransferase [Lactobacillus delbrueckii]       108        10         Lactobacillus   firmicutes      1578       212    212   98%   7e-65 42.80  249        WP_231526773.1   
+SAM-dependent methyltransferase [Lactobacillus paragasseri]       39         6          Lactobacillus   firmicutes      1578       212    212   100%  8e-65 43.32  242        WP_313999750.1   
+hypothetical protein HMPREF9212_1194 [Lactobacillus iners...      1          1          Lactobacillu... firmicutes      879298     209    209   99%   4e-63 41.70  282        EFO69548.1       
+SAM-dependent methyltransferase [Lactobacillus crispatus]         1          1          Lactobacillu... firmicutes      47770      204    204   67%   5e-63 56.97  168        MCT7858620.1     
+hypothetical protein FC46_GL001871 [Lactobacillus kalixensis D... 1          1          Lactobacillu... firmicutes      1423763    201    201   70%   2e-61 52.87  176        KRL90614.1       
+SAM-dependent methyltransferase [Lactobacillus sp.]               1          1          Lactobacillu... firmicutes      1591       201    201   99%   2e-60 42.51  245        MCH3904398.1     
+class I SAM-dependent methyltransferase [Lactobacillus sp.]       1          1          Lactobacillu... firmicutes      1591       200    200   100%  4e-60 40.73  245        MCI1290227.1     
+hypothetical protein [Lactobacillus psittaci]                     1          1          Lactobacillu... firmicutes      116089     196    196   100%  8e-59 40.32  234        WP_027825609.1   
+MULTISPECIES: hypothetical protein [Lactobacillus]                4          2          Lactobacillus   firmicutes      1578       193    193   100%  1e-57 36.69  240        WP_006586775.1   
+MULTISPECIES: hypothetical protein [Amylolactobacillus]           2          2          Amylolactoba... firmicutes      2767876    189    189   98%   5e-56 40.82  244        WP_082611553.1   
+SAM-dependent methyltransferase, partial [Lactobacillus...        5          2          Lactobacillus   firmicutes      1578       177    177   84%   1e-51 43.81  207        WP_347129624.1   
+SAM-dependent methyltransferase [Lactobacillus sp.]               1          1          Lactobacillu... firmicutes      1591       175    175   71%   4e-51 46.59  192        MDO4912265.1     
+SAM-dependent methyltransferase [Lactobacillus acetotolerans]     1          1          Lactobacillu... firmicutes      1600       172    172   53%   1e-50 58.02  133        HBQ42991.1       
+hypothetical protein [Lactobacillus helveticus]                   5          2          Lactobacillus   firmicutes      1578       171    171   61%   5e-50 50.00  156        NRO48037.1       
+hypothetical protein HMPREF0492_1564 [Lactobacillus acidophilu... 2          2          Lactobacillu... firmicutes      1579       167    167   57%   1e-48 53.90  146        EEJ75540.1       
+SAM-dependent methyltransferase [Lactobacillus iners]             2          1          Lactobacillu... firmicutes      147802     164    164   77%   9e-47 41.36  192        MCT7875678.1     
+SAM-dependent methyltransferase, partial [Lactobacillus...        1          1          Lactobacillu... firmicutes      1587       158    158   67%   8e-45 49.41  172        PXZ36110.1       
+hypothetical protein [Lactobacillus sp. R2/2]                     1          1          Lactobacillu... firmicutes      3093669    157    157   63%   2e-44 48.08  167        MEB3365319.1     
+SAM-dependent methyltransferase [Lactobacillus crispatus]         1          1          Lactobacillu... firmicutes      47770      153    153   49%   3e-43 57.02  129        MCT7824487.1     
+SAM-dependent methyltransferase, partial [Lactobacillus...        1          1          Lactobacillu... firmicutes      420645     150    150   70%   1e-41 43.35  173        WP_279190310.1   
+SAM-dependent methyltransferase [Lactobacillus crispatus]         1          1          Lactobacillu... firmicutes      47770      144    144   44%   4e-40 58.18  114        MCT7712170.1     
+hypothetical protein [Amylolactobacillus amylophilus]             1          1          Amylolactoba... firmicutes      1603       144    144   71%   1e-38 41.24  198        WP_054745030.1   
+SAM-dependent methyltransferase [Limosilactobacillus ingluviei]   13         1          Limosilactob... firmicutes      148604     143    143   87%   2e-37 36.71  281        WP_204774785.1   
+SAM-dependent methyltransferase [Lactobacillus iners]             2          1          Lactobacillu... firmicutes      147802     136    136   66%   4e-36 42.68  164        MCT7786519.1     
+hypothetical protein HMPREF9211_0338 [Lactobacillus iners...      1          1          Lactobacillu... firmicutes      879297     133    133   54%   2e-35 47.45  135        EFO71295.1       
+SAM-dependent methyltransferase [Candidatus Paralactobacillus...  1          1          Candidatus P... firmicutes      2838724    136    136   99%   2e-35 27.53  248        MBU3851751.1     
+SAM-dependent methyltransferase [Lacticaseibacillus...            3          2          Lacticaseiba... firmicutes      2759736    134    134   93%   1e-34 31.47  244        WP_204122802.1   
+hypothetical protein [Limosilactobacillus equigenerosi]           2          2          Limosilactob... firmicutes      2742598    135    135   90%   2e-34 33.88  285        WP_054652219.1   
+SAM-dependent methyltransferase [Limosilactobacillus caecicola]   1          1          Limosilactob... firmicutes      2941332    135    135   88%   2e-34 34.17  285        WP_251545711.1   
+SAM-dependent methyltransferase, partial [Lactobacillus...        1          1          Lactobacillu... firmicutes      47770      128    128   44%   9e-34 53.70  108        KAA8788638.1     
+SAM-dependent methyltransferase [Limosilactobacillus kribbianus]  2          2          Limosilactob... firmicutes      2742598    133    133   88%   1e-33 34.30  285        WP_267201947.1   
+SAM-dependent methyltransferase [Agrilactobacillus yilanensis]    1          1          Agrilactobac... firmicutes      2485997    132    132   99%   2e-33 31.64  261        WP_125714799.1   
+SAM-dependent methyltransferase [Lactobacillus acetotolerans]     1          1          Lactobacillu... firmicutes      1600       127    127   49%   3e-33 50.41  123        HBQ42990.1       
+MULTISPECIES: SAM-dependent methyltransferase [Lactobacillaceae]  21         7          Lactobacilla... firmicutes      33958      132    132   87%   3e-33 33.76  285        WP_169461648.1   
+SAM-dependent methyltransferase [Limosilactobacillus difficilis]  1          1          Limosilactob... firmicutes      2991838    130    130   72%   9e-33 39.56  283        WP_283583938.1   
+SAM-dependent methyltransferase [Limosilactobacillus fermentum]   1          1          Limosilactob... firmicutes      1613       127    127   72%   2e-32 38.25  181        MCT3440658.1     
+hypothetical protein [Paucilactobacillus suebicus]                1          1          Paucilactoba... firmicutes      152335     129    129   80%   3e-32 36.27  284        WP_010621464.1   
+SAM-dependent methyltransferase [Lactobacillus sp.]               1          1          Lactobacillu... firmicutes      1591       128    128   99%   3e-32 29.15  245        MCI1985492.1     
+SAM-dependent methyltransferase [Lentilactobacillus sp....        1          1          Lentilactoba... firmicutes      3039492    128    128   73%   1e-31 38.25  284        WP_283679457.1   
+SAM-dependent methyltransferase [Lacticaseibacillus sp. GG6-2]    1          1          Lacticaseiba... firmicutes      3455901    127    127   99%   1e-31 26.83  245        WP_461214292.1   
+SAM-dependent methyltransferase [Limosilactobacillus fermentum]   50         1          Limosilactob... firmicutes      1613       127    127   72%   2e-31 38.25  283        WP_100351728.1   
+SAM-dependent methyltransferase [Lentilactobacillus terminaliae]  1          1          Lentilactoba... firmicutes      3003483    127    127   99%   2e-31 31.58  284        WP_268913392.1   
+
+
+Alignments:
+
+>hypothetical protein [Lactobacillus gigeriorum]
+Sequence ID: WP_008474181.1 Length: 248
+Range 1: 1 to 248
+
+Score:509 bits(1311), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:248/248(100%), Positives:248/248(100%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED
+Sbjct  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW
+Sbjct  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT
+Sbjct  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID
+Sbjct  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+
+Query  241  EQIFQVKQ  248
+            EQIFQVKQ
+Sbjct  241  EQIFQVKQ  248
+
+
+
+
+>MULTISPECIES: SAM-dependent methyltransferase [unclassified Lactobacillus]
+Sequence ID: WP_277141990.1 Length: 250
+Range 1: 1 to 247
+
+Score:299 bits(766), Expect:4e-99, 
+Method:Compositional matrix adjust., 
+Identities:138/247(56%), Positives:180/247(72%), Gaps:0/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L K+  LN QI H  V  QV E+NQI+N +  +++L  AP  LGLLPD+ E+ILE 
+Sbjct  1    MTNFLDKVNQLNGQIKHQAVNKQVAEVNQIINQLDQQQILTSAPARLGLLPDEVEEILEQ  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +G  ++  +K+ N+LLNSLRQ+LS+RYGIWS+PNL T + I+++ H    LEIMAGNAYW
+Sbjct  61   VGQGQTANIKVLNQLLNSLRQYLSIRYGIWSLPNLTTARLIKEQLHVNTALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S    T  I TIATDS EW+KTS TGS P + V D DA+ AI+RF Q DLI+CSWAPNFT
+Sbjct  121  SRALDTGQIRTIATDSLEWSKTSATGSQPAVNVVDLDAVQAIKRFAQVDLIICSWAPNFT  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL  V  W+KYNP + LLF+GEK+GATNSP FW      HSA +  IN +F+S+DFI+
+Sbjct  181  ESDLLAVAAWKKYNPKSRLLFIGEKNGATNSPAFWQTMKLHHSAQLRLINQSFRSYDFIN  240
+
+Query  241  EQIFQVK  247
+            EQIF+++
+Sbjct  241  EQIFEIE  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp. ESL0680]
+Sequence ID: WP_277140414.1 Length: 250
+Range 1: 1 to 248
+
+Score:295 bits(755), Expect:2e-97, 
+Method:Compositional matrix adjust., 
+Identities:136/248(55%), Positives:178/248(71%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L K+  LN+QI HP V  QV EINQI+N +   ++L+ AP  LGLLPD+ E +L+ 
+Sbjct  1    MTNFLDKINQLNRQIKHPAVNQQVAEINQIINKLDQHQVLETAPAKLGLLPDEVEAVLQQ  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +G E+   LK+ N+LLNSLRQFLS+RYG+WS+PNL T + I+++ H    LEIMAGNAYW
+Sbjct  61   VGQEQDANLKVLNQLLNSLRQFLSIRYGLWSLPNLTTARLIKEQLHVTTALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     + I TIATDS EW+KTS TGS P   V D DA  AI++F   DL++CSWAPNFT
+Sbjct  121  SKALAEVQIKTIATDSLEWSKTSATGSKPAFDVVDLDAAQAIKQFANVDLVICSWAPNFT  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL  V  W+KYNP + LLFVGEK+GATNSP FW      HS  + +IN +F+S+DFI+
+Sbjct  181  ESDLLAVAAWKKYNPKSHLLFVGEKNGATNSPAFWQTMNLHHSPQLRKINQSFQSYDFIN  240
+
+Query  241  EQIFQVKQ  248
+            EQIF+++ 
+Sbjct  241  EQIFEIEH  248
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus acetotolerans]
+Sequence ID: WP_278390551.1 Length: 250
+Range 1: 1 to 248
+
+Score:288 bits(738), Expect:7e-95, 
+Method:Compositional matrix adjust., 
+Identities:133/248(54%), Positives:180/248(72%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L K+  L+K++++  +  QV+EIN IV  ++ +E+L  AP PLGLLPDQ+E++ + 
+Sbjct  1    MTNFLKKINQLDKKLNYDPIHNQVEEINAIVEHVANQEVLPVAPAPLGLLPDQFEEVADR  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +  E+   LK  N LLNSLRQFLSL+YG+WS+PN  T   I+ E      LEIMAGNAYW
+Sbjct  61   LNEEQKVDLKAINNLLNSLRQFLSLKYGVWSLPNKKTATLIKQELAINSALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S      GI   ATDS EWAKTS TG   F PV D DA+SAI++F  ADLILCSWAPNF 
+Sbjct  121  SKALNEAGIRVTATDSLEWAKTSSTGKREFYPVVDLDAVSAIKKFADADLILCSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K DL+V++ W+K+ P + LLF+GEK+GATNSP+FW  + F +S+++ +IN +FKS+DFID
+Sbjct  181  KSDLDVIRAWKKFAPESHLLFIGEKEGATNSPEFWENENFVNSSSLRKINRSFKSYDFID  240
+
+Query  241  EQIFQVKQ  248
+            EQI+++K 
+Sbjct  241  EQIYEIKH  248
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp. ESL0785]
+Sequence ID: WP_277163806.1 Length: 250
+Range 1: 1 to 248
+
+Score:288 bits(738), Expect:8e-95, 
+Method:Compositional matrix adjust., 
+Identities:132/248(53%), Positives:181/248(72%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT +L+K+  LN +I+ P++T QV EINQI+  ++ +++L +AP  LGLLPD+ E IL+ 
+Sbjct  1    MTQFLNKINQLNSKINQPEITRQVAEINQIIAYLNCQKILTQAPNRLGLLPDESEAILQR  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +G  K+  LK+ N+LLNS+RQFLS+ YG+WS+PNL T+Q ++ E H    LEIMAGNAYW
+Sbjct  61   VGASKAPTLKVLNQLLNSVRQFLSINYGLWSLPNLQTVQLLKQELHVNSALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +G+ TIA+DS EWAKTS TGS P + V D DA +AI+ F + DLILCSWAPNFT
+Sbjct  121  SQALTAVGVKTIASDSLEWAKTSSTGSKPVMQVVDLDAAAAIKAFPKVDLILCSWAPNFT  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              DL  V+ W++YNP + LLF+GEKDGATNS  FWH+     S  + ++N +F S+DFI+
+Sbjct  181  TSDLLAVRAWKQYNPKSHLLFIGEKDGATNSAAFWHEIKLHKSPQLRKVNQSFLSYDFIN  240
+
+Query  241  EQIFQVKQ  248
+            EQIF+++ 
+Sbjct  241  EQIFEIEH  248
+
+
+
+
+>MULTISPECIES: SAM-dependent methyltransferase [Lactobacillus]
+Sequence ID: WP_103661209.1 Length: 247
+Range 1: 1 to 246
+
+Score:284 bits(726), Expect:4e-93, 
+Method:Compositional matrix adjust., 
+Identities:127/246(52%), Positives:180/246(73%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT YL+KL  L +++  P+++ QVKEINQIV A++ ++++   P  LGLLPD+  ++ + 
+Sbjct  1    MTKYLTKLNTLMQELQVPEISHQVKEINQIVTAVAEKKVIANQPARLGLLPDEAAELEKQ  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +   K +QLK+ + LLNS+RQ+LSL+YGIWS+PN+ T   IQ E + +  LEIMAGNAYW
+Sbjct  61   LTPAKQKQLKVVDHLLNSVRQYLSLKYGIWSLPNMQTANLIQKELNVESALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S+     GI  +ATDS EWAKTS TG   F PV D +A +AI+++  ADLILCSW+PNF 
+Sbjct  121  SMALHETGIKAVATDSLEWAKTSATGRETFFPVEDLEAAAAIKKYAGADLILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              DL+VV  W+KY+P + LLF+GE+DGATN+P+FW +  F HS AI +IN +F S+DFI+
+Sbjct  181  HSDLDVVDCWRKYSPQSYLLFIGERDGATNTPEFWQEMQFKHSPAIRKINQSFVSYDFIE  240
+
+Query  241  EQIFQV  246
+            E+I+++
+Sbjct  241  EKIYEI  246
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus panisapium]
+Sequence ID: WP_103751640.1 Length: 250
+Range 1: 1 to 248
+
+Score:282 bits(722), Expect:2e-92, 
+Method:Compositional matrix adjust., 
+Identities:128/248(52%), Positives:176/248(70%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L K+  L  +I + QV  Q KEI  I+  I  +++L KAP  LG  PD+ E+I+ +
+Sbjct  1    MTEFLEKIKHLAIEIDNQQVDQQAKEIMSIIQTIEKKQVLAKAPDILGFYPDKLEEIMTE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +G +++  LKI N+L NS RQFLS+ YG+WS+PNL T Q I++  H    LEIMAGNAYW
+Sbjct  61   VGPQRAAALKIINQLFNSTRQFLSIHYGLWSLPNLETAQAIKENLHVNSALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            +   + +G+ T+ATDS +WAKTS+TG  PF  V + +A SAI +++  DLILCSWAPNF 
+Sbjct  121  TRALQQVGVQTVATDSLQWAKTSRTGQQPFASVVNLNASSAIAQYSAVDLILCSWAPNFN  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL  V+ WQKYNP +  LF+GEK+GATNSP FWH++ F HS A+ +I  TF S+DFID
+Sbjct  181  RSDLAAVKAWQKYNPKSHFLFIGEKNGATNSPAFWHQEKFRHSPALRQIKQTFTSYDFID  240
+
+Query  241  EQIFQVKQ  248
+            EQIF+++ 
+Sbjct  241  EQIFEIEH  248
+
+
+
+
+>MULTISPECIES: SAM-dependent methyltransferase [unclassified Lactobacillus]
+Sequence ID: WP_122018223.1 Length: 250
+Range 1: 1 to 248
+
+Score:279 bits(714), Expect:3e-91, 
+Method:Compositional matrix adjust., 
+Identities:125/248(50%), Positives:178/248(71%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTD+L+K+  L+  I+  QV  Q  E+ QI++ +  + +L  AP PLG LP++ E+I + 
+Sbjct  1    MTDFLTKINQLDAAINRQQVHKQTLEVRQIISFVKHKNILPNAPKPLGFLPNEVEEISQT  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +  ++  Q KI N+L NSLRQFLS++YGIWS+PNL T   I++    K  LEIMAGN YW
+Sbjct  61   LTFKQINQFKIINQLFNSLRQFLSVKYGIWSLPNLTTADLIKENLQIKNGLEIMAGNGYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +G++ IATDS EW+KTS TG   + P++++DA+ AI++FT  +LI+CSWAPNFT
+Sbjct  121  SKALSQVGVNMIATDSFEWSKTSATGRQTYYPIYNFDALMAIKKFTNVELIICSWAPNFT  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K DL  V+ W++YNP++ LLF+GEK G TNSP+FWHK  FS S+ + +IN +F SFDFI+
+Sbjct  181  KSDLLAVKTWERYNPNSHLLFIGEKKGVTNSPEFWHKMHFSQSSELHQINQSFSSFDFIN  240
+
+Query  241  EQIFQVKQ  248
+            EQ+F++K 
+Sbjct  241  EQVFEIKH  248
+
+
+
+
+>methyltransferase domain-containing protein [Lactobacillus pasteurii]
+Sequence ID: WP_009560141.1 Length: 247
+Range 1: 1 to 247
+
+Score:277 bits(709), Expect:2e-90, 
+Method:Compositional matrix adjust., 
+Identities:122/247(49%), Positives:176/247(71%), Gaps:0/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M +YL K+  L++ +  P+V  QV E+ QIV  ++ +ELL+ AP  LG LPD++E++++ 
+Sbjct  1    MAEYLEKMTKLDQVLDDPKVHQQVSEVQQIVQNVADKELLEIAPGKLGFLPDEFEELVDK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +G +K Q+L + N+LLNS+RQ+LSLR+GIWSVPNL   + I++E   ++ LE+MAGN YW
+Sbjct  61   LGQDKKQELYVMNQLLNSVRQYLSLRFGIWSVPNLKLAKTIKEELQVQKALEVMAGNGYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            SL  K  G+D  ATDS EWAKTS+TG   F  V ++ A+ A+ +F   DLI+CSWAPNFT
+Sbjct  121  SLALKKAGLDVRATDSLEWAKTSKTGQDAFFKVENFTAVEAVEKFNDVDLIICSWAPNFT  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL +V+ W+ YNP + L+F+GE +G TNSPDFW +  F  + +  RIN  F SFDFI+
+Sbjct  181  QSDLELVKAWKDYNPKSKLIFIGEYEGVTNSPDFWEQMKFVENNSTKRINQQFSSFDFIE  240
+
+Query  241  EQIFQVK  247
+            E+++ VK
+Sbjct  241  EKVYLVK  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus gallinarum]
+Sequence ID: WP_283111716.1 Length: 250
+Range 1: 1 to 246
+
+Score:276 bits(707), Expect:3e-90, 
+Method:Compositional matrix adjust., 
+Identities:127/246(52%), Positives:175/246(71%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT+YL KL +L+ +I+HP +  QV+EI QI + +   + LK AP  LGLLPDQ+E +L++
+Sbjct  1    MTNYLHKLTMLDDEINHPLIHGQVEEIKQIDHYVGNGKPLKAAPDKLGLLPDQFEDVLKE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG  + ++L   N L N+ RQ+LSL+YGIWS+ NL T   I+D+      LEIMAGNAYW
+Sbjct  61   IGNNQKRKLTDINNLFNNFRQYLSLKYGIWSIANLKTAALIKDKMQIDTALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +GI TI+TDS EWAKTS TG+ PF PV + +A  AI++++  DLILCSW+PNF 
+Sbjct  121  SSTLANVGIQTISTDSLEWAKTSSTGAKPFHPVINLEAAQAIKKYSDVDLILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL  +  WQKY+     +F+GE+DGATNSP+FW +  F H+AA+  IN +F+SFDFID
+Sbjct  181  QSDLAAIDAWQKYSNAKHFIFIGEEDGATNSPEFWQRNWFKHTAALNEINSSFQSFDFID  240
+
+Query  241  EQIFQV  246
+            E+IF++
+Sbjct  241  ERIFEI  246
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus amylolyticus]
+Sequence ID: WP_127345604.1 Length: 248
+Range 1: 1 to 247
+
+Score:276 bits(705), Expect:7e-90, 
+Method:Compositional matrix adjust., 
+Identities:130/248(52%), Positives:179/248(72%), Gaps:1/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT YL KL  L++Q++ P V  QV+E+NQI+  +SA+++L +AP  LGL PD++E IL+ 
+Sbjct  1    MTKYLEKLNHLDRQLNSPMVHQQVEEVNQIIVTVSAKKILAQAPQKLGLEPDEFENILDS  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +G  K +QL + N LLN LRQ+LSL+YGIWS+PNL T   I+++ H K  LEIMAGNAYW
+Sbjct  61   VGEVKREQLTVINHLLNGLRQYLSLQYGIWSLPNLKTAHLIKEKLHAKTALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S    ++G+ T ATD+ EWAKTS TGS  F  V D DA+ AI+++ + D+I+CSW+PNF 
+Sbjct  121  SKALNSVGVKTTATDNLEWAKTSNTGSQIFEKVEDLDAVRAIKKYPKTDVIICSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL VV+ W K    A LLF+GEKDGATNSP+FW K  F +   +  IN +F S+DFID
+Sbjct  181  QSDLAVVKTW-KNCSDAHLLFIGEKDGATNSPEFWQKMNFINDQNLKTINRSFVSYDFID  239
+
+Query  241  EQIFQVKQ  248
+            E+I+++K+
+Sbjct  240  EKIYEIKR  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp. ESL0230]
+Sequence ID: WP_122021678.1 Length: 250
+Range 1: 1 to 248
+
+Score:275 bits(702), Expect:2e-89, 
+Method:Compositional matrix adjust., 
+Identities:127/248(51%), Positives:182/248(73%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L+K+  L+ +I +  V  QV+ +NQ+++    ++++  AP  LG LPD+ E I   
+Sbjct  1    MTEFLNKINQLDSEIDNQSVHEQVQIVNQMISFTRQKKIMPLAPKKLGFLPDEIEAICFQ  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +   K ++++I N+LLNS+RQFLS++YGIWS+PNLAT + I+D F   Q LEIMAGNA W
+Sbjct  61   VAANKKKKVRIINQLLNSVRQFLSIKYGIWSLPNLATAKLIKDYFQIDQALEIMAGNACW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            +     +GI+TIATDS EWAKTS TG++P++ V +YDA  AI++F  A LI+CSWAPNFT
+Sbjct  121  AKALTEVGIETIATDSLEWAKTSLTGNNPYMAVKNYDAPKAIKKFATAQLIICSWAPNFT  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K DL  ++ WQKYNP + LLF+GEK+GATNS  FW +  F++S  + +IN +FKS+DFI+
+Sbjct  181  KSDLLAIKAWQKYNPQSHLLFIGEKNGATNSMAFWQEVKFNYSEKVDKINQSFKSYDFIN  240
+
+Query  241  EQIFQVKQ  248
+            EQIF++K 
+Sbjct  241  EQIFEIKH  248
+
+
+
+
+>hypothetical protein [Lactobacillus helveticus]
+Sequence ID: WP_012211961.1 Length: 250
+Range 1: 1 to 246
+
+Score:273 bits(699), Expect:6e-89, 
+Method:Compositional matrix adjust., 
+Identities:125/246(51%), Positives:173/246(70%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L KL +L+ +I+H  V  QV+EI QI + ++  E L +AP  LGLLPDQ+E+ILE+
+Sbjct  1    MTNFLHKLTMLDDEINHSTVHRQVEEIKQIDHQVAKGEPLIEAPAKLGLLPDQFEEILEE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG  + ++L   N L N+ RQ+LSL+YG+WSVPNL T   I++  H    LEIMAGNAYW
+Sbjct  61   IGNNQKRKLTDINNLFNNFRQYLSLKYGVWSVPNLKTAHLIKNRLHIDTALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S   + + I TI+TDS EWAKTS TG+ PF PV + +A  AI+ ++  DLI+CSW+PNF 
+Sbjct  121  SKALENVEIQTISTDSLEWAKTSSTGAEPFHPVINLEATEAIKHYSDVDLIICSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K D+  +  W K +     +F+GE+DGATNSP+FW    F  +AA+  IND+F+SFDFID
+Sbjct  181  KSDIAAIDTWHKCSNAKHFIFIGEEDGATNSPEFWQNNWFKQTAALKAINDSFQSFDFID  240
+
+Query  241  EQIFQV  246
+            E+IF++
+Sbjct  241  ERIFEI  246
+
+
+
+
+>hypothetical protein [Lactobacillus hamsteri]
+Sequence ID: WP_025080493.1 Length: 249
+Range 1: 1 to 248
+
+Score:273 bits(697), Expect:1e-88, 
+Method:Compositional matrix adjust., 
+Identities:124/248(50%), Positives:179/248(72%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT +L +L  L+K++++ ++  QV EIN IV  +  +  +++AP  LG  PD+ E+++  
+Sbjct  1    MTKFLQRLNQLDKELNNDRIHKQVSEINNIVAYVDKKVPIEEAPEHLGFYPDEVEELIYS  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG +K  Q+   N LLNS+RQFLSL+YGIWS+PNL T + I + F+ K VLEIMAGNAYW
+Sbjct  61   IGVDKKAQINAMNHLLNSVRQFLSLKYGIWSLPNLKTAKLISETFNVKSVLEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S  F+ +G++ IATDS EWAKTS TG   F  V D DA+SAI+R+   DLI+CSW+PNF 
+Sbjct  121  SKTFQEVGVEAIATDSLEWAKTSTTGRDYFTKVEDLDAVSAIKRYRDIDLIICSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              DL+VV  W+ Y+ H+ LLF+GEK+GATNSP+FW +  F  S  + +IN +F+S+DFID
+Sbjct  181  HSDLDVVNAWKDYSHHSKLLFIGEKEGATNSPEFWQQMNFVSSKEMKKINHSFESYDFID  240
+
+Query  241  EQIFQVKQ  248
+            E+++++++
+Sbjct  241  EKVYEIEK  248
+
+
+
+
+>SAM-dependent methyltransferase [uncultured Lactobacillus sp.]
+Sequence ID: WP_297950033.1 Length: 250
+Range 1: 1 to 246
+
+Score:272 bits(696), Expect:2e-88, 
+Method:Compositional matrix adjust., 
+Identities:130/246(53%), Positives:173/246(70%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT +L+KL  L ++++HP +  QV+EI QI   +   + L  AP  LGLLPD++E IL++
+Sbjct  1    MTKFLTKLNKLAQEVNHPVIQRQVEEIMQIDQQVKLGQPLTAAPGKLGLLPDEFEDILKE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG +K Q L   N L N+ RQ+LSL+YGIWS+ NL T Q I+DE H +  LEIMAGNAYW
+Sbjct  61   IGQDKKQTLTDLNNLFNNFRQYLSLQYGIWSLANLQTAQLIKDELHVQTALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +GI T +TDS EWA+TS TG+ PF PV +  A  AI ++   DLILCSW+PNF 
+Sbjct  121  SRALAWVGIKTRSTDSLEWARTSTTGAKPFYPVENLTADQAIMKYHDVDLILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              DL+ +  WQK NP + LLF+GE++GATNSP+FWH   F +SAA+T+IN +  SFDFID
+Sbjct  181  HGDLDTIAAWQKNNPSSHLLFIGEQNGATNSPEFWHHDHFKNSAALTKINRSLSSFDFID  240
+
+Query  241  EQIFQV  246
+            EQ+F++
+Sbjct  241  EQVFEI  246
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus kefiranofaciens]
+Sequence ID: WP_280593315.1 Length: 250
+Range 1: 1 to 246
+
+Score:271 bits(693), Expect:5e-88, 
+Method:Compositional matrix adjust., 
+Identities:128/246(52%), Positives:173/246(70%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT +L+KL  L+K+IS P V  QV+EI +I N +     L +AP  LGLLPD++E IL  
+Sbjct  1    MTKFLTKLTNLDKKISDPLVHKQVEEITRIDNYVQQGRPLPRAPRRLGLLPDEFENILVK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                K ++L + N LLN+ RQ+LSL+YGIWSV NL T + I+++      LEIMAGNAYW
+Sbjct  61   TDAAKKEELTVMNNLLNNFRQYLSLKYGIWSVANLKTAKLIKEKLEVNSALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +GI+ I+TDS EWAKTS TG+ PF PV D  A +A +R+ + DLI+CSW+PNF 
+Sbjct  121  SKALAEVGINVISTDSLEWAKTSTTGAQPFYPVIDLPAQNAGQRYAKIDLIICSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              DL+ +Q W+KYNP + LLF+GEK+GATNSP FW +  F  +AA+  IN +F+SFDFI+
+Sbjct  181  HSDLDAIQAWKKYNPSSHLLFIGEKNGATNSPAFWQRNHFIKNAALAEINQSFQSFDFIN  240
+
+Query  241  EQIFQV  246
+            EQ+F++
+Sbjct  241  EQVFEI  246
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus xylocopicola]
+Sequence ID: WP_317636780.1 Length: 254
+Range 1: 6 to 252
+
+Score:270 bits(690), Expect:2e-87, 
+Method:Compositional matrix adjust., 
+Identities:126/247(51%), Positives:166/247(67%), Gaps:0/247(0%)
+
+Query  2    TDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILEDI  61
+            T++L+K+  L+ +++  +V  Q K + ++V  I+  ++   AP  LG  P + EQI+   
+Sbjct  6    TNFLAKINELDAELADHEVHAQAKVVQELVATIAQAQIPATAPQALGFAPAELEQIMART  65
+
+Query  62   GTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWS  121
+               K  Q+K+ N+L NSLRQFL++ YG+WSVPNL T + I+D+ H KQ LEIMAGNA WS
+Sbjct  66   APAKKTQVKVINQLFNSLRQFLAIHYGVWSVPNLTTARLIKDQLHIKQALEIMAGNALWS  125
+
+Query  122  LGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFTK  181
+                  GI T+ATDS EWAKTS+TGS P + V D  A +AI RF    LI+CSWAPNF  
+Sbjct  126  KALNLAGIATVATDSLEWAKTSKTGSRPSVAVIDASAPAAIERFAAVQLIICSWAPNFDH  185
+
+Query  182  DDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDE  241
+             DL  V  W+KYNP+A LLFVGE++GATNS  FWH   F HS  + RIN +F SFDFI+E
+Sbjct  186  SDLEAVHAWRKYNPNAHLLFVGERNGATNSAAFWHSMHFLHSEGLQRINRSFNSFDFINE  245
+
+Query  242  QIFQVKQ  248
+            QIF++K 
+Sbjct  246  QIFELKH  252
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp. ESL0791]
+Sequence ID: WP_277148701.1 Length: 248
+Range 1: 1 to 247
+
+Score:267 bits(682), Expect:2e-86, 
+Method:Compositional matrix adjust., 
+Identities:127/247(51%), Positives:169/247(68%), Gaps:0/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L K+   ++QI +  V  Q  E+  I+  ++  ++L +AP  LGLLPDQYE I   
+Sbjct  1    MTNFLDKIKQQDQQIGNQLVHEQAIEVAAIIKTVADGKVLLQAPAKLGLLPDQYETIASA  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                K   LK+ N LLNS+RQFLSL+YG+WS+PNL T   I+ +      LEIMAGNAYW
+Sbjct  61   SREGKRSSLKVMNNLLNSVRQFLSLKYGVWSLPNLTTAALIKCQLKVNSALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            SL    +G++  ATDS EW+KTS TG+ PF P+    A  AI++F   DLI+CSWAPNFT
+Sbjct  121  SLALAQVGLNVKATDSLEWSKTSSTGAQPFYPLLPLGATEAIKKFHGVDLIVCSWAPNFT  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K DL  V  W+KY+P++ LLFVGEK+GATNSP+FW K  F  S A+  I+++F S+DFID
+Sbjct  181  KSDLEAVAAWRKYSPNSHLLFVGEKNGATNSPEFWTKMQFVKSQAMREIDNSFVSYDFID  240
+
+Query  241  EQIFQVK  247
+            EQIF++K
+Sbjct  241  EQIFEIK  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus crispatus]
+Sequence ID: WP_269256670.1 Length: 250
+Range 1: 1 to 247
+
+Score:264 bits(675), Expect:3e-85, 
+Method:Compositional matrix adjust., 
+Identities:129/247(52%), Positives:175/247(70%), Gaps:0/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT +L+KL  L ++I+H  V  QV+EI  I + + A + LK+AP  LGLLPD++E++L +
+Sbjct  1    MTKFLTKLTKLEQEINHTAVKRQVEEIALIDSYVQAGKPLKRAPRRLGLLPDEFEEVLVE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +G +K   L+  N LLN+ RQ+LSL YGIWS+PN+ T Q I+++ H +  LEIMAGNAYW
+Sbjct  61   VGPDKEGALRDLNNLLNNFRQYLSLIYGIWSLPNIQTAQLIKNKLHVQTALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +GI   +TDS EWAKTS TG+ PF PV D  A  AI+++   +L+LCSW+PNF 
+Sbjct  121  SQALTQVGIKVHSTDSLEWAKTSTTGAKPFYPVEDLPADQAIKKYHTVNLVLCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              DL  V  W KYNP   LLFVGEKDGATNSP+FWH+  F +SAA+  IN + ++FDFI+
+Sbjct  181  HGDLETVAAWHKYNPSCHLLFVGEKDGATNSPEFWHQNWFKNSAALDEINHSLQNFDFIN  240
+
+Query  241  EQIFQVK  247
+            EQ+F++K
+Sbjct  241  EQVFEIK  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus amylovorus]
+Sequence ID: WP_271892133.1 Length: 247
+Range 1: 1 to 247
+
+Score:264 bits(674), Expect:3e-85, 
+Method:Compositional matrix adjust., 
+Identities:124/247(50%), Positives:169/247(68%), Gaps:0/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT+Y++K+  L++++ +  V  QV EI QI N +  ++ L +AP  LGLLPDQ+E IL D
+Sbjct  1    MTEYITKINQLDQELDNEIVHRQVNEIRQIDNYVKKKKPLPQAPNMLGLLPDQFEDILAD  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG +K   L   N L N+ RQ+LSL YGIWS+ NL T   I+D+    + LEIMAGNA+W
+Sbjct  61   IGEDKRSSLTAINNLFNNCRQYLSLEYGIWSIANLETAGLIKDKLGITKALEIMAGNAFW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S   + +GI+ I+TDS EWAKTS+TGS PF  V D  A  AI+++   DL+LCSW+PNF 
+Sbjct  121  SKALEEVGIEVISTDSLEWAKTSKTGSEPFHQVLDLAASDAIKKYRDVDLVLCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL  V+ W+ YN  + LLF+GE+DGATNSP FW    F  +  +  IN +FKS+DFID
+Sbjct  181  QSDLKTVKAWRTYNKSSYLLFIGERDGATNSPQFWRSDWFKKTPELAEINRSFKSYDFID  240
+
+Query  241  EQIFQVK  247
+            EQIF+++
+Sbjct  241  EQIFEIR  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp. PSON]
+Sequence ID: WP_445353426.1 Length: 246
+Range 1: 1 to 245
+
+Score:264 bits(674), Expect:4e-85, 
+Method:Compositional matrix adjust., 
+Identities:123/248(50%), Positives:174/248(70%), Gaps:3/248(1%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT ++ KL  +N++I +  V  QV EIN+IV  ++ +++L +AP  LGL PD+ E+I +D
+Sbjct  1    MTKFIEKLNTINQKIDNRIVQEQVDEINKIVETVAKKQVLMQAPCRLGLYPDEIEEIAKD  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                 S  ++I N +LNS+RQFLSL++GIWS+PNL T + I+ EF  +  +EIMAGNAYW
+Sbjct  61   ---NDSNSVRIINNMLNSVRQFLSLKFGIWSLPNLTTAKLIKQEFKVETCVEIMAGNAYW  117
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            +     +GI TIATDS EWAKTS TG +    V + +A  AI+++ + DLILC+W+PNF 
+Sbjct  118  TKALNEVGIQTIATDSLEWAKTSSTGQNQIFNVENLNAADAIKKYNKVDLILCAWSPNFG  177
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K DL V+  W+KYNP A LLF+GEK+GATNSP+FW    F  +  + +IN +F S+DFID
+Sbjct  178  KSDLEVIDTWRKYNPQARLLFIGEKNGATNSPEFWKLTHFKKTPELAKINQSFISYDFID  237
+
+Query  241  EQIFQVKQ  248
+            E+IF+V +
+Sbjct  238  EKIFEVDE  245
+
+
+
+
+>hypothetical protein [Lactobacillus acidophilus]
+Sequence ID: WP_011254372.1 Length: 250
+Range 1: 1 to 246
+
+Score:263 bits(671), Expect:1e-84, 
+Method:Compositional matrix adjust., 
+Identities:125/246(51%), Positives:167/246(67%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L K   L+K I  P V  QV+E+ QI   +     + KAP PLGLLPDQ+E IL++
+Sbjct  1    MTNFLEKSVELDKIIQSPDVHQQVEEMVQIDQYVKKGMPMPKAPAPLGLLPDQFEDILQE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG  K ++L+  N L N+ RQ+LSL+YGIWSV N+ T + I+ + H K  LEIMAGNAYW
+Sbjct  61   IGINKKRKLRDINNLFNNFRQYLSLKYGIWSVANINTARLIKKKMHVKNALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S   +  GI  I+TDS EWAKTS TG+ PF  V D  A  AI ++   DLILCSW+PNF 
+Sbjct  121  SHALEETGITVISTDSLEWAKTSSTGAKPFHKVIDLKADQAIEKYQDVDLILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D+  +  W+K+NP++ LLF+GEKDGATNS +FW +  F  +  +  IN +F+SFDFI+
+Sbjct  181  NSDIETIAAWRKFNPNSHLLFIGEKDGATNSVEFWSQDWFKQTKELREINRSFQSFDFIN  240
+
+Query  241  EQIFQV  246
+            EQIF++
+Sbjct  241  EQIFEI  246
+
+
+
+
+>SAM-dependent methyltransferase [uncultured Lactobacillus sp.]
+Sequence ID: WP_308555564.1 Length: 250
+Range 1: 1 to 246
+
+Score:262 bits(669), Expect:2e-84, 
+Method:Compositional matrix adjust., 
+Identities:123/246(50%), Positives:170/246(69%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT+Y++K+  L+++++   +  QV EI QI + I  ++ L +AP  LGLLPDQ+E +L +
+Sbjct  1    MTEYITKINQLDQELNSTIIHRQVNEIRQIDSYIRNKKPLPQAPAELGLLPDQFEDVLAE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG +K   L   N L N+ RQ+LSL YGIWS+ NL T + I+++   K+ LEIMAGNAYW
+Sbjct  61   IGEDKRSALTAINNLFNNCRQYLSLEYGIWSIANLQTARLIKEKLGVKKALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S   + +GI TI+TDS EWAKTS+TGS PF  V D  A  AI ++   DLILCSWAPNF 
+Sbjct  121  SEALEEVGIKTISTDSLEWAKTSKTGSQPFHKVLDMPATQAIEKYRDVDLILCSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + D+  V  WQKYN  + LLF+GE+DGATNS +FW +  F  +  +  IN +F++FDFID
+Sbjct  181  QSDMKAVSAWQKYNKSSHLLFIGEQDGATNSREFWDRHWFKKTPELAEINHSFQNFDFID  240
+
+Query  241  EQIFQV  246
+            E+IF++
+Sbjct  241  ERIFEI  246
+
+
+
+
+>SAM-dependent methyltransferase [uncultured Lactobacillus sp.]
+Sequence ID: WP_288557270.1 Length: 250
+Range 1: 1 to 246
+
+Score:261 bits(668), Expect:3e-84, 
+Method:Compositional matrix adjust., 
+Identities:127/246(52%), Positives:167/246(67%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT+Y++KL  L+ +I +  V  QV EI QI N I +++ L +AP  LGLLPDQ+E +L +
+Sbjct  1    MTEYITKLNQLDLEIDNDIVHNQVNEIKQIDNYIKSKKPLPEAPARLGLLPDQFEDVLME  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG  K   L   N L N+ RQ+LSL YGIWSV NL T + I+++    + LEIMAGNAYW
+Sbjct  61   IGENKRSSLTTINNLFNNCRQYLSLEYGIWSVANLKTARLIKEKLAINKALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S   +  GI+TI+TDS EWAKTS+TGS PF  V D  A  AI ++   DLILCSW+PNF 
+Sbjct  121  SKALEAAGIETISTDSLEWAKTSKTGSEPFHQVLDMPAAQAIEKYRDVDLILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + D+  V  WQKYN  + LLF+GE++GATNS +FW    F  +  +  IN +FKSFDFI+
+Sbjct  181  QGDIETVNAWQKYNKSSHLLFIGEQNGATNSQEFWDHSWFKKTPELAEINHSFKSFDFIN  240
+
+Query  241  EQIFQV  246
+            EQIF++
+Sbjct  241  EQIFEI  246
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus apis]
+Sequence ID: WP_278955352.1 Length: 250
+Range 1: 1 to 248
+
+Score:261 bits(667), Expect:4e-84, 
+Method:Compositional matrix adjust., 
+Identities:120/248(48%), Positives:171/248(68%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTDYL K+  L+ Q  +P +  Q+KE+NQI   +  +++L  AP  LG  P++ E++   
+Sbjct  1    MTDYLKKINQLDAQFDNPLIHDQIKEVNQIDRYMKEKKILPTAPRRLGFYPNEVEKLESC  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            I  ++   +K+TN+LLNS+RQ+LS+ YG+WS+PNL T + I+++F    VLEIMAGNAYW
+Sbjct  61   IPRQQKGNIKVTNQLLNSMRQYLSINYGVWSLPNLETAKLIKEQFKISSVLEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +G+  IATDS EW+KTS+TGS     V +  A  AIR F +  L++C+WAPNF 
+Sbjct  121  SKALTEVGLKAIATDSLEWSKTSRTGSQQATKVLNLSAPEAIRAFPEVQLVICAWAPNFD  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL+ ++ WQKYNP + LLF+GEK+G TNS  FWH+  F+HS  +  IN +F SFDFI+
+Sbjct  181  ESDLSAIEAWQKYNPSSRLLFIGEKNGVTNSATFWHQIHFTHSPELQTINHSFTSFDFIE  240
+
+Query  241  EQIFQVKQ  248
+            EQIF++K 
+Sbjct  241  EQIFEIKH  248
+
+
+
+
+>hypothetical protein [Lactobacillus ultunensis]
+Sequence ID: WP_040529697.1 Length: 250
+Range 1: 1 to 246
+
+Score:259 bits(663), Expect:2e-83, 
+Method:Compositional matrix adjust., 
+Identities:123/246(50%), Positives:173/246(70%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT +L K+  L+++I++  +  QV+ + Q+ + +S  + L  AP  +GL+PD++E IL D
+Sbjct  1    MTKFLEKVNKLDQEINYSLIHEQVEAMEQVDHYVSRGKPLLVAPQRIGLMPDEFEDILTD  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG  K +QL   N L N+ RQ+LSL+YGIWS+ NL T + I+ E +    LEIMAGNAYW
+Sbjct  61   IGQNKRKQLTDINNLFNNFRQYLSLKYGIWSIANLQTAKLIKKELNVNTALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S   +  GI TI+TDS EWAKTS+TGS  F PV +  A  AI+++ Q DLILCSW+PNF 
+Sbjct  121  SKALEESGIQTISTDSLEWAKTSKTGSIQFHPVINLSADQAIKKYNQVDLILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K D++ V++WQKYN  + LLF+GE++GATNSP+FW    F  + A+  IN +F+SFDFID
+Sbjct  181  KSDIDTVKSWQKYNKDSHLLFIGERNGATNSPEFWDHHWFKKTPALMSINHSFQSFDFID  240
+
+Query  241  EQIFQV  246
+            E+IF++
+Sbjct  241  ERIFEI  246
+
+
+
+
+>MULTISPECIES: SAM-dependent methyltransferase [Lactobacillus]
+Sequence ID: WP_198179214.1 Length: 250
+Range 1: 1 to 246
+
+Score:258 bits(660), Expect:5e-83, 
+Method:Compositional matrix adjust., 
+Identities:123/246(50%), Positives:166/246(67%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M ++LSK+  L+ Q++  QV  QVKEIN I++ +S R++LKKAP  LG LPD +E+I   
+Sbjct  1    MINFLSKINHLDDQLNIKQVHHQVKEINDIISIVSQRQVLKKAPEKLGFLPDIFEEICAS  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +   + +Q +  N L+N+LRQFL++ +G+WS+PNL T + I+D  + K  LEIMAGNAYW
+Sbjct  61   LTQTEIRQFRTINHLINNLRQFLAINFGVWSLPNLQTAKAIKDRLNIKTGLEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +G+    TD+ +W+KTS TGS  F+ V ++DA  AI  F   DLI+CSWAPNF 
+Sbjct  121  SKALSDVGVKMTVTDNLDWSKTSNTGSKSFMTVANFDAAKAIEMFGNVDLIICSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D  VV  WQK N  + LLF+GEK+GATNS  FW K L  HS  + +IN TF SFDFID
+Sbjct  181  NSDTKVVSTWQKLNTPSHLLFIGEKNGATNSEAFWQKGLVHHSKELKQINQTFPSFDFID  240
+
+Query  241  EQIFQV  246
+            E IF++
+Sbjct  241  EHIFEI  246
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus agrestimuris]
+Sequence ID: WP_251717371.1 Length: 249
+Range 1: 1 to 248
+
+Score:258 bits(658), Expect:1e-82, 
+Method:Compositional matrix adjust., 
+Identities:118/248(48%), Positives:169/248(68%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M ++L+KL  ++K++++  V  QV EIN+I+  I  +++++ AP  LG  PD+ E + E+
+Sbjct  1    MNEFLNKLNQIDKELNNNSVHQQVSEINKIIACIDQKQVIRHAPNRLGFYPDEMELLTEE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG E  + +K  N LLNS RQ+LSL YGIWS+PNL T Q I++++     LE+M+GNAYW
+Sbjct  61   IGKEHERLIKAINNLLNSFRQYLSLHYGIWSLPNLRTAQLIKEKYAANSALEVMSGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +G+  IATDS EWAKTS TG   F+ V + DAI AI ++   DLI+CSWAPNF 
+Sbjct  121  SKALNDVGLQVIATDSLEWAKTSSTGKKKFLQVENLDAIKAIEKYQNVDLIICSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D+ +++ WQ    ++ LLF+GEKDGATNS  FW +  F HS  +  IN +F +FDFID
+Sbjct  181  HSDVKLIKAWQASASNSKLLFIGEKDGATNSGTFWSQAQFVHSKQLDEINKSFSNFDFID  240
+
+Query  241  EQIFQVKQ  248
+            E+I++VK+
+Sbjct  241  EKIYEVKK  248
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp. LL6]
+Sequence ID: WP_144355310.1 Length: 245
+Range 1: 1 to 244
+
+Score:257 bits(657), Expect:1e-82, 
+Method:Compositional matrix adjust., 
+Identities:123/248(50%), Positives:170/248(68%), Gaps:4/248(1%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT ++ K+  +N++I +  V  QVKE+N+IV  ++ +++L KAP  LGL PD+ E+I+ +
+Sbjct  1    MTKFIKKINTINEKIDNRIVQEQVKELNKIVKTVALKQVLAKAPDRLGLYPDEIEEIVNN  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                  + +K  N LLNS RQFLSL++GIWS+PNL T + I+ EF  K  +EIMAGNAYW
+Sbjct  61   ----NFKDVKTINHLLNSTRQFLSLKFGIWSLPNLTTAKLIRKEFKIKTAVEIMAGNAYW  116
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            +      GI TIATDS EWAKTS TG + F  V +  A  AI+++ + DLI CSW+PNF 
+Sbjct  117  TKALNEAGIQTIATDSLEWAKTSSTGQNQFSRVENLSATDAIKKYNKVDLIFCSWSPNFG  176
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL V+  W+KYNP A LLFV EK+GATNSPDFW    F  +  + +IN +F S+DFID
+Sbjct  177  RSDLEVINTWKKYNPQAHLLFVCEKNGATNSPDFWKLTHFKKTPELAKINQSFVSYDFID  236
+
+Query  241  EQIFQVKQ  248
+            E+IF++ +
+Sbjct  237  EKIFEIDE  244
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus intestinalis]
+Sequence ID: WP_242367686.1 Length: 249
+Range 1: 1 to 247
+
+Score:256 bits(655), Expect:2e-82, 
+Method:Compositional matrix adjust., 
+Identities:120/248(48%), Positives:174/248(70%), Gaps:1/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L KL  ++K++ +  V  QV E+N+IV ++   E+LK++P  LGL   +   + ++
+Sbjct  1    MTNFLKKLNKIDKELDNNLVHYQVLEVNRIVKSVEEEEVLKQSPNKLGLTDFEIANLKKN  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+              +EK+ ++ + N +LNSLRQ+LSL YGIWS+PNL T + I++E      LEIMAGNA+W
+Sbjct  61   -NSEKTYEINVLNNMLNSLRQYLSLNYGIWSLPNLKTAELIKNELQIGSALEIMAGNAFW  119
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +GI T++TDS EWAKTS TG  PF PV DY A +AI+ +   DLILCSW+PNF 
+Sbjct  120  SKALSEVGIKTVSTDSLEWAKTSSTGKKPFYPVKDYSATNAIKIYKNVDLILCSWSPNFG  179
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              DL VV+ W+KYNP + LLF+GE+ GATNS +FW  + F+ S AI +IN +F S+DFI+
+Sbjct  180  TADLEVVKAWKKYNPKSHLLFIGEEMGATNSSEFWLTEHFTKSTAINKINKSFVSYDFIN  239
+
+Query  241  EQIFQVKQ  248
+            E+I++++ 
+Sbjct  240  EKIYEIEN  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus porci]
+Sequence ID: WP_154547343.1 Length: 248
+Range 1: 1 to 247
+
+Score:256 bits(654), Expect:3e-82, 
+Method:Compositional matrix adjust., 
+Identities:120/247(49%), Positives:169/247(68%), Gaps:0/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT Y+ KL  L+ Q+ + ++  QV EI +I  A+  R++L+ AP  LGL PD+YE+I   
+Sbjct  1    MTKYIDKLQALSAQLKNQEIADQVAEICRIDQAVKKRQVLEHAPGKLGLEPDEYEEISWQ  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            I  ++ + L+  N LLN++RQ+LSL YGIWS+PNLAT + I +E   K  LE+MAGNAYW
+Sbjct  61   IPDDQLKNLQTMNNLLNNVRQYLSLEYGIWSLPNLATAKLIMEELGVKTALEVMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S      G+D +A+DS EWAKTS TGS PF PV + +A  A+ ++   +LILCSW+PNF 
+Sbjct  121  SKALMAAGMDVVASDSLEWAKTSATGSEPFYPVVNLEAQKAVEKYGDRELILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D+ ++   +KY P A LLF+GE+ GATNS  FW     ++S AI+RIN +F S+DFI+
+Sbjct  181  NSDIALIAAKRKYAPQAHLLFIGERKGATNSRSFWAGNYCTNSRAISRINQSFVSYDFIE  240
+
+Query  241  EQIFQVK  247
+            E++F+VK
+Sbjct  241  EEVFEVK  247
+
+
+
+
+>hypothetical protein [Lactobacillus kimbladii]
+Sequence ID: WP_046332124.1 Length: 250
+Range 1: 1 to 246
+
+Score:256 bits(653), Expect:5e-82, 
+Method:Compositional matrix adjust., 
+Identities:122/246(50%), Positives:165/246(67%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTD+LSK+  L+ Q++  QV  QVKEIN I++ +S +++ KKAP  LG LPD  E+I   
+Sbjct  1    MTDFLSKINQLDDQLNIEQVHHQVKEINDIISIVSQKQVFKKAPQKLGFLPDIAEEICAS  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +     +  +  N+L+++LRQFLS+ +G+WS+PNL T + I+D  + K  LEIMAGNAYW
+Sbjct  61   LSQTDIKHFRTINQLIDNLRQFLSINFGVWSLPNLQTARAIKDCLNIKSGLEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +G+  I TD+ +W+KTS TGS  F+PV  +DA  A+  F   DLI+CSWAPNF 
+Sbjct  121  SKALSDVGVKMIVTDNLDWSKTSNTGSKSFMPVAHFDAAQAVEIFDNVDLIICSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D  VV  WQK N  + LLF+GEK+GATNS  FW K L  HS  + +IN TF SFDFI+
+Sbjct  181  NSDTKVVSTWQKLNTTSHLLFIGEKNGATNSEAFWQKGLVHHSKELKQINQTFPSFDFIN  240
+
+Query  241  EQIFQV  246
+            E IF++
+Sbjct  241  EHIFEI  246
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp. ESL0681]
+Sequence ID: WP_277126469.1 Length: 248
+Range 1: 1 to 246
+
+Score:254 bits(649), Expect:2e-81, 
+Method:Compositional matrix adjust., 
+Identities:125/248(50%), Positives:169/248(68%), Gaps:2/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L+K+  L+  +   +V  QV+E+N+IV  +  R +L  AP PLG LPD+   +L +
+Sbjct  1    MTNFLNKINQLDAVLEQKEVHAQVQELNKIVATVKQRAILPVAPRPLGFLPDELA-VLSE  59
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+             G   + QLKI N+LLNSLRQFLS+ YG+WS+PN  T   I+ + +    LEIMAGNA W
+Sbjct  60   QGA-PADQLKIINQLLNSLRQFLSINYGLWSLPNKITATAIKQQLNVHSALEIMAGNACW  118
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            +     +GI T+ATDS EW+KTS TGS PF  V   DA  AI++F + DLILCSWAPNF 
+Sbjct  119  TKALTGVGIATVATDSLEWSKTSSTGSQPFSKVLQLDASDAIKQFNRVDLILCSWAPNFN  178
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL  V+ W++YNP A LLF+GEK+G TNS  FW KQ F+ +  +  IN TF S+DFI+
+Sbjct  179  QADLAAVRAWERYNPSAHLLFIGEKNGVTNSKQFWQKQNFNSTQELKLINQTFLSYDFIN  238
+
+Query  241  EQIFQVKQ  248
+            EQIF+++ 
+Sbjct  239  EQIFEIEH  246
+
+
+
+
+>SAM-dependent methyltransferase [Candidatus Lactobacillus pullistercoris]
+Sequence ID: MBU3827837.1 Length: 253
+Range 1: 1 to 247
+
+Score:253 bits(647), Expect:5e-81, 
+Method:Compositional matrix adjust., 
+Identities:124/248(50%), Positives:166/248(66%), Gaps:1/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M  YL+KL  L++Q+   +V  QV EIN+I + I   ++L KAP PLG  PD  E++ + 
+Sbjct  1    MMSYLNKLNSLDQQLEINEVHQQVAEINEINHIIQEHKILSKAPQPLGFAPDLLEELTQK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                +   L + N LLN+ RQ+LSL YGIWS+PNL T   I+ E   K  LEIMAGN YW
+Sbjct  61   TSKNERPALIVINNLLNNFRQYLSLTYGIWSLPNLETANLIKKELQVKTALEIMAGNGYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S   + +GI T+ TDS EWAKTS TGS  F+ V D +A  AI+++   DLILCSW+PNF 
+Sbjct  121  SKALEKVGIKTVTTDSLEWAKTSATGSKKFVNVEDLNAADAIKKYHNLDLILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K DL VV+ W+KY   A L+F+GEK+GATNS +FW    F  S ++ RIN +FKS+DFI+
+Sbjct  181  KSDLEVVKTWKKY-SQAHLIFIGEKNGATNSREFWDYNRFVKSHSLKRINQSFKSYDFIE  239
+
+Query  241  EQIFQVKQ  248
+            E+IF+V++
+Sbjct  240  EKIFEVEK  247
+
+
+
+
+>SAM-dependent methyltransferase [uncultured Lactobacillus sp.]
+Sequence ID: WP_294891248.1 Length: 252
+Range 1: 1 to 248
+
+Score:252 bits(644), Expect:2e-80, 
+Method:Compositional matrix adjust., 
+Identities:122/248(49%), Positives:165/248(66%), Gaps:2/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTD+LSK+  L+ +++   V  QV EIN IV  I  +++LK+AP  LG LPD  E+I  +
+Sbjct  1    MTDFLSKINQLDARLNIELVHQQVVEINNIVATIRQKQVLKRAPKKLGFLPDVAEEICSN  60
+
+Query  61   IGTEKSQ--QLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNA  118
+                K Q    K  N+LLN+ RQFL++++G+WS+PNL T Q I+D+    + LEIMAGN 
+Sbjct  61   HFHSKDQLDDFKTINQLLNNTRQFLAIKFGLWSIPNLETAQTIKDQLKINKGLEIMAGNG  120
+
+Query  119  YWSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPN  178
+            YWS     +G+   ATD+ +W++TS TG+  F+PV +YDA  A+++F+  DLI+CSWAPN
+Sbjct  121  YWSKALSQVGVKMTATDNLDWSRTSNTGAQAFVPVSNYDAARAVKQFSDVDLIICSWAPN  180
+
+Query  179  FTKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDF  238
+            F   D  VV  WQK N    LLFVGE++G TNS  FW K+ F HS  +  IN TF SFDF
+Sbjct  181  FGNSDEKVVNAWQKLNSATHLLFVGERNGVTNSASFWQKEPFLHSKELRLINQTFTSFDF  240
+
+Query  239  IDEQIFQV  246
+            IDEQIF++
+Sbjct  241  IDEQIFEI  248
+
+
+
+
+>hypothetical protein [Lactobacillus sp. wkB10]
+Sequence ID: WP_034979090.1 Length: 250
+Range 1: 1 to 246
+
+Score:251 bits(642), Expect:2e-80, 
+Method:Compositional matrix adjust., 
+Identities:117/246(48%), Positives:168/246(68%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++LSK+  L+++++   +  QVKEIN IV+ +S +++L+KAP  LG LPD+ E+I   
+Sbjct  1    MTNFLSKINQLDQELNIDPIHHQVKEINDIVSVVSQKQVLRKAPEKLGFLPDKSEEICAG  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +     ++ K  N+L+N+LRQFL++ +G+WS+PNL T   I++  + K  LEIMAGNAYW
+Sbjct  61   LSQTDIKKFKSANQLINNLRQFLAINFGVWSLPNLQTANAIKESLNIKTGLEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +G++   TD+ +W+KTS TGS  F+ V +++A  A++ F   DLI+CSWAPNF 
+Sbjct  121  SKALSDVGVEMTVTDNLDWSKTSSTGSRQFMTVRNFEATKAVKIFDNVDLIICSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D NVV  WQK N  + LLF+GEK GATNS  FW K L  HS  + +IN TF SFDFI+
+Sbjct  181  NSDTNVVSTWQKMNTTSRLLFIGEKGGATNSAAFWQKGLIHHSPELKQINQTFHSFDFIN  240
+
+Query  241  EQIFQV  246
+            E IF++
+Sbjct  241  EHIFEI  246
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp.]
+Sequence ID: MFC2694508.1 Length: 244
+Range 1: 1 to 243
+
+Score:250 bits(638), Expect:9e-80, 
+Method:Compositional matrix adjust., 
+Identities:121/248(49%), Positives:166/248(66%), Gaps:6/248(2%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M  YL+ LA + + I  P++  Q  EI  +V  ++A+++L KAP PLGLLPDQ E++ + 
+Sbjct  1    MNSYLATLARVAQGI--PELEAQAAEIKGLVACVAAKKVLPKAPQPLGLLPDQREELGQH  58
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+             G ++  Q    + LLN+LR FLS R+G+WSVPNL T Q ++D +H + VLE+MAGNAYW
+Sbjct  59   YGQQRIAQ---ADSLLNNLRSFLSWRFGLWSVPNLKTAQLLKDYYHVETVLEVMAGNAYW  115
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFT-QADLILCSWAPNF  179
+            S   + +G   +ATDS EWAKTS+TG+  F+PV    A  A+ ++  QADL+LC+WAPNF
+Sbjct  116  SKALQAVGCQVVATDSLEWAKTSETGALSFVPVKRLAAAEAVAQYGPQADLLLCAWAPNF  175
+
+Query  180  TKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+               D  +V  W+K      L+FVGE+DGATNSP FW       SA + +IN +F SFDFI
+Sbjct  176  NASDCQLVAAWRKLTSRPVLVFVGERDGATNSPRFWQNVPLQSSAGLRKINASFASFDFI  235
+
+Query  240  DEQIFQVK  247
+            DE+IFQV+
+Sbjct  236  DEKIFQVQ  243
+
+
+
+
+>class I SAM-dependent methyltransferase [Lactobacillus porci]
+Sequence ID: WP_412128760.1 Length: 248
+Range 1: 1 to 248
+
+Score:248 bits(634), Expect:3e-79, 
+Method:Compositional matrix adjust., 
+Identities:118/248(48%), Positives:167/248(67%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT Y++KL  L+ Q+ + ++  QVK+I QI  A+  R++L +AP  LGL PD+YE+I  +
+Sbjct  1    MTKYINKLQALSAQLHNQEIADQVKQICQIDQAVKDRQVLNRAPQRLGLEPDEYEEISWE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+               ++   L+  N LLN++RQ+LSL+YGIWS+PNL T + I ++   K  LE+MAGNAYW
+Sbjct  61   TPDDQLHNLQTMNNLLNNVRQYLSLQYGIWSLPNLTTARLIMEKLGVKTALEVMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S      G+  +ATDS EWAKTS TGS PF PV    A  A++++   DLILCSW+PNF 
+Sbjct  121  SKALSQAGMQVVATDSLEWAKTSATGSEPFYPVESLSAADAVKKYADRDLILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL ++   ++  P + LLFVGE+ GATNS DFW     + S A+  IN +F S+DFI+
+Sbjct  181  RSDLELIAAKRELAPKSHLLFVGERAGATNSRDFWRGDFLTDSPAMKAINRSFVSYDFIE  240
+
+Query  241  EQIFQVKQ  248
+            E++F+VKQ
+Sbjct  241  EKLFEVKQ  248
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus helsingborgensis]
+Sequence ID: WP_267270824.1 Length: 250
+Range 1: 1 to 246
+
+Score:244 bits(623), Expect:2e-77, 
+Method:Compositional matrix adjust., 
+Identities:117/246(48%), Positives:169/246(68%), Gaps:0/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTD+LSK+  L+ ++    V  QV+E+N+IV+ I  +++L +AP  LG LPD  E+I  +
+Sbjct  1    MTDFLSKINQLDDELELEPVHQQVREVNEIVSCIKQKKVLPRAPEKLGFLPDFAEEICIN  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            + T K +Q +  N+L+N+LR+FL+  +GIWSVPNL T + I+++ + K  LEIMAGNAYW
+Sbjct  61   LPTRKVKQFQTVNQLINNLREFLAREFGIWSVPNLTTAELIKNKLNVKTGLEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +G++  ATD+ EW+KTS+TG++ FI V + +A  A+      DLI+CSWAPNF 
+Sbjct  121  SKALAEVGVEMTATDNFEWSKTSKTGTNSFIRVQNLNAEKALSVINNVDLIICSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + D  +V NW+  N    LLFVGEK+GATNSP FW  + F HS  + +IN +F SFDFI+
+Sbjct  181  QHDEKLVLNWRNNNFTNHLLFVGEKNGATNSPIFWRNEHFVHSKEMMQINRSFASFDFIE  240
+
+Query  241  EQIFQV  246
+            E IF++
+Sbjct  241  EHIFEI  246
+
+
+
+
+>hypothetical protein [Lactobacillus equicursoris]
+Sequence ID: WP_009558741.1 Length: 248
+Range 1: 1 to 248
+
+Score:241 bits(616), Expect:2e-76, 
+Method:Compositional matrix adjust., 
+Identities:117/248(47%), Positives:162/248(65%), Gaps:0/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT+++ K+  L    + P++  QV EI  + + +  + LL  AP  LGL   +  ++  +
+Sbjct  1    MTEFIEKIKDLGVGFTDPEIARQVAEIELLDSIVQGQRLLASAPGKLGLSDRKMGELSWE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +  E   +LK  NKL N++RQ+LSL+YGIWSVPN  T   +++E   +  LE+MAGNAYW
+Sbjct  61   MSDEDYSRLKTLNKLFNNVRQYLSLQYGIWSVPNFETANLLKEELGVETALEVMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S      G+   ATDS EWAKTSQTGS PF  V D  A  A++++   DLILCSWAPNF 
+Sbjct  121  SKALSDAGVQVWATDSLEWAKTSQTGSKPFYRVEDLPADQAVKKYAAVDLILCSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL+++Q  Q Y P A L+F+GEK+GATNS +FW K  F  S ++ +IN +FKS+DFI 
+Sbjct  181  QADLDLIQARQYYAPRAKLVFIGEKNGATNSSEFWQKTKFVKSDSLKKINRSFKSYDFIK  240
+
+Query  241  EQIFQVKQ  248
+            EQIF+VKQ
+Sbjct  241  EQIFEVKQ  248
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp. PV034]
+Sequence ID: WP_265489187.1 Length: 247
+Range 1: 1 to 247
+
+Score:240 bits(613), Expect:6e-76, 
+Method:Compositional matrix adjust., 
+Identities:113/248(46%), Positives:164/248(66%), Gaps:2/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M +Y  KL  + + +S P++  Q+ EI+ I+ +++ + +LK+AP  LG  PDQ E++L  
+Sbjct  1    MNNYQKKLHHIQQIVSLPEIDLQITEIDHIIESLNKKRVLKQAPAKLGFYPDQLEELLAK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                K + + +TN LL++ R FLS  +G+WS+ N  TI+ I++ +H K  LE+MAGNAYW
+Sbjct  61   RPVYKEELITLTN-LLDNFRSFLSRHFGLWSLANQTTIEAIKETYHCKTGLELMAGNAYW  119
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S GF   G+   ATDS  WAK+S TG   F P   Y+A  AIR FT  DLI+C WAPNF 
+Sbjct  120  SKGFNEAGVKMQATDSFSWAKSSATGRQTFFPTKMYEASQAIREFTDVDLIICCWAPNFG  179
+
+Query  181  KDDLNVVQNWQKY-NPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+              D  +++ W++Y NP  TLLF+GEK+GATN+P FW + +  HS  + +IN +F SFDFI
+Sbjct  180  DGDKKILETWRQYGNPKTTLLFIGEKNGATNTPAFWKEAIEIHSPQLRKINRSFSSFDFI  239
+
+Query  240  DEQIFQVK  247
+            +E+IF++K
+Sbjct  240  EEKIFEIK  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus gallinarum]
+Sequence ID: WP_289221836.1 Length: 216
+Range 1: 1 to 214
+
+Score:233 bits(593), Expect:2e-73, 
+Method:Compositional matrix adjust., 
+Identities:109/214(51%), Positives:149/214(69%), Gaps:0/214(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT+YL KL +L+ +I+HP + +QV+EI QI + +   + LK AP  LGLLPDQ+E +L++
+Sbjct  1    MTNYLHKLTMLDDEINHPLIHSQVEEIKQIDHYVGNGKPLKAAPDKLGLLPDQFEDVLKE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            IG  K ++L   N L N+ RQ+LSL+YGIWS+ NL T   I+D+      LEIMAGNAYW
+Sbjct  61   IGNNKKRKLTDINNLFNNFRQYLSLKYGIWSIANLKTAALIKDKMQIDTALEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +GI TI+TDS EWAKTS TG+ PF PV + +A  AI++++  DLILCSW+PNF 
+Sbjct  121  SSTLANVGIQTISTDSLEWAKTSSTGAEPFHPVINLEAAQAIKKYSDVDLILCSWSPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDF  214
+            + DL  +  WQKY+     +F+GE+DGATNS  +
+Sbjct  181  QSDLAAIDAWQKYSNAKHFIFIGEEDGATNSNGY  214
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp.]
+Sequence ID: MDN6029251.1 Length: 243
+Range 1: 1 to 243
+
+Score:233 bits(593), Expect:5e-73, 
+Method:Compositional matrix adjust., 
+Identities:114/248(46%), Positives:166/248(66%), Gaps:5/248(2%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTD++ KL  L++ +  P +  QV ++ +++ A+  + +L +AP PLG +  Q  Q L  
+Sbjct  1    MTDFMRKLTQLDQALQLPALHVQVLDVRRVMQAVDQKIVLNRAPRPLGGI--QPAQRLTP  58
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +   K   LK+  +LLNSLRQ+LS++YGIWS+PNLA  Q I+  F+   VLE+MAGNAYW
+Sbjct  59   VQQAK---LKVAQQLLNSLRQYLSIQYGIWSLPNLAAAQAIKQHFNATNVLEVMAGNAYW  115
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S  F  +G+ TIATDS EWAKTS+TGS PF PV D  A++A++ +  ADL+ CSW+PNF 
+Sbjct  116  SKAFDAIGLKTIATDSLEWAKTSKTGSQPFFPVQDLSALAAVKSYPMADLVFCSWSPNFG  175
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D+++++  ++   HA LLFVG++ G TN+  FW +      +A+  IN  F S+DFID
+Sbjct  176  HADIDLIKAVRRDTDHAQLLFVGDRSGVTNTTMFWQQAELVDFSALWDINTEFISYDFID  235
+
+Query  241  EQIFQVKQ  248
+            E+I QVK+
+Sbjct  236  EEILQVKR  243
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp. PV037]
+Sequence ID: WP_265484471.1 Length: 248
+Range 1: 1 to 248
+
+Score:233 bits(593), Expect:6e-73, 
+Method:Compositional matrix adjust., 
+Identities:109/248(44%), Positives:165/248(66%), Gaps:1/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M + ++KL  L+K I+   V  +V E+ +I++ IS ++++   P  L + PD++E+I E 
+Sbjct  1    MENLVNKLITLDKSINSELVHKRVVEVEKIIDKISKKDVISTMPARLEIFPDEFEEISEG  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +   + Q + + NKLL + R +LS +YGIWS+PNLA  + +++EF  K  LE+MAGN YW
+Sbjct  61   LTLSEVQDINVLNKLLTNFRSYLSRKYGIWSLPNLAAAEMVKEEFSAKTALEVMAGNGYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            SL    +GI T ATDS EWAKTSQTGS+ F PV    A  A+++++  D+ILC+WAPNF 
+Sbjct  121  SLALNKVGIKTKATDSLEWAKTSQTGSNRFYPVEKLTAEQAVKKYSDVDIILCAWAPNFG  180
+
+Query  181  KDDLNVVQNWQKY-NPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+             +D  ++Q+++KY +    LLF+GEKDGATN+P FW +        I +IN  F+SFDFI
+Sbjct  181  SEDYKLLQSYRKYCDLRTKLLFIGEKDGATNTPLFWQEAKLIDKKKIKKINQVFQSFDFI  240
+
+Query  240  DEQIFQVK  247
+            DE+ + ++
+Sbjct  241  DERFYGIR  248
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp.]
+Sequence ID: WP_290626058.1 Length: 247
+Range 1: 1 to 247
+
+Score:232 bits(591), Expect:1e-72, 
+Method:Compositional matrix adjust., 
+Identities:104/247(42%), Positives:161/247(65%), Gaps:0/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTDY   L  ++K+++   +  QV+E+  I+N +  +++L KAP  +G LPD+Y+++   
+Sbjct  1    MTDYKELLVSIDKKLNISCLHQQVQEVVNILNCLDKKDILPKAPAHIGFLPDEYDELFWK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            + +E+   LK  + LLN+ R +LS  YG+WS+ NL T + I+D++     LE+M GN+YW
+Sbjct  61   VSSEERVLLKQADNLLNNFRSYLSRSYGLWSLANLKTARIIKDQYQVNTSLEVMGGNSYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S  F  +G+  ++TDS  WAKTS TG+  F      DA +AI+++ + DL++C WAPNF 
+Sbjct  121  SAAFDRIGVQAVSTDSMSWAKTSNTGNHRFYKTEQLDAQNAIKKYREVDLVICCWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              DL V+  ++KYN H  LLF+GEKDGATN+  FW       S+ I ++N TF +FDFID
+Sbjct  181  DSDLEVLTAFRKYNTHGILLFIGEKDGATNTAKFWEHARIISSSKIRQVNQTFPNFDFID  240
+
+Query  241  EQIFQVK  247
+            E+I+++K
+Sbjct  241  EKIYEIK  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus nasalidis]
+Sequence ID: WP_201330597.1 Length: 246
+Range 1: 1 to 246
+
+Score:231 bits(590), Expect:2e-72, 
+Method:Compositional matrix adjust., 
+Identities:115/247(47%), Positives:166/247(67%), Gaps:1/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT ++ K++ L K+ + P++  QV+EI  I   +S++ LL  AP  LG+   ++ ++  D
+Sbjct  1    MTQFIEKISALAKEFADPELDRQVEEIKLIDQCVSSQHLLAFAPEGLGISDSRFAEMTWD  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +   + + L+  N LLN++RQ+LSL YGIWS+PN+AT + I++EF  +  LE+MAGNAYW
+Sbjct  61   LTDGQIKDLRALNNLLNNVRQYLSLEYGIWSLPNMATARLIKEEFGVESALEVMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S      GI   ATDS EW+K+S+TG  PF PV D  A  A+ ++   DLILCSWAPNF 
+Sbjct  121  SKALSEAGIQVRATDSLEWSKSSKTGKRPFYPVEDLPADQAVMKYATCDLILCSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL ++     Y P A LLF+GEK G TNSP+FW K+ F+ SA + +IN +FKS+DFI+
+Sbjct  181  QADLELIAAKHHYAPAARLLFIGEK-GVTNSPEFWSKRHFNRSAELRKINRSFKSYDFIE  239
+
+Query  241  EQIFQVK  247
+            E+ F+VK
+Sbjct  240  EKFFEVK  246
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus rodentium]
+Sequence ID: WP_117118649.1 Length: 247
+Range 1: 1 to 247
+
+Score:231 bits(590), Expect:2e-72, 
+Method:Compositional matrix adjust., 
+Identities:109/248(44%), Positives:164/248(66%), Gaps:2/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M D+  KL  L  ++S P++ +QV+EI +I+  +  +++LK AP  LG  PD  E +L+ 
+Sbjct  1    MDDFQKKLYQLQAEVSLPEIDSQVREIKKIIATLVNQQVLKVAPAKLGFEPDILETLLKK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+               +K   L I N +LN+ R +LS ++G+WS+ NL T + IQ+ +H +  LE+MAGNAYW
+Sbjct  61   RPQDKQSILTINN-MLNNFRSYLSRKFGLWSLANLGTARAIQESYHFQTGLELMAGNAYW  119
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S  F  +G+  IATDS  WAK+S TG+ PF P  +Y+A  AI+++   DLI+C WAPNF 
+Sbjct  120  SKAFSEMGVKMIATDSFVWAKSSSTGNKPFFPTKNYEATQAIKKYANVDLIICCWAPNFG  179
+
+Query  181  KDDLNVVQNWQKYNPHAT-LLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+            K D  +++ ++ +    T LLF+GEK+GATN+  FW + +  +S  I RIN TF SFDFI
+Sbjct  180  KGDQQILKTYRNFCSSKTKLLFIGEKNGATNTSAFWKEAVEVNSKVIKRINSTFSSFDFI  239
+
+Query  240  DEQIFQVK  247
+            +E+I+++K
+Sbjct  240  EEKIYEIK  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp.]
+Sequence ID: WP_439774661.1 Length: 246
+Range 1: 1 to 245
+
+Score:228 bits(580), Expect:6e-71, 
+Method:Compositional matrix adjust., 
+Identities:115/246(47%), Positives:161/246(65%), Gaps:1/246(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT ++ K++ L K+ + P++  QVKEI  I   +S++ +L  AP  LG+  +++ ++  D
+Sbjct  1    MTQFIEKISALAKEFADPELDRQVKEIKMIDECVSSQRMLLFAPESLGISDERFAEMTWD  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +   + + L+  N LLN++RQ+LSL YGIWS+PN+ T Q I+DE   +  LE+MAGNAYW
+Sbjct  61   LSESQIKDLRALNNLLNNVRQYLSLEYGIWSLPNMETAQLIRDELGVETALEVMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S      GI   ATDS EW+K+SQTG  PF  V +  A  AI ++   DLILCSWAPNF 
+Sbjct  121  SKALSEAGIQVWATDSLEWSKSSQTGKKPFYRVENLPADQAIMKYAACDLILCSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K DL ++   Q Y P A LLF+GEK G TNSP FW K+ F  S+ + +IN +FKS+DFI 
+Sbjct  181  KADLELIAAKQHYAPAARLLFIGEK-GVTNSPGFWSKKHFVRSSELRKINRSFKSYDFIK  239
+
+Query  241  EQIFQV  246
+            E+ F+V
+Sbjct  240  EKFFEV  245
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus colini]
+Sequence ID: WP_209685547.1 Length: 247
+Range 1: 1 to 247
+
+Score:226 bits(577), Expect:2e-70, 
+Method:Compositional matrix adjust., 
+Identities:102/247(41%), Positives:165/247(66%), Gaps:0/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M +++ +L  +++Q++   +  QV+EI +I+N ++ +++L  AP P+G +PD+YE++   
+Sbjct  1    MANFVKQLIKIDQQLNIQALHRQVEEIVKILNYLNQKQVLPAAPDPIGFMPDEYEELSLL  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +    +  LK  + LLN+ R +LS  YG+WS+ NL T + I+ ++H K  LE+MAGN+YW
+Sbjct  61   LDRHDTLLLKQADNLLNNFRSYLSRNYGLWSLANLTTAKMIRRQYHIKNSLEVMAGNSYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S  F  +G+  I+TDS  WAKTS+TG   F       A +AI+++   DL++C WAPNF 
+Sbjct  121  SAAFDRIGVQAISTDSMSWAKTSETGRYSFYRTEQLSAPAAIKKYHDVDLVICCWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            K DL+V++ ++KYN    LLF+GEKDGATN+ +FW      H++ I  +N TF +FDFID
+Sbjct  181  KGDLDVLKAFRKYNNQGHLLFIGEKDGATNTDEFWKNAKIIHNSKIKLVNQTFPNFDFID  240
+
+Query  241  EQIFQVK  247
+            E+I++++
+Sbjct  241  EKIYEIR  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus corticis]
+Sequence ID: WP_212780735.1 Length: 245
+Range 1: 1 to 244
+
+Score:224 bits(571), Expect:1e-69, 
+Method:Compositional matrix adjust., 
+Identities:115/248(46%), Positives:154/248(62%), Gaps:5/248(2%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT Y+ KL  L  ++ +P +  Q  EI +I   +  + +L   P  LG      +  L+ 
+Sbjct  1    MTKYIEKLRTLATKLQNPLINQQAAEIIKIDQIVGQKAILPNPPAHLGF----SKSTLQT  56
+
+Query  61   IGTEKS-QQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAY  119
+            + T  S +++   N L+NS RQ+LS+ YGIWS+PNLA  Q I++ +  K  LE+MAGNAY
+Sbjct  57   LKTGNSAKEIGAVNGLINSFRQYLSINYGIWSLPNLAASQAIKNHYQVKTALEVMAGNAY  116
+
+Query  120  WSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNF  179
+            WS      GID  ATDS EWAK+SQTGS  F PV +  A  A+ ++ Q DLIL SW+PNF
+Sbjct  117  WSKALSQTGIDCTATDSLEWAKSSQTGSDRFYPVENLSATEAVEKYRQVDLILASWSPNF  176
+
+Query  180  TKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+               D+ +VQ W+K+ P+A LLFVGE  GATNSP+FW +     +  +  IN  F SFDFI
+Sbjct  177  GDADIQLVQAWRKFAPNAKLLFVGEYAGATNSPNFWQEVPLVSADEMWDINANFISFDFI  236
+
+Query  240  DEQIFQVK  247
+            DE+IFQVK
+Sbjct  237  DEEIFQVK  244
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus taiwanensis]
+Sequence ID: WP_304682457.1 Length: 242
+Range 1: 1 to 242
+
+Score:223 bits(567), Expect:4e-69, 
+Method:Compositional matrix adjust., 
+Identities:116/251(46%), Positives:164/251(65%), Gaps:13/251(5%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M +Y +KL  L+K++++  +  QV  INQI+ ++  +++L K+   LG LPD  + ++E+
+Sbjct  1    MKNYQTKLNKLDKELNYLPLHRQVTTINQIIASLERKKILSKSLDELGFLPDSLDIMIEN  60
+
+Query  61   IGTE-KSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAY  119
+            +G   K+Q+    N LLN+ R FLS  YGIWS+PNL T + I++E++ K  LEIMAGNAY
+Sbjct  61   VGDNVKAQE---ANNLLNNFRSFLSREYGIWSLPNLETARLIKEEYNIKSSLEIMAGNAY  117
+
+Query  120  WSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNF  179
+            WS     +GI  IA+DS  WAK+S TG +P     + DA+ AI+   + DLILCSWAPNF
+Sbjct  118  WSKALSEVGIKAIASDSFTWAKSSTTGENPIFKTENLDALEAIKAHPEVDLILCSWAPNF  177
+
+Query  180  TKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAIT---RINDTFKSF  236
+              DDL V+  ++  N    LLF+GEKDGATNS  FW +      A IT   +IN +F+SF
+Sbjct  178  GDDDLAVLDFYRNLNTKPALLFIGEKDGATNSASFWQE------AEITTNPKINRSFRSF  231
+
+Query  237  DFIDEQIFQVK  247
+            DFI+E +F+VK
+Sbjct  232  DFINETVFKVK  242
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus johnsonii]
+Sequence ID: WP_180873913.1 Length: 242
+Range 1: 1 to 242
+
+Score:221 bits(563), Expect:2e-68, 
+Method:Compositional matrix adjust., 
+Identities:108/247(44%), Positives:164/247(66%), Gaps:5/247(2%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M  Y  KL  L++++++  +  QV +IN I+  +   ++L+K+P  LG LPD  + ++E+
+Sbjct  1    MKKYQKKLNKLDEELNYLPLHEQVVDINNIITNLKKGKILQKSPNSLGFLPDSLDIMIEN  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+              T  S + + TN LLN+ R FLS  YGIWS+PNL T + I+ E++ K  LEIMAGNAYW
+Sbjct  61   --TASSDKAQETNNLLNNFRSFLSREYGIWSLPNLETAKLIKQEYNVKSSLEIMAGNAYW  118
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +GI  IA+DS  WAK+S TG SP     + DA+SAI++  + DLI+CSWAPNF 
+Sbjct  119  SKALSEVGIKAIASDSFAWAKSSTTGESPIFETENLDALSAIKKHPEVDLIICSWAPNFG  178
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            +DD+N++  +++ +    LLF+GEK GATNS  FW +   + +    ++N +F+SFDFID
+Sbjct  179  EDDINILNLYRQLDYQPVLLFIGEKFGATNSTTFWQE---AKTTTNKKVNRSFRSFDFID  235
+
+Query  241  EQIFQVK  247
+            E+++++K
+Sbjct  236  EKVYEIK  242
+
+
+
+
+>hypothetical protein [Lactobacillus hominis]
+Sequence ID: WP_008471692.1 Length: 249
+Range 1: 1 to 249
+
+Score:216 bits(550), Expect:2e-66, 
+Method:Compositional matrix adjust., 
+Identities:109/249(44%), Positives:152/249(61%), Gaps:2/249(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M +Y  K+  L K I  P +  QVKEIN+I+  I+  ++L + PV LGL P++ ++I   
+Sbjct  1    MNNYQLKINKLAKIIQEPIINNQVKEINKIIETINQHDVLDRRPVDLGLAPNELDEIQRK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                K   ++  N LLN+ R FLS  YGIWS+PNL T+  ++ EF  K+ LEIMAGNAYW
+Sbjct  61   NFQSKRVAIEQINNLLNNFRSFLSRYYGIWSLPNLETVHLLKSEFDLKKGLEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S       +  IA+DS  WA+ S+TG + F P    DAIS+I ++   D I+C+WAPNF 
+Sbjct  121  SKALTQANVKMIASDSFTWAQGSKTGQNNFYPTQKLDAISSIEKYDDVDFIMCAWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYN--PHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDF  238
+              D  V+  ++K        L FVGEK+GATN+  FW K     S  + ++N +FKSFDF
+Sbjct  181  DSDCQVLDTYRKCCDLKQTKLFFVGEKNGATNTAQFWQKAHQIKSKKLLKVNQSFKSFDF  240
+
+Query  239  IDEQIFQVK  247
+            IDE+IF++K
+Sbjct  241  IDEKIFEIK  249
+
+
+
+
+>hypothetical protein [Lactobacillus iners]
+Sequence ID: WP_006731501.1 Length: 248
+Range 1: 1 to 248
+
+Score:214 bits(545), Expect:1e-65, 
+Method:Compositional matrix adjust., 
+Identities:105/248(42%), Positives:152/248(61%), Gaps:1/248(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT YL+K+  L +++  P V  QV EI  I+  + A+  L  AP  LG+ PD  +   E 
+Sbjct  1    MTSYLNKMISLVEELHLPLVDEQVLEIKFIIKCLDAKIPLPSAPNMLGIEPDVMDFYKEK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +     Q+L++ N+LLN+ R ++S +YG+WS+ NL T ++I D+++   +LEIMAGNAYW
+Sbjct  61   LSAIDYQKLELVNQLLNNFRSYISRKYGVWSLANLNTAKEIVDKYNVHSILEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S  F  LG+  IATD+ EWAK S TG   F PV    A+ AI ++   D+I+C WAPNF 
+Sbjct  121  SAAFSKLGVKAIATDNLEWAKGSCTGDLLFFPVKKLSAVDAIHKYRDVDIIICCWAPNFG  180
+
+Query  181  KDDLNVVQNWQKY-NPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+              D+++++ +         LLF+GEK+GATN+  FW    F  S  +  IN T  SFDFI
+Sbjct  181  SADMDIIEAYNTIQGKKPKLLFLGEKNGATNTARFWKSAKFKKSCELNSINHTISSFDFI  240
+
+Query  240  DEQIFQVK  247
+            DE+ F++K
+Sbjct  241  DERFFEIK  248
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus isalae]
+Sequence ID: WP_282806013.1 Length: 242
+Range 1: 1 to 242
+
+Score:213 bits(543), Expect:2e-65, 
+Method:Compositional matrix adjust., 
+Identities:109/248(44%), Positives:159/248(64%), Gaps:7/248(2%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M  Y  KL  L+K++++  +  QV  IN  +  +   ++L+KAP  LG LPD  + ++++
+Sbjct  1    MKKYQIKLNNLDKELNYVPLHEQVNIINDTITELEKGKILQKAPNSLGFLPDSLDIMIDN  60
+
+Query  61   IGT-EKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAY  119
+            + + EK Q+    N LLN+ R FLS  YGIWS+PNL T + I++++H +  LEIMAGNAY
+Sbjct  61   VKSREKVQE---ANNLLNNFRSFLSREYGIWSLPNLETARLIKEQYHVQTSLEIMAGNAY  117
+
+Query  120  WSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNF  179
+            WS     +G+D IA+DS  WAK+S TG  P     + DA+SAI++    DLILCSWAPNF
+Sbjct  118  WSKALNEVGVDAIASDSFSWAKSSTTGKIPIFETENMDALSAIKKHPDVDLILCSWAPNF  177
+
+Query  180  TKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+             +DDL ++  ++       LLF+GEK GATNS  FW +   + +    +IN +F+SFDFI
+Sbjct  178  GEDDLEILDLYRSLKHQPVLLFIGEKFGATNSTSFWCE---AKTRTNKKINRSFQSFDFI  234
+
+Query  240  DEQIFQVK  247
+             E++F+VK
+Sbjct  235  HEEVFEVK  242
+
+
+
+
+>hypothetical protein [Lactobacillus jensenii]
+Sequence ID: WP_006584794.1 Length: 240
+Range 1: 1 to 239
+
+Score:213 bits(543), Expect:2e-65, 
+Method:Compositional matrix adjust., 
+Identities:101/248(41%), Positives:160/248(64%), Gaps:9/248(3%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTD+L+KL  ++ +++ P++  QV EI Q+ + +  +EL +     LGL+ +Q       
+Sbjct  1    MTDFLTKLIKIDSELNIPKLHQQVSEIRQVCSKLDKKELPESQIKKLGLVTEQ-------  53
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                K++++++ N LLNS RQ+LSL YG+WS+PN+ T Q I+++++    +E+MAGNA W
+Sbjct  54   --ENKTKKVQVANNLLNSFRQYLSLHYGLWSLPNIQTAQIIKEKYNVTSAVEVMAGNAAW  111
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S      GI   A+D+  W+KTS+TG + F PV + DA +AI ++   DLI+CSWAPNF 
+Sbjct  112  SKALSLAGIKVKASDNLVWSKTSKTGKNCFYPVENLDAKTAITKYQDCDLIICSWAPNFG  171
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D++++  W+K      LLFVGE+ G TNS DFW    FS ++A+  +N +F SFDFI+
+Sbjct  172  HADIDLINTWKKLEHKPKLLFVGEEFGVTNSEDFWQTTPFSENSALVAVNASFSSFDFIE  231
+
+Query  241  EQIFQVKQ  248
+            E+ F++ +
+Sbjct  232  ERFFEIDE  239
+
+
+
+
+>SAM-dependent methyltransferase, partial [Lactobacillus helveticus]
+Sequence ID: WP_254259072.1 Length: 189
+Range 1: 1 to 185
+
+Score:211 bits(538), Expect:2e-65, 
+Method:Compositional matrix adjust., 
+Identities:94/185(51%), Positives:128/185(69%), Gaps:0/185(0%)
+
+Query  62   GTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWS  121
+            G  + ++L   N L N+ RQ+LSL+YG+WSVPNL T   I++  H    LEIMAGNAYWS
+Sbjct  1    GNNQKRKLTDINNLFNNFRQYLSLKYGVWSVPNLKTAHLIKNRLHIDTALEIMAGNAYWS  60
+
+Query  122  LGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFTK  181
+               + + I TI+TDS EWAKTS TG+ PF PV + +A  AI+ ++  DLI+CSW+PNF K
+Sbjct  61   KALENVEIQTISTDSLEWAKTSSTGAEPFHPVINLEATEAIKHYSDVDLIICSWSPNFGK  120
+
+Query  182  DDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDE  241
+             D+  +  W K +     +F+GE+DGATNSP+FW    F  +AA+  IND+F+SFDFIDE
+Sbjct  121  SDIAAIDTWHKCSNAKHFIFIGEEDGATNSPEFWQNNWFKQTAALKAINDSFQSFDFIDE  180
+
+Query  242  QIFQV  246
+            +IF++
+Sbjct  181  RIFEI  185
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus crispatus]
+Sequence ID: MCT7791184.1 Length: 188
+Range 1: 2 to 185
+
+Score:210 bits(535), Expect:5e-65, 
+Method:Compositional matrix adjust., 
+Identities:102/184(55%), Positives:131/184(71%), Gaps:0/184(0%)
+
+Query  64   EKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLG  123
+            +K   L+  N LLN+ RQ+LSL YGIWS+PN+ T Q I+++ H +  LEIMAGNAYWS  
+Sbjct  2    DKEGALRDLNNLLNNFRQYLSLIYGIWSLPNIQTAQLIKNKLHVQTALEIMAGNAYWSQA  61
+
+Query  124  FKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFTKDD  183
+               +GI   +TDS EWAKTS TG+ PF PV D  A  AI+++   +L+LCSW+PNF   D
+Sbjct  62   LAQVGIKVHSTDSLEWAKTSTTGAKPFYPVEDLPADQAIKKYHTVNLVLCSWSPNFGHGD  121
+
+Query  184  LNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQI  243
+            L  V  W KYNP   LLFVGEKDGATNSP+FWH+  F +SAA+  IN + +SFDFI+EQ+
+Sbjct  122  LETVAAWHKYNPSCHLLFVGEKDGATNSPEFWHQNWFKNSAALDEINHSLQSFDFINEQV  181
+
+Query  244  FQVK  247
+            F++K
+Sbjct  182  FEIK  185
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus delbrueckii]
+Sequence ID: WP_231526773.1 Length: 249
+Range 1: 1 to 242
+
+Score:212 bits(540), Expect:7e-65, 
+Method:Compositional matrix adjust., 
+Identities:104/243(43%), Positives:159/243(65%), Gaps:1/243(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT ++ K++ L K+ + P++  QV+EI  I   +S++ +L  AP  LG+  D++ ++  +
+Sbjct  1    MTQFIEKISALAKEFADPELGRQVQEIKMIDECVSSQRMLLFAPDRLGISDDRFAELTWE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +   + + L+  N LLN++RQ+LSL YGIWS+PN+ T Q  ++E   +  LE+MAGNAYW
+Sbjct  61   LPDSQIKDLRALNNLLNNVRQYLSLEYGIWSLPNMETAQLFKNELGIETALEVMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S      GI   ATDS EW+++S+TG  PF PV +  A  A+ ++   D+ILCSWAPNF 
+Sbjct  121  SKALSEAGIQVWATDSLEWSRSSKTGKKPFYPVENLPADQAVMKYATCDMILCSWAPNFG  180
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + DL ++   Q Y P A L F+GEK G TNSP+FW ++ F+ S+ + +IN +FKS+DFI 
+Sbjct  181  QADLELIAAKQHYAPAARLFFIGEK-GVTNSPEFWTRKHFAKSSELRKINRSFKSYDFIK  239
+
+Query  241  EQI  243
+            E+ 
+Sbjct  240  EKF  242
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus paragasseri]
+Sequence ID: WP_313999750.1 Length: 242
+Range 1: 1 to 242
+
+Score:212 bits(539), Expect:8e-65, 
+Method:Compositional matrix adjust., 
+Identities:107/247(43%), Positives:162/247(65%), Gaps:5/247(2%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M  Y  KL  L++++++  +  QV  IN I+  I  +++L K+P  LG LPD  + ++++
+Sbjct  1    MKQYQIKLNQLDRELNYLPLHRQVNIINNIIANIQQKKILPKSPNSLGFLPDSLDIMIDN  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +G +   +++  N LLN+ R FLS  YG+WS+PNL T + I+ E+H K  LEIMAGNAYW
+Sbjct  61   VGNK--DKVQEANNLLNNFRSFLSREYGVWSLPNLETARLIKQEYHVKSSLEIMAGNAYW  118
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S     +GI   A+DS  WAK+S TG +P     + DA+SAI++  + DLI+CSWAPNF 
+Sbjct  119  SKALSQVGIKATASDSFSWAKSSTTGEAPIFATENLDALSAIKKHPEVDLIICSWAPNFG  178
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            +DDL ++  ++  +    LLF+GEK+GATNS  FW K   +     T+IN +F+SFDFI+
+Sbjct  179  EDDLKILDLYRSLDHQPVLLFIGEKNGATNSTSFWQK---AKCRTNTKINHSFQSFDFIN  235
+
+Query  241  EQIFQVK  247
+            E++F++K
+Sbjct  236  EKVFEIK  242
+
+
+
+
+>hypothetical protein HMPREF9212_1194 [Lactobacillus iners LactinV 03V1-b]
+Sequence ID: EFO69548.1 Length: 282
+Range 1: 1 to 247
+
+Score:209 bits(531), Expect:4e-63, 
+Method:Compositional matrix adjust., 
+Identities:103/247(42%), Positives:150/247(60%), Gaps:1/247(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT YL+K+  L +++  P V  QV EI  I+  + A+  L  AP  LG+ PD  +   E 
+Sbjct  1    MTSYLNKMISLVEELHLPFVDEQVLEIKFIIKCLDAKIPLPSAPNMLGIEPDVMDFYKEK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +     Q+L++ N+LLN+ R ++S +YG+WS+ NL T ++I D+++   +LEIMAGNAYW
+Sbjct  61   LSAIDYQKLELVNQLLNNFRSYISRKYGVWSLANLNTAKEIVDKYNVHSILEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S  F  LG+  IATD+ EWAK S TG   F PV    A+ AI ++   D+I+C WAPNF 
+Sbjct  121  SAAFSKLGVKAIATDNLEWAKGSCTGDLLFFPVKKLSAVDAIHKYRDVDIIICCWAPNFG  180
+
+Query  181  KDDLNVVQNWQKY-NPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+              D+++++ +         LLF+GEK+GATN+  FW    F  S  +  IN T  SFDFI
+Sbjct  181  SADMDIIEAYNTIQGKKPKLLFLGEKNGATNTARFWKSAKFKKSCELNSINHTISSFDFI  240
+
+Query  240  DEQIFQV  246
+            DE+  ++
+Sbjct  241  DERFLKL  247
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus crispatus]
+Sequence ID: MCT7858620.1 Length: 168
+Range 1: 1 to 165
+
+Score:204 bits(520), Expect:5e-63, 
+Method:Compositional matrix adjust., 
+Identities:94/165(57%), Positives:119/165(72%), Gaps:0/165(0%)
+
+Query  83   LSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFKTLGIDTIATDSNEWAKT  142
+            LSL YGIWS+PN+ T Q I+++ H +  LEIMAGNAYWS     +GI   +TDS EWAKT
+Sbjct  1    LSLIYGIWSLPNIQTAQLIKNKLHVQTALEIMAGNAYWSQALTQVGIKVHSTDSLEWAKT  60
+
+Query  143  SQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFTKDDLNVVQNWQKYNPHATLLFV  202
+            S TG+ PF PV D  A  AI+++   +L+LCSW+PNF   DL  V  W KYNP   LLFV
+Sbjct  61   STTGAKPFYPVEDLPADQAIKKYHTVNLVLCSWSPNFGHGDLETVAAWHKYNPSCHLLFV  120
+
+Query  203  GEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIFQVK  247
+            GEKDGATNSP+FWH+  F +SAA+  IN + +SFDFI+EQ+F++K
+Sbjct  121  GEKDGATNSPEFWHQNWFKNSAALDEINHSLQSFDFINEQVFEIK  165
+
+
+
+
+>hypothetical protein FC46_GL001871 [Lactobacillus kalixensis DSM 16043]
+Sequence ID: KRL90614.1 Length: 176
+Range 1: 1 to 173
+
+Score:201 bits(510), Expect:2e-61, 
+Method:Compositional matrix adjust., 
+Identities:92/174(53%), Positives:127/174(72%), Gaps:1/174(0%)
+
+Query  75   LLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFKTLGIDTIAT  134
+            +L+S+RQ++SL+YGIWS+PNL T   I++E H    LEIMAGNAYWS   + +GI T+AT
+Sbjct  1    MLDSVRQYISLKYGIWSLPNLETASAIKNELHVSTALEIMAGNAYWSKALQEVGIKTVAT  60
+
+Query  135  DSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFTKDDLNVVQNWQKYN  194
+            DS EWAK+S+TG   FI V D  AI AI+++   DLILCSW+PNF   D   ++ WQ+ +
+Sbjct  61   DSLEWAKSSETGQHGFIQVEDLSAIDAIKKYPDFDLILCSWSPNFGHSDTAAIKIWQEVS  120
+
+Query  195  PHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIFQVKQ  248
+              + LLF+GEK+GATNSP+FW    F++S  + +IN TF S+DFIDE+IF++ +
+Sbjct  121  S-SKLLFIGEKNGATNSPEFWENTSFNNSKVMEKINKTFISYDFIDERIFEIDR  173
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp.]
+Sequence ID: MCH3904398.1 Length: 245
+Range 1: 1 to 244
+
+Score:201 bits(510), Expect:2e-60, 
+Method:Compositional matrix adjust., 
+Identities:105/247(43%), Positives:146/247(59%), Gaps:4/247(1%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M+ YLS+L  L+       +T QV  I + +  +  + L ++A  PLGLLPDQ   + E 
+Sbjct  1    MSTYLSRLESLSAVCPAQVITDQVGVIKETLALLDDQRLPEQALPPLGLLPDQKADLAEL  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+             G      +   + LLN+ R +LS  YG+WS+PNL T + +   F   +VLE+MAGN YW
+Sbjct  61   YGEPA---INAADNLLNNFRAYLSRAYGLWSLPNLTTARILTKSFRLHRVLEVMAGNGYW  117
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNF  179
+            S   +  G   I TDS EW+ TS TG+ P IPV    A +A+ ++  Q D ILC+WAPNF
+Sbjct  118  SQALQAAGCQLITTDSKEWSITSATGAKPVIPVKKCSAAAALTKWGGQVDAILCAWAPNF  177
+
+Query  180  TKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+             + D  ++Q ++K    A L F+GE+DGATNSP FW +    HS  + R+N +F SFDFI
+Sbjct  178  NQADWELLQLYRKLQLTAPLFFIGEQDGATNSPQFWTQAHLHHSLDLRRVNRSFASFDFI  237
+
+Query  240  DEQIFQV  246
+            DE+ F V
+Sbjct  238  DEKFFLV  244
+
+
+
+
+>class I SAM-dependent methyltransferase [Lactobacillus sp.]
+Sequence ID: MCI1290227.1 Length: 245
+Range 1: 1 to 245
+
+Score:200 bits(508), Expect:4e-60, 
+Method:Compositional matrix adjust., 
+Identities:101/248(41%), Positives:149/248(60%), Gaps:4/248(1%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M+ YL +L +    +       QV+ I Q +  +  ++L  +    LGLLPD    ++  
+Sbjct  1    MSTYLQRLEIAVAAVDDLVAARQVQAIRQTIQDLRRQDLPSQQLPSLGLLPDHKADLMAQ  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+               +  QQL   + LLN+ R +LS  +GIWS+PNL T   ++++F  + VLEIMAGN YW
+Sbjct  61   FSPQTVQQL---DNLLNNFRSYLSRAFGIWSLPNLHTASLLKEKFGLQTVLEIMAGNGYW  117
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNF  179
+            S   +  G   I TDS EWA TS TG+ P +PV + DA+ A+ ++  Q D I+C+WAPNF
+Sbjct  118  SKALQLAGCRLITTDSLEWAITSNTGAEPAVPVHNCDAVKALTKWGRQVDAIICAWAPNF  177
+
+Query  180  TKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+             + D  ++Q +++    + L F+GE+DGATNSP FW +  FS   A+  IN +F+SFDF+
+Sbjct  178  NQTDWQLLQTYRELRLTSPLFFIGERDGATNSPRFWSEASFSAGPALAAINRSFRSFDFL  237
+
+Query  240  DEQIFQVK  247
+            DE+ F VK
+Sbjct  238  DEKFFLVK  245
+
+
+
+
+>hypothetical protein [Lactobacillus psittaci]
+Sequence ID: WP_027825609.1 Length: 234
+Range 1: 1 to 234
+
+Score:196 bits(499), Expect:8e-59, 
+Method:Compositional matrix adjust., 
+Identities:100/248(40%), Positives:157/248(63%), Gaps:14/248(5%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTD+L+KL  L+ +++  ++  QVK+I      I+   LL +  +PL  +P    +++++
+Sbjct  1    MTDFLTKLIKLDNELNIAELHQQVKQI------INTCNLLDQKLIPLKQVPKLGIKVIDN  54
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                   + K+ N LLN+ RQ+LS+ YG+WS+PNL T + I + + P  +LE+MAGNA W
+Sbjct  55   -------KTKLANNLLNNFRQYLSMHYGLWSLPNLTTAKLIINRYQPNLILEVMAGNAAW  107
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S  F+  G   IATD+ EWAK+S TG      V +  A +A+ ++   DLI+CSWAPNF 
+Sbjct  108  SKAFQLAGAQVIATDNLEWAKSSNTGQKQLTHVENLTANAALSKYQNCDLIICSWAPNFG  167
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+            + D+ +   W+++  +A LL VGE+ GATNS  FW  + F+ SA +  IN +F SFDFI+
+Sbjct  168  QADVELTSYWRQH-SNAKLLVVGEELGATNSAAFWLNETFATSANLKEINQSFTSFDFIN  226
+
+Query  241  EQIFQVKQ  248
+            E+IF++++
+Sbjct  227  EKIFEIER  234
+
+
+
+
+>MULTISPECIES: hypothetical protein [Lactobacillus]
+Sequence ID: WP_006586775.1 Length: 240
+Range 1: 1 to 239
+
+Score:193 bits(491), Expect:1e-57, 
+Method:Compositional matrix adjust., 
+Identities:91/248(37%), Positives:153/248(61%), Gaps:9/248(3%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MTD+L+KL  ++ +++ P++  +V E+ ++ + +  +E+     + LG +  Q       
+Sbjct  1    MTDFLTKLIKIDNELNIPRLHQEVCEVKRVCSVLDKKEVPNCQIMNLGPITAQ-------  53
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+                 ++++++ N LLNS RQ+LSL YG+WS+PN+ T + I+++++    +E+MAGNA W
+Sbjct  54   --KSAAKKIQVANNLLNSFRQYLSLHYGLWSLPNVQTARIIKEKYNITSAVEVMAGNAAW  111
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S      G+   A+D+  W+KTS+TG   F PV + DA SAI ++   DLI+CSWAPNF 
+Sbjct  112  SKALSMAGVKVYASDNLVWSKTSKTGGDLFYPVENLDASSAIIKYQNCDLIICSWAPNFG  171
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D+++++ W+K      LLFVGE+ G TNS +FW    F     +  +N +F SFDFI+
+Sbjct  172  HADIDLIKVWKKLEHRPKLLFVGEEFGVTNSEEFWQTVSFIKKPELASVNASFSSFDFIE  231
+
+Query  241  EQIFQVKQ  248
+            E+ F++ +
+Sbjct  232  ERFFEIDE  239
+
+
+
+
+>MULTISPECIES: hypothetical protein [Amylolactobacillus]
+Sequence ID: WP_082611553.1 Length: 244
+Range 1: 3 to 244
+
+Score:189 bits(481), Expect:5e-56, 
+Method:Compositional matrix adjust., 
+Identities:100/245(41%), Positives:152/245(62%), Gaps:4/245(1%)
+
+Query  4    YLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILEDIGT  63
+            YL+KL  L ++I    VT QV +IN++   +  + + KK    +G LPD+ E++ E   T
+Sbjct  3    YLAKLNWLAQEIGLQDVTKQVHQINELTTILGDQRIPKKHLADIGFLPDKLERLCEQAPT  62
+
+Query  64   EKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLG  123
+             K  ++K+ N+LLN+LR +L+  +G+WS+PNL T + I  ++H    LEIMAGNA W+  
+Sbjct  63   -KELEIKVINQLLNNLRNYLAQEFGLWSIPNLTTAELIAMKYHLHDGLEIMAGNAQWTKA  121
+
+Query  124  FKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNFTKD  182
+            F+ +G++ +ATD   W+ TS TG+  F PV    AI A+ R+ T AD ++ +WAPNF   
+Sbjct  122  FQDVGVNMVATDDLSWSVTSATGARNFAPVTRLTAIEALIRYATVADFVILAWAPNFGDA  181
+
+Query  183  DLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQ  242
+            D+ +++ ++       LL VGE+ GATNS  FW     S  +A   IN +FKSFDFI+E+
+Sbjct  182  DIALLEAYRNLPRKPLLLMVGERGGATNSTAFWRTAKVSTISA--AINRSFKSFDFINEK  239
+
+Query  243  IFQVK  247
+            I +V+
+Sbjct  240  ILKVE  244
+
+
+
+
+>SAM-dependent methyltransferase, partial [Lactobacillus paragasseri]
+Sequence ID: WP_347129624.1 Length: 207
+Range 1: 1 to 207
+
+Score:177 bits(449), Expect:1e-51, 
+Method:Compositional matrix adjust., 
+Identities:92/210(44%), Positives:137/210(65%), Gaps:4/210(1%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            M  Y  KL  L++++++  +  QV  IN I+  I  +++L K+P  LG LPD  + ++++
+Sbjct  1    MKQYQIKLNQLDRELNYLPLHRQVDIINNIIANIQQKKILPKSPNSLGFLPDSLDIMIDN  60
+
+Query  61   IGT-EKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAY  119
+            IG  +K+Q+    N LLN+ R FLS  YG+WS+PNL T + I+ E+H K  LEIMAGNAY
+Sbjct  61   IGNKDKAQE---ANNLLNNFRSFLSREYGVWSLPNLETARLIKQEYHVKSSLEIMAGNAY  117
+
+Query  120  WSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNF  179
+            WS     +GI   A+DS  WAK+S TG +P     + DA+S+I++  + DLI+CSWAPNF
+Sbjct  118  WSKALSQVGIKATASDSFSWAKSSTTGEAPIFATENLDALSSIKKHPEVDLIICSWAPNF  177
+
+Query  180  TKDDLNVVQNWQKYNPHATLLFVGEKDGAT  209
+             +DDL ++  ++  +    LLF+GEK+GAT
+Sbjct  178  GEDDLKILDLYRSLDHQPVLLFIGEKNGAT  207
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp.]
+Sequence ID: MDO4912265.1 Length: 192
+Range 1: 21 to 190
+
+Score:175 bits(444), Expect:4e-51, 
+Method:Compositional matrix adjust., 
+Identities:82/176(47%), Positives:114/176(64%), Gaps:6/176(3%)
+
+Query  71   ITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFKTLGID  130
+            +   L++S RQ+LSL YGIWS+P+L   + ++  F+ KQ LE+MAGNAYWS     +G+ 
+Sbjct  21   VAQNLISSFRQYLSLHYGIWSLPDLVKARALKKLFNLKQGLELMAGNAYWSKALSEVGVK  80
+
+Query  131  TIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFTKDDLNVVQNW  190
+             IATD+  W+ +S+TGS P  PV   +A+ A+ ++   D IL SW+PNF K DL +V  W
+Sbjct  81   MIATDNLRWSISSKTGSQPIFPVESLNALEALEKYQDVDFILVSWSPNFGKSDLELVNAW  140
+
+Query  191  QKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIFQV  246
+            +K      L F+GEK+GATNSP+FW +        + R+   F SFDFIDE+IFQV
+Sbjct  141  RKLANRPKLFFIGEKEGATNSPEFWQE------VKLERVPIDFPSFDFIDEEIFQV  190
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus acetotolerans]
+Sequence ID: HBQ42991.1 Length: 133
+Range 1: 1 to 131
+
+Score:172 bits(435), Expect:1e-50, 
+Method:Compositional matrix adjust., 
+Identities:76/131(58%), Positives:99/131(75%), Gaps:0/131(0%)
+
+Query  118  AYWSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAP  177
+            AYWS      GI   ATDS EWAKTS TG   F PV D DA+SAI++F  ADLILCSWAP
+Sbjct  1    AYWSKALNEAGIRVTATDSLEWAKTSSTGKREFYPVVDLDAVSAIKKFADADLILCSWAP  60
+
+Query  178  NFTKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFD  237
+            NF K DL+V++ W+K+ P + LLF+GEK+GATNSP+FW  + F +S+++ +IN +FKS+D
+Sbjct  61   NFGKSDLDVIRAWKKFAPESHLLFIGEKEGATNSPEFWENENFVNSSSLRKINRSFKSYD  120
+
+Query  238  FIDEQIFQVKQ  248
+            FIDEQI+++K 
+Sbjct  121  FIDEQIYEIKH  131
+
+
+
+
+>hypothetical protein [Lactobacillus helveticus]
+Sequence ID: NRO48037.1 Length: 156
+Range 1: 1 to 152
+
+Score:171 bits(433), Expect:5e-50, 
+Method:Compositional matrix adjust., 
+Identities:76/152(50%), Positives:104/152(68%), Gaps:0/152(0%)
+
+Query  95   LATIQQIQDEFHPKQVLEIMAGNAYWSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVF  154
+            + T   I++  H    LEIMAGNAYWS   + + I TI+TDS EWAKTS TG+ PF PV 
+Sbjct  1    MKTAHLIKNRLHIDTALEIMAGNAYWSKALENVEIQTISTDSLEWAKTSSTGAEPFHPVI  60
+
+Query  155  DYDAISAIRRFTQADLILCSWAPNFTKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDF  214
+            + +A  AI+ ++  DLI+CSW+PNF K D+  +  W K +     +F+GE+DGATNSP+F
+Sbjct  61   NLEATEAIKHYSDVDLIICSWSPNFGKSDIAAIDTWHKCSNAKHFIFIGEEDGATNSPEF  120
+
+Query  215  WHKQLFSHSAAITRINDTFKSFDFIDEQIFQV  246
+            W    F  +AA+  IND+F+SFDFIDE+IF++
+Sbjct  121  WQNNWFKQTAALKAINDSFQSFDFIDERIFEI  152
+
+
+
+
+>hypothetical protein HMPREF0492_1564 [Lactobacillus acidophilus ATCC 4796]
+Sequence ID: EEJ75540.1 Length: 146
+Range 1: 2 to 142
+
+Score:167 bits(423), Expect:1e-48, 
+Method:Compositional matrix adjust., 
+Identities:76/141(54%), Positives:98/141(69%), Gaps:0/141(0%)
+
+Query  106  HPKQVLEIMAGNAYWSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF  165
+            H K  LEIMAGNAYWS   +  GI  I+TDS EWAKTS TG+ PF  V D  A  AI ++
+Sbjct  2    HVKNALEIMAGNAYWSHALEETGITVISTDSLEWAKTSSTGAKPFHKVIDLKADQAIEKY  61
+
+Query  166  TQADLILCSWAPNFTKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAA  225
+               DLILCSW+PNF   D+  +  W+K+NP++ LLF+GEKDGATNS +FW +  F  +  
+Sbjct  62   QDVDLILCSWSPNFGNSDIETIAAWRKFNPNSHLLFIGEKDGATNSVEFWSQDWFKQTKE  121
+
+Query  226  ITRINDTFKSFDFIDEQIFQV  246
+            +  IN +F+SFDFI+EQIF++
+Sbjct  122  LREINRSFQSFDFINEQIFEI  142
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus iners]
+Sequence ID: MCT7875678.1 Length: 192
+Range 1: 1 to 191
+
+Score:164 bits(415), Expect:9e-47, 
+Method:Compositional matrix adjust., 
+Identities:79/191(41%), Positives:119/191(62%), Gaps:0/191(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT YL+K+  L +++  P V  QV EI  I+  + A+  L  AP  LG+ PD  +   E 
+Sbjct  1    MTSYLNKMISLVEELHLPFVDEQVLEIKFIIKCLDAKIPLPSAPNMLGIEPDVMDFYKEK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +     Q+L++ N+LLN+ R ++S +YG+WS+ NL T ++I D+++   +LEIMAGNAYW
+Sbjct  61   LSAIDYQKLELVNQLLNNFRSYISRKYGVWSLANLNTAKEIVDKYNVHSILEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFT  180
+            S  F  LG+  IATD+ EWAK S TG   F PV    A+ AI ++   D+I+C WAPNF 
+Sbjct  121  SATFSKLGVKAIATDNLEWAKGSCTGDLLFFPVKKLSAVDAIHKYRDVDIIICCWAPNFG  180
+
+Query  181  KDDLNVVQNWQ  191
+              D+++++ + 
+Sbjct  181  SADMDIIEAYN  191
+
+
+
+
+>SAM-dependent methyltransferase, partial [Lactobacillus helveticus]
+Sequence ID: PXZ36110.1 Length: 172
+Range 1: 1 to 170
+
+Score:158 bits(400), Expect:8e-45, 
+Method:Compositional matrix adjust., 
+Identities:84/170(49%), Positives:116/170(68%), Gaps:4/170(2%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L KL +L+ +I+H  V  QV+EI QI + ++  E L +AP  LGLLPDQ+E+ILE+
+Sbjct  1    MTNFLHKLTMLDDEINHSTVHRQVEEIKQIDHQVAKGEPLIEAPAKLGLLPDQFEEILEE  60
+
+Query  61   I----GTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAG  116
+            I    G  + ++L   N L N+ RQ+LSL+YG+WSVPNL T   I++  H    LEIMAG
+Sbjct  61   ILEEIGNNQKRKLTDINNLFNNFRQYLSLKYGVWSVPNLKTAHLIKNRLHIDTALEIMAG  120
+
+Query  117  NAYWSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFT  166
+            NAYWS   + + I TI+TDS EWAKTS TG+ PF PV + +A  AI+ ++
+Sbjct  121  NAYWSKALENVEIQTISTDSLEWAKTSSTGAEPFHPVINLEATEAIKHYS  170
+
+
+
+
+>hypothetical protein [Lactobacillus sp. R2/2]
+Sequence ID: MEB3365319.1 Length: 167
+Range 1: 1 to 156
+
+Score:157 bits(397), Expect:2e-44, 
+Method:Compositional matrix adjust., 
+Identities:75/156(48%), Positives:107/156(68%), Gaps:0/156(0%)
+
+Query  50   LPDQYEQILEDIGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQ  109
+            +PD  E+I  ++ T K +Q +  N+L+N+LR+FL+  +GIWSVPNL T + I+++ + K 
+Sbjct  1    MPDFAEEICINLPTRKVKQFQTVNQLINNLREFLAREFGIWSVPNLTTAELIKNKLNVKT  60
+
+Query  110  VLEIMAGNAYWSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQAD  169
+             LEIMAGNAYWS     +G++  ATD+ EW+KTS+TG++ FI V + +A  A+      D
+Sbjct  61   GLEIMAGNAYWSKALAEVGVEMTATDNFEWSKTSKTGTNSFIRVQNLNAEKALSVINNVD  120
+
+Query  170  LILCSWAPNFTKDDLNVVQNWQKYNPHATLLFVGEK  205
+            LI+CSWAPNF + D  +V NW+K N    LLFVGEK
+Sbjct  121  LIICSWAPNFGQHDEKLVLNWRKSNFTNHLLFVGEK  156
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus crispatus]
+Sequence ID: MCT7824487.1 Length: 129
+Range 1: 6 to 126
+
+Score:153 bits(386), Expect:3e-43, 
+Method:Compositional matrix adjust., 
+Identities:69/121(57%), Positives:88/121(72%), Gaps:0/121(0%)
+
+Query  127  LGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFTKDDLNV  186
+            +GI   +TDS EWAKTS TG+ PF PV D  A  AI+++   +L+LCSW+PNF   DL  
+Sbjct  6    VGIKVHSTDSLEWAKTSTTGAKPFYPVEDLPADQAIKKYHTVNLVLCSWSPNFGHGDLET  65
+
+Query  187  VQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIFQV  246
+            V  W KYNP   LLFVGEKDGATNSP+FWH+  F +SAA+  IN + +SFDFI+EQ+F++
+Sbjct  66   VAAWHKYNPSCHLLFVGEKDGATNSPEFWHQNWFKNSAALDEINHSLQSFDFINEQVFEI  125
+
+Query  247  K  247
+            K
+Sbjct  126  K  126
+
+
+
+
+>SAM-dependent methyltransferase, partial [Lactobacillus equicursoris]
+Sequence ID: WP_279190310.1 Length: 173
+Range 1: 1 to 173
+
+Score:150 bits(379), Expect:1e-41, 
+Method:Compositional matrix adjust., 
+Identities:75/173(43%), Positives:106/173(61%), Gaps:0/173(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT+++ K+  L    + P++  QV EI  + + +  + LL  AP  LGL   +  ++  +
+Sbjct  1    MTEFIEKIKDLGVGFTDPEIARQVAEIELLDSIVQGQRLLASAPGKLGLSDRKMGELSWE  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +  E   +LKI NKL N++RQ+LSL+YGIWSVPN  T   +++E   +  LE+MAGNAYW
+Sbjct  61   MSDEDYSRLKILNKLFNNVRQYLSLQYGIWSVPNFETANLLKEELGVETALEVMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILC  173
+            S      G+   ATDS EWAKTSQTGS PF  V D  A  A++++   DLILC
+Sbjct  121  SKALSDAGVQVWATDSLEWAKTSQTGSKPFYRVEDLPADQAVKKYAAVDLILC  173
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus crispatus]
+Sequence ID: MCT7712170.1 Length: 114
+Range 1: 2 to 111
+
+Score:144 bits(364), Expect:4e-40, 
+Method:Compositional matrix adjust., 
+Identities:64/110(58%), Positives:81/110(73%), Gaps:0/110(0%)
+
+Query  138  EWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILCSWAPNFTKDDLNVVQNWQKYNPHA  197
+            EWAKTS TG+ PF PV D  A  AI+++   +L+LCSW+PNF   DL  V  W KYNP  
+Sbjct  2    EWAKTSTTGAKPFYPVEDLPADQAIKKYHTVNLVLCSWSPNFGHGDLETVAAWHKYNPSC  61
+
+Query  198  TLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIFQVK  247
+             LLFVGEKDGATNSP+FWH+  F +SAA+  IN + +SFDFI+EQ+F++K
+Sbjct  62   HLLFVGEKDGATNSPEFWHQNWFKNSAALDEINHSLQSFDFINEQVFEIK  111
+
+
+
+
+>hypothetical protein [Amylolactobacillus amylophilus]
+Sequence ID: WP_054745030.1 Length: 198
+Range 1: 3 to 178
+
+Score:144 bits(362), Expect:1e-38, 
+Method:Compositional matrix adjust., 
+Identities:73/177(41%), Positives:112/177(63%), Gaps:2/177(1%)
+
+Query  4    YLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILEDIGT  63
+            YL+KL  L ++I    VT QV +IN++   +  + + KK    +G LPD+ E++ E   T
+Sbjct  3    YLAKLNWLAQEIGLQDVTKQVHQINELTTILGDQRIPKKHLADIGFLPDKLERLCEQAPT  62
+
+Query  64   EKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLG  123
+             K  ++K+ N+LLN+LR +L+  +G+WS+PNL T + I  ++H    LEIMAGNA W+  
+Sbjct  63   -KELEIKVINQLLNNLRNYLAQEFGLWSIPNLTTAELIAMKYHLHDGLEIMAGNAQWTKA  121
+
+Query  124  FKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNF  179
+            F+ +G++ +ATD   W+ TS TG+  F PV    AI A+ R+ T AD ++ +WAPNF
+Sbjct  122  FQDVGVNMVATDDLSWSVTSATGARNFAPVTRLTAIEALIRYATVADFVILAWAPNF  178
+
+
+
+
+>SAM-dependent methyltransferase [Limosilactobacillus ingluviei]
+Sequence ID: WP_204774785.1 Length: 281
+Range 1: 42 to 278
+
+Score:143 bits(360), Expect:2e-37, 
+Method:Compositional matrix adjust., 
+Identities:87/237(37%), Positives:123/237(51%), Gaps:22/237(9%)
+
+Query  30   IVNAISARELLKKAPVPLGL----LPDQY-EQILEDIGTEK--------------SQQLK  70
+            + N + A  LLK+  +P  L    LPD   +QI   +  +               S  L 
+Sbjct  42   VNNVLEADRLLKRGLIPQALPKLLLPDDIQDQIFAAVNAQYPRGDRQGDRLWEQYSNALP  101
+
+Query  71   ITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFKTLG-I  129
+              ++LL + R +L   YG+WS  N + I  + D      VLEIMAGN Y S G +    +
+Sbjct  102  KLDQLLRNFRDYLETTYGMWSYTNTSFISALSDYLAGAPVLEIMAGNGYLSKGLRDHNPL  161
+
+Query  130  DTI-ATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFT-QADLILCSWAPNFTKDDLNVV  187
+             TI  TDS  W K ++TG  P   +   DA++AI ++  Q D +L SWAP+  ++D  V+
+Sbjct  162  QTIFTTDSQAWVKENETGKHPVTTIEALDALAAIEKYGDQVDYVLMSWAPDKDENDYQVL  221
+
+Query  188  QNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIF  244
+            +  +K  P   LL +GE+DGATNSP FWH    S  AA+  +N   KSFD IDEQ++
+Sbjct  222  ELLRKRFPAVRLLVIGERDGATNSPKFWHLAQLSQPAALAPVNAGLKSFDLIDEQVY  278
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus iners]
+Sequence ID: MCT7786519.1 Length: 164
+Range 1: 1 to 164
+
+Score:136 bits(342), Expect:4e-36, 
+Method:Compositional matrix adjust., 
+Identities:70/164(43%), Positives:101/164(61%), Gaps:0/164(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT YL+K+  L +++  P V  QV EI  I+  + A+  L  AP  LG+ PD  +   E 
+Sbjct  1    MTSYLNKIISLVEELHLPLVDEQVIEIKFIIKCLDAKIPLPSAPNMLGIEPDVMDFYKEK  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +     Q+L++ N+LLN+ R ++S +YG+WS+ NL T ++I D+++   +LEIMAGNAYW
+Sbjct  61   LSAIDYQKLELVNQLLNNFRSYISRKYGVWSLANLNTAKEIVDKYNVHSILEIMAGNAYW  120
+
+Query  121  SLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRR  164
+            S  F  LG+  IATD+ EWAK S TG   F PV    A+ AI +
+Sbjct  121  SAAFSKLGVKAIATDNLEWAKGSCTGDLLFFPVKKLSAVDAIHK  164
+
+
+
+
+>hypothetical protein HMPREF9211_0338 [Lactobacillus iners LactinV 01V1-a]
+Sequence ID: EFO71295.1 Length: 135
+Range 1: 1 to 135
+
+Score:133 bits(334), Expect:2e-35, 
+Method:Compositional matrix adjust., 
+Identities:65/137(47%), Positives:85/137(62%), Gaps:5/137(3%)
+
+Query  114  MAGNAYWSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQADLILC  173
+            MAGNAYWS  F  LG+  IATD+ EWAK S TG   F PV    A+ AI ++   D+I+C
+Sbjct  1    MAGNAYWSATFSKLGVKVIATDNLEWAKGSCTGDLLFFPVKKLSAVDAIHKYRDVDIIIC  60
+
+Query  174  SWAPNFTKDDLNVVQNW---QKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRIN  230
+             WAPNF   D+++++ +   Q   P   LLF+GEK+GATN+  FW    F  S  +  IN
+Sbjct  61   CWAPNFGSADMDIIEAYNTIQGKKPK--LLFLGEKNGATNTARFWKSAKFKKSCELNSIN  118
+
+Query  231  DTFKSFDFIDEQIFQVK  247
+             T  SFDFIDE+ F++K
+Sbjct  119  HTISSFDFIDERFFEIK  135
+
+
+
+
+>SAM-dependent methyltransferase [Candidatus Paralactobacillus gallistercoris]
+Sequence ID: MBU3851751.1 Length: 248
+Range 1: 2 to 248
+
+Score:136 bits(343), Expect:2e-35, 
+Method:Compositional matrix adjust., 
+Identities:68/247(28%), Positives:134/247(54%), Gaps:2/247(0%)
+
+Query  3    DYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQY-EQILEDI  61
+            DY+++L ++ + +    +T Q+    +++N +  ++L      PLG+   Q+   +L + 
+Sbjct  2    DYVAQLQMMRQLLPFADITQQITTCLRVINELRQQQLPTVQLTPLGITDTQFVTAMLANN  61
+
+Query  62   GTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWS  121
+              ++   L+  + LL + R +L   +G+W+  N + + +   +F P + LEIMAGN + S
+Sbjct  62   DVQQYHYLRQCDHLLRNFRSYLEATFGMWAYINTSFLDEWVKQFGPHRYLEIMAGNGFIS  121
+
+Query  122  LGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNFT  180
+             G +    + I TDS  W   S TG  P+  +   DA++A++R+ +Q D+++ SW+P+  
+Sbjct  122  AGLRQRQQNVICTDSFAWRAESTTGRQPWTKILPLDALTAVKRYASQVDVVIMSWSPDGD  181
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+              D  V+Q  ++ +P   L  +GE++GATNSP FW          + ++N  +  FD + 
+Sbjct  182  PVDWQVLQYLRQLSPQPLLFCIGERNGATNSPLFWQHAHSLTDRRLLKVNAQYARFDLMH  241
+
+Query  241  EQIFQVK  247
+            ++++ +K
+Sbjct  242  DRLYVMK  248
+
+
+
+
+>SAM-dependent methyltransferase [Lacticaseibacillus mingshuiensis]
+Sequence ID: WP_204122802.1 Length: 244
+Range 1: 14 to 244
+
+Score:134 bits(338), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:73/232(31%), Positives:121/232(52%), Gaps:2/232(0%)
+
+Query  17   HPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILEDIGTEKSQQLKITNKLL  76
+            +P +  Q+  +  +  A++   L + A  PLGL PD +  +L     +   QL   + LL
+Sbjct  14   YPALRPQLTAMAAVREALAEPRLPENALPPLGLAPDLFADLLA-AHPDAYGQLVAVDHLL  72
+
+Query  77   NSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFKTLGIDTIATDS  136
+             + R+  +  YG+W+  + A   Q Q  F P + LE+ AGN Y S G    G   IATDS
+Sbjct  73   RNFRRACAFEYGMWAFVHEALFTQWQALFGPLRYLELAAGNGYVSAGLAAQGNRVIATDS  132
+
+Query  137  NEWAKTSQTGSSPFIPVFDYDAISAIRRFT-QADLILCSWAPNFTKDDLNVVQNWQKYNP  195
+              W + S+TG +P +PV    A +A+ R+  Q D ++ +W+P+   +D++V+Q  + Y P
+Sbjct  133  FAWKQESETGRTPLLPVEALPAAAALHRYGDQVDAVVMAWSPDRDPNDVHVLQVLRAYFP  192
+
+Query  196  HATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIFQVK  247
+            H     +GE+ GAT+S  FW    F     +  +N     FD ++E+I+ ++
+Sbjct  193  HLKFFVIGERFGATDSRLFWQLAEFVPDKRLLALNRALGRFDAVNERIYLMR  244
+
+
+
+
+>hypothetical protein [Limosilactobacillus equigenerosi]
+Sequence ID: WP_054652219.1 Length: 285
+Range 1: 38 to 282
+
+Score:135 bits(340), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:83/245(34%), Positives:121/245(49%), Gaps:23/245(9%)
+
+Query  23   QVKEINQIVNAISARELLKKA-----PVPLGLLPDQYEQIL---------------EDIG  62
+            QV  +  ++N + A + L K      PVP  +LPD  +  +               + + 
+Sbjct  38   QVPPVKYLINLVLANDHLIKQGLLPQPVPQMMLPDDIQDTIFQLVNAQYAPGDPAGDRLW  97
+
+Query  63   TEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSL  122
+             + +  L   +KLL   R +L   YG+WS PN   I ++    H   VLEIMAG+ Y S 
+Sbjct  98   DQYTTALPKVDKLLREYRDYLETTYGMWSYPNTKFITELSHYLHGAPVLEIMAGSGYLSK  157
+
+Query  123  GFKTLGID--TIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFT-QADLILCSWAPNF  179
+            G ++L      IATD   WA+ + TG  P   + +YDA++AI +F  Q + ++ SWAP+ 
+Sbjct  158  GLRSLNPTQTIIATDDLSWAQVNTTGKQPVTTIENYDALAAINQFANQVEYVIMSWAPDR  217
+
+Query  180  TKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFI  239
+               DL V+   ++  P    L +GE  GATNS  FW     S  AA+  +N    SFD I
+Sbjct  218  ETIDLAVLNLLRQSYPTLKFLVIGEYQGATNSQAFWQTAKLSQPAALQPVNAALHSFDLI  277
+
+Query  240  DEQIF  244
+            DEQI+
+Sbjct  278  DEQIY  282
+
+
+
+
+>SAM-dependent methyltransferase [Limosilactobacillus caecicola]
+Sequence ID: WP_251545711.1 Length: 285
+Range 1: 46 to 285
+
+Score:135 bits(340), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:82/240(34%), Positives:118/240(49%), Gaps:22/240(9%)
+
+Query  30   IVNAISARELLKKA----PVPLGLLPDQYEQ-ILEDIGTEK--------------SQQLK  70
+            I NA+ +  LL+      P+P  LLPD  +  I + +  E               S  L 
+Sbjct  46   INNALLSDRLLRSGLLPQPLPKMLLPDDIQDTIFQQVNAEYPKGDPRGDKLWNQYSAALP  105
+
+Query  71   ITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFKTLGID  130
+              ++LL + R +L   YG+WS  N +    +      K VLE+MAGN Y S G +     
+Sbjct  106  KLDRLLRNFRDYLEETYGMWSYTNSSFTNSLSKYLAGKPVLEVMAGNGYLSKGLRNSNPH  165
+
+Query  131  TI--ATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFT-QADLILCSWAPNFTKDDLNVV  187
+             +   TDS  W K ++TG  P  P+   DA +A++++  Q D ++ SWAP+  + D  ++
+Sbjct  166  QVIYTTDSQAWTKENETGKHPVTPIERLDAFAAVQKYGHQVDFVIMSWAPDKGEQDWELL  225
+
+Query  188  QNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIFQVK  247
+            Q  +   P    L +GEKDGATNSP FW     S    +  +N   KSFD IDEQI+ VK
+Sbjct  226  QLLRNDYPELQFLVIGEKDGATNSPAFWQNAHLSQPTELQEVNQYLKSFDLIDEQIYLVK  285
+
+
+
+
+>SAM-dependent methyltransferase, partial [Lactobacillus crispatus]
+Sequence ID: KAA8788638.1 Length: 108
+Range 1: 1 to 108
+
+Score:128 bits(321), Expect:9e-34, 
+Method:Compositional matrix adjust., 
+Identities:58/108(54%), Positives:73/108(67%), Gaps:0/108(0%)
+
+Query  88   GIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFKTLGIDTIATDSNEWAKTSQTGS  147
+            GIWS+PN+ T Q I+++ H +  LEIMAGNAYWS     +GI   +TDS EWAKTS TG+
+Sbjct  1    GIWSLPNIQTAQLIKNKLHVQTALEIMAGNAYWSQALAQVGIKVHSTDSLEWAKTSTTGA  60
+
+Query  148  SPFIPVFDYDAISAIRRFTQADLILCSWAPNFTKDDLNVVQNWQKYNP  195
+             PF PV D  A  AI+++   +L+LCSW+PNF   DL  V  W KYNP
+Sbjct  61   KPFYPVEDLPADQAIKKYHTVNLVLCSWSPNFGHGDLETVAAWHKYNP  108
+
+
+
+
+>SAM-dependent methyltransferase [Limosilactobacillus kribbianus]
+Sequence ID: WP_267201947.1 Length: 285
+Range 1: 46 to 285
+
+Score:133 bits(335), Expect:1e-33, 
+Method:Compositional matrix adjust., 
+Identities:83/242(34%), Positives:123/242(50%), Gaps:26/242(10%)
+
+Query  30   IVNAISARELLKKA----PVPLGLLPDQYEQIL---------------EDIGTEKSQQLK  70
+            I NA+ +  LLK      P+P  LLPD  +  +               + +  + +++L 
+Sbjct  46   INNALESDRLLKAGLLPQPLPTMLLPDNIQDTIFQRVNQQYPQGDPRGDRLWNKYNEELP  105
+
+Query  71   ITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFK----T  126
+              +  L + R +L   YG+WS  N      + D  +   VLEIMAGN Y S G +    T
+Sbjct  106  KLDAALRNFRDYLEDTYGMWSYVNAPFAHALSDYLNGAPVLEIMAGNGYISKGLRNNRPT  165
+
+Query  127  LGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNFTKDDLN  185
+              I T  TDS +W K ++TG  P   +   DAISAI+++  Q D ++ SWAP+    D  
+Sbjct  166  QQIYT--TDSQDWVKENETGKHPVTAIEKLDAISAIKKYGAQVDYVIMSWAPDKGDADWQ  223
+
+Query  186  VVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIFQ  245
+            V+Q  ++  P   LL +GE++GATNS  FW + + S   A+ R+N    SFD IDEQ++ 
+Sbjct  224  VLQLLRRDYPDVKLLVIGERNGATNSKQFWQEAVLSQDEALKRVNVQLHSFDLIDEQVYL  283
+
+Query  246  VK  247
+             K
+Sbjct  284  AK  285
+
+
+
+
+>SAM-dependent methyltransferase [Agrilactobacillus yilanensis]
+Sequence ID: WP_125714799.1 Length: 261
+Range 1: 6 to 261
+
+Score:132 bits(331), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:81/256(32%), Positives:132/256(51%), Gaps:10/256(3%)
+
+Query  2    TDYLSKLALLNKQI-SHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            TDYL +L  L     + P +T Q+  I  I   ++ + L + +  PLGL    Y   +  
+Sbjct  6    TDYLKQLRALRPLFQTVPAITDQIDMITSICLDLAQKRLPQHSLHPLGLEETTYLAAMVA  65
+
+Query  61   IGTEK--------SQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLE  112
+            +G ++        +  L   ++LL + R F++ R+GIW++ N   +++    F     LE
+Sbjct  66   LGQQQGFRDFKTQTTTLHRLDQLLRNFRSFVAQRFGIWALLNQTFLKRWVQVFPKLNYLE  125
+
+Query  113  IMAGNAYWSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLI  171
+            IMAGN  +S G   LG  +IATD   W K+S T    ++PV   +AI AI+R+  Q D +
+Sbjct  126  IMAGNGLFSYGLTQLGQSSIATDDLSWGKSSPTARDFWLPVQSLNAIEAIKRYGGQVDAV  185
+
+Query  172  LCSWAPNFTKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRIND  231
+            +  W+ +    D  V++ +++  P      +GEK GATNS  FW +  F  S A+ R+N 
+Sbjct  186  VMIWSQDKNPIDYQVLKTFRQVMPTKYFFVIGEKFGATNSQQFWQQAHFLDSKALARLNK  245
+
+Query  232  TFKSFDFIDEQIFQVK  247
+             +  FD I +Q++ V+
+Sbjct  246  LYPRFDLIQDQVYLVQ  261
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus acetotolerans]
+Sequence ID: HBQ42990.1 Length: 123
+Range 1: 1 to 121
+
+Score:127 bits(319), Expect:3e-33, 
+Method:Compositional matrix adjust., 
+Identities:61/121(50%), Positives:86/121(71%), Gaps:0/121(0%)
+
+Query  1    MTDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILED  60
+            MT++L K+  L+K++++  +  QV+EIN IV  ++ +E+L  AP PLGLLPDQ+E++++ 
+Sbjct  1    MTNFLKKINQLDKKLNYDPIHNQVEEINAIVEHVANQEVLPVAPAPLGLLPDQFEEVVDR  60
+
+Query  61   IGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYW  120
+            +  E+   LK  N LLNSLRQFLSL+YG+WS+PN  T   I+ E      LEIMAGNAYW
+Sbjct  61   LNEEQKVDLKAINNLLNSLRQFLSLKYGVWSLPNKKTATLIKQELAINSALEIMAGNAYW  120
+
+Query  121  S  121
+            S
+Sbjct  121  S  121
+
+
+
+
+>MULTISPECIES: SAM-dependent methyltransferase [Lactobacillaceae]
+Sequence ID: WP_169461648.1 Length: 285
+Range 1: 46 to 282
+
+Score:132 bits(332), Expect:3e-33, 
+Method:Compositional matrix adjust., 
+Identities:80/237(34%), Positives:122/237(51%), Gaps:22/237(9%)
+
+Query  30   IVNAISARELLKKA----PVPLGLLPDQYEQILEDIGTEKSQQ---------------LK  70
+            I N + +  L+K      P+P  +LPD  + I+     E+  Q               L 
+Sbjct  46   INNVLESDRLIKNGLLPQPLPKLMLPDNIQDIIFQKVNEQYPQGNPEGDQLWDRYVAALP  105
+
+Query  71   ITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFKTL-GI  129
+              ++LL   R +L   YG+WS  N   I+ + +  H +  LEIMAGN Y S G + L   
+Sbjct  106  KLDQLLRDYRDYLEETYGMWSYVNAPYIKALSEYLHGRPTLEIMAGNGYISGGLRNLRPA  165
+
+Query  130  DTI-ATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNFTKDDLNVV  187
+             TI ATDS +W   ++TG  P   +   DA++AI+++ +Q D ++ SW+P+  + D  V+
+Sbjct  166  QTIYATDSTDWTHENETGKHPVTTIEPLDALTAIKKYGSQVDYVIMSWSPDKVEIDWEVL  225
+
+Query  188  QNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQIF  244
+            Q  +   P   LL +GEK+GATNS  FW     +  A + ++N+   SFD IDEQI+
+Sbjct  226  QLLRNDYPEVKLLVIGEKNGATNSAKFWQNAQLTQDAELQKVNEHLHSFDLIDEQIY  282
+
+
+
+
+>SAM-dependent methyltransferase [Limosilactobacillus difficilis]
+Sequence ID: WP_283583938.1 Length: 283
+Range 1: 100 to 280
+
+Score:130 bits(328), Expect:9e-33, 
+Method:Compositional matrix adjust., 
+Identities:72/182(40%), Positives:102/182(56%), Gaps:4/182(2%)
+
+Query  66   SQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFK  125
+            +Q L   ++LL + R +L  RYG+WS  N+  I+ + +      VLEIMAGN Y S G  
+Sbjct  100  NQALPKLDRLLRNYRDYLEDRYGMWSYVNVGYIKALSEYLAGAPVLEIMAGNGYISAGLA  159
+
+Query  126  TL--GIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNFTKD  182
+             L  G     TDS  W K +QTG  P   V   DA++AI ++  QA  ++ SW+P+    
+Sbjct  160  NLNPGQQIWTTDSKGWTKENQTGRHPVTDVEKLDALAAINKYGKQARYVIMSWSPDKLTI  219
+
+Query  183  DLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQ  242
+            D++V+Q  ++  P   LL +GEKDGATNSP FW     S    + ++N   +SFD IDEQ
+Sbjct  220  DMDVLQLIRQQFPDLKLLVIGEKDGATNSPAFWQNAKLSQK-GLEKVNQELQSFDLIDEQ  278
+
+Query  243  IF  244
+             +
+Sbjct  279  AY  280
+
+
+
+
+>SAM-dependent methyltransferase [Limosilactobacillus fermentum]
+Sequence ID: MCT3440658.1 Length: 181
+Range 1: 1 to 181
+
+Score:127 bits(319), Expect:2e-32, 
+Method:Compositional matrix adjust., 
+Identities:70/183(38%), Positives:105/183(57%), Gaps:6/183(3%)
+
+Query  69   LKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFK-TL  127
+            L   + LL   R +L   YG+WS  N++ I  + D      VLE+MAGN Y S G K   
+Sbjct  1    LPKVDALLRDYRDYLEETYGMWSFTNVSFISSLSDYLKGAPVLEVMAGNGYLSKGLKDKR  60
+
+Query  128  GIDTI-ATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFT-QADLILCSWAPNFTKDDLN  185
+               T+  TDS  W K +QTG  P I +   DA++A+ ++  Q + ++ SWAP+  + D +
+Sbjct  61   PTQTVFTTDSTAWVKENQTGRHPVISIEPLDALAAVDKYADQVEYVIMSWAPDKGEADWD  120
+
+Query  186  VVQNWQKYNPHATLLFVGEKDGATNSPDFWHK-QLFSHSAAITRINDTFKSFDFIDEQIF  244
+            ++++ +++ P   LL +GEKDGATNS  FW + QLF     + ++N   KSFD IDEQ++
+Sbjct  121  LLEHLREHYPALKLLVIGEKDGATNSKRFWQEAQLFQD--GLAQVNAALKSFDLIDEQVY  178
+
+Query  245  QVK  247
+              K
+Sbjct  179  LAK  181
+
+
+
+
+>hypothetical protein [Paucilactobacillus suebicus]
+Sequence ID: WP_010621464.1 Length: 284
+Range 1: 81 to 284
+
+Score:129 bits(325), Expect:3e-32, 
+Method:Compositional matrix adjust., 
+Identities:74/204(36%), Positives:113/204(55%), Gaps:6/204(2%)
+
+Query  50   LPDQY---EQILEDIGTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFH  106
+            + DQY   ++  +D+    ++ L   +KLL S R +L   YG+WS  +   ++ + D  +
+Sbjct  81   ISDQYPAGDKAGDDLWNRFNEALPKLDKLLRSYRDYLETTYGMWSYTSAPFVKDLADYIN  140
+
+Query  107  PKQVLEIMAGNAYWSLGFKTLGID-TI-ATDSNEWAKTSQTGSSPFIPVFDYDAISAIRR  164
+             K VLE+MAGN Y S G K L  + TI  TDS  W K ++TG  P   +   DAI A+ +
+Sbjct  141  QKPVLEVMAGNGYISKGLKNLNSNQTIYTTDSQAWTKENETGKHPVTEIESLDAIEALNK  200
+
+Query  165  FTQ-ADLILCSWAPNFTKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHS  223
+            + Q    ++ SWAP+    D  ++Q  ++  P  TL+ +GEK+GATNS +FW    F   
+Sbjct  201  YGQYVSFVVMSWAPDKQTTDWQLLQLIREKYPQITLITIGEKNGATNSKEFWSNAKFIDE  260
+
+Query  224  AAITRINDTFKSFDFIDEQIFQVK  247
+                R+N   K+FD IDE+++ VK
+Sbjct  261  EQAERVNRNLKTFDLIDERVYFVK  284
+
+
+
+
+>SAM-dependent methyltransferase [Lactobacillus sp.]
+Sequence ID: MCI1985492.1 Length: 245
+Range 1: 2 to 245
+
+Score:128 bits(322), Expect:3e-32, 
+Method:Compositional matrix adjust., 
+Identities:72/247(29%), Positives:125/247(50%), Gaps:5/247(2%)
+
+Query  3    DYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQY-EQILEDI  61
+            DY  +L  L++Q++   +  QV        A+  R L K+  + LG+ P  Y E +L  +
+Sbjct  2    DYWPRLVQLDQQVNVLALHQQVVAATAFRAALRQRRLPKRPLMRLGVTPADYAEAVLAGV  61
+
+Query  62   GTEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWS  121
+                 Q L   + LL + RQ+++  YG+WS    +     Q  F P++ LE+ AGN Y S
+Sbjct  62   DPAAVQAL---DALLRNFRQYVAYHYGMWSFVTQSLFATWQQLFGPQRYLEVAAGNGYIS  118
+
+Query  122  LGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFTQA-DLILCSWAPNFT  180
+             G +  G   I TD   W + + TG +P +P+    A +A+ ++  A D ++ +W+P+  
+Sbjct  119  AGLQAQGNHVITTDPLSWTQENMTGRTPLVPIQPLGATAALWQYGAAVDAVVMAWSPDHD  178
+
+Query  181  KDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFID  240
+             +D+  +   +++ PH     +GE+ GATNS  FW +  F     +  +N     FD I+
+Sbjct  179  LNDVQFLTTLRRHYPHLHFFVIGERKGATNSRLFWSQAQFVPDRRLLALNRALPQFDAIN  238
+
+Query  241  EQIFQVK  247
+            E+++ +K
+Sbjct  239  ERLYLMK  245
+
+
+
+
+>SAM-dependent methyltransferase [Lentilactobacillus sp. Marseille-Q4993]
+Sequence ID: WP_283679457.1 Length: 284
+Range 1: 101 to 283
+
+Score:128 bits(321), Expect:1e-31, 
+Method:Compositional matrix adjust., 
+Identities:70/183(38%), Positives:104/183(56%), Gaps:2/183(1%)
+
+Query  66   SQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFK  125
+            S  L   +K+L S R +L   YG+W+  +   ++ + +      VLEIMAGN Y S G K
+Sbjct  101  SDALPDLDKMLRSFRDYLEETYGMWAYISAPFVKSLAEFIGDNSVLEIMAGNGYISKGLK  160
+
+Query  126  TLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNFTKDDL  184
+             LG++   TD+  W   +QTG    IPV   DA++AI ++ +Q + I+ SW+P+    D 
+Sbjct  161  GLGVNVYPTDNLAWTSENQTGKHQTIPVEKLDALAAIDKYQSQVNYIIMSWSPDKDPIDY  220
+
+Query  185  NVVQNWQKY-NPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDEQI  243
+             V+Q  +K  N    L+ +GEK+GATNS  FW    ++ SA I +IND  K FD I +Q+
+Sbjct  221  QVLQAIRKADNDQLKLIVIGEKNGATNSKKFWEAANYTDSAEIAKINDHHKPFDLIKDQV  280
+
+Query  244  FQV  246
+            + V
+Sbjct  281  YLV  283
+
+
+
+
+>SAM-dependent methyltransferase [Lacticaseibacillus sp. GG6-2]
+Sequence ID: WP_461214292.1 Length: 245
+Range 1: 2 to 245
+
+Score:127 bits(318), Expect:1e-31, 
+Method:Compositional matrix adjust., 
+Identities:66/246(27%), Positives:123/246(50%), Gaps:3/246(1%)
+
+Query  3    DYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPVPLGLLPDQYEQILEDIG  62
+            DY  +L  +   I HPQ+  QV  + Q   ++   +L ++  + LG+ P  Y ++L  + 
+Sbjct  2    DYWQRLLAMTADIDHPQIQQQVAAMTQFRASLQHHQLPERPLMRLGVTPQVYAELL--LA  59
+
+Query  63   TEKSQQLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSL  122
+             +   +++  + L  + RQ+++  YG+WS    +     QD F  ++ LE+ AGN Y S 
+Sbjct  60   KQPEARIRTIDALFRNFRQYIAYHYGMWSFVTQSLFATWQDLFGQQRYLEVAAGNGYISA  119
+
+Query  123  GFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRF-TQADLILCSWAPNFTK  181
+            G +  G   I TD   W   + TG +P +P+    A +A+  +    D ++ +W+P+   
+Sbjct  120  GLRQAGNTVITTDPLTWTSENVTGRTPLVPITALTANAALWTYGASVDAVVMAWSPDKDL  179
+
+Query  182  DDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLFSHSAAITRINDTFKSFDFIDE  241
+            +D++ +   +++ P      +GE+ GATNS  FW +        +  +N     FD I+E
+Sbjct  180  NDVHFLHLLRQHFPQLACFVIGERAGATNSRLFWQEARLVTDRRLLPLNRALPQFDAINE  239
+
+Query  242  QIFQVK  247
+            +I+ V+
+Sbjct  240  RIYLVR  245
+
+
+
+
+>SAM-dependent methyltransferase [Limosilactobacillus fermentum]
+Sequence ID: WP_100351728.1 Length: 283
+Range 1: 103 to 283
+
+Score:127 bits(320), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:70/183(38%), Positives:105/183(57%), Gaps:6/183(3%)
+
+Query  69   LKITNKLLNSLRQFLSLRYGIWSVPNLATIQQIQDEFHPKQVLEIMAGNAYWSLGFK-TL  127
+            L   + LL   R +L   YG+WS  N++ I  + D      VLE+MAGN Y S G K   
+Sbjct  103  LPKVDALLRDYRDYLEETYGMWSFTNVSFISSLSDYLKGTPVLEVMAGNGYLSKGLKDKR  162
+
+Query  128  GIDTI-ATDSNEWAKTSQTGSSPFIPVFDYDAISAIRRFT-QADLILCSWAPNFTKDDLN  185
+               T+  TDS  W K +QTG  P I +   DA++A+ ++  Q + ++ SWAP+  + D +
+Sbjct  163  PTQTVFTTDSTAWVKENQTGRHPVISIEPLDALAAVDKYADQVEYVIMSWAPDKGEADWD  222
+
+Query  186  VVQNWQKYNPHATLLFVGEKDGATNSPDFWHK-QLFSHSAAITRINDTFKSFDFIDEQIF  244
+            ++++ +++ P   LL +GEKDGATNS  FW + QLF     + ++N   KSFD IDEQ++
+Sbjct  223  LLEHLREHYPALKLLVIGEKDGATNSKRFWQEAQLFQD--GLAQVNAALKSFDLIDEQVY  280
+
+Query  245  QVK  247
+              K
+Sbjct  281  LAK  283
+
+
+
+
+>SAM-dependent methyltransferase [Lentilactobacillus terminaliae]
+Sequence ID: WP_268913392.1 Length: 284
+Range 1: 24 to 283
+
+Score:127 bits(320), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:84/266(32%), Positives:137/266(51%), Gaps:27/266(10%)
+
+Query  2    TDYLSKLALLNKQISHPQVTTQVKEINQIVNAISARELLKKAPV-----PLGLLPDQY-E  55
+            TDY+SKL        + ++ T V E+  ++N I   + L KA +     P  +LPD   +
+Sbjct  24   TDYISKLNY------YRELYTDVPEVVFLINNILQSDRLIKAGMLPQDLPELILPDDIQD  77
+
+Query  56   QILEDIGTEKSQ--------------QLKITNKLLNSLRQFLSLRYGIWSVPNLATIQQI  101
+            QI   +  + ++              +L   +KLL S R +L   YG+W+  +   ++ I
+Sbjct  78   QIFAIVNAKYAKGDPAGDHLWNQLTNELPKADKLLRSYRDYLEETYGMWAYISAPFVKAI  137
+
+Query  102  QDEFHPKQVLEIMAGNAYWSLGFKTLGIDTIATDSNEWAKTSQTGSSPFIPVFDYDAISA  161
+             D      VLE+MAGN Y S G + LG     TDS  W   +QTG+   I V   DAISA
+Sbjct  138  ADYVGDAAVLEVMAGNGYISRGLQNLGRTVYPTDSLAWETENQTGNHQVIDVEKLDAISA  197
+
+Query  162  IRRFT-QADLILCSWAPNFTKDDLNVVQNWQKYNPHATLLFVGEKDGATNSPDFWHKQLF  220
+            I++++ +   ++ SW+P+    D+ ++   +  N + TL+ +GEK+GATNS +FW +  F
+Sbjct  198  IQKYSDKVKYVIMSWSPDKDTIDMKILNEIRNANHNLTLIVIGEKNGATNSTEFWQQANF  257
+
+Query  221  SHSAAITRINDTFKSFDFIDEQIFQV  246
+                A  ++N+  + FD I +Q++ V
+Sbjct  258  IDQPAANKLNEHHQPFDLIKDQVYLV  283
+
+
+
+
+
+
+
+		
+
+
