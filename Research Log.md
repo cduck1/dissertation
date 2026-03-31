@@ -2,16 +2,22 @@
 
 ## Plan:
 [X] 1. Acquire genome  
-[X] 2. Safety  
-[X] 3. Genome stability  
-[X] 4. Probiotic potential  
-[ ] 5. Machine learning  
+[X] 2. ANI Analysis  
+[X] 3. Safety  
+[X] 4. Genome stability  
+[X] 5. Probiotic potential  
+[ ] 6. Machine learning  
 
 ## **Acquire genome**
 Action: Downloaded the complete genome assembly of Lactobacillus gigeriorum DSM 23908  
 Source: NCBI RefSeq (ASM143657v1)  
 Format: FASTA (.fna)  
 Justification: RefSeq was chosen over GenBank (GCA) as it provides a curated, standardized version of the assembly, which is essential for high-quality downstream annotation.  
+
+## **ANI Analysis**
+Objective: To identify the similarity of this strain to phylogenetically closely-related species and species commonly used as probiotics.  
+Tool: GTDB - skani ANI calculator  
+Parameters: Minimum alignment fraction: 0, Screen < % identity: 1  
 
 ## **Safety**
 Objective: To confirm this strain is considered safe - absence of resistance genes, virulence factors, and potential to produce biogenic amines.  
