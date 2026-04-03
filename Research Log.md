@@ -4,7 +4,7 @@
 [X] 1. Acquire genome  
 [X] 2. ANI Analysis  
 [X] 3. Safety  
-[X] 4. Genome stability  
+[X] 4. Genome plasticity  
 [X] 5. Probiotic potential  
 [X] 6. Machine learning  
 
@@ -47,7 +47,7 @@ Objective: To confirm this strain is considered safe - absence of resistance gen
    Target Enzymes Source: Biogenic Amine Production by Lactic Acid Bacteria: A Review (doi: 10.3390/foods8010017)  
    Result: Zero hits - identified from exporting the Bakta annotated genome to excel and searching for the target enzymes  
 
-## **Genomic Stability**
+## **Genomic Plasticity **
 Objective: To determine the stability of this strain from elements that can confer beneficial and dangerous genes.  
 1. **Detection of IS (Insertion Sequence) elements, transposons, and plasmids**  
    Tool: MobileElementFinder 1.0.3  
@@ -95,6 +95,6 @@ Objective: To determine this strain's probiotic potential.
    Tool: BAGEL4, BLASTp  
    Result: 2 bacteriocins identified  
 
-## **Probiotic Potential**  
+## **Machine Learning**  
 Objective: To compare machine learning probiotic predictions to the manual approach.  
 Tools: iProbiotics, ProBioMinServer2, ProbML
