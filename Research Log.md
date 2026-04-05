@@ -13,6 +13,7 @@ Action: Downloaded the complete genome assembly of Lactobacillus gigeriorum DSM 
 Source: NCBI RefSeq (ASM143657v1)  
 Format: FASTA (.fna)  
 Justification: RefSeq was chosen over GenBank (GCA) as it provides a curated, standardized version of the assembly, which is essential for high-quality downstream annotation.  
+Annotation: Bakta 1.8.2 (database: Bakta 5.0 – light), GC skew 1.0.2 and GC content 1.0.2 plots through the Proksee.  
 
 ## **ANI Analysis**
 Objective: To identify the similarity of this strain to phylogenetically closely-related species and species commonly used as probiotics.  
